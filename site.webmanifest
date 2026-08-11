@@ -1,0 +1,24 @@
+{
+  "name": "BrainPlay 益智遊戲樂園",
+  "short_name": "BrainPlay",
+  "description": "益智學習遊戲，包含記憶、數學、英文、日文、數獨、滑塊等多種訓練模式。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f9ff",
+  "theme_color": "#1677d2",
+  "icons": [
+    {
+      "src": "./brainplay-icon-milktea-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./brainplay-icon-milktea-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
