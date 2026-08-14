@@ -1,16 +1,15 @@
-BrainPlay GitHub Pages 更新包
+BrainPlay v4.58 Phase 61 — GitHub Pages 完整上傳包
 
-上傳方式：
-1. 解壓縮本 ZIP。
-2. 將解壓後的所有檔案直接上傳到 GitHub 儲存庫根目錄（與 index.html 同一層）。
-3. 遇到同名檔案請全部覆蓋。
-4. GitHub Pages 部署完成後等 1～10 分鐘。
-5. 第一次測試請用無痕視窗打開網站；確認新版後，再用一般瀏覽器。
-6. 若手機/平板主畫面仍顯示舊版，刪除舊主畫面捷徑後重新加入。
+更新內容：
+1. 英文單字卡原「0.6 倍速」名稱改為「慢速」。
+2. 英文 500 張片語卡加入「正常 / 慢速」朗讀切換，片語與例句都支援。
+3. 日文ことば樂園的單字卡、五十音卡、文法卡加入「正常 / 慢速」朗讀切換。
+4. 修正 iPad 智慧滑塊：不再單獨把棋盤撐大超出外框，改為整個主機外框、上方控制面板與棋盤一起等比例放大；棋盤永遠限制在機身邊框內。
+5. 保留 BrainBloom 跨版本持久化備份邏輯與 Network First 的頁面更新策略。
 
-這一包已將 Service Worker 改為：
-- index.html / 頁面：Network First（優先抓 GitHub 最新版）
-- icon / manifest：快取並背景更新
-- 啟動時主動檢查 sw.js 更新
-
-請勿只上傳 index.html；本 ZIP 內的 sw.js、manifest、icon 都一起上傳。
+GitHub 更新方式：
+- 將本 ZIP 解壓縮。
+- 把資料夾內全部檔案上傳到 repository 根目錄。
+- 同名檔案請全部覆蓋。
+- index.html 與 sw.js 必須一起更新。
+- GitHub Pages 部署後，如裝置仍顯示舊畫面，先重新整理；PWA/主畫面版可關閉後重新開啟。
