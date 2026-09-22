@@ -1,0 +1,2390 @@
+{
+  "baseCommit": "f746573fa80cfbf42d60a32f9e43b14431c5da5c",
+  "total": 7000,
+  "counts": {
+    "starter": 657,
+    "easy": 1860,
+    "medium": 1816,
+    "hard": 1195,
+    "advanced": 883,
+    "extreme": 589
+  },
+  "retained": 5407,
+  "added": 1593,
+  "removed": [
+    {
+      "word": "programme",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "theatre",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "grey",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "watering can",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "garden hose",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "picnic table",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "smith",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "chamber",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "girlfriend",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lover",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "boyfriend",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "airplane",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "machinery",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "couch",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "creditor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "broker",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "starter",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dismissal",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "statute",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "planner",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "antibody",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "missionary",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "pardon",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "socialism",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "hostage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "turner",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "jewelry",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "learner",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "surveyor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "driving",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "holding",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "illusion",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "insurer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lordship",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "petition",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "kilometre",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cheer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "spy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "faction",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "drill",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "staffer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tenure",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "washing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dependence",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "gathering",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bowler",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "aeroplane",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "cutting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "warrant",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "outset",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "renewal",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "robe",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "repayment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "resentment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "fairy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "formulation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "impairment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "nationalism",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "backing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "litre",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "curse",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "grower",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "parenting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "injustice",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "oversight",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "realism",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "onset",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "robbery",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "warming",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "baking",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bitterness",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "happening",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "informant",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "reasoning",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "methodist",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "perfection",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "packaging",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "sitting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "fortress",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "wording",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "legion",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "speciality",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "ageing",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "cooler",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "beta",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "formality",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "midfielder",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "schooling",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cutter",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "breadth",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dresser",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "openness",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "orphan",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "contestant",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "adulthood",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "storey",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lending",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "expectancy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "coating",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "quiz",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rationality",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "backer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "doctorate",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "payer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "wheeler",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "notation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "dryer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "grandma",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "designation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "relegation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "tenor",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "bearer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "jewellery",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "behaviour",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "traveller",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "application form",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "balance due",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "reference letter",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "break time",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "interest rate",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "credit card",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "debit card",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "bank transfer",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "utility bill",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "extension cord",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "security guard",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "expenditure",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "administrator",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "adviser",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bible",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ward",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "survivor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "remedy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "violation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dump",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "unity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "testing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "accounting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "donor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "conviction",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "intensity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "amendment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "diagnosis",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tire",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "pit",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "indication",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "funeral",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "casualty",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "specimen",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "liver",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "collapse",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mortality",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "orientation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "sin",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "syndrome",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "stem",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "civilization",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "reactor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "recorder",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "restoration",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "stall",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cure",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "substitute",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "occurrence",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "controller",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "voting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "patent",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "apparatus",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "biologist",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "sufferer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "counseling",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "skier",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "serum",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "willingness",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "corpse",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "gown",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "plantation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "goodness",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "handling",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "commodity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mining",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "locker",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "suspension",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bang",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "debris",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "breeding",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "calcium",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "interference",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "plasma",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "overhead",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "commentary",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "making",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "documentation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dealing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "choir",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "synthesis",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "printing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "nitrogen",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bargaining",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "accountancy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "solidarity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "drainage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bump",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "absorption",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "waiting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "boxing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "grader",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "winning",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "overview",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "simulation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "angler",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "footage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "arc",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "appellant",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tick",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tornado",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rising",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "meditation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "appropriation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "saying",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "stripe",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "modelling",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "modeling",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "insistence",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ache",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "spirituality",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cement",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "superiority",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mentality",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "industrialist",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "goddess",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "disparity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bust",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "prohibition",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "burner",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "conditioning",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "reviewer",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "planting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "firing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "minimize",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "gene",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "analyse",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "optimize",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "scalability",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "constraint set",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "risk assessment",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "cost-benefit analysis",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "root cause",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "quality control",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "quality assurance",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "error rate",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "response time",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "failure rate",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "sample size",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "confidence level",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "control group",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "experimental group",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "case study",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "field study",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "data point",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "feedback loop",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "supply chain",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "market share",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "cash flow",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "compliance risk",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "operational risk",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "reputational risk",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "contingency plan",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "compatibility test",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "access control",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "audit trail",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "version control",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "capacity planning",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "load balancing",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "fault tolerance",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "failure mode",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "warning sign",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "safety margin",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "risk factor",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "protective measure",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "preventive action",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "corrective action",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "biochemistry",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "transistor",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "microorganism",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "relativity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "voter",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "deputy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "peasant",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "chancellor",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "magistrate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "purchaser",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "provider",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "senator",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "walker",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "pastor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ideology",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "subsidiary",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ballot",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "nomination",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rhetoric",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "capitalism",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "vendor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "diabetes",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "loop",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "nominee",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "stitch",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "maturity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "spray",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "testament",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "aluminum",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "custody",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "broadcasting",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tech",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "negligence",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ranger",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "plea",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "exemption",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "regiment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "exhaust",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "booth",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cylinder",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "legislature",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "physicist",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "likelihood",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "scent",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "imprisonment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bureaucracy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "enzyme",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "conspiracy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rotation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "gravel",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "propaganda",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "fatigue",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "worship",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "injection",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "reconstruction",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "covenant",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "aggression",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "node",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "litigation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "thrust",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "hood",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "inheritance",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "aviation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "reservoir",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "decree",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "psychiatrist",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "utterance",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "warfare",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "fusion",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "electorate",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lobbyist",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "vegetation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "regression",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "receptor",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "livestock",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "quantum",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "predictor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "roar",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "aluminium",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "boiler",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "wartime",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "limestone",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "burial",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "sediment",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "idiot",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "eve",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tread",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "royalty",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "standpoint",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "manpower",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rebellion",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "anthropologist",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "accord",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "simplicity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "fracture",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "financing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "fellowship",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "hay",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "underwear",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "injunction",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "inhibition",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "indictment",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "endeavor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "artery",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "rite",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "beating",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "granite",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "anthropology",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ramp",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mama",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "differentiation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "manifestation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "briefing",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "massacre",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "prevalence",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lumber",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "patronage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cultivation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "consultancy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dictator",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "instability",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "profitability",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "col",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "deposition",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "acknowledgement",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "forgiveness",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "madness",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "stabilize",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "set-up",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "line-up",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "non-profit",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "backwards",
+      "reason": "spelling variant"
+    },
+    {
+      "word": "heterogeneity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "homogeneity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "interoperability",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "traceability",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "reproducibility",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "generalizability",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "outlier",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "variance",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "normalization",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "aggregation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "granularity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "segmentation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "interpolation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "extrapolation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "coefficient",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "derivative",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "integral",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "vector",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "scalar",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "matrix",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "oscillation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "turbulence",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "gradient",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "viscosity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "conductivity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "elasticity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "compressibility",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "inertia",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "torque",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "entropy",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "resonance",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "attenuation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "calibration",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "confidence interval",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "heuristic",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "conceptualization",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "operationalization",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "triangulation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "corroboration",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "peer review",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "literature review",
+      "reason": "multiword item (phrases are a separate bank)"
+    },
+    {
+      "word": "meta-analysis",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "longitudinal",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "cross-sectional",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "methodological",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "probabilistic",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "deterministic",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "stochastic",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "nonlinear",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "multivariate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "interoperable",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "normative",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "inferential",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "correlational",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "counterfactual",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "parameterize",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "calibrate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "interpolate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "extrapolate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "operationalize",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "triangulate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "contextualize",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "conceptualize",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "microcomputer",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "workstation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "striker",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lounge",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "congressman",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cult",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lace",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "driveway",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "promoter",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "pact",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "meadow",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "communism",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "homicide",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "wicket",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "shah",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "proprietor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "innocence",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bundle",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "motel",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "preacher",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "polymer",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "intel",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "cigar",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "hemisphere",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "reconciliation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "crust",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "roller",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "peat",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "diner",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mainframe",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "broth",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "headmaster",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mob",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "domination",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lesion",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "affinity",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "intimacy",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "setup",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "urgency",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "inquest",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "hose",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "slate",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "chromosome",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "biopsy",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "archaeology",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "ditch",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "foam",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "siege",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "slab",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "landowner",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "tab",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "proliferation",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "courthouse",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "millennium",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "mutation",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "bead",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "curator",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "jockey",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "flick",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "gel",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "leverage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "coroner",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "excise",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "registrar",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "imposition",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "wedge",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "alpha",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "orchard",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bladder",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "litter",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "goodwill",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "symmetry",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "gloom",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "interruption",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "contamination",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "enclosure",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "colitis",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "swap",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "pyramid",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "indemnity",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "foliage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "multimedia",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "platelet",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "metro",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "diversion",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "dissolution",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "artillery",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "aerospace",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "cardinal",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "exeter",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "catastrophe",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "eruption",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "campaigner",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "stocking",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "syrup",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "writ",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "quilt",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "void",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "pastry",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "linebacker",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "parlor",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "airfield",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "transcription",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "felony",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "bout",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "nitrate",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "battalion",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "vintage",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "seizure",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "lineup",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "inclination",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "strap",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "steering",
+      "reason": "unreliable template example / definition"
+    },
+    {
+      "word": "exchequer",
+      "reason": "specialist or unsuitable headword"
+    },
+    {
+      "word": "gastric",
+      "reason": "specialist or unsuitable headword"
+    }
+  ],
+  "source": "Original teaching content; ECDICT BNC frequency used only for ordering and editorial triage.",
+  "note": "Editorial learning stages, not certified CEFR levels. Same headword has one selected sense. Spelling alternatives are not used to fill the target."
+}

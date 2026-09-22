@@ -1,0 +1,13 @@
+{
+  "name": "brainplay",
+  "version": "4.60.0",
+  "private": true,
+  "description": "BrainPlay educational games: Phase 63 English learning update",
+  "scripts": {
+    "build": "node tools/build-english.cjs && node tools/build-page.cjs",
+    "test": "node tests/regression.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

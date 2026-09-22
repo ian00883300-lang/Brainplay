@@ -1,4 +1,4 @@
-const CACHE_NAME = 'brainplay-v62-phase61';
+const CACHE_NAME = 'brainplay-v4.60-phase63';
 const STATIC_ASSETS = [
   './brainplay-icon-192.png',
   './brainplay-icon-512.png',
@@ -28,7 +28,7 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
-    await Promise.all(keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key)));
+    await Promise.all(keys.filter(key => key.startsWith('brainplay-') && key !== CACHE_NAME).map(key => caches.delete(key)));
     await self.clients.claim();
   })());
 });
