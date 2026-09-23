@@ -1,0 +1,21 @@
+/* Final overrides shared by every gameplay surface. Reading passages stay left. */
+.game-body,.play-area,.message-box,.bank-count,.study-mode-note{text-align:center}
+.toolbar,.toolbar-group,#gameStats,.center-actions,.speech-actions,.speech-speed-control,.flash-study-actions,.blank-edit-actions,.next-question-wrap{justify-content:center}
+.toolbar-group{flex-direction:row;flex-wrap:wrap;align-items:center}
+.toolbar-group:last-child{justify-content:center}
+.vocab-card,.vocab-feedback{margin-inline:auto;text-align:center}
+.vocab-example,.vocab-zh,.answer-breakdown,.wrong-breakdown{text-align:left}
+.vocab-zh{width:100%}
+.vocab-three-options{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;width:100%;gap:8px}
+.vocab-three-options:has(>:last-child:nth-child(2)){grid-template-columns:repeat(2,minmax(0,1fr))!important}
+.choice-grid{grid-auto-flow:row}
+.choice-btn{min-width:0;overflow-wrap:anywhere;text-align:center}
+.flash-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch}
+.flash-nav button{min-width:0;padding:10px 5px;font-size:clamp(12px,2vw,16px)}
+.flash-study-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.study-switcher{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px;margin:0 auto 16px}
+.study-switcher label{display:flex;align-items:center;justify-content:center;gap:6px;max-width:100%}
+.study-switcher select{max-width:min(300px,75vw);min-height:42px;border:1px solid var(--line);border-radius:10px;padding:6px;background:var(--panel);color:var(--text)}
+.volume-step{border:0;border-radius:8px;background:var(--panel-2);color:var(--text);min-width:30px;min-height:36px;font-size:20px;font-weight:800}
+#volumeValue{font-size:12px;min-width:32px;text-align:center}
+@media(max-width:640px){.topbar{flex-wrap:wrap;justify-content:center}.top-actions{flex-wrap:wrap;justify-content:center}.toolbar-group,.toolbar-group:last-child{justify-content:center}.audio-choice{padding:8px 4px}.audio-choice button{padding:8px 4px;min-width:0;font-size:13px}.vocab-three-options .choice-btn{font-size:15px;padding:10px 5px}.flash-nav{grid-template-columns:repeat(3,minmax(0,1fr))}.volume-slider{width:60px}}

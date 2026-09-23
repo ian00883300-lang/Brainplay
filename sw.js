@@ -1,4 +1,4 @@
-const CACHE_NAME = 'brainplay-v4.60-phase63';
+const CACHE_NAME = 'brainplay-v4.61-phase64';
 const STATIC_ASSETS = [
   './brainplay-icon-192.png',
   './brainplay-icon-512.png',

@@ -1,12 +1,5 @@
 // Embedded by build-page.cjs; no network request is needed for offline learning.
-const ENGLISH_STAGES = [
-  ['starter','起步・生活與句子基礎','First steps · everyday foundations'],
-  ['easy','基礎・家庭與校園','Foundation · home and school'],
-  ['medium','成長・日常溝通','Growing · daily communication'],
-  ['hard','進階・閱讀與表達','Developing · reading and expression'],
-  ['advanced','延伸・學習與考試','Extending · study and exams'],
-  ['extreme','挑戰・綜合閱讀','Challenge · wider reading']
-];
+const ENGLISH_STAGES = Array.from({length:12},(_,i)=>{const n=i+1;return ['L'+n,n<=10?'L'+n+'（'+(n*2-1)+'～'+(n*2)+' 歲）':n===11?'L11・多益金色目標（860+）':'L12・母語進階／少量專業',n<=10?'L'+n+' · ages '+(n*2-1)+'–'+n*2:n===11?'L11 · TOEIC gold target (860+)':'L12 · advanced / specialist'];});
 const ENGLISH_PROGRESS_KEY='brainplay_english_progress_v1';
 function englishProgress(){
   try {
@@ -36,10 +29,8 @@ function englishChoices(current,pool,count=3){
   }
   return shuffle(selected);
 }
-function englishPool(level,{topic='',unit='all',scope='all'}={}){
+function englishPool(level,{scope='all'}={}){
   let pool=vocabItems(level);
-  if(topic)pool=pool.filter(x=>x.category===topic);
-  if(unit!=='all')pool=pool.slice(Number(unit)*25,Number(unit)*25+25);
   const progress=englishProgress(),now=Date.now();
   if(scope==='starred')pool=pool.filter(x=>isVocabStarred(x.word));
   if(scope==='review')pool=pool.filter(x=>progress[x.word.toLowerCase()]&&Number(progress[x.word.toLowerCase()].due)<=now);
@@ -51,17 +42,14 @@ function renderVocab(body){
     <option value="blank">${t('missingLetter')}</option><option value="meaning">${t('meaningChoice')}</option>
     <option value="audioMeaning">${t('audioMeaning')}</option><option value="meaningAudio">${t('meaningAudio')}</option>
     <option value="phraseFlash">${localText('片語卡','Phrase cards')}</option></select></label>
-    <label id="englishPhraseWrap" hidden>${localText('片語程度','Phrase level')}<select id="englishPhraseLevel">${['easy','medium','hard','extreme'].map(x=>`<option value="${x}">${t(x)}</option>`).join('')}</select></label>
-    <label id="englishTopicWrap">${localText('主題','Topic')}<select id="englishTopic"></select></label>
-    <label id="englishUnitWrap">${localText('小單元','Small unit')}<select id="englishUnit"></select></label>
     <label id="englishScopeWrap">${localText('練習範圍','Practice set')}<select id="englishScope"><option value="all">${localText('全部','All')}</option><option value="review">${localText('錯題與到期複習','Mistakes and due review')}</option><option value="starred">${localText('星號收藏','Starred words')}</option></select></label>
     <span id="vocabCountWrap">${stepperHTML('vocabCount',5,1,20)}</span>`)}
     <div class="study-mode-note" id="englishGuide"></div><div class="play-area" id="vocabPlay">
     <div class="progress"><div id="vocabProgress"></div></div><div class="message-box" id="vocabMsg" aria-live="polite"></div>
     <div id="vocabContent"></div><div class="center-actions"><button class="primary-btn" id="vocabStart">${localText('開始學習','Start learning')}</button></div></div>${reportShell('vocabReport')}`;
   bindSteppers(body);
-  const modeEl=$('#vocabMode'),levelEl=$('#difficultySelect'),topicEl=$('#englishTopic'),unitEl=$('#englishUnit'),scopeEl=$('#englishScope');
-  let mode='flash',level='starter',pool=[],deck=[],current=null,index=0,correct=0,details=[],active=false,locked=false,questionMode='',options=[],blank=null,letters=[],started=0,questionPause=0,studied=new Set(),audioRun=0;
+  const modeEl=$('#vocabMode'),levelEl=$('#difficultySelect'),scopeEl=$('#englishScope');
+  let mode='flash',level='L1',pool=[],deck=[],current=null,index=0,correct=0,details=[],active=false,locked=false,questionMode='',options=[],blank=null,letters=[],started=0,questionPause=0,studied=new Set(),audioRun=0;
   let speed=Number(storageGet('brainplay_flash_speed','1'))===.6?.6:1;
   const isStudy=()=>mode==='flash'||mode==='phraseFlash';
   const phrase=()=>mode==='phraseFlash';
@@ -71,18 +59,15 @@ function renderVocab(body){
   function stopAudio(){audioRun++;window.speechSynthesis?.cancel();clearSpeechHighlight();}
   function say(text,button,done){speakText(text,speed===.6?.48:.78,button,done);}
   function availableSpeech(){return 'speechSynthesis'in window&&typeof SpeechSynthesisUtterance!=='undefined';}
-  function filters(){return {topic:topicEl.value,unit:unitEl.value,scope:scopeEl.value};}
-  function rebuildTopics(){const topics=[...new Set(vocabItems(levelEl.value).map(x=>x.category))].sort();topicEl.innerHTML=`<option value="">${localText('所有主題','All topics')}</option>`+topics.map(x=>`<option value="${escapeHTML(x)}">${escapeHTML(englishTopicLabel(x))}</option>`).join('');rebuildUnits();}
-  function rebuildUnits(){const n=englishPool(levelEl.value,{topic:topicEl.value}).length;unitEl.innerHTML=`<option value="all">${localText('整個階段','Whole stage')}</option>`+Array.from({length:Math.ceil(n/25)},(_,i)=>`<option value="${i}">${localText('單元','Unit')} ${i+1} · ${i*25+1}–${Math.min(n,(i+1)*25)}</option>`).join('');if(n>25)unitEl.value='0';updateSetup();}
+  function filters(){return {scope:scopeEl.value};}
   function updateSetup(){
     if(active)return;
     body.querySelector('.toolbar').hidden=false;$('#englishGuide').hidden=false;body.querySelector('.bank-count').hidden=false;
     mode=modeEl.value;const study=isStudy(),p=phrase();
-    for(const id of ['englishStageWrap','englishTopicWrap','englishUnitWrap','englishScopeWrap'])$('#'+id).hidden=p;
-    $('#englishPhraseWrap').hidden=!p;$('#vocabCountWrap').hidden=study;
-    pool=p?englishPhraseItems($('#englishPhraseLevel').value):englishPool(levelEl.value,filters());
-    $('#englishGuide').textContent=localText('依能力選階段，與年齡及官方 CEFR 等級無直接對應。建議先看 5 張卡，再練 5 題；小單元每組最多 25 字。答錯會加入複習，答對後隔 1、3、7、14 天再見。','Choose by ability, not age. These are editorial stages, not certified CEFR levels. Study five cards, then try five questions. Units contain up to 25 words. Mistakes are due now; successful review returns after 1, 3, 7 and 14 days.');
-    $('#vocabMsg').textContent=pool.length?localText(`此範圍 ${pool.length} ${p?'個片語':'字'}。${study?'自由學習，不計分。':'每回合不重複出題。'}`,`${pool.length} ${p?'phrases':'words'} in this set. ${study?'Study without scoring.':'No repeated headwords within a quiz.'}`):localText('此範圍目前沒有單字。可切換階段、主題、單元或練習範圍。','No words in this set. Change the stage, topic, unit or practice set.');
+    $('#englishScopeWrap').hidden=p;$('#vocabCountWrap').hidden=study;
+    pool=p?englishPhraseItems(levelEl.value):englishPool(levelEl.value,filters());
+    $('#englishGuide').textContent=localText('年齡僅為選級參考，請依能力調整；L1、L2 建議成人陪伴聽說，不要求識字。L11 為多益金色目標字彙，不保證分數；L12 為進階閱讀與少量專業用語。先看 5 張卡再練習，答錯立即複習，答對隔 1、3、7、14 天再見。','Ages are suggestions: choose by ability. L1–L2 support shared listening with an adult, not expected reading. L11 targets advanced TOEIC vocabulary without a score guarantee; L12 covers advanced reading and selected specialist terms. Review after 1, 3, 7 and 14 days.');
+    $('#vocabMsg').textContent=pool.length?localText(`此範圍 ${pool.length} ${p?'個片語':'字'}。${study?'自由學習，不計分。':'每回合不重複出題。'}`,`${pool.length} ${p?'phrases':'words'} in this set. ${study?'Study without scoring.':'No repeated headwords within a quiz.'}`):localText('此範圍目前沒有單字。可切換等級或題庫。','No words in this set. Change the level or practice set.');
     $('#vocabStart').disabled=!pool.length;$('#vocabStart').textContent=study?localText('開始學習','Start learning'):t('start');
     if(!availableSpeech()&&(mode==='audioMeaning'||mode==='meaningAudio')){$('#vocabStart').disabled=true;$('#vocabMsg').textContent=localText('此瀏覽器沒有語音功能，請選單字卡、填空或看詞選義。','Speech is unavailable. Choose flashcards, spelling or word meanings.');}
     stats();
@@ -104,13 +89,19 @@ function renderVocab(body){
   function starButton(){return `<button class="flash-vocab-star ${isVocabStarred(current.word)?'active':''}" id="flashVocabStar">${vocabStarButtonText(current.word)}</button>`;}
   function bindStar(){const b=$('#flashVocabStar');if(b)b.onclick=()=>{const on=toggleVocabStar(current.word);b.classList.toggle('active',on);b.textContent=vocabStarButtonText(current.word);};}
   function usage(){return `<div class="vocab-example"><small>${usageLabel()}</small><strong>${escapeHTML(current.example)}</strong><span>${escapeHTML(current.exampleZh)}</span></div>`;}
+  function studyControls(){return `<div class="study-switcher"><label>${localText('題庫','Bank')}<select id="studyBank"><option value="flash">${localText('單字卡','Words')}</option><option value="phraseFlash">${localText('片語卡','Phrases')}</option></select></label><label>${localText('等級','Level')}<select id="studyLevel">${ENGLISH_STAGES.map(([key,zh,en])=>`<option value="${key}">${localText(zh,en)}</option>`).join('')}</select></label>${phrase()?'':`<label>${localText('範圍','Set')}<select id="studyScope">${scopeEl.innerHTML}</select></label>`}</div>`;}
+  function bindStudyControls(){
+    $('#studyBank').value=mode;$('#studyLevel').value=level;if($('#studyScope'))$('#studyScope').value=scopeEl.value;
+    const change=()=>{const nextMode=$('#studyBank').value,nextLevel=$('#studyLevel').value,nextScope=$('#studyScope')?.value||'all';stopAudio();active=false;setConfigDisabled(false);modeEl.value=nextMode;levelEl.value=nextLevel;scopeEl.value=nextScope;$('#vocabContent').innerHTML='';$('#vocabStart').hidden=false;updateSetup();start();};
+    $('#studyBank').onchange=change;$('#studyLevel').onchange=change;if($('#studyScope'))$('#studyScope').onchange=change;
+  }
   function card(){
     if(!active||!deck.length)return;
     stopAudio();current=deck[index];studied.add(currentWord());
     $('#vocabProgress').style.width=`${(index+1)/deck.length*100}%`;
     $('#vocabMsg').textContent=`${index+1} / ${deck.length} · ${localText('自由學習，不計分','Study without scoring')}`;
-    $('#vocabContent').innerHTML=`<div class="vocab-card"><div class="vocab-word">${escapeHTML(currentWord())}</div>${phrase()?'':starButton()}<div class="vocab-zh">${escapeHTML(phrase()?current.meaning:current.zh)}</div>${phrase()?'':`<div class="vocab-pos-hint">${escapeHTML(posLabel(current.pos))}</div>`}${usage()}${speechButtons()}<div class="flash-nav"><button class="secondary-btn" id="flashPrev">← ${t('previousCard')}</button><button class="secondary-btn" id="flashRandom">🎲 ${t('randomCard')}</button><button class="primary-btn" id="flashNext">${t('nextCard')} →</button></div><div class="flash-study-actions">${phrase()?'':`<button class="primary-btn" id="enPracticeSeen">${localText('練習剛看過的單字','Practice these cards')}</button>`}<button class="secondary-btn" id="flashFinish">${localText('結束學習','Finish learning')}</button></div></div>`;
-    bindSpeech();bindStar();
+    $('#vocabContent').innerHTML=`${studyControls()}<div class="vocab-card"><div class="vocab-word">${escapeHTML(currentWord())}</div>${phrase()?'':starButton()}<div class="vocab-zh">${escapeHTML(phrase()?current.meaning:current.zh)}</div>${phrase()?'':`<div class="vocab-pos-hint">${escapeHTML(posLabel(current.pos))}</div>`}${usage()}${speechButtons()}<div class="flash-nav"><button class="secondary-btn" id="flashPrev">← ${t('previousCard')}</button><button class="secondary-btn" id="flashRandom">🎲 ${t('randomCard')}</button><button class="primary-btn" id="flashNext">${t('nextCard')} →</button></div><div class="flash-study-actions">${phrase()?'':`<button class="primary-btn" id="enPracticeSeen">${localText('練習剛看過的單字','Practice these cards')}</button>`}<button class="secondary-btn" id="flashFinish">${localText('結束學習','Finish learning')}</button></div></div>`;
+    bindStudyControls();bindSpeech();bindStar();
     $('#flashPrev').disabled=deck.length<2;$('#flashNext').disabled=deck.length<2;$('#flashRandom').disabled=deck.length<2;
     $('#flashPrev').onclick=()=>{index=(index-1+deck.length)%deck.length;card();};
     $('#flashNext').onclick=()=>{index=(index+1)%deck.length;card();};
@@ -122,7 +113,7 @@ function renderVocab(body){
   function finishStudy(){stopAudio();clearAsync();active=false;setConfigDisabled(false);$('#vocabContent').innerHTML='';$('#vocabStart').hidden=false;updateSetup();}
   function start(seen=null){
     if(active)return;
-    mode=modeEl.value;level=levelEl.value;pool=phrase()?englishPhraseItems($('#englishPhraseLevel').value):englishPool(level,filters());
+    mode=modeEl.value;level=levelEl.value;pool=phrase()?englishPhraseItems(levelEl.value):englishPool(level,filters());
     if(!pool.length){updateSetup();return;}
     if(!availableSpeech()&&['audioMeaning','meaningAudio'].includes(mode)){updateSetup();return;}
     const wanted=clamp(Number($('#vocabCount').value||5),1,20);
@@ -144,7 +135,7 @@ function renderVocab(body){
     if(questionMode==='blank')renderBlank();else renderChoices();stats();
   }
   function renderBlank(){
-    const difficulty={starter:'easy',easy:'easy',medium:'medium',hard:'hard',advanced:'hard',extreme:'extreme'}[level];
+    const n=Number(level.slice(1)),difficulty=n<=3?'easy':n<=6?'medium':n<=9?'hard':'extreme';
     blank=makeBlankData(current,difficulty);
     $('#vocabContent').innerHTML=`<div class="vocab-card"><div class="blank-answer-display" id="blankAnswerDisplay"></div><div class="vocab-zh">${escapeHTML(current.zh)}</div><div class="vocab-pos-hint">${escapeHTML(posLabel(current.pos))}</div><p>${t('chooseLetters')}</p><div class="blank-letter-options">${blankLetterOptions(blank.answers).map(x=>`<button class="blank-letter-btn" data-letter="${x}">${x}</button>`).join('')}</div><div class="blank-edit-actions"><button class="secondary-btn" id="blankEdit">↶ ${t('editAnswer')}</button><button class="secondary-btn" id="blankClear">${t('clear')}</button><button class="primary-btn" id="blankSubmit" disabled>${t('submit')}</button></div>${speechButtons(false)}</div>`;
     const paint=()=>{$('#blankAnswerDisplay').innerHTML=renderMaskedWord(blank,letters);$('#blankSubmit').disabled=letters.length!==blank.answers.length;$('#blankEdit').disabled=!letters.length;$('#blankClear').disabled=!letters.length;};
@@ -155,7 +146,7 @@ function renderVocab(body){
   }
   function renderChoices(){
     // Distractors use the selected stage; a one-word review set still has a meaningful quiz.
-    options=englishChoices(current,vocabItems(level),level==='starter'?2:3);
+    options=englishChoices(current,vocabItems(level),Number(level.slice(1))<=2?2:3);
     const audio=questionMode==='meaningAudio',listen=questionMode==='audioMeaning';
     $('#vocabContent').innerHTML=`<div class="vocab-card"><p>${audio?t('chooseAudio'):listen?t('listenAndChoose'):t('chooseMeaning')}</p>${listen?'':`<div class="${audio?'vocab-zh':'vocab-word'}">${escapeHTML(audio?current.zh:current.word)}</div><div class="vocab-pos-hint">${escapeHTML(posLabel(current.pos))}</div>`}${audio?speedButtons():speechButtons(false)}<div class="choice-grid vocab-three-options">${options.map((x,i)=>audio?`<div class="audio-choice"><button class="primary-btn" data-play="${i}" aria-label="${localText('重播','Replay')} ${String.fromCharCode(65+i)}">🔊 ${String.fromCharCode(65+i)}</button><button class="choice-btn" data-answer="${i}">${localText('選擇','Choose')} ${String.fromCharCode(65+i)}</button></div>`:`<button class="choice-btn" data-answer="${i}">${escapeHTML(x.zh)}</button>`).join('')}</div>${audio?`<div class="center-actions"><button class="secondary-btn" id="enPlayAll">${localText('依序播放所有選項','Play all options')}</button></div><p id="enSpeechStatus" aria-live="polite"></p>`:''}</div>`;
     bindSpeech();
@@ -185,8 +176,8 @@ function renderVocab(body){
     finalizeSession({game:'vocab',success:!endedEarly&&accuracy>=70,endedEarly,score:Math.round(accuracy),accuracy,totalTime:elapsed(),details,reportSelector:'#vocabReport',summary:`${correct}/${details.length} · ${Math.round(accuracy)}% · ${localText('以正確率為主，不以速度扣分','Accuracy matters; no speed penalty')}`,badgeCondition:!endedEarly&&accuracy>=90,skills:{[t('englishSkill')]:accuracy},restart:()=>{updateSetup();start();}});
     const wrong=details.filter(x=>!x.correct).map(x=>x.vocabWord);
     if(wrong.length){const b=document.createElement('button');b.className='primary-btn';b.id='enRetryMistakes';b.textContent=localText('再練本次錯題','Practice these mistakes');b.onclick=()=>{modeEl.value='mixed';updateSetup();start(deck.filter(x=>wrong.includes(x.word)));};$('#vocabReport').appendChild(b);}
-    else if(!endedEarly){const p=document.createElement('p');p.textContent=localText('下次可選下一個小單元；不必急著跳級。明天再複習一次。','Try the next small unit when ready. Review again tomorrow before rushing to a harder stage.');$('#vocabReport').appendChild(p);}
+    else if(!endedEarly){const p=document.createElement('p');p.textContent=localText('明天再複習一次，熟悉後再調整等級。','Review again tomorrow and change levels when ready.');$('#vocabReport').appendChild(p);}
   }
-  levelEl.onchange=rebuildTopics;topicEl.onchange=rebuildUnits;unitEl.onchange=updateSetup;scopeEl.onchange=updateSetup;modeEl.onchange=updateSetup;$('#englishPhraseLevel').onchange=updateSetup;
-  $('#vocabStart').onclick=()=>start();rebuildTopics();
+  levelEl.onchange=updateSetup;scopeEl.onchange=updateSetup;modeEl.onchange=updateSetup;
+  $('#vocabStart').onclick=()=>start();updateSetup();
 }

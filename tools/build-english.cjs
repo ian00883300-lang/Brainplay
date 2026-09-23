@@ -107,8 +107,9 @@ for(const item of records.values()){
  groups[stages[stage-1]].push(item.row);
 }
 for(const [stage,rows]of Object.entries(groups))rows.sort((a,b)=>(stage==='starter'?(childOrder.get(a[0].toLowerCase())??999)-(childOrder.get(b[0].toLowerCase())??999):0)||(freq[a[0].toLowerCase()]||30000)-(freq[b[0].toLowerCase()]||30000)||a[0].localeCompare(b[0]));
-const report={baseCommit:'f746573fa80cfbf42d60a32f9e43b14431c5da5c',total:7000,counts:Object.fromEntries(Object.entries(groups).map(([k,v])=>[k,v.length])),retained:7000-needed,added:needed,removed,source:'Original teaching content; ECDICT BNC frequency used only for ordering and editorial triage.',note:'Editorial learning stages, not certified CEFR levels. Same headword has one selected sense. Spelling alternatives are not used to fill the target.'};
-fs.writeFileSync(path.join(root,'data/english-vocabulary.json'),JSON.stringify(groups,null,2)+'\n');
+const leveled=require('./twelve-levels.cjs')(groups,freq);
+const report={baseCommit:'f746573fa80cfbf42d60a32f9e43b14431c5da5c',total:7000,counts:Object.fromEntries(Object.entries(leveled).map(([k,v])=>[k,v.length])),retained:7000-needed,added:needed,removed,source:'Original teaching content; ECDICT BNC frequency used only for ordering and editorial triage.',note:'Editorial learning stages, not certified CEFR levels. Same headword has one selected sense. Spelling alternatives are not used to fill the target.'};
+fs.writeFileSync(path.join(root,'data/english-vocabulary.json'),JSON.stringify(leveled,null,2)+'\n');
 fs.writeFileSync(path.join(root,'data/english-audit.json'),JSON.stringify(report,null,2)+'\n');
 fs.writeFileSync(path.join(root,'data/english-aliases.json'),JSON.stringify(Object.fromEntries(Object.entries(aliases).filter(([a,b])=>a!==b&&records.has(b))),null,2)+'\n');
 console.log(JSON.stringify({counts:report.counts,retained:report.retained,added:needed,removed:removed.length}));

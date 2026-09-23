@@ -1,0 +1,4002 @@
+[
+  {
+    "level": "L3",
+    "phrase": "which one",
+    "meaning": "哪一個",
+    "category": "問句",
+    "example": "Which one fits better, the blue shirt or the white one?",
+    "exampleZh": "藍襯衫和白襯衫哪一件比較合身？"
+  },
+  {
+    "level": "L3",
+    "phrase": "what kind of",
+    "meaning": "哪一種",
+    "category": "問句",
+    "example": "What kind of coffee do you usually drink?",
+    "exampleZh": "你平常喝哪一種咖啡？"
+  },
+  {
+    "level": "L3",
+    "phrase": "here you are",
+    "meaning": "給你",
+    "category": "問候",
+    "example": "Here you are—your receipt and change.",
+    "exampleZh": "給你，這是你的收據和找零。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take your time",
+    "meaning": "慢慢來",
+    "category": "溝通",
+    "example": "Take your time; we are not in a hurry.",
+    "exampleZh": "慢慢來，我們不趕時間。"
+  },
+  {
+    "level": "L1",
+    "phrase": "wake up",
+    "meaning": "醒來",
+    "category": "日常生活",
+    "example": "I usually wake up before my alarm on weekdays.",
+    "exampleZh": "平日我通常在鬧鐘響之前就醒來。"
+  },
+  {
+    "level": "L1",
+    "phrase": "get up",
+    "meaning": "起床",
+    "category": "日常生活",
+    "example": "I got up early to make breakfast before the trip.",
+    "exampleZh": "我為了旅行前準備早餐而早起。"
+  },
+  {
+    "level": "L1",
+    "phrase": "sit down",
+    "meaning": "坐下",
+    "category": "日常生活",
+    "example": "Please sit down while I get you a glass of water.",
+    "exampleZh": "請先坐下，我去幫你倒杯水。"
+  },
+  {
+    "level": "L1",
+    "phrase": "stand up",
+    "meaning": "站起來",
+    "category": "日常生活",
+    "example": "Everyone stood up when the teacher entered the room.",
+    "exampleZh": "老師走進教室時，大家都站了起來。"
+  },
+  {
+    "level": "L3",
+    "phrase": "turn on",
+    "meaning": "打開（電器）",
+    "category": "日常生活",
+    "example": "Could you turn on the air conditioner? It is getting warm.",
+    "exampleZh": "可以幫我開冷氣嗎？天氣開始變熱了。"
+  },
+  {
+    "level": "L3",
+    "phrase": "turn off",
+    "meaning": "關掉（電器）",
+    "category": "日常生活",
+    "example": "Remember to turn off the lights before you leave.",
+    "exampleZh": "離開前記得把燈關掉。"
+  },
+  {
+    "level": "L1",
+    "phrase": "put on",
+    "meaning": "穿上；戴上",
+    "category": "日常生活",
+    "example": "She put on a light jacket before going outside.",
+    "exampleZh": "她出門前穿上了一件薄外套。"
+  },
+  {
+    "level": "L1",
+    "phrase": "take off",
+    "meaning": "脫下；起飛",
+    "category": "日常生活",
+    "example": "Please take off your wet shoes at the door.",
+    "exampleZh": "請在門口把濕鞋脫下來。"
+  },
+  {
+    "level": "L2",
+    "phrase": "come in",
+    "meaning": "進來",
+    "category": "日常生活",
+    "example": "Come in and leave your umbrella by the door.",
+    "exampleZh": "進來吧，把雨傘放在門邊。"
+  },
+  {
+    "level": "L2",
+    "phrase": "go out",
+    "meaning": "外出",
+    "category": "日常生活",
+    "example": "We went out for dinner because no one wanted to cook.",
+    "exampleZh": "因為沒有人想煮飯，我們出去吃晚餐。"
+  },
+  {
+    "level": "L2",
+    "phrase": "come back",
+    "meaning": "回來",
+    "category": "日常生活",
+    "example": "I will come back after I pick up the package.",
+    "exampleZh": "我領完包裹就會回來。"
+  },
+  {
+    "level": "L2",
+    "phrase": "go back",
+    "meaning": "回去",
+    "category": "日常生活",
+    "example": "We had to go back because I forgot my wallet.",
+    "exampleZh": "因為我忘了帶錢包，我們只好回去。"
+  },
+  {
+    "level": "L3",
+    "phrase": "hurry up",
+    "meaning": "快一點",
+    "category": "日常生活",
+    "example": "Hurry up, or we will miss the last train.",
+    "exampleZh": "快一點，不然我們會錯過末班車。"
+  },
+  {
+    "level": "L2",
+    "phrase": "slow down",
+    "meaning": "慢一點",
+    "category": "日常生活",
+    "example": "Slow down near the school because children may cross the road.",
+    "exampleZh": "靠近學校時請慢一點，因為可能有小朋友過馬路。"
+  },
+  {
+    "level": "L1",
+    "phrase": "clean up",
+    "meaning": "整理；清理",
+    "category": "日常生活",
+    "example": "We cleaned up the kitchen after everyone finished eating.",
+    "exampleZh": "大家吃完飯後，我們把廚房整理乾淨。"
+  },
+  {
+    "level": "L3",
+    "phrase": "pick up",
+    "meaning": "撿起；接人",
+    "category": "日常生活",
+    "example": "I will pick up Liz from school at four.",
+    "exampleZh": "我四點會去學校接 Liz。"
+  },
+  {
+    "level": "L3",
+    "phrase": "put away",
+    "meaning": "收好",
+    "category": "日常生活",
+    "example": "Please put away the toys before bedtime.",
+    "exampleZh": "睡覺前請把玩具收好。"
+  },
+  {
+    "level": "L1",
+    "phrase": "look at",
+    "meaning": "看著",
+    "category": "日常生活",
+    "example": "Look at the map before we choose which road to take.",
+    "exampleZh": "選路之前先看一下地圖。"
+  },
+  {
+    "level": "L1",
+    "phrase": "listen to",
+    "meaning": "聽",
+    "category": "日常生活",
+    "example": "I like to listen to music while washing the dishes.",
+    "exampleZh": "我喜歡洗碗時聽音樂。"
+  },
+  {
+    "level": "L2",
+    "phrase": "wait for",
+    "meaning": "等待",
+    "category": "日常生活",
+    "example": "We waited for the bus under the shop awning.",
+    "exampleZh": "我們在店家的騎樓下等公車。"
+  },
+  {
+    "level": "L3",
+    "phrase": "ask for",
+    "meaning": "要求；詢問",
+    "category": "日常生活",
+    "example": "You can ask for a window seat at the check-in counter.",
+    "exampleZh": "你可以在報到櫃檯詢問是否有靠窗座位。"
+  },
+  {
+    "level": "L2",
+    "phrase": "look for",
+    "meaning": "尋找",
+    "category": "日常生活",
+    "example": "I am looking for my keys; have you seen them?",
+    "exampleZh": "我正在找鑰匙，你有看到嗎？"
+  },
+  {
+    "level": "L3",
+    "phrase": "talk about",
+    "meaning": "談論",
+    "category": "溝通",
+    "example": "We talked about our weekend plans over lunch.",
+    "exampleZh": "我們吃午餐時聊了週末的計畫。"
+  },
+  {
+    "level": "L3",
+    "phrase": "think about",
+    "meaning": "考慮；想想",
+    "category": "溝通",
+    "example": "Think about what you need before you start packing.",
+    "exampleZh": "開始收行李前先想想需要帶什麼。"
+  },
+  {
+    "level": "L2",
+    "phrase": "write down",
+    "meaning": "寫下",
+    "category": "學習",
+    "example": "Write down the address so you do not forget it.",
+    "exampleZh": "把地址寫下來，免得忘記。"
+  },
+  {
+    "level": "L3",
+    "phrase": "read aloud",
+    "meaning": "大聲朗讀",
+    "category": "學習",
+    "example": "The teacher asked us to read the short story aloud.",
+    "exampleZh": "老師請我們把短篇故事大聲朗讀出來。"
+  },
+  {
+    "level": "L3",
+    "phrase": "try on",
+    "meaning": "試穿",
+    "category": "購物",
+    "example": "I tried on two pairs of shoes before choosing the black ones.",
+    "exampleZh": "我試穿了兩雙鞋，最後選了黑色那雙。"
+  },
+  {
+    "level": "L3",
+    "phrase": "pay for",
+    "meaning": "支付",
+    "category": "購物",
+    "example": "I paid for the groceries with my phone.",
+    "exampleZh": "我用手機支付了這些雜貨。"
+  },
+  {
+    "level": "L3",
+    "phrase": "shop for",
+    "meaning": "選購",
+    "category": "購物",
+    "example": "We are shopping for a new desk for the study room.",
+    "exampleZh": "我們正在替書房挑一張新書桌。"
+  },
+  {
+    "level": "L2",
+    "phrase": "eat out",
+    "meaning": "外食",
+    "category": "飲食",
+    "example": "We usually eat out on Friday nights.",
+    "exampleZh": "我們通常星期五晚上會外食。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take a seat",
+    "meaning": "請坐",
+    "category": "溝通",
+    "example": "Please take a seat; the doctor will see you soon.",
+    "exampleZh": "請坐，醫生很快就會看診。"
+  },
+  {
+    "level": "L2",
+    "phrase": "have a look",
+    "meaning": "看一下",
+    "category": "溝通",
+    "example": "Can I have a look at the menu before we order?",
+    "exampleZh": "點餐前我可以先看一下菜單嗎？"
+  },
+  {
+    "level": "L3",
+    "phrase": "have a rest",
+    "meaning": "休息一下",
+    "category": "健康",
+    "example": "You should have a rest if your knee starts to hurt.",
+    "exampleZh": "如果膝蓋開始痛，你應該休息一下。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take a break",
+    "meaning": "休息一下",
+    "category": "工作學習",
+    "example": "Let us take a short break after finishing this section.",
+    "exampleZh": "做完這一段後我們休息一下吧。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take a shower",
+    "meaning": "洗澡",
+    "category": "日常生活",
+    "example": "I usually take a shower after exercising.",
+    "exampleZh": "我通常運動後洗澡。"
+  },
+  {
+    "level": "L3",
+    "phrase": "brush your teeth",
+    "meaning": "刷牙",
+    "category": "日常生活",
+    "example": "Brush your teeth before you go to bed.",
+    "exampleZh": "睡覺前要刷牙。"
+  },
+  {
+    "level": "L3",
+    "phrase": "get dressed",
+    "meaning": "穿好衣服",
+    "category": "日常生活",
+    "example": "The children got dressed quickly for the school trip.",
+    "exampleZh": "孩子們很快穿好衣服準備校外教學。"
+  },
+  {
+    "level": "L1",
+    "phrase": "go to bed",
+    "meaning": "上床睡覺",
+    "category": "日常生活",
+    "example": "I went to bed early because I had an early flight.",
+    "exampleZh": "因為隔天有早班機，我很早就上床睡了。"
+  },
+  {
+    "level": "L3",
+    "phrase": "fall asleep",
+    "meaning": "入睡",
+    "category": "日常生活",
+    "example": "I fell asleep while listening to the rain outside.",
+    "exampleZh": "我聽著外面的雨聲睡著了。"
+  },
+  {
+    "level": "L2",
+    "phrase": "get home",
+    "meaning": "到家",
+    "category": "日常生活",
+    "example": "Text me when you get home safely.",
+    "exampleZh": "平安到家後傳訊息給我。"
+  },
+  {
+    "level": "L2",
+    "phrase": "leave home",
+    "meaning": "離開家",
+    "category": "日常生活",
+    "example": "I leave home at seven thirty on workdays.",
+    "exampleZh": "工作日我七點半出門。"
+  },
+  {
+    "level": "L2",
+    "phrase": "go shopping",
+    "meaning": "去購物",
+    "category": "購物",
+    "example": "We went shopping for groceries after breakfast.",
+    "exampleZh": "我們早餐後去買日用品。"
+  },
+  {
+    "level": "L2",
+    "phrase": "go for a walk",
+    "meaning": "去散步",
+    "category": "健康",
+    "example": "We went for a walk after dinner to enjoy the cool air.",
+    "exampleZh": "晚餐後我們去散步，享受涼爽的空氣。"
+  },
+  {
+    "level": "L2",
+    "phrase": "take a walk",
+    "meaning": "散步",
+    "category": "健康",
+    "example": "I take a short walk around the block during lunch.",
+    "exampleZh": "午休時我會在街區附近走一小段路。"
+  },
+  {
+    "level": "L2",
+    "phrase": "go for a ride",
+    "meaning": "去兜風／騎乘",
+    "category": "休閒",
+    "example": "We went for a bike ride along the river on Sunday.",
+    "exampleZh": "星期日我們沿著河邊騎腳踏車。"
+  },
+  {
+    "level": "L2",
+    "phrase": "have breakfast",
+    "meaning": "吃早餐",
+    "category": "飲食",
+    "example": "I had breakfast at the airport before boarding.",
+    "exampleZh": "我登機前在機場吃了早餐。"
+  },
+  {
+    "level": "L2",
+    "phrase": "have lunch",
+    "meaning": "吃午餐",
+    "category": "飲食",
+    "example": "We had lunch at a small noodle shop near the station.",
+    "exampleZh": "我們在車站附近的小麵店吃午餐。"
+  },
+  {
+    "level": "L2",
+    "phrase": "have dinner",
+    "meaning": "吃晚餐",
+    "category": "飲食",
+    "example": "We had dinner together after everyone got home.",
+    "exampleZh": "大家到家後一起吃了晚餐。"
+  },
+  {
+    "level": "L2",
+    "phrase": "make breakfast",
+    "meaning": "做早餐",
+    "category": "飲食",
+    "example": "I made breakfast while the coffee was brewing.",
+    "exampleZh": "咖啡沖煮時，我順便做了早餐。"
+  },
+  {
+    "level": "L2",
+    "phrase": "make dinner",
+    "meaning": "做晚餐",
+    "category": "飲食",
+    "example": "She made dinner with the vegetables left in the fridge.",
+    "exampleZh": "她用冰箱裡剩下的蔬菜做晚餐。"
+  },
+  {
+    "level": "L1",
+    "phrase": "drink water",
+    "meaning": "喝水",
+    "category": "健康",
+    "example": "Drink some water after your workout.",
+    "exampleZh": "運動後喝一些水。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take medicine",
+    "meaning": "吃藥",
+    "category": "健康",
+    "example": "Take the medicine after meals as the doctor instructed.",
+    "exampleZh": "請依照醫生指示在飯後吃藥。"
+  },
+  {
+    "level": "L3",
+    "phrase": "feel better",
+    "meaning": "感覺好一點",
+    "category": "健康",
+    "example": "I feel much better after getting a full night of sleep.",
+    "exampleZh": "睡了一整晚後，我感覺好多了。"
+  },
+  {
+    "level": "L3",
+    "phrase": "feel sick",
+    "meaning": "感到不舒服",
+    "category": "健康",
+    "example": "He felt sick on the bus, so we opened a window.",
+    "exampleZh": "他在公車上覺得不舒服，所以我們開了窗。"
+  },
+  {
+    "level": "L2",
+    "phrase": "have a cold",
+    "meaning": "感冒",
+    "category": "健康",
+    "example": "I stayed home because I had a bad cold.",
+    "exampleZh": "我因為重感冒而待在家休息。"
+  },
+  {
+    "level": "L3",
+    "phrase": "have a headache",
+    "meaning": "頭痛",
+    "category": "健康",
+    "example": "I have a headache, so I am taking a break from the screen.",
+    "exampleZh": "我頭痛，所以先暫停看螢幕。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take care",
+    "meaning": "保重；小心",
+    "category": "溝通",
+    "example": "Take care on your way home; the roads are wet.",
+    "exampleZh": "回家路上小心，路面很濕。"
+  },
+  {
+    "level": "L1",
+    "phrase": "be careful",
+    "meaning": "小心",
+    "category": "安全",
+    "example": "Be careful when you carry the hot soup.",
+    "exampleZh": "端熱湯時要小心。"
+  },
+  {
+    "level": "L2",
+    "phrase": "watch out",
+    "meaning": "當心",
+    "category": "安全",
+    "example": "Watch out for bicycles when you step off the bus.",
+    "exampleZh": "下公車時要注意腳踏車。"
+  },
+  {
+    "level": "L1",
+    "phrase": "be quiet",
+    "meaning": "安靜",
+    "category": "日常生活",
+    "example": "Please be quiet because the baby is sleeping.",
+    "exampleZh": "請安靜一點，寶寶正在睡覺。"
+  },
+  {
+    "level": "L3",
+    "phrase": "keep quiet",
+    "meaning": "保持安靜",
+    "category": "日常生活",
+    "example": "We kept quiet during the movie.",
+    "exampleZh": "看電影時我們保持安靜。"
+  },
+  {
+    "level": "L1",
+    "phrase": "come here",
+    "meaning": "過來",
+    "category": "溝通",
+    "example": "Come here and look at this photo.",
+    "exampleZh": "過來看看這張照片。"
+  },
+  {
+    "level": "L2",
+    "phrase": "go ahead",
+    "meaning": "請繼續；先請",
+    "category": "溝通",
+    "example": "Go ahead and order first; I am still deciding.",
+    "exampleZh": "你先點餐吧，我還在考慮。"
+  },
+  {
+    "level": "L3",
+    "phrase": "hold on",
+    "meaning": "等一下",
+    "category": "溝通",
+    "example": "Hold on a second while I check the schedule.",
+    "exampleZh": "等一下，我確認一下行程。"
+  },
+  {
+    "level": "L2",
+    "phrase": "come on",
+    "meaning": "快點；加油",
+    "category": "溝通",
+    "example": "Come on, we only have five minutes before the gate closes.",
+    "exampleZh": "快點，登機門五分鐘後就關了。"
+  },
+  {
+    "level": "L1",
+    "phrase": "good morning",
+    "meaning": "早安",
+    "category": "問候",
+    "example": "Good morning, did you sleep well?",
+    "exampleZh": "早安，你昨晚睡得好嗎？"
+  },
+  {
+    "level": "L1",
+    "phrase": "good night",
+    "meaning": "晚安",
+    "category": "問候",
+    "example": "Good night; I will see you tomorrow morning.",
+    "exampleZh": "晚安，我明天早上見。"
+  },
+  {
+    "level": "L3",
+    "phrase": "see you later",
+    "meaning": "晚點見",
+    "category": "問候",
+    "example": "See you later; I am heading to the gym now.",
+    "exampleZh": "晚點見，我現在要去健身房。"
+  },
+  {
+    "level": "L2",
+    "phrase": "see you soon",
+    "meaning": "很快再見",
+    "category": "問候",
+    "example": "Have a safe trip, and see you soon.",
+    "exampleZh": "旅途平安，我們很快再見。"
+  },
+  {
+    "level": "L1",
+    "phrase": "thank you",
+    "meaning": "謝謝你",
+    "category": "問候",
+    "example": "Thank you for helping me carry the boxes upstairs.",
+    "exampleZh": "謝謝你幫我把箱子搬上樓。"
+  },
+  {
+    "level": "L3",
+    "phrase": "you are welcome",
+    "meaning": "不客氣",
+    "category": "問候",
+    "example": "You are welcome; I was happy to help.",
+    "exampleZh": "不客氣，我很樂意幫忙。"
+  },
+  {
+    "level": "L3",
+    "phrase": "excuse me",
+    "meaning": "不好意思；借過",
+    "category": "問候",
+    "example": "Excuse me, is this seat taken?",
+    "exampleZh": "不好意思，這個位子有人坐嗎？"
+  },
+  {
+    "level": "L2",
+    "phrase": "sorry about that",
+    "meaning": "抱歉",
+    "category": "問候",
+    "example": "Sorry about that; I sent the message to the wrong group.",
+    "exampleZh": "抱歉，我把訊息傳到錯的群組了。"
+  },
+  {
+    "level": "L2",
+    "phrase": "no problem",
+    "meaning": "沒問題",
+    "category": "問候",
+    "example": "No problem, I can wait another ten minutes.",
+    "exampleZh": "沒問題，我可以再等十分鐘。"
+  },
+  {
+    "level": "L3",
+    "phrase": "of course",
+    "meaning": "當然",
+    "category": "問候",
+    "example": "Of course you can borrow my charger.",
+    "exampleZh": "當然可以，你可以借我的充電器。"
+  },
+  {
+    "level": "L2",
+    "phrase": "all right",
+    "meaning": "好；沒問題",
+    "category": "問候",
+    "example": "All right, let us meet at the station at six.",
+    "exampleZh": "好，那我們六點在車站見。"
+  },
+  {
+    "level": "L2",
+    "phrase": "right now",
+    "meaning": "現在立刻",
+    "category": "時間",
+    "example": "I cannot talk right now because I am driving.",
+    "exampleZh": "我現在正在開車，沒辦法講電話。"
+  },
+  {
+    "level": "L2",
+    "phrase": "at home",
+    "meaning": "在家",
+    "category": "地點",
+    "example": "I will be at home this afternoon if the delivery arrives.",
+    "exampleZh": "如果包裹送到，我今天下午會在家。"
+  },
+  {
+    "level": "L2",
+    "phrase": "at school",
+    "meaning": "在學校",
+    "category": "地點",
+    "example": "Liz left her water bottle at school.",
+    "exampleZh": "Liz 把水壺忘在學校了。"
+  },
+  {
+    "level": "L3",
+    "phrase": "at work",
+    "meaning": "在工作",
+    "category": "地點",
+    "example": "Dad is still at work, so we will eat later.",
+    "exampleZh": "爸爸還在工作，所以我們晚點再吃飯。"
+  },
+  {
+    "level": "L2",
+    "phrase": "on time",
+    "meaning": "準時",
+    "category": "時間",
+    "example": "The train arrived on time despite the rain.",
+    "exampleZh": "雖然下雨，火車仍準時抵達。"
+  },
+  {
+    "level": "L2",
+    "phrase": "in time",
+    "meaning": "及時",
+    "category": "時間",
+    "example": "We reached the gate just in time for boarding.",
+    "exampleZh": "我們剛好及時趕到登機門。"
+  },
+  {
+    "level": "L2",
+    "phrase": "every day",
+    "meaning": "每天",
+    "category": "時間",
+    "example": "I check the plants every day but water them only when needed.",
+    "exampleZh": "我每天檢查植物，但只在需要時澆水。"
+  },
+  {
+    "level": "L2",
+    "phrase": "every week",
+    "meaning": "每週",
+    "category": "時間",
+    "example": "We plan our meals every week before buying groceries.",
+    "exampleZh": "我們每週買菜前都會先規劃餐點。"
+  },
+  {
+    "level": "L3",
+    "phrase": "once a week",
+    "meaning": "每週一次",
+    "category": "時間",
+    "example": "I clean the coffee grinder once a week.",
+    "exampleZh": "我每週清潔一次咖啡磨豆機。"
+  },
+  {
+    "level": "L3",
+    "phrase": "twice a day",
+    "meaning": "一天兩次",
+    "category": "時間",
+    "example": "The doctor asked me to use the cream twice a day.",
+    "exampleZh": "醫生要我一天擦兩次藥膏。"
+  },
+  {
+    "level": "L2",
+    "phrase": "in the morning",
+    "meaning": "早上",
+    "category": "時間",
+    "example": "I prefer to exercise in the morning when the gym is quiet.",
+    "exampleZh": "我喜歡早上健身，因為健身房比較安靜。"
+  },
+  {
+    "level": "L2",
+    "phrase": "in the afternoon",
+    "meaning": "下午",
+    "category": "時間",
+    "example": "The sun is strongest on our balcony in the afternoon.",
+    "exampleZh": "我們家陽台下午的陽光最強。"
+  },
+  {
+    "level": "L2",
+    "phrase": "in the evening",
+    "meaning": "傍晚／晚上",
+    "category": "時間",
+    "example": "We usually take a walk in the evening after dinner.",
+    "exampleZh": "我們通常晚餐後在傍晚散步。"
+  },
+  {
+    "level": "L3",
+    "phrase": "at night",
+    "meaning": "在夜裡",
+    "category": "時間",
+    "example": "The street is much quieter at night.",
+    "exampleZh": "這條街晚上安靜很多。"
+  },
+  {
+    "level": "L3",
+    "phrase": "next time",
+    "meaning": "下次",
+    "category": "時間",
+    "example": "Next time, I will bring an extra umbrella.",
+    "exampleZh": "下次我會多帶一把雨傘。"
+  },
+  {
+    "level": "L3",
+    "phrase": "last night",
+    "meaning": "昨晚",
+    "category": "時間",
+    "example": "It rained heavily last night.",
+    "exampleZh": "昨晚雨下得很大。"
+  },
+  {
+    "level": "L2",
+    "phrase": "this morning",
+    "meaning": "今天早上",
+    "category": "時間",
+    "example": "I received the package this morning.",
+    "exampleZh": "我今天早上收到包裹。"
+  },
+  {
+    "level": "L2",
+    "phrase": "this afternoon",
+    "meaning": "今天下午",
+    "category": "時間",
+    "example": "We have a dentist appointment this afternoon.",
+    "exampleZh": "我們今天下午要看牙醫。"
+  },
+  {
+    "level": "L2",
+    "phrase": "this evening",
+    "meaning": "今天晚上",
+    "category": "時間",
+    "example": "I am cooking curry this evening.",
+    "exampleZh": "我今天晚上要煮咖哩。"
+  },
+  {
+    "level": "L3",
+    "phrase": "this weekend",
+    "meaning": "這個週末",
+    "category": "時間",
+    "example": "We are visiting my parents this weekend.",
+    "exampleZh": "這個週末我們要去看爸媽。"
+  },
+  {
+    "level": "L3",
+    "phrase": "next week",
+    "meaning": "下週",
+    "category": "時間",
+    "example": "The new class starts next week.",
+    "exampleZh": "新課程下週開始。"
+  },
+  {
+    "level": "L3",
+    "phrase": "last week",
+    "meaning": "上週",
+    "category": "時間",
+    "example": "I bought this notebook last week.",
+    "exampleZh": "我上週買了這本筆記本。"
+  },
+  {
+    "level": "L3",
+    "phrase": "a lot of",
+    "meaning": "很多",
+    "category": "數量",
+    "example": "There are a lot of people at the night market tonight.",
+    "exampleZh": "今晚夜市有很多人。"
+  },
+  {
+    "level": "L2",
+    "phrase": "a little",
+    "meaning": "一點點",
+    "category": "數量",
+    "example": "Add a little salt after tasting the soup.",
+    "exampleZh": "先嚐過湯之後再加一點鹽。"
+  },
+  {
+    "level": "L3",
+    "phrase": "a few",
+    "meaning": "幾個；一些",
+    "category": "數量",
+    "example": "We still have a few minutes before the train leaves.",
+    "exampleZh": "火車出發前我們還有幾分鐘。"
+  },
+  {
+    "level": "L2",
+    "phrase": "a cup of",
+    "meaning": "一杯",
+    "category": "數量",
+    "example": "I made a cup of tea before starting work.",
+    "exampleZh": "開始工作前我泡了一杯茶。"
+  },
+  {
+    "level": "L3",
+    "phrase": "a bottle of",
+    "meaning": "一瓶",
+    "category": "數量",
+    "example": "We bought a bottle of water at the station.",
+    "exampleZh": "我們在車站買了一瓶水。"
+  },
+  {
+    "level": "L3",
+    "phrase": "a piece of",
+    "meaning": "一片；一塊；一件",
+    "category": "數量",
+    "example": "She gave me a piece of chocolate after lunch.",
+    "exampleZh": "午餐後她給了我一塊巧克力。"
+  },
+  {
+    "level": "L3",
+    "phrase": "a pair of",
+    "meaning": "一雙；一對",
+    "category": "數量",
+    "example": "I packed an extra pair of socks for the hike.",
+    "exampleZh": "我為健行多帶了一雙襪子。"
+  },
+  {
+    "level": "L3",
+    "phrase": "a kind of",
+    "meaning": "一種",
+    "category": "描述",
+    "example": "Oolong is a kind of tea with many different styles.",
+    "exampleZh": "烏龍茶是一種有許多不同風格的茶。"
+  },
+  {
+    "level": "L2",
+    "phrase": "full of",
+    "meaning": "充滿",
+    "category": "描述",
+    "example": "The park was full of families on Sunday afternoon.",
+    "exampleZh": "星期日下午公園裡滿是家庭遊客。"
+  },
+  {
+    "level": "L2",
+    "phrase": "good at",
+    "meaning": "擅長",
+    "category": "能力",
+    "example": "She is good at remembering people’s names.",
+    "exampleZh": "她很擅長記住別人的名字。"
+  },
+  {
+    "level": "L2",
+    "phrase": "bad at",
+    "meaning": "不擅長",
+    "category": "能力",
+    "example": "I am bad at folding fitted sheets neatly.",
+    "exampleZh": "我很不擅長把床包折整齊。"
+  },
+  {
+    "level": "L2",
+    "phrase": "ready for",
+    "meaning": "準備好面對",
+    "category": "狀態",
+    "example": "Are you ready for tomorrow’s presentation?",
+    "exampleZh": "你準備好明天的簡報了嗎？"
+  },
+  {
+    "level": "L2",
+    "phrase": "late for",
+    "meaning": "遲到",
+    "category": "狀態",
+    "example": "We were late for the movie because parking took too long.",
+    "exampleZh": "因為找停車位花太久，我們看電影遲到了。"
+  },
+  {
+    "level": "L2",
+    "phrase": "afraid of",
+    "meaning": "害怕",
+    "category": "感受",
+    "example": "My niece is afraid of loud thunder.",
+    "exampleZh": "我姪女很怕很大的雷聲。"
+  },
+  {
+    "level": "L3",
+    "phrase": "interested in",
+    "meaning": "對…有興趣",
+    "category": "感受",
+    "example": "He is interested in learning how airplanes work.",
+    "exampleZh": "他對學習飛機如何運作很有興趣。"
+  },
+  {
+    "level": "L2",
+    "phrase": "happy with",
+    "meaning": "對…滿意",
+    "category": "感受",
+    "example": "I am happy with how the room looks after we moved the desk.",
+    "exampleZh": "移動書桌後，我對房間現在的樣子很滿意。"
+  },
+  {
+    "level": "L2",
+    "phrase": "tired of",
+    "meaning": "厭倦",
+    "category": "感受",
+    "example": "She is tired of eating the same lunch every day.",
+    "exampleZh": "她吃膩了每天一樣的午餐。"
+  },
+  {
+    "level": "L3",
+    "phrase": "worried about",
+    "meaning": "擔心",
+    "category": "感受",
+    "example": "We were worried about the weather before the flight.",
+    "exampleZh": "搭飛機前我們很擔心天氣。"
+  },
+  {
+    "level": "L2",
+    "phrase": "sorry for",
+    "meaning": "為…感到抱歉",
+    "category": "感受",
+    "example": "I am sorry for keeping you waiting.",
+    "exampleZh": "很抱歉讓你久等了。"
+  },
+  {
+    "level": "L2",
+    "phrase": "kind to",
+    "meaning": "對…友善",
+    "category": "人際",
+    "example": "The staff were very kind to my grandparents.",
+    "exampleZh": "工作人員對我的祖父母非常親切。"
+  },
+  {
+    "level": "L3",
+    "phrase": "nice to meet you",
+    "meaning": "很高興認識你",
+    "category": "問候",
+    "example": "Nice to meet you; I have heard a lot about your project.",
+    "exampleZh": "很高興認識你，我聽過很多關於你專案的事。"
+  },
+  {
+    "level": "L3",
+    "phrase": "how are you",
+    "meaning": "你好嗎",
+    "category": "問候",
+    "example": "How are you feeling after the long trip?",
+    "exampleZh": "長途旅行後你感覺如何？"
+  },
+  {
+    "level": "L3",
+    "phrase": "what time",
+    "meaning": "幾點",
+    "category": "問句",
+    "example": "What time does the last train leave?",
+    "exampleZh": "末班車幾點出發？"
+  },
+  {
+    "level": "L5",
+    "phrase": "make sure",
+    "meaning": "確認；務必",
+    "category": "工作生活",
+    "example": "Make sure the door is locked before we leave.",
+    "exampleZh": "離開前確認門有鎖好。"
+  },
+  {
+    "level": "L6",
+    "phrase": "be able to",
+    "meaning": "能夠",
+    "category": "能力",
+    "example": "Will you be able to finish the report by noon?",
+    "exampleZh": "你能在中午前完成報告嗎？"
+  },
+  {
+    "level": "L6",
+    "phrase": "be supposed to",
+    "meaning": "應該；按規定",
+    "category": "規範",
+    "example": "The package is supposed to arrive tomorrow.",
+    "exampleZh": "包裹按預定應該明天會到。"
+  },
+  {
+    "level": "L6",
+    "phrase": "used to",
+    "meaning": "過去習慣",
+    "category": "時間習慣",
+    "example": "I used to take this bus every morning.",
+    "exampleZh": "我以前每天早上都搭這班公車。"
+  },
+  {
+    "level": "L6",
+    "phrase": "get used to",
+    "meaning": "習慣於",
+    "category": "時間習慣",
+    "example": "It took me a week to get used to the new schedule.",
+    "exampleZh": "我花了一週才習慣新的作息。"
+  },
+  {
+    "level": "L6",
+    "phrase": "be used to",
+    "meaning": "已習慣",
+    "category": "時間習慣",
+    "example": "She is used to working early shifts.",
+    "exampleZh": "她已經習慣上早班。"
+  },
+  {
+    "level": "L5",
+    "phrase": "right away",
+    "meaning": "立刻",
+    "category": "時間",
+    "example": "The hotel replaced the broken kettle right away.",
+    "exampleZh": "飯店立刻更換了壞掉的熱水壺。"
+  },
+  {
+    "level": "L5",
+    "phrase": "once in a while",
+    "meaning": "偶爾",
+    "category": "頻率",
+    "example": "We eat dessert after dinner once in a while.",
+    "exampleZh": "我們偶爾會在晚餐後吃甜點。"
+  },
+  {
+    "level": "L6",
+    "phrase": "as usual",
+    "meaning": "像往常一樣",
+    "category": "頻率",
+    "example": "The café was crowded as usual on Saturday morning.",
+    "exampleZh": "星期六早上那間咖啡店一如往常很擁擠。"
+  },
+  {
+    "level": "L4",
+    "phrase": "one more time",
+    "meaning": "再一次",
+    "category": "溝通學習",
+    "example": "Could you say that one more time a little more slowly?",
+    "exampleZh": "可以再說一次，而且慢一點嗎？"
+  },
+  {
+    "level": "L5",
+    "phrase": "in a moment",
+    "meaning": "等一下；很快",
+    "category": "時間",
+    "example": "I will be with you in a moment.",
+    "exampleZh": "我馬上就來。"
+  },
+  {
+    "level": "L4",
+    "phrase": "find out",
+    "meaning": "查明；發現",
+    "category": "日常與資訊",
+    "example": "I found out that the museum is closed on Mondays.",
+    "exampleZh": "我查到那間博物館星期一休館。"
+  },
+  {
+    "level": "L6",
+    "phrase": "figure out",
+    "meaning": "弄懂；想出",
+    "category": "問題解決",
+    "example": "We finally figured out why the printer would not connect.",
+    "exampleZh": "我們終於弄清楚印表機為什麼連不上。"
+  },
+  {
+    "level": "L6",
+    "phrase": "check out",
+    "meaning": "查看；退房",
+    "category": "旅行與資訊",
+    "example": "Check out the bakery across the street if you have time.",
+    "exampleZh": "如果有時間，可以去看看街對面的麵包店。"
+  },
+  {
+    "level": "L5",
+    "phrase": "check in",
+    "meaning": "報到；辦理入住",
+    "category": "旅行",
+    "example": "We checked in online the night before our flight.",
+    "exampleZh": "我們在航班前一晚就完成線上報到。"
+  },
+  {
+    "level": "L4",
+    "phrase": "fill out",
+    "meaning": "填寫",
+    "category": "行政",
+    "example": "Please fill out this form before seeing the doctor.",
+    "exampleZh": "看醫生前請先填寫這份表格。"
+  },
+  {
+    "level": "L4",
+    "phrase": "fill in",
+    "meaning": "填入；代班",
+    "category": "行政",
+    "example": "Fill in your phone number at the bottom of the page.",
+    "exampleZh": "請在頁面下方填入電話號碼。"
+  },
+  {
+    "level": "L6",
+    "phrase": "log in",
+    "meaning": "登入",
+    "category": "科技",
+    "example": "I could not log in because I forgot my password.",
+    "exampleZh": "我因為忘記密碼而無法登入。"
+  },
+  {
+    "level": "L6",
+    "phrase": "log out",
+    "meaning": "登出",
+    "category": "科技",
+    "example": "Remember to log out when you use a public computer.",
+    "exampleZh": "使用公用電腦後記得登出。"
+  },
+  {
+    "level": "L5",
+    "phrase": "sign up for",
+    "meaning": "報名參加",
+    "category": "學習",
+    "example": "I signed up for a weekend cooking class.",
+    "exampleZh": "我報名了週末的料理課。"
+  },
+  {
+    "level": "L6",
+    "phrase": "sign in",
+    "meaning": "簽到；登入",
+    "category": "工作與科技",
+    "example": "Visitors need to sign in at the front desk.",
+    "exampleZh": "訪客需要在櫃檯簽到。"
+  },
+  {
+    "level": "L4",
+    "phrase": "set up",
+    "meaning": "設置；建立",
+    "category": "工作與科技",
+    "example": "We set up the new router near the living room.",
+    "exampleZh": "我們把新的路由器設置在客廳附近。"
+  },
+  {
+    "level": "L4",
+    "phrase": "shut down",
+    "meaning": "關閉；停止運作",
+    "category": "科技",
+    "example": "The computer shut down during the update.",
+    "exampleZh": "電腦在更新過程中關機了。"
+  },
+  {
+    "level": "L4",
+    "phrase": "start up",
+    "meaning": "啟動",
+    "category": "科技",
+    "example": "The old laptop takes a long time to start up.",
+    "exampleZh": "那台舊筆電開機要很久。"
+  },
+  {
+    "level": "L4",
+    "phrase": "back up",
+    "meaning": "備份",
+    "category": "科技",
+    "example": "Back up your photos before replacing your phone.",
+    "exampleZh": "換手機前先把照片備份。"
+  },
+  {
+    "level": "L5",
+    "phrase": "plug in",
+    "meaning": "插上電源",
+    "category": "科技",
+    "example": "Plug in the charger before the battery gets too low.",
+    "exampleZh": "電量太低之前先把充電器插上。"
+  },
+  {
+    "level": "L6",
+    "phrase": "unplug something from",
+    "meaning": "從…拔掉插頭",
+    "category": "科技",
+    "example": "Unplug the toaster from the wall before cleaning it.",
+    "exampleZh": "清理烤麵包機前先把插頭拔掉。"
+  },
+  {
+    "level": "L4",
+    "phrase": "turn up",
+    "meaning": "調大；調高",
+    "category": "日常生活",
+    "example": "Could you turn up the volume a little?",
+    "exampleZh": "可以把音量調大一點嗎？"
+  },
+  {
+    "level": "L4",
+    "phrase": "turn down",
+    "meaning": "調低；拒絕",
+    "category": "日常生活",
+    "example": "I turned down the heater because the room was too warm.",
+    "exampleZh": "房間太熱，所以我把暖氣調低。"
+  },
+  {
+    "level": "L5",
+    "phrase": "put back",
+    "meaning": "放回原處",
+    "category": "日常生活",
+    "example": "Please put the milk back in the fridge.",
+    "exampleZh": "請把牛奶放回冰箱。"
+  },
+  {
+    "level": "L5",
+    "phrase": "throw away",
+    "meaning": "丟掉",
+    "category": "日常生活",
+    "example": "Do not throw away the receipt until the return period ends.",
+    "exampleZh": "退貨期限結束前不要把收據丟掉。"
+  },
+  {
+    "level": "L4",
+    "phrase": "give back",
+    "meaning": "歸還",
+    "category": "日常生活",
+    "example": "I need to give the library books back tomorrow.",
+    "exampleZh": "我明天要把圖書館的書還回去。"
+  },
+  {
+    "level": "L4",
+    "phrase": "hand in",
+    "meaning": "繳交",
+    "category": "學習工作",
+    "example": "We have to hand in the assignment by Friday.",
+    "exampleZh": "我們必須在星期五前繳交作業。"
+  },
+  {
+    "level": "L4",
+    "phrase": "hand out",
+    "meaning": "分發",
+    "category": "學習工作",
+    "example": "The teacher handed out the worksheets before class started.",
+    "exampleZh": "上課前老師把學習單發下去。"
+  },
+  {
+    "level": "L6",
+    "phrase": "pick out",
+    "meaning": "挑選",
+    "category": "購物",
+    "example": "She helped me pick out a gift for my mother.",
+    "exampleZh": "她幫我挑了一份給媽媽的禮物。"
+  },
+  {
+    "level": "L4",
+    "phrase": "cut down on",
+    "meaning": "減少",
+    "category": "健康與生活",
+    "example": "I am trying to cut down on sugary drinks.",
+    "exampleZh": "我正試著減少含糖飲料的攝取。"
+  },
+  {
+    "level": "L4",
+    "phrase": "run out of",
+    "meaning": "用完",
+    "category": "日常生活",
+    "example": "We ran out of coffee beans this morning.",
+    "exampleZh": "我們今天早上把咖啡豆用完了。"
+  },
+  {
+    "level": "L4",
+    "phrase": "use up",
+    "meaning": "用光",
+    "category": "日常生活",
+    "example": "I used up the last of the milk making pancakes.",
+    "exampleZh": "我做鬆餅時把最後的牛奶用完了。"
+  },
+  {
+    "level": "L5",
+    "phrase": "save up for",
+    "meaning": "存錢買／做",
+    "category": "財務",
+    "example": "We are saving up for a family trip next year.",
+    "exampleZh": "我們正在為明年的家庭旅行存錢。"
+  },
+  {
+    "level": "L5",
+    "phrase": "pay back",
+    "meaning": "還錢；回報",
+    "category": "財務",
+    "example": "I will pay you back after I get paid on Friday.",
+    "exampleZh": "我星期五領薪水後就會還你錢。"
+  },
+  {
+    "level": "L5",
+    "phrase": "pay off",
+    "meaning": "付清",
+    "category": "財務",
+    "example": "They finally paid off their car loan.",
+    "exampleZh": "他們終於把車貸繳清了。"
+  },
+  {
+    "level": "L5",
+    "phrase": "try out",
+    "meaning": "試用；試試看",
+    "category": "日常生活",
+    "example": "We tried out the new coffee maker over the weekend.",
+    "exampleZh": "週末我們試用了新的咖啡機。"
+  },
+  {
+    "level": "L5",
+    "phrase": "work out",
+    "meaning": "運動；解決",
+    "category": "健康",
+    "example": "I work out three times a week after work.",
+    "exampleZh": "我每週下班後運動三次。"
+  },
+  {
+    "level": "L4",
+    "phrase": "warm up",
+    "meaning": "熱身",
+    "category": "健康",
+    "example": "Warm up for a few minutes before you start running.",
+    "exampleZh": "開始跑步前先熱身幾分鐘。"
+  },
+  {
+    "level": "L4",
+    "phrase": "cool down",
+    "meaning": "緩和；收操",
+    "category": "健康",
+    "example": "Walk slowly for five minutes to cool down after the run.",
+    "exampleZh": "跑完後慢走五分鐘做收操。"
+  },
+  {
+    "level": "L4",
+    "phrase": "give up",
+    "meaning": "放棄",
+    "category": "生活",
+    "example": "Do not give up just because the first attempt was difficult.",
+    "exampleZh": "不要因為第一次很難就放棄。"
+  },
+  {
+    "level": "L4",
+    "phrase": "keep on",
+    "meaning": "持續",
+    "category": "生活",
+    "example": "She kept on practicing until the song felt natural.",
+    "exampleZh": "她持續練習，直到那首歌彈起來很自然。"
+  },
+  {
+    "level": "L4",
+    "phrase": "carry on",
+    "meaning": "繼續",
+    "category": "工作學習",
+    "example": "After a short break, we carried on with the meeting.",
+    "exampleZh": "短暫休息後，我們繼續開會。"
+  },
+  {
+    "level": "L4",
+    "phrase": "go on",
+    "meaning": "繼續；發生",
+    "category": "生活",
+    "example": "The concert went on despite the light rain.",
+    "exampleZh": "雖然下著小雨，演唱會仍繼續進行。"
+  },
+  {
+    "level": "L5",
+    "phrase": "keep up with",
+    "meaning": "跟上",
+    "category": "學習工作",
+    "example": "I read the weekly summary to keep up with industry news.",
+    "exampleZh": "我會看每週摘要來跟上產業消息。"
+  },
+  {
+    "level": "L4",
+    "phrase": "catch up with",
+    "meaning": "趕上；敘舊",
+    "category": "人際",
+    "example": "I met an old classmate for coffee to catch up with her.",
+    "exampleZh": "我和老同學喝咖啡聊近況。"
+  },
+  {
+    "level": "L5",
+    "phrase": "fall behind",
+    "meaning": "落後",
+    "category": "學習工作",
+    "example": "He missed two classes and started to fall behind.",
+    "exampleZh": "他缺了兩堂課後開始跟不上進度。"
+  },
+  {
+    "level": "L4",
+    "phrase": "go over",
+    "meaning": "複習；檢查",
+    "category": "學習工作",
+    "example": "Let us go over the numbers once more before sending the report.",
+    "exampleZh": "寄出報告前我們再檢查一次數字。"
+  },
+  {
+    "level": "L4",
+    "phrase": "look over",
+    "meaning": "快速查看",
+    "category": "工作",
+    "example": "Could you look over my email before I send it?",
+    "exampleZh": "我寄信前你可以幫我看一下嗎？"
+  },
+  {
+    "level": "L6",
+    "phrase": "read through",
+    "meaning": "從頭讀完",
+    "category": "學習工作",
+    "example": "I read through the contract carefully before signing it.",
+    "exampleZh": "簽名前我仔細把合約從頭讀了一遍。"
+  },
+  {
+    "level": "L5",
+    "phrase": "write back",
+    "meaning": "回信",
+    "category": "溝通",
+    "example": "She wrote back the same evening with the details.",
+    "exampleZh": "她當晚就回信提供詳細資訊。"
+  },
+  {
+    "level": "L5",
+    "phrase": "call back",
+    "meaning": "回電",
+    "category": "溝通",
+    "example": "The clinic said they would call back after checking the schedule.",
+    "exampleZh": "診所說確認時段後會再回電。"
+  },
+  {
+    "level": "L5",
+    "phrase": "get back to",
+    "meaning": "回覆",
+    "category": "溝通",
+    "example": "I will get back to you after I confirm the price.",
+    "exampleZh": "我確認價格後會再回覆你。"
+  },
+  {
+    "level": "L4",
+    "phrase": "speak up",
+    "meaning": "大聲一點說；表達意見",
+    "category": "溝通",
+    "example": "Please speak up because the room is noisy.",
+    "exampleZh": "房間很吵，請說大聲一點。"
+  },
+  {
+    "level": "L6",
+    "phrase": "calm down",
+    "meaning": "冷靜下來",
+    "category": "情緒",
+    "example": "I took a short walk outside to calm down.",
+    "exampleZh": "我到外面走了一小段路讓自己冷靜。"
+  },
+  {
+    "level": "L6",
+    "phrase": "cheer up",
+    "meaning": "振作；開心起來",
+    "category": "情緒",
+    "example": "The funny video cheered her up after a long day.",
+    "exampleZh": "忙了一整天後，那支有趣的影片讓她心情變好。"
+  },
+  {
+    "level": "L4",
+    "phrase": "grow up",
+    "meaning": "長大",
+    "category": "人生",
+    "example": "He grew up near the coast and learned to swim early.",
+    "exampleZh": "他在海邊長大，很早就學會游泳。"
+  },
+  {
+    "level": "L6",
+    "phrase": "get married",
+    "meaning": "結婚",
+    "category": "人生",
+    "example": "They got married in a small ceremony by the sea.",
+    "exampleZh": "他們在海邊舉行小型婚禮。"
+  },
+  {
+    "level": "L5",
+    "phrase": "move in",
+    "meaning": "搬入",
+    "category": "居住",
+    "example": "We moved in a week before the furniture arrived.",
+    "exampleZh": "家具送到前一週我們就先搬進去了。"
+  },
+  {
+    "level": "L5",
+    "phrase": "move out",
+    "meaning": "搬出",
+    "category": "居住",
+    "example": "The tenant moved out at the end of the month.",
+    "exampleZh": "房客在月底搬走了。"
+  },
+  {
+    "level": "L5",
+    "phrase": "live with",
+    "meaning": "與…同住",
+    "category": "居住",
+    "example": "She lives with her sister near the university.",
+    "exampleZh": "她和妹妹住在大學附近。"
+  },
+  {
+    "level": "L5",
+    "phrase": "stay with",
+    "meaning": "暫住在…",
+    "category": "旅行人際",
+    "example": "We stayed with friends during our visit to Osaka.",
+    "exampleZh": "我們去大阪時住在朋友家。"
+  },
+  {
+    "level": "L4",
+    "phrase": "come over",
+    "meaning": "過來拜訪",
+    "category": "人際",
+    "example": "Why do you not come over for dinner this weekend?",
+    "exampleZh": "這週末要不要過來一起吃晚餐？"
+  },
+  {
+    "level": "L6",
+    "phrase": "hang out",
+    "meaning": "一起消磨時間",
+    "category": "人際",
+    "example": "We hung out at a café after the movie.",
+    "exampleZh": "看完電影後我們在咖啡店待了一會兒。"
+  },
+  {
+    "level": "L4",
+    "phrase": "get together",
+    "meaning": "聚會",
+    "category": "人際",
+    "example": "The family gets together every Lunar New Year.",
+    "exampleZh": "家人每年農曆新年都會聚在一起。"
+  },
+  {
+    "level": "L5",
+    "phrase": "get along with",
+    "meaning": "與…相處融洽",
+    "category": "人際",
+    "example": "She gets along well with everyone on her team.",
+    "exampleZh": "她和團隊裡每個人都相處得很好。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make friends with",
+    "meaning": "和…交朋友",
+    "category": "人際",
+    "example": "He made friends with several classmates during the course.",
+    "exampleZh": "他上課期間和幾位同學成了朋友。"
+  },
+  {
+    "level": "L5",
+    "phrase": "keep in touch",
+    "meaning": "保持聯絡",
+    "category": "人際",
+    "example": "We still keep in touch even though we live in different cities.",
+    "exampleZh": "雖然住在不同城市，我們還是保持聯絡。"
+  },
+  {
+    "level": "L6",
+    "phrase": "lose touch",
+    "meaning": "失去聯絡",
+    "category": "人際",
+    "example": "I lost touch with him after we graduated.",
+    "exampleZh": "畢業後我和他失去了聯絡。"
+  },
+  {
+    "level": "L4",
+    "phrase": "hear from",
+    "meaning": "收到…消息",
+    "category": "人際",
+    "example": "I have not heard from the hotel since I sent the request.",
+    "exampleZh": "我提出需求後一直沒有收到飯店回覆。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take care of",
+    "meaning": "照顧；處理",
+    "category": "日常工作",
+    "example": "I will take care of the booking while you pack.",
+    "exampleZh": "你收行李時，我來處理訂房。"
+  },
+  {
+    "level": "L4",
+    "phrase": "look after",
+    "meaning": "照顧",
+    "category": "家庭",
+    "example": "My parents looked after the dog while we traveled.",
+    "exampleZh": "我們旅行時由父母幫忙照顧狗。"
+  },
+  {
+    "level": "L6",
+    "phrase": "depend on",
+    "meaning": "取決於；依靠",
+    "category": "生活",
+    "example": "The picnic plan depends on the weather.",
+    "exampleZh": "野餐計畫取決於天氣。"
+  },
+  {
+    "level": "L6",
+    "phrase": "belong to",
+    "meaning": "屬於",
+    "category": "日常生活",
+    "example": "This umbrella belongs to the customer at table six.",
+    "exampleZh": "這把雨傘是六號桌客人的。"
+  },
+  {
+    "level": "L6",
+    "phrase": "deal with",
+    "meaning": "處理",
+    "category": "工作生活",
+    "example": "I need an hour to deal with these emails.",
+    "exampleZh": "我需要一小時處理這些電子郵件。"
+  },
+  {
+    "level": "L5",
+    "phrase": "agree with",
+    "meaning": "同意；適合",
+    "category": "溝通",
+    "example": "I agree with your idea to leave earlier.",
+    "exampleZh": "我同意你提早出發的想法。"
+  },
+  {
+    "level": "L6",
+    "phrase": "disagree with",
+    "meaning": "不同意",
+    "category": "溝通",
+    "example": "I disagree with the plan because it leaves no backup option.",
+    "exampleZh": "我不同意這個計畫，因為它沒有備案。"
+  },
+  {
+    "level": "L5",
+    "phrase": "apologize for",
+    "meaning": "為…道歉",
+    "category": "溝通",
+    "example": "He apologized for arriving late to the meeting.",
+    "exampleZh": "他為開會遲到道歉。"
+  },
+  {
+    "level": "L6",
+    "phrase": "complain about",
+    "meaning": "抱怨",
+    "category": "溝通",
+    "example": "Several passengers complained about the long delay.",
+    "exampleZh": "幾位乘客抱怨延誤太久。"
+  },
+  {
+    "level": "L6",
+    "phrase": "care about",
+    "meaning": "在乎",
+    "category": "人際",
+    "example": "She cares about how the decision affects her team.",
+    "exampleZh": "她很在乎這個決定會如何影響團隊。"
+  },
+  {
+    "level": "L6",
+    "phrase": "worry about",
+    "meaning": "擔心",
+    "category": "情緒",
+    "example": "Do not worry about dinner; I already ordered food.",
+    "exampleZh": "不用擔心晚餐，我已經叫餐了。"
+  },
+  {
+    "level": "L6",
+    "phrase": "prepare for",
+    "meaning": "準備",
+    "category": "工作學習",
+    "example": "We prepared for the interview by practicing common questions.",
+    "exampleZh": "我們透過練習常見問題準備面試。"
+  },
+  {
+    "level": "L6",
+    "phrase": "apply for",
+    "meaning": "申請",
+    "category": "工作學習",
+    "example": "She applied for a position at the airline.",
+    "exampleZh": "她申請了那家航空公司的職位。"
+  },
+  {
+    "level": "L5",
+    "phrase": "wait in line",
+    "meaning": "排隊等候",
+    "category": "日常生活",
+    "example": "We waited in line for twenty minutes to enter the exhibition.",
+    "exampleZh": "我們排了二十分鐘才進入展覽。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make a reservation",
+    "meaning": "預約；訂位",
+    "category": "旅行餐飲",
+    "example": "I made a reservation for four at seven thirty.",
+    "exampleZh": "我訂了晚上七點半四個人的位子。"
+  },
+  {
+    "level": "L4",
+    "phrase": "book a table",
+    "meaning": "訂餐廳座位",
+    "category": "餐飲",
+    "example": "We booked a table near the window for dinner.",
+    "exampleZh": "我們晚餐訂了靠窗的座位。"
+  },
+  {
+    "level": "L6",
+    "phrase": "place an order",
+    "meaning": "下單；點餐",
+    "category": "購物餐飲",
+    "example": "I placed the order online and chose store pickup.",
+    "exampleZh": "我在線上下單並選擇到店取貨。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make a payment",
+    "meaning": "付款",
+    "category": "財務",
+    "example": "You can make a payment by card at the counter.",
+    "exampleZh": "你可以在櫃檯刷卡付款。"
+  },
+  {
+    "level": "L5",
+    "phrase": "make a phone call",
+    "meaning": "打電話",
+    "category": "溝通",
+    "example": "I stepped outside to make a phone call.",
+    "exampleZh": "我走到外面打了一通電話。"
+  },
+  {
+    "level": "L5",
+    "phrase": "send a message",
+    "meaning": "傳訊息",
+    "category": "溝通",
+    "example": "Send me a message when the train arrives.",
+    "exampleZh": "火車到站時傳訊息給我。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make a mistake",
+    "meaning": "犯錯",
+    "category": "學習工作",
+    "example": "I made a mistake in the total and corrected it before sending the file.",
+    "exampleZh": "我算錯總數，在寄出檔案前改正了。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make a decision",
+    "meaning": "做決定",
+    "category": "工作生活",
+    "example": "We need more information before we make a decision.",
+    "exampleZh": "我們需要更多資訊才能做決定。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make a plan",
+    "meaning": "制定計畫",
+    "category": "生活",
+    "example": "We made a plan for what to do if it rains.",
+    "exampleZh": "我們先規劃好下雨時的備案。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make progress",
+    "meaning": "取得進展",
+    "category": "學習工作",
+    "example": "Her pronunciation has made steady progress this month.",
+    "exampleZh": "她這個月的發音穩定進步。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take notes",
+    "meaning": "做筆記",
+    "category": "學習工作",
+    "example": "I took notes during the briefing so I could review it later.",
+    "exampleZh": "我在簡報時做筆記，之後可以複習。"
+  },
+  {
+    "level": "L5",
+    "phrase": "take a photo",
+    "meaning": "拍照",
+    "category": "旅行生活",
+    "example": "We took a photo of the sign so we would remember the parking level.",
+    "exampleZh": "我們拍下標示，免得忘記停車樓層。"
+  },
+  {
+    "level": "L5",
+    "phrase": "take a taxi",
+    "meaning": "搭計程車",
+    "category": "交通",
+    "example": "We took a taxi because the last bus had already left.",
+    "exampleZh": "因為末班公車已經開走，我們搭了計程車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "take the bus",
+    "meaning": "搭公車",
+    "category": "交通",
+    "example": "I take the bus to work when it rains.",
+    "exampleZh": "下雨時我會搭公車上班。"
+  },
+  {
+    "level": "L4",
+    "phrase": "catch a train",
+    "meaning": "趕上火車",
+    "category": "交通",
+    "example": "We ran across the platform and caught the train just in time.",
+    "exampleZh": "我們跑過月台，剛好趕上火車。"
+  },
+  {
+    "level": "L5",
+    "phrase": "miss a train",
+    "meaning": "錯過火車",
+    "category": "交通",
+    "example": "I missed the train because the ticket machine was slow.",
+    "exampleZh": "因為售票機太慢，我錯過了火車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "get on",
+    "meaning": "上車",
+    "category": "交通",
+    "example": "We got on the bus near the night market.",
+    "exampleZh": "我們在夜市附近上了公車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "get off",
+    "meaning": "下車",
+    "category": "交通",
+    "example": "Get off at the next stop and cross the street.",
+    "exampleZh": "在下一站下車後過馬路。"
+  },
+  {
+    "level": "L6",
+    "phrase": "change trains",
+    "meaning": "轉乘火車",
+    "category": "交通",
+    "example": "You need to change trains at Taipei Main Station.",
+    "exampleZh": "你需要在台北車站轉車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "get to",
+    "meaning": "到達",
+    "category": "交通",
+    "example": "What is the easiest way to get to the museum?",
+    "exampleZh": "去博物館最簡單的方法是什麼？"
+  },
+  {
+    "level": "L6",
+    "phrase": "arrive at",
+    "meaning": "抵達小地點",
+    "category": "交通",
+    "example": "We arrived at the gate before boarding began.",
+    "exampleZh": "我們在開始登機前抵達登機門。"
+  },
+  {
+    "level": "L5",
+    "phrase": "arrive in",
+    "meaning": "抵達城市／國家",
+    "category": "交通",
+    "example": "They arrived in Tokyo late in the evening.",
+    "exampleZh": "他們晚上很晚才抵達東京。"
+  },
+  {
+    "level": "L5",
+    "phrase": "leave for",
+    "meaning": "出發前往",
+    "category": "交通",
+    "example": "We are leaving for the airport at five.",
+    "exampleZh": "我們五點要出發去機場。"
+  },
+  {
+    "level": "L4",
+    "phrase": "head for",
+    "meaning": "前往",
+    "category": "交通",
+    "example": "After lunch, we headed for the old town.",
+    "exampleZh": "午餐後我們前往老街。"
+  },
+  {
+    "level": "L5",
+    "phrase": "on the way",
+    "meaning": "在途中",
+    "category": "交通",
+    "example": "I picked up some fruit on the way home.",
+    "exampleZh": "我回家途中買了一些水果。"
+  },
+  {
+    "level": "L5",
+    "phrase": "by the way",
+    "meaning": "順帶一提",
+    "category": "溝通",
+    "example": "By the way, did you remember to charge the camera?",
+    "exampleZh": "對了，你有記得替相機充電嗎？"
+  },
+  {
+    "level": "L5",
+    "phrase": "for example",
+    "meaning": "例如",
+    "category": "表達",
+    "example": "Some fruits, for example bananas, ripen quickly in summer.",
+    "exampleZh": "有些水果，例如香蕉，夏天熟得很快。"
+  },
+  {
+    "level": "L4",
+    "phrase": "for now",
+    "meaning": "目前暫時",
+    "category": "時間",
+    "example": "For now, let us keep the original schedule.",
+    "exampleZh": "目前先維持原本的行程。"
+  },
+  {
+    "level": "L5",
+    "phrase": "from now on",
+    "meaning": "從現在起",
+    "category": "時間",
+    "example": "From now on, I will back up the files every Friday.",
+    "exampleZh": "從現在起，我每週五都會備份檔案。"
+  },
+  {
+    "level": "L5",
+    "phrase": "so far",
+    "meaning": "到目前為止",
+    "category": "時間",
+    "example": "So far, the new routine has worked well.",
+    "exampleZh": "到目前為止，新的作息運作得很好。"
+  },
+  {
+    "level": "L4",
+    "phrase": "at first",
+    "meaning": "起初",
+    "category": "時間",
+    "example": "At first, I found the new software confusing.",
+    "exampleZh": "一開始我覺得新軟體很難懂。"
+  },
+  {
+    "level": "L5",
+    "phrase": "in the end",
+    "meaning": "最後",
+    "category": "時間結果",
+    "example": "In the end, we chose the smaller hotel near the station.",
+    "exampleZh": "最後我們選了車站附近較小的飯店。"
+  },
+  {
+    "level": "L5",
+    "phrase": "at the end of",
+    "meaning": "在…結尾／末端",
+    "category": "時間地點",
+    "example": "There is a convenience store at the end of the street.",
+    "exampleZh": "這條街的盡頭有一間便利商店。"
+  },
+  {
+    "level": "L6",
+    "phrase": "at least",
+    "meaning": "至少",
+    "category": "數量程度",
+    "example": "Bring at least two bottles of water for the hike.",
+    "exampleZh": "健行至少帶兩瓶水。"
+  },
+  {
+    "level": "L4",
+    "phrase": "at most",
+    "meaning": "最多",
+    "category": "數量程度",
+    "example": "The repair should take at most two days.",
+    "exampleZh": "這次維修最多應該需要兩天。"
+  },
+  {
+    "level": "L4",
+    "phrase": "more than",
+    "meaning": "多於",
+    "category": "數量程度",
+    "example": "More than fifty people joined the workshop.",
+    "exampleZh": "有超過五十人參加工作坊。"
+  },
+  {
+    "level": "L8",
+    "phrase": "as soon as",
+    "meaning": "一…就…",
+    "category": "時間",
+    "example": "Call me as soon as you arrive at the hotel.",
+    "exampleZh": "你一到飯店就打電話給我。"
+  },
+  {
+    "level": "L8",
+    "phrase": "as long as",
+    "meaning": "只要；長達",
+    "category": "條件",
+    "example": "You can borrow the car as long as you return it before six.",
+    "exampleZh": "只要六點前還車，你就可以借。"
+  },
+  {
+    "level": "L8",
+    "phrase": "as far as",
+    "meaning": "就…而言；遠到",
+    "category": "表達",
+    "example": "As far as I know, the schedule has not changed.",
+    "exampleZh": "據我所知，行程沒有改。"
+  },
+  {
+    "level": "L9",
+    "phrase": "even though",
+    "meaning": "即使；雖然",
+    "category": "對比",
+    "example": "We went for a walk even though it was drizzling.",
+    "exampleZh": "雖然飄著毛毛雨，我們還是去散步。"
+  },
+  {
+    "level": "L9",
+    "phrase": "rather than",
+    "meaning": "而不是",
+    "category": "選擇",
+    "example": "I would take the train rather than drive in rush-hour traffic.",
+    "exampleZh": "尖峰時間我寧願搭火車，也不想開車。"
+  },
+  {
+    "level": "L9",
+    "phrase": "whether or not",
+    "meaning": "不論是否",
+    "category": "條件",
+    "example": "Please let me know whether or not you can attend.",
+    "exampleZh": "不論能不能參加，都請告訴我。"
+  },
+  {
+    "level": "L8",
+    "phrase": "not only ... but also",
+    "meaning": "不但…而且…",
+    "category": "連接",
+    "example": "The hotel is not only convenient but also surprisingly quiet.",
+    "exampleZh": "這間飯店不但方便，而且出乎意料地安靜。"
+  },
+  {
+    "level": "L8",
+    "phrase": "no matter what",
+    "meaning": "無論如何",
+    "category": "態度",
+    "example": "No matter what happens, keep your passport with you.",
+    "exampleZh": "無論發生什麼事，都要把護照帶在身上。"
+  },
+  {
+    "level": "L9",
+    "phrase": "no longer",
+    "meaning": "不再",
+    "category": "時間",
+    "example": "This bus route no longer stops near our house.",
+    "exampleZh": "這條公車路線已經不再停靠我家附近。"
+  },
+  {
+    "level": "L9",
+    "phrase": "step by step",
+    "meaning": "一步一步地",
+    "category": "進展",
+    "example": "The instructor explained the procedure step by step.",
+    "exampleZh": "教練一步一步說明流程。"
+  },
+  {
+    "level": "L8",
+    "phrase": "face to face",
+    "meaning": "面對面",
+    "category": "溝通",
+    "example": "We finally discussed the issue face to face.",
+    "exampleZh": "我們終於面對面談了那個問題。"
+  },
+  {
+    "level": "L8",
+    "phrase": "all of a sudden",
+    "meaning": "突然",
+    "category": "事件",
+    "example": "All of a sudden, the lights went out.",
+    "exampleZh": "燈突然全熄了。"
+  },
+  {
+    "level": "L7",
+    "phrase": "come up with",
+    "meaning": "想出",
+    "category": "問題解決",
+    "example": "We came up with a simpler way to organize the files.",
+    "exampleZh": "我們想出一個更簡單的檔案整理方法。"
+  },
+  {
+    "level": "L7",
+    "phrase": "come across",
+    "meaning": "偶然遇到；發現",
+    "category": "日常與資訊",
+    "example": "I came across an old photo while cleaning the drawer.",
+    "exampleZh": "我整理抽屜時偶然翻到一張舊照片。"
+  },
+  {
+    "level": "L7",
+    "phrase": "come up",
+    "meaning": "出現；被提出",
+    "category": "工作與生活",
+    "example": "A scheduling issue came up just before the meeting.",
+    "exampleZh": "開會前突然出現了一個排程問題。"
+  },
+  {
+    "level": "L7",
+    "phrase": "bring up",
+    "meaning": "提出話題；養育",
+    "category": "溝通",
+    "example": "She brought up the budget problem during the meeting.",
+    "exampleZh": "她在會議中提出了預算問題。"
+  },
+  {
+    "level": "L7",
+    "phrase": "point out",
+    "meaning": "指出",
+    "category": "溝通",
+    "example": "He pointed out a small error in the chart before we presented it.",
+    "exampleZh": "他在簡報前指出圖表裡的一個小錯誤。"
+  },
+  {
+    "level": "L7",
+    "phrase": "work on",
+    "meaning": "著手處理；改善",
+    "category": "工作學習",
+    "example": "I am working on making my answers shorter and clearer.",
+    "exampleZh": "我正在練習讓回答更精簡清楚。"
+  },
+  {
+    "level": "L7",
+    "phrase": "focus on",
+    "meaning": "專注於",
+    "category": "工作學習",
+    "example": "For this week, I am focusing on pronunciation and interview practice.",
+    "exampleZh": "這週我專注在發音與面試練習。"
+  },
+  {
+    "level": "L7",
+    "phrase": "concentrate on",
+    "meaning": "集中注意力於",
+    "category": "工作學習",
+    "example": "I turned off notifications so I could concentrate on the report.",
+    "exampleZh": "我關掉通知，好專心寫報告。"
+  },
+  {
+    "level": "L8",
+    "phrase": "rely on",
+    "meaning": "依賴；仰賴",
+    "category": "工作生活",
+    "example": "We should not rely on a single backup plan.",
+    "exampleZh": "我們不應該只仰賴一個備案。"
+  },
+  {
+    "level": "L7",
+    "phrase": "count on",
+    "meaning": "指望；信賴",
+    "category": "人際工作",
+    "example": "You can count on me to finish my part before Friday.",
+    "exampleZh": "你可以放心，我會在星期五前完成我的部分。"
+  },
+  {
+    "level": "L7",
+    "phrase": "end up",
+    "meaning": "最後變成；最終",
+    "category": "結果",
+    "example": "We planned to cook, but we ended up ordering pizza.",
+    "exampleZh": "我們原本打算煮飯，最後卻叫了披薩。"
+  },
+  {
+    "level": "L7",
+    "phrase": "turn out",
+    "meaning": "結果是；證明是",
+    "category": "結果",
+    "example": "The small restaurant turned out to be the best meal of the trip.",
+    "exampleZh": "那間小餐廳結果成了旅途中最好吃的一餐。"
+  },
+  {
+    "level": "L8",
+    "phrase": "work out well",
+    "meaning": "結果順利",
+    "category": "結果",
+    "example": "The new seating plan worked out well for the event.",
+    "exampleZh": "新的座位安排對這次活動很有效。"
+  },
+  {
+    "level": "L7",
+    "phrase": "go wrong",
+    "meaning": "出錯",
+    "category": "結果",
+    "example": "We checked the address twice so nothing would go wrong.",
+    "exampleZh": "我們把地址確認兩次，以免出錯。"
+  },
+  {
+    "level": "L7",
+    "phrase": "break down",
+    "meaning": "故障；分解",
+    "category": "科技交通",
+    "example": "Our car broke down on the way to the airport.",
+    "exampleZh": "我們的車在去機場途中故障了。"
+  },
+  {
+    "level": "L7",
+    "phrase": "break up",
+    "meaning": "分手；拆散",
+    "category": "人際",
+    "example": "They broke up last year but remained friends.",
+    "exampleZh": "他們去年分手，但仍保持朋友關係。"
+  },
+  {
+    "level": "L7",
+    "phrase": "break out",
+    "meaning": "突然爆發",
+    "category": "事件",
+    "example": "A small fire broke out in the kitchen, but no one was hurt.",
+    "exampleZh": "廚房突然起了小火，但沒有人受傷。"
+  },
+  {
+    "level": "L8",
+    "phrase": "break into",
+    "meaning": "闖入",
+    "category": "安全",
+    "example": "Someone tried to break into the shop during the night.",
+    "exampleZh": "有人半夜試圖闖進那間店。"
+  },
+  {
+    "level": "L7",
+    "phrase": "cut off",
+    "meaning": "切斷；中斷",
+    "category": "溝通交通",
+    "example": "The storm cut off power to several neighborhoods.",
+    "exampleZh": "暴風雨造成幾個社區停電。"
+  },
+  {
+    "level": "L7",
+    "phrase": "drop off",
+    "meaning": "放下；送到；減少",
+    "category": "交通生活",
+    "example": "I dropped off the package on my way to work.",
+    "exampleZh": "我上班途中順便把包裹送去寄。"
+  },
+  {
+    "level": "L7",
+    "phrase": "show up",
+    "meaning": "出現；到場",
+    "category": "人際工作",
+    "example": "Only half the guests showed up because of the weather.",
+    "exampleZh": "因為天氣不好，只有一半客人到場。"
+  },
+  {
+    "level": "L8",
+    "phrase": "show around",
+    "meaning": "帶…參觀",
+    "category": "人際旅行",
+    "example": "My colleague showed me around the new office.",
+    "exampleZh": "同事帶我參觀了新辦公室。"
+  },
+  {
+    "level": "L7",
+    "phrase": "take over",
+    "meaning": "接管；接手",
+    "category": "工作",
+    "example": "Mina will take over the project while her manager is away.",
+    "exampleZh": "經理不在時，Mina 會接手這個專案。"
+  },
+  {
+    "level": "L7",
+    "phrase": "take on",
+    "meaning": "承擔；接受",
+    "category": "工作",
+    "example": "I do not want to take on another task until this one is finished.",
+    "exampleZh": "這件事完成前，我不想再接新的工作。"
+  },
+  {
+    "level": "L7",
+    "phrase": "take up",
+    "meaning": "開始從事；占用",
+    "category": "生活工作",
+    "example": "She took up swimming after her doctor recommended low-impact exercise.",
+    "exampleZh": "醫生建議低衝擊運動後，她開始游泳。"
+  },
+  {
+    "level": "L7",
+    "phrase": "put off",
+    "meaning": "延後",
+    "category": "時間工作",
+    "example": "We put off the picnic because heavy rain was forecast.",
+    "exampleZh": "因為預報有大雨，我們把野餐延期。"
+  },
+  {
+    "level": "L7",
+    "phrase": "call off",
+    "meaning": "取消",
+    "category": "事件",
+    "example": "The outdoor event was called off because of strong winds.",
+    "exampleZh": "戶外活動因強風而取消。"
+  },
+  {
+    "level": "L8",
+    "phrase": "put together",
+    "meaning": "組裝；整理成",
+    "category": "工作生活",
+    "example": "I put together a short checklist for the trip.",
+    "exampleZh": "我整理了一份簡短的旅行檢查清單。"
+  },
+  {
+    "level": "L8",
+    "phrase": "take apart",
+    "meaning": "拆開",
+    "category": "科技生活",
+    "example": "He took the fan apart to clean the dust inside.",
+    "exampleZh": "他把風扇拆開清理裡面的灰塵。"
+  },
+  {
+    "level": "L8",
+    "phrase": "put up with",
+    "meaning": "忍受",
+    "category": "人際生活",
+    "example": "I cannot put up with the construction noise much longer.",
+    "exampleZh": "我快受不了施工噪音了。"
+  },
+  {
+    "level": "L9",
+    "phrase": "get rid of",
+    "meaning": "擺脫；丟掉",
+    "category": "生活",
+    "example": "We got rid of several boxes we no longer needed.",
+    "exampleZh": "我們丟掉了幾個不再需要的箱子。"
+  },
+  {
+    "level": "L9",
+    "phrase": "get through",
+    "meaning": "完成；熬過；接通",
+    "category": "工作生活",
+    "example": "We got through all the interviews before lunchtime.",
+    "exampleZh": "我們在午餐前完成了所有面試。"
+  },
+  {
+    "level": "L7",
+    "phrase": "get over",
+    "meaning": "克服；恢復",
+    "category": "健康情緒",
+    "example": "It took her a week to get over the flu.",
+    "exampleZh": "她花了一週才從流感中恢復。"
+  },
+  {
+    "level": "L7",
+    "phrase": "get around",
+    "meaning": "四處移動；規避",
+    "category": "旅行",
+    "example": "The metro is the easiest way to get around the city.",
+    "exampleZh": "搭捷運是在城市裡移動最方便的方法。"
+  },
+  {
+    "level": "L7",
+    "phrase": "get by",
+    "meaning": "勉強應付",
+    "category": "生活",
+    "example": "I can get by with basic Japanese when I travel.",
+    "exampleZh": "我旅行時用基本日文就能應付。"
+  },
+  {
+    "level": "L7",
+    "phrase": "get into",
+    "meaning": "開始對…有興趣；進入",
+    "category": "興趣",
+    "example": "I got into pour-over coffee during the pandemic.",
+    "exampleZh": "我在疫情期間開始迷上手沖咖啡。"
+  },
+  {
+    "level": "L8",
+    "phrase": "get out of",
+    "meaning": "避免；擺脫",
+    "category": "生活",
+    "example": "He tried to get out of doing the dishes.",
+    "exampleZh": "他想辦法逃避洗碗。"
+  },
+  {
+    "level": "L8",
+    "phrase": "go through",
+    "meaning": "經歷；仔細檢查",
+    "category": "工作生活",
+    "example": "We went through every document before submitting the application.",
+    "exampleZh": "送出申請前，我們逐份檢查文件。"
+  },
+  {
+    "level": "L7",
+    "phrase": "go with",
+    "meaning": "搭配；選擇",
+    "category": "生活",
+    "example": "This navy tie goes well with the gray suit.",
+    "exampleZh": "這條海軍藍領帶很搭灰色西裝。"
+  },
+  {
+    "level": "L7",
+    "phrase": "go without",
+    "meaning": "沒有…也過得去",
+    "category": "生活",
+    "example": "I can go without dessert, but not without coffee.",
+    "exampleZh": "我可以不吃甜點，但不能沒有咖啡。"
+  },
+  {
+    "level": "L7",
+    "phrase": "go by",
+    "meaning": "依據；經過",
+    "category": "時間資訊",
+    "example": "Do not go by the photo alone; read the product details too.",
+    "exampleZh": "不要只看照片，也要讀商品說明。"
+  },
+  {
+    "level": "L7",
+    "phrase": "go back on",
+    "meaning": "違背承諾",
+    "category": "人際",
+    "example": "He never goes back on a promise once he gives his word.",
+    "exampleZh": "他一旦承諾，就不會食言。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look into",
+    "meaning": "調查",
+    "category": "工作資訊",
+    "example": "The airline said it would look into the baggage issue.",
+    "exampleZh": "航空公司表示會調查行李問題。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look up",
+    "meaning": "查詢",
+    "category": "學習資訊",
+    "example": "I looked up the pronunciation before using the word in class.",
+    "exampleZh": "我上課使用那個字前先查了發音。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look up to",
+    "meaning": "敬佩",
+    "category": "人際",
+    "example": "She has always looked up to her older sister.",
+    "exampleZh": "她一直很敬佩姊姊。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look down on",
+    "meaning": "看不起",
+    "category": "人際",
+    "example": "A good leader should never look down on junior staff.",
+    "exampleZh": "好的主管不應該看不起資淺員工。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look back on",
+    "meaning": "回顧",
+    "category": "人生",
+    "example": "I look back on that trip as one of our happiest memories.",
+    "exampleZh": "我回想那趟旅行時，仍覺得那是最開心的回憶之一。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look out for",
+    "meaning": "留意；照顧",
+    "category": "安全人際",
+    "example": "Look out for the small sign near the station exit.",
+    "exampleZh": "留意車站出口附近那個小標誌。"
+  },
+  {
+    "level": "L7",
+    "phrase": "come back to",
+    "meaning": "回到話題；稍後處理",
+    "category": "溝通",
+    "example": "Let us come back to that point after we review the numbers.",
+    "exampleZh": "我們看完數字後再回到那個重點。"
+  },
+  {
+    "level": "L9",
+    "phrase": "refer to",
+    "meaning": "指的是；參考",
+    "category": "資訊",
+    "example": "When I say “the report,” I am referring to the latest version.",
+    "exampleZh": "我說「報告」時，指的是最新版本。"
+  },
+  {
+    "level": "L9",
+    "phrase": "lead to",
+    "meaning": "導致",
+    "category": "因果",
+    "example": "Poor sleep can lead to slower reaction times.",
+    "exampleZh": "睡眠不足可能導致反應變慢。"
+  },
+  {
+    "level": "L7",
+    "phrase": "result in",
+    "meaning": "導致",
+    "category": "因果",
+    "example": "The road closure resulted in heavy traffic downtown.",
+    "exampleZh": "道路封閉導致市中心交通壅塞。"
+  },
+  {
+    "level": "L8",
+    "phrase": "result from",
+    "meaning": "由…造成",
+    "category": "因果",
+    "example": "The delay resulted from a mechanical inspection.",
+    "exampleZh": "延誤是機械檢查造成的。"
+  },
+  {
+    "level": "L9",
+    "phrase": "contribute to",
+    "meaning": "促成；有助於",
+    "category": "因果",
+    "example": "Regular practice contributes to more confident speaking.",
+    "exampleZh": "規律練習有助於更有自信地口說。"
+  },
+  {
+    "level": "L9",
+    "phrase": "prevent someone from",
+    "meaning": "阻止…做",
+    "category": "因果",
+    "example": "The heavy rain prevented us from hiking that morning.",
+    "exampleZh": "大雨讓我們那天早上無法健行。"
+  },
+  {
+    "level": "L9",
+    "phrase": "protect someone from",
+    "meaning": "保護免受",
+    "category": "安全",
+    "example": "This cover protects the tablet from scratches.",
+    "exampleZh": "這個保護套可以防止平板刮傷。"
+  },
+  {
+    "level": "L9",
+    "phrase": "recover from",
+    "meaning": "從…恢復",
+    "category": "健康",
+    "example": "He is still recovering from a knee injury.",
+    "exampleZh": "他仍在從膝傷中恢復。"
+  },
+  {
+    "level": "L9",
+    "phrase": "suffer from",
+    "meaning": "受…之苦",
+    "category": "健康",
+    "example": "Many people suffer from allergies during spring.",
+    "exampleZh": "很多人春天會受過敏困擾。"
+  },
+  {
+    "level": "L9",
+    "phrase": "benefit from",
+    "meaning": "受益於",
+    "category": "工作學習",
+    "example": "New employees benefit from clear training materials.",
+    "exampleZh": "新進員工會受益於清楚的訓練教材。"
+  },
+  {
+    "level": "L7",
+    "phrase": "participate in",
+    "meaning": "參與",
+    "category": "工作學習",
+    "example": "More than sixty students participated in the workshop.",
+    "exampleZh": "超過六十位學生參加了工作坊。"
+  },
+  {
+    "level": "L8",
+    "phrase": "take part in",
+    "meaning": "參加",
+    "category": "活動",
+    "example": "Our team took part in a charity run last weekend.",
+    "exampleZh": "我們團隊上週末參加了公益路跑。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be responsible for",
+    "meaning": "負責",
+    "category": "工作",
+    "example": "She is responsible for checking the final schedule.",
+    "exampleZh": "她負責確認最終行程。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be in charge of",
+    "meaning": "負責管理",
+    "category": "工作",
+    "example": "Who is in charge of the customer service desk today?",
+    "exampleZh": "今天誰負責客服櫃檯？"
+  },
+  {
+    "level": "L8",
+    "phrase": "be familiar with",
+    "meaning": "熟悉",
+    "category": "工作學習",
+    "example": "Pilots must be familiar with the procedures before a flight.",
+    "exampleZh": "飛行員在飛行前必須熟悉相關程序。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be aware of",
+    "meaning": "意識到；注意",
+    "category": "安全工作",
+    "example": "Be aware of cyclists when opening the car door.",
+    "exampleZh": "開車門時要注意騎腳踏車的人。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be proud of",
+    "meaning": "以…為榮",
+    "category": "感受",
+    "example": "She is proud of how much her students have improved.",
+    "exampleZh": "她為學生的進步感到驕傲。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be satisfied with",
+    "meaning": "對…滿意",
+    "category": "感受",
+    "example": "We were satisfied with the hotel’s service and location.",
+    "exampleZh": "我們對飯店的服務與位置都很滿意。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be disappointed with",
+    "meaning": "對…失望",
+    "category": "感受",
+    "example": "I was disappointed with the battery life of the new device.",
+    "exampleZh": "我對新裝置的電池續航很失望。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be concerned about",
+    "meaning": "擔心；關切",
+    "category": "工作生活",
+    "example": "Residents are concerned about traffic near the school.",
+    "exampleZh": "居民很關切學校附近的交通問題。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be known for",
+    "meaning": "以…聞名",
+    "category": "描述",
+    "example": "The town is known for its old streets and local snacks.",
+    "exampleZh": "這座小鎮以老街和在地小吃聞名。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be based on",
+    "meaning": "以…為基礎",
+    "category": "資訊",
+    "example": "The estimate is based on last year’s sales data.",
+    "exampleZh": "這項估算是根據去年的銷售資料。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be related to",
+    "meaning": "與…相關",
+    "category": "資訊",
+    "example": "The two symptoms may be related to lack of sleep.",
+    "exampleZh": "這兩個症狀可能和睡眠不足有關。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be different from",
+    "meaning": "與…不同",
+    "category": "比較",
+    "example": "This model is different from the one we tested last month.",
+    "exampleZh": "這個型號和我們上個月測試的不同。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be similar to",
+    "meaning": "與…相似",
+    "category": "比較",
+    "example": "The new layout is similar to the old one but easier to read.",
+    "exampleZh": "新版面和舊版相似，但更容易閱讀。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be suitable for",
+    "meaning": "適合",
+    "category": "選擇",
+    "example": "This trail is suitable for families with young children.",
+    "exampleZh": "這條步道適合有幼兒的家庭。"
+  },
+  {
+    "level": "L8",
+    "phrase": "be likely to",
+    "meaning": "很可能",
+    "category": "推測",
+    "example": "Flights are likely to be busy during the holiday weekend.",
+    "exampleZh": "連假期間航班很可能會很滿。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be unlikely to",
+    "meaning": "不太可能",
+    "category": "推測",
+    "example": "The temperature is unlikely to drop below ten tonight.",
+    "exampleZh": "今晚氣溫不太可能降到十度以下。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be willing to",
+    "meaning": "願意",
+    "category": "態度",
+    "example": "The store was willing to exchange the damaged item.",
+    "exampleZh": "店家願意更換損壞的商品。"
+  },
+  {
+    "level": "L9",
+    "phrase": "be willing to help",
+    "meaning": "願意幫忙",
+    "category": "態度",
+    "example": "Everyone on the team was willing to help with the last-minute change.",
+    "exampleZh": "團隊每個人都願意協助臨時變更。"
+  },
+  {
+    "level": "L9",
+    "phrase": "have trouble with",
+    "meaning": "在…方面有困難",
+    "category": "學習生活",
+    "example": "I have trouble with long English sentences when I am tired.",
+    "exampleZh": "我累的時候很難理解長英文句子。"
+  },
+  {
+    "level": "L9",
+    "phrase": "have difficulty doing",
+    "meaning": "做…有困難",
+    "category": "學習生活",
+    "example": "She had difficulty finding the hotel in the narrow streets.",
+    "exampleZh": "她在小巷裡很難找到飯店。"
+  },
+  {
+    "level": "L9",
+    "phrase": "have a chance to",
+    "meaning": "有機會做",
+    "category": "機會",
+    "example": "I had a chance to visit the cockpit during the event.",
+    "exampleZh": "我在活動中有機會參觀駕駛艙。"
+  },
+  {
+    "level": "L8",
+    "phrase": "have no idea",
+    "meaning": "完全不知道",
+    "category": "溝通",
+    "example": "I had no idea the shop closed so early on Sundays.",
+    "exampleZh": "我完全不知道那家店星期日這麼早關門。"
+  },
+  {
+    "level": "L9",
+    "phrase": "have something to do with",
+    "meaning": "和…有關",
+    "category": "資訊",
+    "example": "The noise may have something to do with the air conditioner.",
+    "exampleZh": "這個聲音可能和冷氣有關。"
+  },
+  {
+    "level": "L9",
+    "phrase": "make sense",
+    "meaning": "合理；有道理",
+    "category": "理解",
+    "example": "Your explanation makes sense now that I can see the diagram.",
+    "exampleZh": "看到圖之後，你的解釋現在很有道理。"
+  },
+  {
+    "level": "L9",
+    "phrase": "make a difference",
+    "meaning": "產生影響",
+    "category": "影響",
+    "example": "Even ten minutes of practice a day can make a difference.",
+    "exampleZh": "每天就算只練十分鐘，也會有差。"
+  },
+  {
+    "level": "L9",
+    "phrase": "make an effort",
+    "meaning": "努力",
+    "category": "態度",
+    "example": "He made an effort to speak English during the entire trip.",
+    "exampleZh": "整趟旅行他都努力用英文溝通。"
+  },
+  {
+    "level": "L8",
+    "phrase": "make use of",
+    "meaning": "利用",
+    "category": "工作學習",
+    "example": "We made use of the waiting time to review our notes.",
+    "exampleZh": "我們利用等待時間複習筆記。"
+  },
+  {
+    "level": "L9",
+    "phrase": "take advantage of",
+    "meaning": "善用；利用",
+    "category": "機會",
+    "example": "Take advantage of the free shuttle if you have heavy luggage.",
+    "exampleZh": "如果行李很多，可以善用免費接駁車。"
+  },
+  {
+    "level": "L9",
+    "phrase": "take responsibility for",
+    "meaning": "為…負責",
+    "category": "工作",
+    "example": "The manager took responsibility for the scheduling mistake.",
+    "exampleZh": "經理為排程錯誤負責。"
+  },
+  {
+    "level": "L9",
+    "phrase": "take into account",
+    "meaning": "把…納入考量",
+    "category": "決策",
+    "example": "We need to take travel time into account when planning the day.",
+    "exampleZh": "規劃一天行程時要把交通時間算進去。"
+  },
+  {
+    "level": "L9",
+    "phrase": "keep in mind",
+    "meaning": "記住；考量",
+    "category": "提醒",
+    "example": "Keep in mind that the museum closes early on Monday.",
+    "exampleZh": "請記得博物館星期一會提早閉館。"
+  },
+  {
+    "level": "L8",
+    "phrase": "bear in mind",
+    "meaning": "牢記",
+    "category": "提醒",
+    "example": "Bear in mind that prices may change during peak season.",
+    "exampleZh": "請記住旺季價格可能會變動。"
+  },
+  {
+    "level": "L9",
+    "phrase": "in case of",
+    "meaning": "萬一；遇到…時",
+    "category": "安全",
+    "example": "In case of fire, use the stairs instead of the elevator.",
+    "exampleZh": "萬一發生火災，請走樓梯而不要搭電梯。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in case",
+    "meaning": "以防萬一",
+    "category": "準備",
+    "example": "Bring a light jacket in case it gets cold after sunset.",
+    "exampleZh": "帶件薄外套，以防日落後變冷。"
+  },
+  {
+    "level": "L9",
+    "phrase": "in addition to",
+    "meaning": "除了…之外還",
+    "category": "補充",
+    "example": "In addition to English, she is studying Japanese.",
+    "exampleZh": "除了英文之外，她也在學日文。"
+  },
+  {
+    "level": "L8",
+    "phrase": "as a result",
+    "meaning": "因此；結果",
+    "category": "因果",
+    "example": "The road was flooded; as a result, the bus route changed.",
+    "exampleZh": "道路淹水，因此公車改道。"
+  },
+  {
+    "level": "L8",
+    "phrase": "as a result of",
+    "meaning": "由於…的結果",
+    "category": "因果",
+    "example": "Several flights were delayed as a result of strong winds.",
+    "exampleZh": "幾個航班因強風而延誤。"
+  },
+  {
+    "level": "L7",
+    "phrase": "in fact",
+    "meaning": "事實上",
+    "category": "表達",
+    "example": "I thought the café was new, but in fact it has been here for years.",
+    "exampleZh": "我以為這家咖啡店是新的，其實已經開很多年了。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in general",
+    "meaning": "一般而言",
+    "category": "表達",
+    "example": "In general, weekday mornings are quieter at the gym.",
+    "exampleZh": "一般而言，健身房平日早上比較安靜。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in particular",
+    "meaning": "尤其；特別是",
+    "category": "表達",
+    "example": "I enjoy Taiwanese tea, oolong in particular.",
+    "exampleZh": "我喜歡台灣茶，尤其是烏龍茶。"
+  },
+  {
+    "level": "L9",
+    "phrase": "in other words",
+    "meaning": "換句話說",
+    "category": "表達",
+    "example": "The ticket is nonrefundable; in other words, you cannot get your money back.",
+    "exampleZh": "這張票不能退，也就是說無法退款。"
+  },
+  {
+    "level": "L7",
+    "phrase": "on the other hand",
+    "meaning": "另一方面",
+    "category": "表達",
+    "example": "Driving is convenient; on the other hand, parking downtown is difficult.",
+    "exampleZh": "開車很方便，但另一方面市中心停車很麻煩。"
+  },
+  {
+    "level": "L8",
+    "phrase": "on the other side",
+    "meaning": "在另一側",
+    "category": "地點",
+    "example": "The taxi stand is on the other side of the station.",
+    "exampleZh": "計程車招呼站在車站另一側。"
+  },
+  {
+    "level": "L8",
+    "phrase": "on purpose",
+    "meaning": "故意地",
+    "category": "態度",
+    "example": "I did not ignore your message on purpose; I was in a meeting.",
+    "exampleZh": "我不是故意不回訊息，當時正在開會。"
+  },
+  {
+    "level": "L9",
+    "phrase": "by accident",
+    "meaning": "不小心；意外地",
+    "category": "事件",
+    "example": "I deleted the photo by accident but restored it from the backup.",
+    "exampleZh": "我不小心刪掉照片，但從備份救回來了。"
+  },
+  {
+    "level": "L9",
+    "phrase": "by mistake",
+    "meaning": "弄錯地",
+    "category": "事件",
+    "example": "The package was delivered to our neighbor by mistake.",
+    "exampleZh": "包裹誤送到鄰居家。"
+  },
+  {
+    "level": "L9",
+    "phrase": "in advance",
+    "meaning": "事先",
+    "category": "準備",
+    "example": "Book the restaurant in advance during the holiday season.",
+    "exampleZh": "假日期間要事先訂餐廳。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in detail",
+    "meaning": "詳細地",
+    "category": "表達",
+    "example": "The guide explained the safety rules in detail.",
+    "exampleZh": "導遊詳細說明了安全規則。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in public",
+    "meaning": "在公開場合",
+    "category": "情境",
+    "example": "He feels nervous speaking English in public.",
+    "exampleZh": "他在公開場合說英文會緊張。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in private",
+    "meaning": "私下",
+    "category": "情境",
+    "example": "The manager discussed the issue with her in private.",
+    "exampleZh": "經理私下和她討論這個問題。"
+  },
+  {
+    "level": "L8",
+    "phrase": "in common",
+    "meaning": "有共同點",
+    "category": "人際",
+    "example": "We discovered that we have a lot in common.",
+    "exampleZh": "我們發現彼此有很多共同點。"
+  },
+  {
+    "level": "L8",
+    "phrase": "on average",
+    "meaning": "平均而言",
+    "category": "數據",
+    "example": "On average, the commute takes about thirty minutes.",
+    "exampleZh": "平均來說，通勤大約需要三十分鐘。"
+  },
+  {
+    "level": "L11",
+    "phrase": "meet a deadline",
+    "meaning": "趕上期限",
+    "category": "工作",
+    "example": "We divided the work so we could meet the deadline.",
+    "exampleZh": "我們分工合作，好在期限前完成。"
+  },
+  {
+    "level": "L11",
+    "phrase": "set a goal",
+    "meaning": "設定目標",
+    "category": "學習工作",
+    "example": "I set a goal of practicing speaking for twenty minutes a day.",
+    "exampleZh": "我設定每天練二十分鐘口說的目標。"
+  },
+  {
+    "level": "L12",
+    "phrase": "pave the way for",
+    "meaning": "為…鋪路",
+    "category": "正式表達",
+    "example": "The agreement paved the way for direct flights between the two cities.",
+    "exampleZh": "這項協議為兩座城市間的直飛航班鋪路。"
+  },
+  {
+    "level": "L12",
+    "phrase": "shed light on",
+    "meaning": "闡明；讓…更清楚",
+    "category": "分析",
+    "example": "The new data sheds light on why the failure occurred.",
+    "exampleZh": "新資料讓故障原因更清楚。"
+  },
+  {
+    "level": "L12",
+    "phrase": "take precedence over",
+    "meaning": "優先於",
+    "category": "正式表達",
+    "example": "Safety should always take precedence over speed.",
+    "exampleZh": "安全永遠應該優先於速度。"
+  },
+  {
+    "level": "L11",
+    "phrase": "be on the same page",
+    "meaning": "有相同理解",
+    "category": "工作溝通",
+    "example": "Let us confirm the scope so everyone is on the same page.",
+    "exampleZh": "我們先確認範圍，確保大家理解一致。"
+  },
+  {
+    "level": "L11",
+    "phrase": "get the point across",
+    "meaning": "把重點表達清楚",
+    "category": "溝通",
+    "example": "A simple chart helped me get the point across quickly.",
+    "exampleZh": "一張簡單圖表幫我很快把重點表達清楚。"
+  },
+  {
+    "level": "L11",
+    "phrase": "get straight to the point",
+    "meaning": "直接切入重點",
+    "category": "溝通",
+    "example": "Because the meeting was short, she got straight to the point.",
+    "exampleZh": "因為會議時間短，她直接切入重點。"
+  },
+  {
+    "level": "L11",
+    "phrase": "go the extra mile",
+    "meaning": "多做一步",
+    "category": "工作態度",
+    "example": "The staff went the extra mile and found us a quieter room.",
+    "exampleZh": "工作人員多做了一步，幫我們找到更安靜的房間。"
+  },
+  {
+    "level": "L11",
+    "phrase": "cut corners",
+    "meaning": "偷工減料；走捷徑",
+    "category": "工作態度",
+    "example": "We cannot cut corners when checking safety equipment.",
+    "exampleZh": "檢查安全設備時不能偷工減料。"
+  },
+  {
+    "level": "L11",
+    "phrase": "rule out",
+    "meaning": "排除",
+    "category": "分析",
+    "example": "The technician ruled out a battery problem first.",
+    "exampleZh": "技師先排除了電池問題。"
+  },
+  {
+    "level": "L11",
+    "phrase": "narrow down",
+    "meaning": "縮小範圍",
+    "category": "分析",
+    "example": "We narrowed down the hotel choices to three.",
+    "exampleZh": "我們把飯店選項縮小到三間。"
+  },
+  {
+    "level": "L11",
+    "phrase": "weigh the pros and cons",
+    "meaning": "權衡利弊",
+    "category": "決策",
+    "example": "We weighed the pros and cons before replacing the car.",
+    "exampleZh": "換車前我們仔細權衡了利弊。"
+  },
+  {
+    "level": "L11",
+    "phrase": "strike a balance",
+    "meaning": "取得平衡",
+    "category": "決策",
+    "example": "The schedule tries to strike a balance between study and rest.",
+    "exampleZh": "這份行程試著在學習與休息間取得平衡。"
+  },
+  {
+    "level": "L10",
+    "phrase": "make the most of",
+    "meaning": "充分利用",
+    "category": "機會",
+    "example": "We made the most of the rainy afternoon by visiting a museum.",
+    "exampleZh": "下雨的下午我們去逛博物館，充分利用時間。"
+  },
+  {
+    "level": "L10",
+    "phrase": "take something for granted",
+    "meaning": "把…視為理所當然",
+    "category": "態度",
+    "example": "You do not notice reliable internet until you stop taking it for granted.",
+    "exampleZh": "直到網路不穩時，你才會發現自己一直把穩定網路視為理所當然。"
+  },
+  {
+    "level": "L10",
+    "phrase": "get the hang of",
+    "meaning": "掌握訣竅",
+    "category": "學習",
+    "example": "It took me a few tries to get the hang of the new controls.",
+    "exampleZh": "我試了幾次才掌握新操作方式。"
+  },
+  {
+    "level": "L10",
+    "phrase": "get the ball rolling",
+    "meaning": "讓事情開始進行",
+    "category": "工作",
+    "example": "I sent the first draft to get the ball rolling.",
+    "exampleZh": "我先寄出初稿，讓事情開始推進。"
+  },
+  {
+    "level": "L11",
+    "phrase": "address a problem",
+    "meaning": "處理問題",
+    "category": "工作",
+    "example": "We need to address the login problem before adding new features.",
+    "exampleZh": "加入新功能前，我們要先處理登入問題。"
+  },
+  {
+    "level": "L11",
+    "phrase": "raise concerns about",
+    "meaning": "引發對…的擔憂",
+    "category": "討論",
+    "example": "The report raised concerns about battery safety.",
+    "exampleZh": "這份報告引發了對電池安全的疑慮。"
+  },
+  {
+    "level": "L12",
+    "phrase": "be subject to",
+    "meaning": "受…約束；可能遭受",
+    "category": "正式表達",
+    "example": "Flight times are subject to change because of weather.",
+    "exampleZh": "航班時間可能因天氣而變動。"
+  },
+  {
+    "level": "L12",
+    "phrase": "be entitled to",
+    "meaning": "有權享有",
+    "category": "正式表達",
+    "example": "Passengers may be entitled to a refund under the fare rules.",
+    "exampleZh": "依票價規則，乘客可能有權獲得退款。"
+  },
+  {
+    "level": "L11",
+    "phrase": "be committed to",
+    "meaning": "致力於",
+    "category": "工作態度",
+    "example": "The company says it is committed to improving service reliability.",
+    "exampleZh": "公司表示致力於改善服務可靠度。"
+  },
+  {
+    "level": "L10",
+    "phrase": "be capable of",
+    "meaning": "有能力做到",
+    "category": "能力",
+    "example": "This battery is capable of powering the device all day.",
+    "exampleZh": "這顆電池有能力讓裝置運作一整天。"
+  },
+  {
+    "level": "L10",
+    "phrase": "be prone to",
+    "meaning": "容易…",
+    "category": "分析",
+    "example": "This area is prone to flooding during heavy rain.",
+    "exampleZh": "這個地區大雨時容易淹水。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in terms of",
+    "meaning": "就…而言",
+    "category": "正式表達",
+    "example": "In terms of cost, the train is cheaper than flying.",
+    "exampleZh": "就費用而言，搭火車比搭飛機便宜。"
+  },
+  {
+    "level": "L11",
+    "phrase": "with regard to",
+    "meaning": "關於",
+    "category": "正式表達",
+    "example": "With regard to your request, we can move the appointment to Friday.",
+    "exampleZh": "關於你的要求，我們可以把預約改到星期五。"
+  },
+  {
+    "level": "L11",
+    "phrase": "in response to",
+    "meaning": "回應；針對",
+    "category": "正式表達",
+    "example": "The company added more staff in response to customer complaints.",
+    "exampleZh": "公司因應顧客抱怨而增加人手。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in light of",
+    "meaning": "鑑於；考量到",
+    "category": "正式表達",
+    "example": "In light of the storm warning, the event was moved indoors.",
+    "exampleZh": "考量暴風雨警報，活動改到室內舉行。"
+  },
+  {
+    "level": "L11",
+    "phrase": "on behalf of",
+    "meaning": "代表",
+    "category": "正式表達",
+    "example": "On behalf of the team, I thanked the volunteers for their help.",
+    "exampleZh": "我代表團隊感謝志工的協助。"
+  },
+  {
+    "level": "L10",
+    "phrase": "by means of",
+    "meaning": "藉由",
+    "category": "正式表達",
+    "example": "The device connects to the network by means of a small adapter.",
+    "exampleZh": "這個裝置透過一個小型轉接器連上網路。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for the sake of",
+    "meaning": "為了…著想",
+    "category": "正式表達",
+    "example": "For the sake of safety, we postponed the hike until the weather improved.",
+    "exampleZh": "為了安全起見，我們把健行延後到天氣好轉。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in the long run",
+    "meaning": "長期而言",
+    "category": "時間與結果",
+    "example": "Buying a reliable appliance may save money in the long run.",
+    "exampleZh": "長期而言，買可靠的家電可能反而省錢。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in the short run",
+    "meaning": "短期而言",
+    "category": "時間與結果",
+    "example": "In the short run, the renovation will make the office less convenient.",
+    "exampleZh": "短期而言，裝修會讓辦公室比較不方便。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for the time being",
+    "meaning": "目前暫時",
+    "category": "時間",
+    "example": "For the time being, we will keep the old system running.",
+    "exampleZh": "目前暫時先維持舊系統運作。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in the meantime",
+    "meaning": "同時；在此期間",
+    "category": "時間",
+    "example": "The repair will take an hour; in the meantime, you can wait in the lounge.",
+    "exampleZh": "維修需要一小時，這段時間你可以在休息室等。"
+  },
+  {
+    "level": "L10",
+    "phrase": "at this point",
+    "meaning": "在這個階段",
+    "category": "時間與狀態",
+    "example": "At this point, changing hotels would cause more trouble than it solves.",
+    "exampleZh": "到了這個階段，換飯店反而會帶來更多麻煩。"
+  },
+  {
+    "level": "L10",
+    "phrase": "at some point",
+    "meaning": "在某個時候",
+    "category": "時間",
+    "example": "We should replace the old shelves at some point this year.",
+    "exampleZh": "我們今年某個時候應該把舊層架換掉。"
+  },
+  {
+    "level": "L10",
+    "phrase": "at all times",
+    "meaning": "隨時；始終",
+    "category": "規範",
+    "example": "Passengers must keep their seat belts fastened at all times when the sign is on.",
+    "exampleZh": "安全帶燈亮時，乘客必須全程繫好安全帶。"
+  },
+  {
+    "level": "L11",
+    "phrase": "at your convenience",
+    "meaning": "在你方便時",
+    "category": "正式溝通",
+    "example": "Please review the document at your convenience.",
+    "exampleZh": "請在你方便時查看這份文件。"
+  },
+  {
+    "level": "L11",
+    "phrase": "at your earliest convenience",
+    "meaning": "請儘早在方便時",
+    "category": "正式溝通",
+    "example": "Please send the signed form back at your earliest convenience.",
+    "exampleZh": "請在方便時儘早把簽好的表格寄回。"
+  },
+  {
+    "level": "L10",
+    "phrase": "by all means",
+    "meaning": "當然可以；務必",
+    "category": "正式溝通",
+    "example": "By all means, use the meeting room if you need a quiet place.",
+    "exampleZh": "當然可以，如果需要安靜的地方就用會議室吧。"
+  },
+  {
+    "level": "L10",
+    "phrase": "by no means",
+    "meaning": "絕不；一點也不",
+    "category": "強調",
+    "example": "The task is difficult, but it is by no means impossible.",
+    "exampleZh": "這項任務很難，但絕不是不可能。"
+  },
+  {
+    "level": "L12",
+    "phrase": "by and large",
+    "meaning": "大體而言",
+    "category": "總結",
+    "example": "By and large, the new schedule has worked better for the team.",
+    "exampleZh": "整體而言，新排程對團隊運作得更好。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to a certain extent",
+    "meaning": "在某種程度上",
+    "category": "正式表達",
+    "example": "To a certain extent, the delay was unavoidable because of the weather.",
+    "exampleZh": "在某種程度上，這次延誤因天氣而無法避免。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to some extent",
+    "meaning": "在某種程度上",
+    "category": "正式表達",
+    "example": "The two products overlap to some extent, but they serve different users.",
+    "exampleZh": "這兩項產品某種程度上重疊，但服務的使用者不同。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to the best of my knowledge",
+    "meaning": "據我所知",
+    "category": "正式表達",
+    "example": "To the best of my knowledge, no final decision has been announced.",
+    "exampleZh": "據我所知，目前還沒有宣布最終決定。"
+  },
+  {
+    "level": "L10",
+    "phrase": "as far as I am concerned",
+    "meaning": "就我而言",
+    "category": "表達意見",
+    "example": "As far as I am concerned, the quieter hotel is worth the extra cost.",
+    "exampleZh": "就我而言，為了更安靜的飯店多花一點錢值得。"
+  },
+  {
+    "level": "L10",
+    "phrase": "as far as possible",
+    "meaning": "盡可能",
+    "category": "正式表達",
+    "example": "We tried to keep the original design as far as possible.",
+    "exampleZh": "我們盡可能保留原本的設計。"
+  },
+  {
+    "level": "L12",
+    "phrase": "as opposed to",
+    "meaning": "相對於；而不是",
+    "category": "比較",
+    "example": "This model uses a physical button as opposed to a touch control.",
+    "exampleZh": "這個型號使用實體按鍵，而不是觸控操作。"
+  },
+  {
+    "level": "L10",
+    "phrase": "as well as",
+    "meaning": "以及；也",
+    "category": "連接",
+    "example": "The course covers speaking skills as well as interview strategy.",
+    "exampleZh": "這門課除了口說，也涵蓋面試策略。"
+  },
+  {
+    "level": "L10",
+    "phrase": "as a whole",
+    "meaning": "整體而言",
+    "category": "總結",
+    "example": "The project is on schedule as a whole, despite a few small delays.",
+    "exampleZh": "儘管有幾個小延誤，整體專案仍按進度進行。"
+  },
+  {
+    "level": "L10",
+    "phrase": "on the whole",
+    "meaning": "總體而言",
+    "category": "總結",
+    "example": "On the whole, the trip went smoothly.",
+    "exampleZh": "整體而言，這趟旅行很順利。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for the most part",
+    "meaning": "大部分情況下",
+    "category": "總結",
+    "example": "For the most part, customers were satisfied with the new service.",
+    "exampleZh": "大部分顧客都對新服務感到滿意。"
+  },
+  {
+    "level": "L10",
+    "phrase": "more often than not",
+    "meaning": "通常；多半",
+    "category": "頻率",
+    "example": "More often than not, the first train is less crowded than the later ones.",
+    "exampleZh": "通常第一班火車比後面的班次不擁擠。"
+  },
+  {
+    "level": "L10",
+    "phrase": "once and for all",
+    "meaning": "一勞永逸地",
+    "category": "強調",
+    "example": "We replaced the faulty cable once and for all.",
+    "exampleZh": "我們直接把故障電線換掉，一次解決問題。"
+  },
+  {
+    "level": "L10",
+    "phrase": "now and then",
+    "meaning": "偶爾",
+    "category": "頻率",
+    "example": "I still visit that old bookstore now and then.",
+    "exampleZh": "我偶爾還是會去那間老書店。"
+  },
+  {
+    "level": "L10",
+    "phrase": "every now and then",
+    "meaning": "偶爾",
+    "category": "頻率",
+    "example": "Every now and then, I reread my old travel notes.",
+    "exampleZh": "我偶爾會重讀以前的旅行筆記。"
+  },
+  {
+    "level": "L10",
+    "phrase": "on and off",
+    "meaning": "斷斷續續地",
+    "category": "時間",
+    "example": "It rained on and off throughout the afternoon.",
+    "exampleZh": "整個下午雨斷斷續續地下。"
+  },
+  {
+    "level": "L10",
+    "phrase": "sooner rather than later",
+    "meaning": "越早越好",
+    "category": "時間",
+    "example": "We should replace the worn tire sooner rather than later.",
+    "exampleZh": "這條磨損的輪胎越早換越好。"
+  },
+  {
+    "level": "L10",
+    "phrase": "from scratch",
+    "meaning": "從零開始",
+    "category": "工作學習",
+    "example": "We rebuilt the website from scratch instead of repairing the old code.",
+    "exampleZh": "我們沒有修舊程式，而是從零重做網站。"
+  },
+  {
+    "level": "L10",
+    "phrase": "from the ground up",
+    "meaning": "從基礎徹底建立",
+    "category": "工作學習",
+    "example": "The training program was redesigned from the ground up.",
+    "exampleZh": "這套訓練課程從基礎徹底重新設計。"
+  },
+  {
+    "level": "L10",
+    "phrase": "from my point of view",
+    "meaning": "從我的角度看",
+    "category": "表達意見",
+    "example": "From my point of view, the simpler layout is easier to use.",
+    "exampleZh": "從我的角度看，較簡單的版面更好操作。"
+  },
+  {
+    "level": "L10",
+    "phrase": "from this perspective",
+    "meaning": "從這個角度看",
+    "category": "表達意見",
+    "example": "From this perspective, the higher initial cost is easier to justify.",
+    "exampleZh": "從這個角度看，較高的初期成本就比較能合理化。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in my view",
+    "meaning": "依我看",
+    "category": "表達意見",
+    "example": "In my view, reliability matters more than extra features.",
+    "exampleZh": "依我看，可靠性比額外功能更重要。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in my experience",
+    "meaning": "以我的經驗",
+    "category": "表達意見",
+    "example": "In my experience, short daily practice works better than rare long sessions.",
+    "exampleZh": "以我的經驗，每天短時間練習比偶爾長時間練習更有效。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in practice",
+    "meaning": "實際上",
+    "category": "正式表達",
+    "example": "The rule sounds simple, but in practice it takes careful judgment.",
+    "exampleZh": "這項規則聽起來簡單，但實際執行需要仔細判斷。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in theory",
+    "meaning": "理論上",
+    "category": "正式表達",
+    "example": "In theory, the transfer takes ten minutes, but the station can be crowded.",
+    "exampleZh": "理論上轉乘只要十分鐘，但車站可能很擁擠。"
+  },
+  {
+    "level": "L12",
+    "phrase": "in principle",
+    "meaning": "原則上",
+    "category": "正式表達",
+    "example": "In principle, the change is acceptable if safety is not affected.",
+    "exampleZh": "原則上，只要不影響安全，這項變更可以接受。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in reality",
+    "meaning": "實際上",
+    "category": "正式表達",
+    "example": "The apartment looked spacious online, but in reality it was quite small.",
+    "exampleZh": "那間公寓網路上看起來很寬敞，實際上卻很小。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in contrast",
+    "meaning": "相較之下",
+    "category": "比較",
+    "example": "The morning flight was calm; in contrast, the evening flight was delayed.",
+    "exampleZh": "早班機很順利，相較之下晚班機延誤了。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in contrast to",
+    "meaning": "與…相較",
+    "category": "比較",
+    "example": "In contrast to the old model, the new one is much quieter.",
+    "exampleZh": "和舊款相比，新款安靜很多。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in comparison with",
+    "meaning": "與…相比",
+    "category": "比較",
+    "example": "In comparison with last year, our travel costs were lower this summer.",
+    "exampleZh": "和去年相比，我們今年夏天的旅行支出較低。"
+  },
+  {
+    "level": "L10",
+    "phrase": "by comparison",
+    "meaning": "相較之下",
+    "category": "比較",
+    "example": "The first route is scenic; by comparison, the second is much faster.",
+    "exampleZh": "第一條路風景好，相較之下第二條快很多。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for comparison",
+    "meaning": "作為比較",
+    "category": "比較",
+    "example": "For comparison, I checked the price at three other stores.",
+    "exampleZh": "為了比較，我查了另外三家店的價格。"
+  },
+  {
+    "level": "L11",
+    "phrase": "in exchange for",
+    "meaning": "以…交換",
+    "category": "交換",
+    "example": "The hotel offered breakfast vouchers in exchange for giving up our room upgrade.",
+    "exampleZh": "飯店用早餐券交換我們放棄房型升等。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in favor of",
+    "meaning": "支持；贊成",
+    "category": "意見",
+    "example": "Most team members were in favor of moving the meeting online.",
+    "exampleZh": "大多數團隊成員贊成把會議改成線上。"
+  },
+  {
+    "level": "L11",
+    "phrase": "in charge of",
+    "meaning": "負責",
+    "category": "工作",
+    "example": "She is in charge of coordinating the training schedule.",
+    "exampleZh": "她負責協調訓練時程。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in need of",
+    "meaning": "需要",
+    "category": "狀態",
+    "example": "The old roof is in need of repair before the rainy season.",
+    "exampleZh": "雨季前這個舊屋頂需要維修。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in search of",
+    "meaning": "尋找",
+    "category": "行動",
+    "example": "We walked through the market in search of a specific tea shop.",
+    "exampleZh": "我們在市場裡走來走去尋找特定茶行。"
+  },
+  {
+    "level": "L11",
+    "phrase": "in the event of",
+    "meaning": "萬一發生",
+    "category": "安全與規範",
+    "example": "In the event of an emergency, follow the crew’s instructions.",
+    "exampleZh": "萬一發生緊急狀況，請依照機組員指示。"
+  },
+  {
+    "level": "L12",
+    "phrase": "in the absence of",
+    "meaning": "在缺乏…的情況下",
+    "category": "正式表達",
+    "example": "In the absence of clear data, we decided not to change the plan.",
+    "exampleZh": "在缺乏明確資料的情況下，我們決定不改計畫。"
+  },
+  {
+    "level": "L10",
+    "phrase": "in the face of",
+    "meaning": "面對",
+    "category": "正式表達",
+    "example": "The team stayed calm in the face of unexpected pressure.",
+    "exampleZh": "面對突如其來的壓力，團隊仍保持冷靜。"
+  },
+  {
+    "level": "L12",
+    "phrase": "in the wake of",
+    "meaning": "在…之後；因…而",
+    "category": "新聞正式",
+    "example": "Several safety checks were introduced in the wake of the incident.",
+    "exampleZh": "事件發生後新增了幾項安全檢查。"
+  },
+  {
+    "level": "L12",
+    "phrase": "on the basis of",
+    "meaning": "以…為依據",
+    "category": "正式表達",
+    "example": "The final decision was made on the basis of the test results.",
+    "exampleZh": "最終決定是根據測試結果做出的。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for this reason",
+    "meaning": "因此；基於這個原因",
+    "category": "因果",
+    "example": "The road is narrow; for this reason, large buses do not use it.",
+    "exampleZh": "這條路很窄，因此大型巴士不走這裡。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for that reason",
+    "meaning": "因此",
+    "category": "因果",
+    "example": "The battery was swollen, and for that reason I stopped using the device.",
+    "exampleZh": "電池膨脹了，因此我停止使用這台裝置。"
+  },
+  {
+    "level": "L10",
+    "phrase": "for one thing",
+    "meaning": "首先；一方面",
+    "category": "論述",
+    "example": "For one thing, the apartment is closer to the station.",
+    "exampleZh": "一方面，這間公寓離車站比較近。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to begin with",
+    "meaning": "首先",
+    "category": "論述",
+    "example": "To begin with, we need to confirm how many people are coming.",
+    "exampleZh": "首先，我們需要確認有多少人會來。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to start with",
+    "meaning": "一開始；首先",
+    "category": "論述",
+    "example": "To start with, try ten questions instead of twenty.",
+    "exampleZh": "一開始先做十題，不要一次做二十題。"
+  },
+  {
+    "level": "L10",
+    "phrase": "above all",
+    "meaning": "最重要的是",
+    "category": "論述",
+    "example": "Above all, choose a plan that you can follow consistently.",
+    "exampleZh": "最重要的是，選一個你能持續執行的計畫。"
+  },
+  {
+    "level": "L10",
+    "phrase": "after all",
+    "meaning": "畢竟",
+    "category": "論述",
+    "example": "We decided to take a taxi; after all, we had three large suitcases.",
+    "exampleZh": "我們最後決定搭計程車，畢竟有三個大行李箱。"
+  },
+  {
+    "level": "L12",
+    "phrase": "all things considered",
+    "meaning": "綜合考量",
+    "category": "論述",
+    "example": "All things considered, the earlier flight was the better choice.",
+    "exampleZh": "綜合考量後，較早的航班是更好的選擇。"
+  },
+  {
+    "level": "L12",
+    "phrase": "that being said",
+    "meaning": "話雖如此",
+    "category": "論述",
+    "example": "The room is small. That being said, the location is excellent.",
+    "exampleZh": "房間雖小，話雖如此，地點非常好。"
+  },
+  {
+    "level": "L12",
+    "phrase": "having said that",
+    "meaning": "話雖如此",
+    "category": "論述",
+    "example": "The device is expensive. Having said that, its battery life is excellent.",
+    "exampleZh": "這個裝置很貴，話雖如此，它的續航非常好。"
+  },
+  {
+    "level": "L12",
+    "phrase": "for what it is worth",
+    "meaning": "供你參考",
+    "category": "口語正式",
+    "example": "For what it is worth, I had a good experience with that clinic.",
+    "exampleZh": "供你參考，我在那間診所的經驗不錯。"
+  },
+  {
+    "level": "L10",
+    "phrase": "needless to say",
+    "meaning": "不用說",
+    "category": "論述",
+    "example": "Needless to say, we backed up the files after losing one document.",
+    "exampleZh": "不用說，丟過一份文件後我們就開始備份。"
+  },
+  {
+    "level": "L10",
+    "phrase": "with that in mind",
+    "meaning": "考量到這點",
+    "category": "論述",
+    "example": "With that in mind, we booked a room closer to the station.",
+    "exampleZh": "考量到這點，我們訂了離車站更近的房間。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to put it simply",
+    "meaning": "簡單來說",
+    "category": "解釋",
+    "example": "To put it simply, the battery cannot supply enough power anymore.",
+    "exampleZh": "簡單來說，這顆電池已經無法提供足夠電力。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to put it another way",
+    "meaning": "換個方式說",
+    "category": "解釋",
+    "example": "To put it another way, the cheaper option will cost us more time.",
+    "exampleZh": "換句話說，較便宜的選項會讓我們花更多時間。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to make matters worse",
+    "meaning": "更糟的是",
+    "category": "敘事",
+    "example": "The train was delayed, and to make matters worse, our phones were almost dead.",
+    "exampleZh": "火車延誤，更糟的是我們的手機也快沒電了。"
+  },
+  {
+    "level": "L10",
+    "phrase": "to make a long story short",
+    "meaning": "長話短說",
+    "category": "敘事",
+    "example": "To make a long story short, we missed the bus and ended up taking a taxi.",
+    "exampleZh": "長話短說，我們錯過公車，最後搭了計程車。"
+  },
+  {
+    "level": "L10",
+    "phrase": "come to think of it",
+    "meaning": "這麼一想",
+    "category": "口語",
+    "example": "Come to think of it, I have not seen that charger since the trip.",
+    "exampleZh": "這麼一想，旅行後我就沒看過那個充電器。"
+  },
+  {
+    "level": "L10",
+    "phrase": "as it turns out",
+    "meaning": "結果原來",
+    "category": "敘事",
+    "example": "As it turns out, the café opens earlier on weekends.",
+    "exampleZh": "結果原來那間咖啡店週末更早開門。"
+  },
+  {
+    "level": "L10",
+    "phrase": "as a matter of fact",
+    "meaning": "事實上",
+    "category": "論述",
+    "example": "As a matter of fact, the replacement arrived this morning.",
+    "exampleZh": "事實上，替換品今天早上就到了。"
+  },
+  {
+    "level": "L12",
+    "phrase": "in all likelihood",
+    "meaning": "很可能",
+    "category": "推測",
+    "example": "In all likelihood, the road will reopen by tomorrow morning.",
+    "exampleZh": "很可能明天早上道路就會重新開放。"
+  },
+  {
+    "level": "L10",
+    "phrase": "there is no doubt that",
+    "meaning": "毫無疑問",
+    "category": "強調",
+    "example": "There is no doubt that regular sleep affects concentration.",
+    "exampleZh": "毫無疑問，規律睡眠會影響專注力。"
+  },
+  {
+    "level": "L10",
+    "phrase": "there is no point in",
+    "meaning": "做…沒有意義",
+    "category": "判斷",
+    "example": "There is no point in leaving early if the road is still closed.",
+    "exampleZh": "如果道路還封閉，提早出發也沒有意義。"
+  },
+  {
+    "level": "L10",
+    "phrase": "it goes without saying",
+    "meaning": "不言而喻",
+    "category": "強調",
+    "example": "It goes without saying that safety comes before speed.",
+    "exampleZh": "安全優先於速度是不言而喻的。"
+  },
+  {
+    "level": "L10",
+    "phrase": "it is worth noting that",
+    "meaning": "值得注意的是",
+    "category": "正式表達",
+    "example": "It is worth noting that the warranty does not cover water damage.",
+    "exampleZh": "值得注意的是，保固不包含進水損壞。"
+  },
+  {
+    "level": "L12",
+    "phrase": "it remains to be seen",
+    "meaning": "仍有待觀察",
+    "category": "正式表達",
+    "example": "It remains to be seen whether the new route will attract enough passengers.",
+    "exampleZh": "新航線是否能吸引足夠旅客仍有待觀察。"
+  },
+  {
+    "level": "L10",
+    "phrase": "it comes down to",
+    "meaning": "歸根究柢是",
+    "category": "判斷",
+    "example": "For me, the choice comes down to reliability and price.",
+    "exampleZh": "對我來說，最後就是可靠性和價格的取捨。"
+  },
+  {
+    "level": "L12",
+    "phrase": "come to terms with",
+    "meaning": "接受現實",
+    "category": "情緒",
+    "example": "It took him time to come to terms with the change in plans.",
+    "exampleZh": "他花了一些時間才接受計畫改變。"
+  },
+  {
+    "level": "L10",
+    "phrase": "come to a conclusion",
+    "meaning": "得出結論",
+    "category": "分析",
+    "example": "After comparing the data, we came to the conclusion that the sensor was faulty.",
+    "exampleZh": "比較資料後，我們得出感測器故障的結論。"
+  },
+  {
+    "level": "L11",
+    "phrase": "come to an agreement",
+    "meaning": "達成協議",
+    "category": "協商",
+    "example": "The two sides came to an agreement after several meetings.",
+    "exampleZh": "雙方經過幾次會議後達成協議。"
+  },
+  {
+    "level": "L11",
+    "phrase": "reach a decision",
+    "meaning": "做出決定",
+    "category": "決策",
+    "example": "We hope to reach a decision before the end of the week.",
+    "exampleZh": "我們希望在本週結束前做出決定。"
+  },
+  {
+    "level": "L11",
+    "phrase": "reach an agreement",
+    "meaning": "達成協議",
+    "category": "協商",
+    "example": "The landlord and tenant reached an agreement on the repair cost.",
+    "exampleZh": "房東和房客就維修費用達成協議。"
+  },
+  {
+    "level": "L11",
+    "phrase": "reach a compromise",
+    "meaning": "達成妥協",
+    "category": "協商",
+    "example": "We reached a compromise by moving the meeting thirty minutes later.",
+    "exampleZh": "我們把會議延後三十分鐘，達成了折衷。"
+  },
+  {
+    "level": "L10",
+    "phrase": "draw a conclusion",
+    "meaning": "得出結論",
+    "category": "分析",
+    "example": "Do not draw a conclusion from a single test result.",
+    "exampleZh": "不要只根據一次測試結果就下結論。"
+  },
+  {
+    "level": "L12",
+    "phrase": "draw a distinction between",
+    "meaning": "區分…與…",
+    "category": "分析",
+    "example": "The policy draws a distinction between delays and cancellations.",
+    "exampleZh": "這項政策區分延誤與取消。"
+  },
+  {
+    "level": "L12",
+    "phrase": "make a distinction between",
+    "meaning": "區分…與…",
+    "category": "分析",
+    "example": "We should make a distinction between urgent tasks and merely important ones.",
+    "exampleZh": "我們應該區分緊急工作和只是重要的工作。"
+  },
+  {
+    "level": "L10",
+    "phrase": "take a closer look at",
+    "meaning": "更仔細查看",
+    "category": "分析",
+    "example": "Let us take a closer look at the numbers before changing the budget.",
+    "exampleZh": "調整預算前，我們再仔細看看數字。"
+  },
+  {
+    "level": "L10",
+    "phrase": "take a step back",
+    "meaning": "退一步重新看",
+    "category": "思考",
+    "example": "I took a step back and realized the simpler solution was better.",
+    "exampleZh": "我退一步重新思考後，發現簡單的方法反而更好。"
+  },
+  {
+    "level": "L10",
+    "phrase": "take a different approach",
+    "meaning": "採取不同方法",
+    "category": "問題解決",
+    "example": "When the first plan failed, we took a different approach.",
+    "exampleZh": "第一個計畫失敗後，我們換了另一種方法。"
+  },
+  {
+    "level": "L11",
+    "phrase": "take a practical approach",
+    "meaning": "採取務實方法",
+    "category": "問題解決",
+    "example": "We took a practical approach and fixed the most urgent issue first.",
+    "exampleZh": "我們採取務實方法，先處理最急迫的問題。"
+  }
+]
