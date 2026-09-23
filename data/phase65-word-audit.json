@@ -1,0 +1,4019 @@
+{
+  "added": 1000,
+  "levels": {
+    "L1": 0,
+    "L2": 5,
+    "L3": 13,
+    "L4": 78,
+    "L5": 140,
+    "L6": 123,
+    "L7": 136,
+    "L8": 217,
+    "L9": 115,
+    "L10": 57,
+    "L11": 70,
+    "L12": 46
+  },
+  "additions": [
+    {
+      "level": "L3",
+      "word": "unzip"
+    },
+    {
+      "level": "L3",
+      "word": "unfasten"
+    },
+    {
+      "level": "L3",
+      "word": "untie"
+    },
+    {
+      "level": "L3",
+      "word": "unbutton"
+    },
+    {
+      "level": "L4",
+      "word": "headset"
+    },
+    {
+      "level": "L4",
+      "word": "keypad"
+    },
+    {
+      "level": "L4",
+      "word": "touchpad"
+    },
+    {
+      "level": "L4",
+      "word": "touchscreen"
+    },
+    {
+      "level": "L4",
+      "word": "smartphone"
+    },
+    {
+      "level": "L4",
+      "word": "smartwatch"
+    },
+    {
+      "level": "L4",
+      "word": "earbud"
+    },
+    {
+      "level": "L4",
+      "word": "sketchbook"
+    },
+    {
+      "level": "L4",
+      "word": "scrapbook"
+    },
+    {
+      "level": "L4",
+      "word": "stencil"
+    },
+    {
+      "level": "L4",
+      "word": "scoreboard"
+    },
+    {
+      "level": "L4",
+      "word": "stopwatch"
+    },
+    {
+      "level": "L4",
+      "word": "trampoline"
+    },
+    {
+      "level": "L4",
+      "word": "surfboard"
+    },
+    {
+      "level": "L4",
+      "word": "snorkel"
+    },
+    {
+      "level": "L4",
+      "word": "wetsuit"
+    },
+    {
+      "level": "L4",
+      "word": "lifejacket"
+    },
+    {
+      "level": "L4",
+      "word": "shuttlecock"
+    },
+    {
+      "level": "L4",
+      "word": "harmonica"
+    },
+    {
+      "level": "L4",
+      "word": "ukulele"
+    },
+    {
+      "level": "L4",
+      "word": "xylophone"
+    },
+    {
+      "level": "L4",
+      "word": "trombone"
+    },
+    {
+      "level": "L4",
+      "word": "banjo"
+    },
+    {
+      "level": "L4",
+      "word": "backrest"
+    },
+    {
+      "level": "L4",
+      "word": "armrest"
+    },
+    {
+      "level": "L4",
+      "word": "footrest"
+    },
+    {
+      "level": "L4",
+      "word": "playpen"
+    },
+    {
+      "level": "L2",
+      "word": "pacifier"
+    },
+    {
+      "level": "L2",
+      "word": "stroller"
+    },
+    {
+      "level": "L2",
+      "word": "crib"
+    },
+    {
+      "level": "L2",
+      "word": "bib"
+    },
+    {
+      "level": "L4",
+      "word": "teether"
+    },
+    {
+      "level": "L2",
+      "word": "tricycle"
+    },
+    {
+      "level": "L3",
+      "word": "seesaw"
+    },
+    {
+      "level": "L3",
+      "word": "handprint"
+    },
+    {
+      "level": "L3",
+      "word": "footprint"
+    },
+    {
+      "level": "L6",
+      "word": "fingerprint"
+    },
+    {
+      "level": "L6",
+      "word": "thumbprint"
+    },
+    {
+      "level": "L4",
+      "word": "scarecrow"
+    },
+    {
+      "level": "L4",
+      "word": "birdcage"
+    },
+    {
+      "level": "L3",
+      "word": "doghouse"
+    },
+    {
+      "level": "L3",
+      "word": "fishbowl"
+    },
+    {
+      "level": "L6",
+      "word": "waterlily"
+    },
+    {
+      "level": "L4",
+      "word": "app"
+    },
+    {
+      "level": "L5",
+      "word": "homepage"
+    },
+    {
+      "level": "L5",
+      "word": "webpage"
+    },
+    {
+      "level": "L7",
+      "word": "hyperlink"
+    },
+    {
+      "level": "L5",
+      "word": "inbox"
+    },
+    {
+      "level": "L5",
+      "word": "outbox"
+    },
+    {
+      "level": "L5",
+      "word": "playlist"
+    },
+    {
+      "level": "L5",
+      "word": "screenshot"
+    },
+    {
+      "level": "L7",
+      "word": "widget"
+    },
+    {
+      "level": "L7",
+      "word": "submenu"
+    },
+    {
+      "level": "L5",
+      "word": "toolbar"
+    },
+    {
+      "level": "L7",
+      "word": "sidebar"
+    },
+    {
+      "level": "L5",
+      "word": "slideshow"
+    },
+    {
+      "level": "L6",
+      "word": "router"
+    },
+    {
+      "level": "L6",
+      "word": "hotspot"
+    },
+    {
+      "level": "L7",
+      "word": "firewall"
+    },
+    {
+      "level": "L7",
+      "word": "antivirus"
+    },
+    {
+      "level": "L8",
+      "word": "firmware"
+    },
+    {
+      "level": "L6",
+      "word": "passcode"
+    },
+    {
+      "level": "L6",
+      "word": "voicemail"
+    },
+    {
+      "level": "L6",
+      "word": "spam"
+    },
+    {
+      "level": "L6",
+      "word": "podcast"
+    },
+    {
+      "level": "L6",
+      "word": "livestream"
+    },
+    {
+      "level": "L6",
+      "word": "avatar"
+    },
+    {
+      "level": "L6",
+      "word": "emoji"
+    },
+    {
+      "level": "L6",
+      "word": "emoticon"
+    },
+    {
+      "level": "L6",
+      "word": "hashtag"
+    },
+    {
+      "level": "L6",
+      "word": "selfie"
+    },
+    {
+      "level": "L6",
+      "word": "plugin"
+    },
+    {
+      "level": "L4",
+      "word": "earphone"
+    },
+    {
+      "level": "L8",
+      "word": "subwoofer"
+    },
+    {
+      "level": "L6",
+      "word": "joystick"
+    },
+    {
+      "level": "L6",
+      "word": "gamepad"
+    },
+    {
+      "level": "L6",
+      "word": "trackpad"
+    },
+    {
+      "level": "L6",
+      "word": "stylus"
+    },
+    {
+      "level": "L6",
+      "word": "handset"
+    },
+    {
+      "level": "L6",
+      "word": "wearable"
+    },
+    {
+      "level": "L6",
+      "word": "ebook"
+    },
+    {
+      "level": "L6",
+      "word": "audiobook"
+    },
+    {
+      "level": "L6",
+      "word": "login"
+    },
+    {
+      "level": "L6",
+      "word": "logout"
+    },
+    {
+      "level": "L6",
+      "word": "filename"
+    },
+    {
+      "level": "L6",
+      "word": "cyberbullying"
+    },
+    {
+      "level": "L6",
+      "word": "clickbait"
+    },
+    {
+      "level": "L4",
+      "word": "reusable"
+    },
+    {
+      "level": "L4",
+      "word": "washable"
+    },
+    {
+      "level": "L6",
+      "word": "refillable"
+    },
+    {
+      "level": "L5",
+      "word": "airtight"
+    },
+    {
+      "level": "L6",
+      "word": "insulated"
+    },
+    {
+      "level": "L5",
+      "word": "foldable"
+    },
+    {
+      "level": "L5",
+      "word": "recyclable"
+    },
+    {
+      "level": "L8",
+      "word": "biodegradable"
+    },
+    {
+      "level": "L5",
+      "word": "nonstick"
+    },
+    {
+      "level": "L6",
+      "word": "absorbent"
+    },
+    {
+      "level": "L5",
+      "word": "zippered"
+    },
+    {
+      "level": "L5",
+      "word": "oversized"
+    },
+    {
+      "level": "L5",
+      "word": "unpaved"
+    },
+    {
+      "level": "L5",
+      "word": "recheck"
+    },
+    {
+      "level": "L6",
+      "word": "proofread"
+    },
+    {
+      "level": "L5",
+      "word": "reheat"
+    },
+    {
+      "level": "L5",
+      "word": "defrost"
+    },
+    {
+      "level": "L6",
+      "word": "refrigerate"
+    },
+    {
+      "level": "L4",
+      "word": "unplug"
+    },
+    {
+      "level": "L5",
+      "word": "reconnect"
+    },
+    {
+      "level": "L5",
+      "word": "reboot"
+    },
+    {
+      "level": "L5",
+      "word": "resend"
+    },
+    {
+      "level": "L4",
+      "word": "reuse"
+    },
+    {
+      "level": "L4",
+      "word": "unroll"
+    },
+    {
+      "level": "L5",
+      "word": "reattach"
+    },
+    {
+      "level": "L5",
+      "word": "unseal"
+    },
+    {
+      "level": "L5",
+      "word": "uncoil"
+    },
+    {
+      "level": "L8",
+      "word": "laminate"
+    },
+    {
+      "level": "L5",
+      "word": "crinkle"
+    },
+    {
+      "level": "L5",
+      "word": "jiggle"
+    },
+    {
+      "level": "L5",
+      "word": "soothe"
+    },
+    {
+      "level": "L4",
+      "word": "babysit"
+    },
+    {
+      "level": "L6",
+      "word": "caregiver"
+    },
+    {
+      "level": "L7",
+      "word": "concierge"
+    },
+    {
+      "level": "L7",
+      "word": "welder"
+    },
+    {
+      "level": "L7",
+      "word": "roofer"
+    },
+    {
+      "level": "L7",
+      "word": "tiler"
+    },
+    {
+      "level": "L7",
+      "word": "landscaper"
+    },
+    {
+      "level": "L7",
+      "word": "beekeeper"
+    },
+    {
+      "level": "L6",
+      "word": "veterinarian"
+    },
+    {
+      "level": "L7",
+      "word": "optometrist"
+    },
+    {
+      "level": "L7",
+      "word": "dietitian"
+    },
+    {
+      "level": "L8",
+      "word": "choreographer"
+    },
+    {
+      "level": "L6",
+      "word": "illustrator"
+    },
+    {
+      "level": "L6",
+      "word": "animator"
+    },
+    {
+      "level": "L6",
+      "word": "screenwriter"
+    },
+    {
+      "level": "L6",
+      "word": "lyricist"
+    },
+    {
+      "level": "L6",
+      "word": "songwriter"
+    },
+    {
+      "level": "L5",
+      "word": "drummer"
+    },
+    {
+      "level": "L5",
+      "word": "violinist"
+    },
+    {
+      "level": "L5",
+      "word": "cellist"
+    },
+    {
+      "level": "L5",
+      "word": "pianist"
+    },
+    {
+      "level": "L5",
+      "word": "grocer"
+    },
+    {
+      "level": "L5",
+      "word": "barista"
+    },
+    {
+      "level": "L5",
+      "word": "doorman"
+    },
+    {
+      "level": "L6",
+      "word": "newbie"
+    },
+    {
+      "level": "L6",
+      "word": "carpool"
+    },
+    {
+      "level": "L6",
+      "word": "rideshare"
+    },
+    {
+      "level": "L6",
+      "word": "stopover"
+    },
+    {
+      "level": "L6",
+      "word": "layover"
+    },
+    {
+      "level": "L6",
+      "word": "staycation"
+    },
+    {
+      "level": "L6",
+      "word": "glamping"
+    },
+    {
+      "level": "L6",
+      "word": "motorhome"
+    },
+    {
+      "level": "L6",
+      "word": "campervan"
+    },
+    {
+      "level": "L6",
+      "word": "boardwalk"
+    },
+    {
+      "level": "L6",
+      "word": "turnstile"
+    },
+    {
+      "level": "L6",
+      "word": "monorail"
+    },
+    {
+      "level": "L6",
+      "word": "speedboat"
+    },
+    {
+      "level": "L6",
+      "word": "houseboat"
+    },
+    {
+      "level": "L6",
+      "word": "sailboat"
+    },
+    {
+      "level": "L6",
+      "word": "canoe"
+    },
+    {
+      "level": "L6",
+      "word": "kayak"
+    },
+    {
+      "level": "L6",
+      "word": "dinghy"
+    },
+    {
+      "level": "L8",
+      "word": "gondola"
+    },
+    {
+      "level": "L8",
+      "word": "rickshaw"
+    },
+    {
+      "level": "L8",
+      "word": "trolleybus"
+    },
+    {
+      "level": "L6",
+      "word": "ferryboat"
+    },
+    {
+      "level": "L5",
+      "word": "sunburn"
+    },
+    {
+      "level": "L6",
+      "word": "frostbite"
+    },
+    {
+      "level": "L7",
+      "word": "burnout"
+    },
+    {
+      "level": "L6",
+      "word": "heartburn"
+    },
+    {
+      "level": "L7",
+      "word": "eyestrain"
+    },
+    {
+      "level": "L7",
+      "word": "overeating"
+    },
+    {
+      "level": "L7",
+      "word": "choking"
+    },
+    {
+      "level": "L7",
+      "word": "drowsiness"
+    },
+    {
+      "level": "L7",
+      "word": "sprain"
+    },
+    {
+      "level": "L7",
+      "word": "callus"
+    },
+    {
+      "level": "L5",
+      "word": "bruise"
+    },
+    {
+      "level": "L5",
+      "word": "ointment"
+    },
+    {
+      "level": "L6",
+      "word": "inhaler"
+    },
+    {
+      "level": "L6",
+      "word": "crutch"
+    },
+    {
+      "level": "L4",
+      "word": "stairwell"
+    },
+    {
+      "level": "L6",
+      "word": "origami"
+    },
+    {
+      "level": "L6",
+      "word": "calligraphy"
+    },
+    {
+      "level": "L6",
+      "word": "crochet"
+    },
+    {
+      "level": "L6",
+      "word": "quilting"
+    },
+    {
+      "level": "L6",
+      "word": "woodworking"
+    },
+    {
+      "level": "L6",
+      "word": "beadwork"
+    },
+    {
+      "level": "L8",
+      "word": "watercolor"
+    },
+    {
+      "level": "L6",
+      "word": "nonfiction"
+    },
+    {
+      "level": "L6",
+      "word": "screenplay"
+    },
+    {
+      "level": "L6",
+      "word": "storyboard"
+    },
+    {
+      "level": "L6",
+      "word": "doodle"
+    },
+    {
+      "level": "L6",
+      "word": "marionette"
+    },
+    {
+      "level": "L8",
+      "word": "typography"
+    },
+    {
+      "level": "L8",
+      "word": "tactless"
+    },
+    {
+      "level": "L8",
+      "word": "compassionate"
+    },
+    {
+      "level": "L8",
+      "word": "inconsiderate"
+    },
+    {
+      "level": "L8",
+      "word": "evasive"
+    },
+    {
+      "level": "L8",
+      "word": "apathetic"
+    },
+    {
+      "level": "L8",
+      "word": "empathetic"
+    },
+    {
+      "level": "L8",
+      "word": "heartfelt"
+    },
+    {
+      "level": "L8",
+      "word": "gracious"
+    },
+    {
+      "level": "L8",
+      "word": "courteous"
+    },
+    {
+      "level": "L8",
+      "word": "impolite"
+    },
+    {
+      "level": "L8",
+      "word": "blunt"
+    },
+    {
+      "level": "L8",
+      "word": "candid"
+    },
+    {
+      "level": "L8",
+      "word": "forthright"
+    },
+    {
+      "level": "L8",
+      "word": "reassuring"
+    },
+    {
+      "level": "L8",
+      "word": "unjustified"
+    },
+    {
+      "level": "L10",
+      "word": "noncommittal"
+    },
+    {
+      "level": "L10",
+      "word": "ambivalent"
+    },
+    {
+      "level": "L8",
+      "word": "indignant"
+    },
+    {
+      "level": "L8",
+      "word": "resentful"
+    },
+    {
+      "level": "L8",
+      "word": "scornful"
+    },
+    {
+      "level": "L8",
+      "word": "sarcastic"
+    },
+    {
+      "level": "L8",
+      "word": "apologetic"
+    },
+    {
+      "level": "L10",
+      "word": "conciliatory"
+    },
+    {
+      "level": "L8",
+      "word": "incoherent"
+    },
+    {
+      "level": "L8",
+      "word": "intelligible"
+    },
+    {
+      "level": "L8",
+      "word": "unintelligible"
+    },
+    {
+      "level": "L8",
+      "word": "succinct"
+    },
+    {
+      "level": "L8",
+      "word": "wordy"
+    },
+    {
+      "level": "L8",
+      "word": "verbose"
+    },
+    {
+      "level": "L8",
+      "word": "eloquent"
+    },
+    {
+      "level": "L9",
+      "word": "equivocal"
+    },
+    {
+      "level": "L9",
+      "word": "unequivocal"
+    },
+    {
+      "level": "L8",
+      "word": "implausible"
+    },
+    {
+      "level": "L8",
+      "word": "unfounded"
+    },
+    {
+      "level": "L8",
+      "word": "deceptive"
+    },
+    {
+      "level": "L9",
+      "word": "contradictory"
+    },
+    {
+      "level": "L8",
+      "word": "erroneous"
+    },
+    {
+      "level": "L8",
+      "word": "oversimplified"
+    },
+    {
+      "level": "L8",
+      "word": "needless"
+    },
+    {
+      "level": "L8",
+      "word": "pertinent"
+    },
+    {
+      "level": "L8",
+      "word": "conclusive"
+    },
+    {
+      "level": "L8",
+      "word": "inconclusive"
+    },
+    {
+      "level": "L8",
+      "word": "unambiguous"
+    },
+    {
+      "level": "L8",
+      "word": "figurative"
+    },
+    {
+      "level": "L8",
+      "word": "literal"
+    },
+    {
+      "level": "L8",
+      "word": "idiomatic"
+    },
+    {
+      "level": "L9",
+      "word": "reevaluate"
+    },
+    {
+      "level": "L9",
+      "word": "resubmit"
+    },
+    {
+      "level": "L9",
+      "word": "finalize"
+    },
+    {
+      "level": "L9",
+      "word": "formalize"
+    },
+    {
+      "level": "L9",
+      "word": "redesign"
+    },
+    {
+      "level": "L9",
+      "word": "restructure"
+    },
+    {
+      "level": "L9",
+      "word": "reorganize"
+    },
+    {
+      "level": "L9",
+      "word": "ratify"
+    },
+    {
+      "level": "L9",
+      "word": "veto"
+    },
+    {
+      "level": "L9",
+      "word": "retract"
+    },
+    {
+      "level": "L9",
+      "word": "defer"
+    },
+    {
+      "level": "L9",
+      "word": "shelve"
+    },
+    {
+      "level": "L9",
+      "word": "scrutinize"
+    },
+    {
+      "level": "L9",
+      "word": "appraise"
+    },
+    {
+      "level": "L9",
+      "word": "disseminate"
+    },
+    {
+      "level": "L9",
+      "word": "expedite"
+    },
+    {
+      "level": "L9",
+      "word": "streamline"
+    },
+    {
+      "level": "L9",
+      "word": "customize"
+    },
+    {
+      "level": "L9",
+      "word": "personalize"
+    },
+    {
+      "level": "L9",
+      "word": "decentralize"
+    },
+    {
+      "level": "L11",
+      "word": "regulatory"
+    },
+    {
+      "level": "L11",
+      "word": "legislative"
+    },
+    {
+      "level": "L10",
+      "word": "constitutional"
+    },
+    {
+      "level": "L10",
+      "word": "institutional"
+    },
+    {
+      "level": "L11",
+      "word": "organizational"
+    },
+    {
+      "level": "L11",
+      "word": "operational"
+    },
+    {
+      "level": "L10",
+      "word": "occupational"
+    },
+    {
+      "level": "L11",
+      "word": "managerial"
+    },
+    {
+      "level": "L11",
+      "word": "departmental"
+    },
+    {
+      "level": "L10",
+      "word": "municipal"
+    },
+    {
+      "level": "L10",
+      "word": "provincial"
+    },
+    {
+      "level": "L10",
+      "word": "territorial"
+    },
+    {
+      "level": "L10",
+      "word": "geographical"
+    },
+    {
+      "level": "L10",
+      "word": "ecological"
+    },
+    {
+      "level": "L9",
+      "word": "redistributive"
+    },
+    {
+      "level": "L10",
+      "word": "preventive"
+    },
+    {
+      "level": "L9",
+      "word": "provisional"
+    },
+    {
+      "level": "L10",
+      "word": "transitional"
+    },
+    {
+      "level": "L10",
+      "word": "restrictive"
+    },
+    {
+      "level": "L10",
+      "word": "discriminatory"
+    },
+    {
+      "level": "L10",
+      "word": "equitable"
+    },
+    {
+      "level": "L10",
+      "word": "accountable"
+    },
+    {
+      "level": "L10",
+      "word": "advisory"
+    },
+    {
+      "level": "L10",
+      "word": "consultative"
+    },
+    {
+      "level": "L11",
+      "word": "procurement"
+    },
+    {
+      "level": "L11",
+      "word": "reimbursement"
+    },
+    {
+      "level": "L11",
+      "word": "remuneration"
+    },
+    {
+      "level": "L11",
+      "word": "accreditation"
+    },
+    {
+      "level": "L11",
+      "word": "arbitration"
+    },
+    {
+      "level": "L11",
+      "word": "mediation"
+    },
+    {
+      "level": "L11",
+      "word": "conciliation"
+    },
+    {
+      "level": "L11",
+      "word": "indemnity"
+    },
+    {
+      "level": "L11",
+      "word": "insolvency"
+    },
+    {
+      "level": "L11",
+      "word": "liquidity"
+    },
+    {
+      "level": "L11",
+      "word": "depreciation"
+    },
+    {
+      "level": "L11",
+      "word": "amortization"
+    },
+    {
+      "level": "L11",
+      "word": "receivable"
+    },
+    {
+      "level": "L11",
+      "word": "payable"
+    },
+    {
+      "level": "L11",
+      "word": "debtor"
+    },
+    {
+      "level": "L11",
+      "word": "creditor"
+    },
+    {
+      "level": "L11",
+      "word": "auditor"
+    },
+    {
+      "level": "L11",
+      "word": "underwriter"
+    },
+    {
+      "level": "L11",
+      "word": "actuary"
+    },
+    {
+      "level": "L11",
+      "word": "arbitrator"
+    },
+    {
+      "level": "L11",
+      "word": "mediator"
+    },
+    {
+      "level": "L11",
+      "word": "franchisee"
+    },
+    {
+      "level": "L11",
+      "word": "franchisor"
+    },
+    {
+      "level": "L11",
+      "word": "consignee"
+    },
+    {
+      "level": "L11",
+      "word": "consignor"
+    },
+    {
+      "level": "L11",
+      "word": "subcontractor"
+    },
+    {
+      "level": "L11",
+      "word": "liaison"
+    },
+    {
+      "level": "L11",
+      "word": "deliverable"
+    },
+    {
+      "level": "L11",
+      "word": "backlog"
+    },
+    {
+      "level": "L11",
+      "word": "markup"
+    },
+    {
+      "level": "L11",
+      "word": "markdown"
+    },
+    {
+      "level": "L11",
+      "word": "buyout"
+    },
+    {
+      "level": "L11",
+      "word": "buyback"
+    },
+    {
+      "level": "L11",
+      "word": "divestment"
+    },
+    {
+      "level": "L11",
+      "word": "outsourcing"
+    },
+    {
+      "level": "L11",
+      "word": "onboarding"
+    },
+    {
+      "level": "L11",
+      "word": "offboarding"
+    },
+    {
+      "level": "L11",
+      "word": "downsizing"
+    },
+    {
+      "level": "L5",
+      "word": "wander"
+    },
+    {
+      "level": "L5",
+      "word": "amble"
+    },
+    {
+      "level": "L5",
+      "word": "toddle"
+    },
+    {
+      "level": "L6",
+      "word": "trudge"
+    },
+    {
+      "level": "L5",
+      "word": "shuffle"
+    },
+    {
+      "level": "L5",
+      "word": "limp"
+    },
+    {
+      "level": "L5",
+      "word": "hobble"
+    },
+    {
+      "level": "L5",
+      "word": "waddle"
+    },
+    {
+      "level": "L6",
+      "word": "saunter"
+    },
+    {
+      "level": "L6",
+      "word": "clamber"
+    },
+    {
+      "level": "L6",
+      "word": "ascend"
+    },
+    {
+      "level": "L5",
+      "word": "glide"
+    },
+    {
+      "level": "L5",
+      "word": "hover"
+    },
+    {
+      "level": "L5",
+      "word": "drizzle"
+    },
+    {
+      "level": "L5",
+      "word": "munch"
+    },
+    {
+      "level": "L5",
+      "word": "nibble"
+    },
+    {
+      "level": "L5",
+      "word": "slurp"
+    },
+    {
+      "level": "L5",
+      "word": "gulp"
+    },
+    {
+      "level": "L5",
+      "word": "inhale"
+    },
+    {
+      "level": "L5",
+      "word": "exhale"
+    },
+    {
+      "level": "L6",
+      "word": "snicker"
+    },
+    {
+      "level": "L5",
+      "word": "sob"
+    },
+    {
+      "level": "L5",
+      "word": "burp"
+    },
+    {
+      "level": "L5",
+      "word": "snore"
+    },
+    {
+      "level": "L5",
+      "word": "quiver"
+    },
+    {
+      "level": "L5",
+      "word": "wobble"
+    },
+    {
+      "level": "L5",
+      "word": "wrinkle"
+    },
+    {
+      "level": "L5",
+      "word": "squat"
+    },
+    {
+      "level": "L7",
+      "word": "stoop"
+    },
+    {
+      "level": "L5",
+      "word": "twirl"
+    },
+    {
+      "level": "L6",
+      "word": "somersault"
+    },
+    {
+      "level": "L6",
+      "word": "scrub"
+    },
+    {
+      "level": "L6",
+      "word": "bleach"
+    },
+    {
+      "level": "L7",
+      "word": "starch"
+    },
+    {
+      "level": "L6",
+      "word": "stitch"
+    },
+    {
+      "level": "L6",
+      "word": "embroider"
+    },
+    {
+      "level": "L6",
+      "word": "snip"
+    },
+    {
+      "level": "L7",
+      "word": "shear"
+    },
+    {
+      "level": "L6",
+      "word": "fray"
+    },
+    {
+      "level": "L6",
+      "word": "unravel"
+    },
+    {
+      "level": "L6",
+      "word": "clamp"
+    },
+    {
+      "level": "L6",
+      "word": "yank"
+    },
+    {
+      "level": "L6",
+      "word": "jerk"
+    },
+    {
+      "level": "L6",
+      "word": "pluck"
+    },
+    {
+      "level": "L7",
+      "word": "knead"
+    },
+    {
+      "level": "L6",
+      "word": "sift"
+    },
+    {
+      "level": "L7",
+      "word": "saute"
+    },
+    {
+      "level": "L7",
+      "word": "broil"
+    },
+    {
+      "level": "L7",
+      "word": "braise"
+    },
+    {
+      "level": "L7",
+      "word": "poach"
+    },
+    {
+      "level": "L7",
+      "word": "uncover"
+    },
+    {
+      "level": "L7",
+      "word": "downplay"
+    },
+    {
+      "level": "L7",
+      "word": "understate"
+    },
+    {
+      "level": "L7",
+      "word": "overstate"
+    },
+    {
+      "level": "L7",
+      "word": "misjudge"
+    },
+    {
+      "level": "L7",
+      "word": "misplace"
+    },
+    {
+      "level": "L7",
+      "word": "mishear"
+    },
+    {
+      "level": "L7",
+      "word": "mislead"
+    },
+    {
+      "level": "L7",
+      "word": "misinform"
+    },
+    {
+      "level": "L7",
+      "word": "misuse"
+    },
+    {
+      "level": "L7",
+      "word": "misspell"
+    },
+    {
+      "level": "L7",
+      "word": "mispronounce"
+    },
+    {
+      "level": "L7",
+      "word": "misbehave"
+    },
+    {
+      "level": "L7",
+      "word": "miscalculate"
+    },
+    {
+      "level": "L7",
+      "word": "miscount"
+    },
+    {
+      "level": "L7",
+      "word": "mismanage"
+    },
+    {
+      "level": "L8",
+      "word": "envisage"
+    },
+    {
+      "level": "L8",
+      "word": "enact"
+    },
+    {
+      "level": "L8",
+      "word": "commence"
+    },
+    {
+      "level": "L8",
+      "word": "abort"
+    },
+    {
+      "level": "L8",
+      "word": "reshape"
+    },
+    {
+      "level": "L8",
+      "word": "reorient"
+    },
+    {
+      "level": "L8",
+      "word": "redirect"
+    },
+    {
+      "level": "L8",
+      "word": "realign"
+    },
+    {
+      "level": "L8",
+      "word": "reconfigure"
+    },
+    {
+      "level": "L8",
+      "word": "reinvent"
+    },
+    {
+      "level": "L8",
+      "word": "reconstruct"
+    },
+    {
+      "level": "L8",
+      "word": "bolster"
+    },
+    {
+      "level": "L8",
+      "word": "underpin"
+    },
+    {
+      "level": "L8",
+      "word": "jeopardize"
+    },
+    {
+      "level": "L8",
+      "word": "sabotage"
+    },
+    {
+      "level": "L8",
+      "word": "obstruct"
+    },
+    {
+      "level": "L8",
+      "word": "hamper"
+    },
+    {
+      "level": "L8",
+      "word": "hinder"
+    },
+    {
+      "level": "L8",
+      "word": "impede"
+    },
+    {
+      "level": "L8",
+      "word": "thwart"
+    },
+    {
+      "level": "L8",
+      "word": "derail"
+    },
+    {
+      "level": "L8",
+      "word": "circumvent"
+    },
+    {
+      "level": "L8",
+      "word": "surmount"
+    },
+    {
+      "level": "L7",
+      "word": "uncluttered"
+    },
+    {
+      "level": "L7",
+      "word": "dingy"
+    },
+    {
+      "level": "L5",
+      "word": "soundproof"
+    },
+    {
+      "level": "L7",
+      "word": "furnished"
+    },
+    {
+      "level": "L7",
+      "word": "homely"
+    },
+    {
+      "level": "L7",
+      "word": "lavish"
+    },
+    {
+      "level": "L7",
+      "word": "ornate"
+    },
+    {
+      "level": "L7",
+      "word": "minimalist"
+    },
+    {
+      "level": "L7",
+      "word": "rustic"
+    },
+    {
+      "level": "L7",
+      "word": "shabby"
+    },
+    {
+      "level": "L7",
+      "word": "immaculate"
+    },
+    {
+      "level": "L7",
+      "word": "pristine"
+    },
+    {
+      "level": "L7",
+      "word": "musty"
+    },
+    {
+      "level": "L7",
+      "word": "meandering"
+    },
+    {
+      "level": "L7",
+      "word": "stony"
+    },
+    {
+      "level": "L7",
+      "word": "gravelly"
+    },
+    {
+      "level": "L7",
+      "word": "rugged"
+    },
+    {
+      "level": "L7",
+      "word": "scenic"
+    },
+    {
+      "level": "L7",
+      "word": "shaded"
+    },
+    {
+      "level": "L7",
+      "word": "leafy"
+    },
+    {
+      "level": "L7",
+      "word": "secluded"
+    },
+    {
+      "level": "L7",
+      "word": "impassable"
+    },
+    {
+      "level": "L7",
+      "word": "mountainous"
+    },
+    {
+      "level": "L7",
+      "word": "coastal"
+    },
+    {
+      "level": "L7",
+      "word": "inland"
+    },
+    {
+      "level": "L8",
+      "word": "subtropical"
+    },
+    {
+      "level": "L8",
+      "word": "temperate"
+    },
+    {
+      "level": "L7",
+      "word": "polar"
+    },
+    {
+      "level": "L8",
+      "word": "adaptable"
+    },
+    {
+      "level": "L8",
+      "word": "agile"
+    },
+    {
+      "level": "L8",
+      "word": "amiable"
+    },
+    {
+      "level": "L8",
+      "word": "amicable"
+    },
+    {
+      "level": "L8",
+      "word": "affable"
+    },
+    {
+      "level": "L8",
+      "word": "approachable"
+    },
+    {
+      "level": "L8",
+      "word": "assertive"
+    },
+    {
+      "level": "L8",
+      "word": "audacious"
+    },
+    {
+      "level": "L8",
+      "word": "bashful"
+    },
+    {
+      "level": "L8",
+      "word": "boastful"
+    },
+    {
+      "level": "L8",
+      "word": "brash"
+    },
+    {
+      "level": "L8",
+      "word": "cheery"
+    },
+    {
+      "level": "L8",
+      "word": "childish"
+    },
+    {
+      "level": "L8",
+      "word": "childlike"
+    },
+    {
+      "level": "L8",
+      "word": "clumsy"
+    },
+    {
+      "level": "L10",
+      "word": "compulsive"
+    },
+    {
+      "level": "L8",
+      "word": "conscientious"
+    },
+    {
+      "level": "L8",
+      "word": "contented"
+    },
+    {
+      "level": "L8",
+      "word": "crafty"
+    },
+    {
+      "level": "L8",
+      "word": "daring"
+    },
+    {
+      "level": "L8",
+      "word": "deceitful"
+    },
+    {
+      "level": "L8",
+      "word": "diligent"
+    },
+    {
+      "level": "L8",
+      "word": "discreet"
+    },
+    {
+      "level": "L8",
+      "word": "distrustful"
+    },
+    {
+      "level": "L8",
+      "word": "docile"
+    },
+    {
+      "level": "L8",
+      "word": "eccentric"
+    },
+    {
+      "level": "L8",
+      "word": "envious"
+    },
+    {
+      "level": "L8",
+      "word": "fickle"
+    },
+    {
+      "level": "L8",
+      "word": "forgiving"
+    },
+    {
+      "level": "L8",
+      "word": "frugal"
+    },
+    {
+      "level": "L8",
+      "word": "fussy"
+    },
+    {
+      "level": "L8",
+      "word": "gullible"
+    },
+    {
+      "level": "L8",
+      "word": "headstrong"
+    },
+    {
+      "level": "L8",
+      "word": "heedless"
+    },
+    {
+      "level": "L8",
+      "word": "impulsive"
+    },
+    {
+      "level": "L8",
+      "word": "indecisive"
+    },
+    {
+      "level": "L8",
+      "word": "inquisitive"
+    },
+    {
+      "level": "L8",
+      "word": "insincere"
+    },
+    {
+      "level": "L8",
+      "word": "irritable"
+    },
+    {
+      "level": "L8",
+      "word": "jovial"
+    },
+    {
+      "level": "L10",
+      "word": "judgmental"
+    },
+    {
+      "level": "L8",
+      "word": "kindhearted"
+    },
+    {
+      "level": "L8",
+      "word": "likable"
+    },
+    {
+      "level": "L8",
+      "word": "malicious"
+    },
+    {
+      "level": "L8",
+      "word": "manipulative"
+    },
+    {
+      "level": "L8",
+      "word": "merciful"
+    },
+    {
+      "level": "L10",
+      "word": "meticulous"
+    },
+    {
+      "level": "L8",
+      "word": "miserly"
+    },
+    {
+      "level": "L8",
+      "word": "obedient"
+    },
+    {
+      "level": "L8",
+      "word": "observant"
+    },
+    {
+      "level": "L8",
+      "word": "open-minded"
+    },
+    {
+      "level": "L8",
+      "word": "opinionated"
+    },
+    {
+      "level": "L8",
+      "word": "outspoken"
+    },
+    {
+      "level": "L8",
+      "word": "perceptive"
+    },
+    {
+      "level": "L8",
+      "word": "persevering"
+    },
+    {
+      "level": "L8",
+      "word": "petty"
+    },
+    {
+      "level": "L8",
+      "word": "possessive"
+    },
+    {
+      "level": "L8",
+      "word": "pretentious"
+    },
+    {
+      "level": "L8",
+      "word": "prudent"
+    },
+    {
+      "level": "L8",
+      "word": "punctual"
+    },
+    {
+      "level": "L8",
+      "word": "quarrelsome"
+    },
+    {
+      "level": "L8",
+      "word": "rebellious"
+    },
+    {
+      "level": "L8",
+      "word": "reckless"
+    },
+    {
+      "level": "L8",
+      "word": "reserved"
+    },
+    {
+      "level": "L8",
+      "word": "ruthless"
+    },
+    {
+      "level": "L8",
+      "word": "sentimental"
+    },
+    {
+      "level": "L8",
+      "word": "shrewd"
+    },
+    {
+      "level": "L8",
+      "word": "sincere"
+    },
+    {
+      "level": "L8",
+      "word": "spiteful"
+    },
+    {
+      "level": "L8",
+      "word": "steadfast"
+    },
+    {
+      "level": "L8",
+      "word": "superstitious"
+    },
+    {
+      "level": "L8",
+      "word": "tenacious"
+    },
+    {
+      "level": "L8",
+      "word": "trustworthy"
+    },
+    {
+      "level": "L8",
+      "word": "unassuming"
+    },
+    {
+      "level": "L8",
+      "word": "undecided"
+    },
+    {
+      "level": "L8",
+      "word": "unruly"
+    },
+    {
+      "level": "L8",
+      "word": "unselfish"
+    },
+    {
+      "level": "L8",
+      "word": "vain"
+    },
+    {
+      "level": "L10",
+      "word": "vindictive"
+    },
+    {
+      "level": "L10",
+      "word": "virtuous"
+    },
+    {
+      "level": "L8",
+      "word": "warmhearted"
+    },
+    {
+      "level": "L8",
+      "word": "witty"
+    },
+    {
+      "level": "L8",
+      "word": "worldly"
+    },
+    {
+      "level": "L8",
+      "word": "zealous"
+    },
+    {
+      "level": "L9",
+      "word": "cogent"
+    },
+    {
+      "level": "L9",
+      "word": "persuasive"
+    },
+    {
+      "level": "L9",
+      "word": "fallacious"
+    },
+    {
+      "level": "L10",
+      "word": "specious"
+    },
+    {
+      "level": "L9",
+      "word": "flimsy"
+    },
+    {
+      "level": "L10",
+      "word": "tenuous"
+    },
+    {
+      "level": "L9",
+      "word": "unsound"
+    },
+    {
+      "level": "L9",
+      "word": "defensible"
+    },
+    {
+      "level": "L9",
+      "word": "indefensible"
+    },
+    {
+      "level": "L9",
+      "word": "debatable"
+    },
+    {
+      "level": "L9",
+      "word": "contentious"
+    },
+    {
+      "level": "L9",
+      "word": "uncontroversial"
+    },
+    {
+      "level": "L9",
+      "word": "irrefutable"
+    },
+    {
+      "level": "L9",
+      "word": "refutable"
+    },
+    {
+      "level": "L9",
+      "word": "deductive"
+    },
+    {
+      "level": "L9",
+      "word": "inductive"
+    },
+    {
+      "level": "L9",
+      "word": "analogical"
+    },
+    {
+      "level": "L9",
+      "word": "circular"
+    },
+    {
+      "level": "L9",
+      "word": "unsubstantiated"
+    },
+    {
+      "level": "L9",
+      "word": "unfalsifiable"
+    },
+    {
+      "level": "L9",
+      "word": "irrational"
+    },
+    {
+      "level": "L9",
+      "word": "one-sided"
+    },
+    {
+      "level": "L9",
+      "word": "partial"
+    },
+    {
+      "level": "L10",
+      "word": "reductive"
+    },
+    {
+      "level": "L10",
+      "word": "impartiality"
+    },
+    {
+      "level": "L10",
+      "word": "neutrality"
+    },
+    {
+      "level": "L10",
+      "word": "objectivity"
+    },
+    {
+      "level": "L10",
+      "word": "subjectivity"
+    },
+    {
+      "level": "L10",
+      "word": "authenticity"
+    },
+    {
+      "level": "L10",
+      "word": "cohesion"
+    },
+    {
+      "level": "L10",
+      "word": "inconsistency"
+    },
+    {
+      "level": "L10",
+      "word": "vagueness"
+    },
+    {
+      "level": "L10",
+      "word": "inaccuracy"
+    },
+    {
+      "level": "L10",
+      "word": "viability"
+    },
+    {
+      "level": "L10",
+      "word": "practicality"
+    },
+    {
+      "level": "L10",
+      "word": "inevitability"
+    },
+    {
+      "level": "L10",
+      "word": "longevity"
+    },
+    {
+      "level": "L10",
+      "word": "portability"
+    },
+    {
+      "level": "L10",
+      "word": "affordability"
+    },
+    {
+      "level": "L10",
+      "word": "visibility"
+    },
+    {
+      "level": "L10",
+      "word": "readability"
+    },
+    {
+      "level": "L10",
+      "word": "legibility"
+    },
+    {
+      "level": "L10",
+      "word": "comprehensibility"
+    },
+    {
+      "level": "L10",
+      "word": "adaptability"
+    },
+    {
+      "level": "L10",
+      "word": "versatility"
+    },
+    {
+      "level": "L10",
+      "word": "inefficiency"
+    },
+    {
+      "level": "L10",
+      "word": "ineffectiveness"
+    },
+    {
+      "level": "L10",
+      "word": "profitability"
+    },
+    {
+      "level": "L11",
+      "word": "scalability"
+    },
+    {
+      "level": "L11",
+      "word": "reproducibility"
+    },
+    {
+      "level": "L11",
+      "word": "traceability"
+    },
+    {
+      "level": "L3",
+      "word": "princess"
+    },
+    {
+      "level": "L4",
+      "word": "emperor"
+    },
+    {
+      "level": "L4",
+      "word": "knight"
+    },
+    {
+      "level": "L4",
+      "word": "angel"
+    },
+    {
+      "level": "L3",
+      "word": "fairy"
+    },
+    {
+      "level": "L4",
+      "word": "witch"
+    },
+    {
+      "level": "L4",
+      "word": "wizard"
+    },
+    {
+      "level": "L3",
+      "word": "mermaid"
+    },
+    {
+      "level": "L3",
+      "word": "unicorn"
+    },
+    {
+      "level": "L4",
+      "word": "heroine"
+    },
+    {
+      "level": "L4",
+      "word": "clay"
+    },
+    {
+      "level": "L6",
+      "word": "velvet"
+    },
+    {
+      "level": "L6",
+      "word": "nylon"
+    },
+    {
+      "level": "L4",
+      "word": "dome"
+    },
+    {
+      "level": "L4",
+      "word": "cloak"
+    },
+    {
+      "level": "L4",
+      "word": "cape"
+    },
+    {
+      "level": "L4",
+      "word": "hut"
+    },
+    {
+      "level": "L4",
+      "word": "grove"
+    },
+    {
+      "level": "L4",
+      "word": "woodland"
+    },
+    {
+      "level": "L4",
+      "word": "hillside"
+    },
+    {
+      "level": "L6",
+      "word": "peninsula"
+    },
+    {
+      "level": "L6",
+      "word": "gulf"
+    },
+    {
+      "level": "L4",
+      "word": "lever"
+    },
+    {
+      "level": "L4",
+      "word": "magnet"
+    },
+    {
+      "level": "L6",
+      "word": "valve"
+    },
+    {
+      "level": "L6",
+      "word": "locomotive"
+    },
+    {
+      "level": "L6",
+      "word": "typewriter"
+    },
+    {
+      "level": "L4",
+      "word": "paperback"
+    },
+    {
+      "level": "L4",
+      "word": "stereo"
+    },
+    {
+      "level": "L4",
+      "word": "flap"
+    },
+    {
+      "level": "L4",
+      "word": "claw"
+    },
+    {
+      "level": "L4",
+      "word": "hound"
+    },
+    {
+      "level": "L4",
+      "word": "mare"
+    },
+    {
+      "level": "L4",
+      "word": "antler"
+    },
+    {
+      "level": "L4",
+      "word": "hoof"
+    },
+    {
+      "level": "L4",
+      "word": "whisker"
+    },
+    {
+      "level": "L4",
+      "word": "snout"
+    },
+    {
+      "level": "L4",
+      "word": "fin"
+    },
+    {
+      "level": "L6",
+      "word": "gill"
+    },
+    {
+      "level": "L6",
+      "word": "talon"
+    },
+    {
+      "level": "L4",
+      "word": "burrow"
+    },
+    {
+      "level": "L4",
+      "word": "hive"
+    },
+    {
+      "level": "L4",
+      "word": "den"
+    },
+    {
+      "level": "L6",
+      "word": "cocoon"
+    },
+    {
+      "level": "L5",
+      "word": "unload"
+    },
+    {
+      "level": "L5",
+      "word": "tilt"
+    },
+    {
+      "level": "L5",
+      "word": "overturn"
+    },
+    {
+      "level": "L5",
+      "word": "topple"
+    },
+    {
+      "level": "L5",
+      "word": "shove"
+    },
+    {
+      "level": "L5",
+      "word": "pave"
+    },
+    {
+      "level": "L5",
+      "word": "scrape"
+    },
+    {
+      "level": "L5",
+      "word": "scoop"
+    },
+    {
+      "level": "L5",
+      "word": "fling"
+    },
+    {
+      "level": "L5",
+      "word": "hurl"
+    },
+    {
+      "level": "L5",
+      "word": "seize"
+    },
+    {
+      "level": "L5",
+      "word": "snatch"
+    },
+    {
+      "level": "L5",
+      "word": "tuck"
+    },
+    {
+      "level": "L5",
+      "word": "unwrap"
+    },
+    {
+      "level": "L5",
+      "word": "undo"
+    },
+    {
+      "level": "L5",
+      "word": "sharpen"
+    },
+    {
+      "level": "L5",
+      "word": "soften"
+    },
+    {
+      "level": "L5",
+      "word": "harden"
+    },
+    {
+      "level": "L5",
+      "word": "crumble"
+    },
+    {
+      "level": "L5",
+      "word": "hatch"
+    },
+    {
+      "level": "L5",
+      "word": "ripen"
+    },
+    {
+      "level": "L5",
+      "word": "wilt"
+    },
+    {
+      "level": "L5",
+      "word": "merry"
+    },
+    {
+      "level": "L5",
+      "word": "jolly"
+    },
+    {
+      "level": "L5",
+      "word": "gorgeous"
+    },
+    {
+      "level": "L5",
+      "word": "bleak"
+    },
+    {
+      "level": "L5",
+      "word": "dreary"
+    },
+    {
+      "level": "L7",
+      "word": "muggy"
+    },
+    {
+      "level": "L6",
+      "word": "sweltering"
+    },
+    {
+      "level": "L6",
+      "word": "balmy"
+    },
+    {
+      "level": "L5",
+      "word": "enjoyable"
+    },
+    {
+      "level": "L5",
+      "word": "eventful"
+    },
+    {
+      "level": "L5",
+      "word": "uneventful"
+    },
+    {
+      "level": "L5",
+      "word": "hectic"
+    },
+    {
+      "level": "L5",
+      "word": "frantic"
+    },
+    {
+      "level": "L5",
+      "word": "restful"
+    },
+    {
+      "level": "L5",
+      "word": "relaxing"
+    },
+    {
+      "level": "L5",
+      "word": "tiresome"
+    },
+    {
+      "level": "L5",
+      "word": "stressful"
+    },
+    {
+      "level": "L5",
+      "word": "unlucky"
+    },
+    {
+      "level": "L7",
+      "word": "excite"
+    },
+    {
+      "level": "L7",
+      "word": "astonish"
+    },
+    {
+      "level": "L7",
+      "word": "astound"
+    },
+    {
+      "level": "L7",
+      "word": "amaze"
+    },
+    {
+      "level": "L7",
+      "word": "bewilder"
+    },
+    {
+      "level": "L7",
+      "word": "confuse"
+    },
+    {
+      "level": "L7",
+      "word": "perplex"
+    },
+    {
+      "level": "L7",
+      "word": "irritate"
+    },
+    {
+      "level": "L7",
+      "word": "annoy"
+    },
+    {
+      "level": "L7",
+      "word": "disturb"
+    },
+    {
+      "level": "L7",
+      "word": "frustrate"
+    },
+    {
+      "level": "L7",
+      "word": "disappoint"
+    },
+    {
+      "level": "L7",
+      "word": "disgust"
+    },
+    {
+      "level": "L7",
+      "word": "dismay"
+    },
+    {
+      "level": "L7",
+      "word": "terrify"
+    },
+    {
+      "level": "L7",
+      "word": "console"
+    },
+    {
+      "level": "L7",
+      "word": "nurture"
+    },
+    {
+      "level": "L7",
+      "word": "nourish"
+    },
+    {
+      "level": "L7",
+      "word": "cherish"
+    },
+    {
+      "level": "L7",
+      "word": "adore"
+    },
+    {
+      "level": "L7",
+      "word": "restrain"
+    },
+    {
+      "level": "L8",
+      "word": "favorable"
+    },
+    {
+      "level": "L8",
+      "word": "unfavorable"
+    },
+    {
+      "level": "L8",
+      "word": "discouraging"
+    },
+    {
+      "level": "L8",
+      "word": "unanticipated"
+    },
+    {
+      "level": "L8",
+      "word": "foreseeable"
+    },
+    {
+      "level": "L8",
+      "word": "unforeseeable"
+    },
+    {
+      "level": "L8",
+      "word": "definitive"
+    },
+    {
+      "level": "L8",
+      "word": "tentative"
+    },
+    {
+      "level": "L8",
+      "word": "eventual"
+    },
+    {
+      "level": "L8",
+      "word": "optimal"
+    },
+    {
+      "level": "L8",
+      "word": "suboptimal"
+    },
+    {
+      "level": "L8",
+      "word": "inferior"
+    },
+    {
+      "level": "L8",
+      "word": "comparable"
+    },
+    {
+      "level": "L8",
+      "word": "unequal"
+    },
+    {
+      "level": "L8",
+      "word": "dissimilar"
+    },
+    {
+      "level": "L8",
+      "word": "contrasting"
+    },
+    {
+      "level": "L8",
+      "word": "divergent"
+    },
+    {
+      "level": "L8",
+      "word": "convergent"
+    },
+    {
+      "level": "L8",
+      "word": "simultaneous"
+    },
+    {
+      "level": "L8",
+      "word": "imminent"
+    },
+    {
+      "level": "L8",
+      "word": "pending"
+    },
+    {
+      "level": "L8",
+      "word": "intrinsic"
+    },
+    {
+      "level": "L8",
+      "word": "extrinsic"
+    },
+    {
+      "level": "L9",
+      "word": "tabulate"
+    },
+    {
+      "level": "L9",
+      "word": "collate"
+    },
+    {
+      "level": "L9",
+      "word": "elicit"
+    },
+    {
+      "level": "L9",
+      "word": "deduce"
+    },
+    {
+      "level": "L9",
+      "word": "presume"
+    },
+    {
+      "level": "L9",
+      "word": "postulate"
+    },
+    {
+      "level": "L9",
+      "word": "hypothesize"
+    },
+    {
+      "level": "L9",
+      "word": "conjecture"
+    },
+    {
+      "level": "L9",
+      "word": "theorize"
+    },
+    {
+      "level": "L9",
+      "word": "generalize"
+    },
+    {
+      "level": "L12",
+      "word": "extrapolate"
+    },
+    {
+      "level": "L9",
+      "word": "ascribe"
+    },
+    {
+      "level": "L9",
+      "word": "correlate"
+    },
+    {
+      "level": "L9",
+      "word": "discriminate"
+    },
+    {
+      "level": "L9",
+      "word": "categorize"
+    },
+    {
+      "level": "L9",
+      "word": "reproduce"
+    },
+    {
+      "level": "L9",
+      "word": "liability"
+    },
+    {
+      "level": "L9",
+      "word": "directive"
+    },
+    {
+      "level": "L9",
+      "word": "amnesty"
+    },
+    {
+      "level": "L9",
+      "word": "justification"
+    },
+    {
+      "level": "L9",
+      "word": "reliance"
+    },
+    {
+      "level": "L9",
+      "word": "consortium"
+    },
+    {
+      "level": "L9",
+      "word": "confederation"
+    },
+    {
+      "level": "L9",
+      "word": "unification"
+    },
+    {
+      "level": "L9",
+      "word": "elimination"
+    },
+    {
+      "level": "L9",
+      "word": "prohibition"
+    },
+    {
+      "level": "L9",
+      "word": "exemption"
+    },
+    {
+      "level": "L9",
+      "word": "displacement"
+    },
+    {
+      "level": "L9",
+      "word": "relocation"
+    },
+    {
+      "level": "L9",
+      "word": "emigration"
+    },
+    {
+      "level": "L10",
+      "word": "emancipation"
+    },
+    {
+      "level": "L9",
+      "word": "dependence"
+    },
+    {
+      "level": "L10",
+      "word": "subordination"
+    },
+    {
+      "level": "L9",
+      "word": "supremacy"
+    },
+    {
+      "level": "L9",
+      "word": "bureaucracy"
+    },
+    {
+      "level": "L10",
+      "word": "bilateralism"
+    },
+    {
+      "level": "L10",
+      "word": "multilateralism"
+    },
+    {
+      "level": "L9",
+      "word": "deliberation"
+    },
+    {
+      "level": "L9",
+      "word": "ratification"
+    },
+    {
+      "level": "L9",
+      "word": "noncompliance"
+    },
+    {
+      "level": "L9",
+      "word": "infringement"
+    },
+    {
+      "level": "L9",
+      "word": "violation"
+    },
+    {
+      "level": "L11",
+      "word": "reconciliation"
+    },
+    {
+      "level": "L9",
+      "word": "restitution"
+    },
+    {
+      "level": "L9",
+      "word": "reparation"
+    },
+    {
+      "level": "L9",
+      "word": "redress"
+    },
+    {
+      "level": "L9",
+      "word": "grievance"
+    },
+    {
+      "level": "L9",
+      "word": "petition"
+    },
+    {
+      "level": "L8",
+      "word": "markedly"
+    },
+    {
+      "level": "L8",
+      "word": "wholly"
+    },
+    {
+      "level": "L8",
+      "word": "profoundly"
+    },
+    {
+      "level": "L8",
+      "word": "uniquely"
+    },
+    {
+      "level": "L8",
+      "word": "inherently"
+    },
+    {
+      "level": "L8",
+      "word": "apparently"
+    },
+    {
+      "level": "L8",
+      "word": "evidently"
+    },
+    {
+      "level": "L8",
+      "word": "hopefully"
+    },
+    {
+      "level": "L8",
+      "word": "alternatively"
+    },
+    {
+      "level": "L8",
+      "word": "conversely"
+    },
+    {
+      "level": "L8",
+      "word": "similarly"
+    },
+    {
+      "level": "L8",
+      "word": "consequently"
+    },
+    {
+      "level": "L8",
+      "word": "moreover"
+    },
+    {
+      "level": "L8",
+      "word": "henceforth"
+    },
+    {
+      "level": "L8",
+      "word": "incidentally"
+    },
+    {
+      "level": "L8",
+      "word": "notably"
+    },
+    {
+      "level": "L8",
+      "word": "admittedly"
+    },
+    {
+      "level": "L8",
+      "word": "conceivably"
+    },
+    {
+      "level": "L8",
+      "word": "theoretically"
+    },
+    {
+      "level": "L8",
+      "word": "ideally"
+    },
+    {
+      "level": "L8",
+      "word": "unquestionably"
+    },
+    {
+      "level": "L7",
+      "word": "captivate"
+    },
+    {
+      "level": "L7",
+      "word": "fascinate"
+    },
+    {
+      "level": "L7",
+      "word": "intrigue"
+    },
+    {
+      "level": "L7",
+      "word": "mesmerize"
+    },
+    {
+      "level": "L7",
+      "word": "enchant"
+    },
+    {
+      "level": "L7",
+      "word": "overwhelm"
+    },
+    {
+      "level": "L7",
+      "word": "embarrass"
+    },
+    {
+      "level": "L7",
+      "word": "intimidate"
+    },
+    {
+      "level": "L7",
+      "word": "alienate"
+    },
+    {
+      "level": "L7",
+      "word": "unite"
+    },
+    {
+      "level": "L7",
+      "word": "applaud"
+    },
+    {
+      "level": "L7",
+      "word": "boo"
+    },
+    {
+      "level": "L8",
+      "word": "heckle"
+    },
+    {
+      "level": "L8",
+      "word": "jeer"
+    },
+    {
+      "level": "L7",
+      "word": "taunt"
+    },
+    {
+      "level": "L8",
+      "word": "sneer"
+    },
+    {
+      "level": "L8",
+      "word": "practicable"
+    },
+    {
+      "level": "L8",
+      "word": "workable"
+    },
+    {
+      "level": "L8",
+      "word": "unworkable"
+    },
+    {
+      "level": "L8",
+      "word": "unfeasible"
+    },
+    {
+      "level": "L8",
+      "word": "economical"
+    },
+    {
+      "level": "L8",
+      "word": "cost-effective"
+    },
+    {
+      "level": "L8",
+      "word": "ingenious"
+    },
+    {
+      "level": "L8",
+      "word": "customary"
+    },
+    {
+      "level": "L8",
+      "word": "troublesome"
+    },
+    {
+      "level": "L8",
+      "word": "inadvisable"
+    },
+    {
+      "level": "L8",
+      "word": "advisable"
+    },
+    {
+      "level": "L8",
+      "word": "indispensable"
+    },
+    {
+      "level": "L8",
+      "word": "exquisite"
+    },
+    {
+      "level": "L8",
+      "word": "graceful"
+    },
+    {
+      "level": "L8",
+      "word": "fruitful"
+    },
+    {
+      "level": "L6",
+      "word": "hoarse"
+    },
+    {
+      "level": "L6",
+      "word": "husky"
+    },
+    {
+      "level": "L6",
+      "word": "shrill"
+    },
+    {
+      "level": "L6",
+      "word": "raspy"
+    },
+    {
+      "level": "L6",
+      "word": "mellow"
+    },
+    {
+      "level": "L6",
+      "word": "soothing"
+    },
+    {
+      "level": "L7",
+      "word": "melodious"
+    },
+    {
+      "level": "L7",
+      "word": "resonant"
+    },
+    {
+      "level": "L6",
+      "word": "feeble"
+    },
+    {
+      "level": "L6",
+      "word": "stern"
+    },
+    {
+      "level": "L6",
+      "word": "earnest"
+    },
+    {
+      "level": "L6",
+      "word": "solemn"
+    },
+    {
+      "level": "L6",
+      "word": "brisk"
+    },
+    {
+      "level": "L6",
+      "word": "muted"
+    },
+    {
+      "level": "L6",
+      "word": "subdued"
+    },
+    {
+      "level": "L9",
+      "word": "tremulous"
+    },
+    {
+      "level": "L9",
+      "word": "quavering"
+    },
+    {
+      "level": "L6",
+      "word": "breathy"
+    },
+    {
+      "level": "L6",
+      "word": "nasal"
+    },
+    {
+      "level": "L6",
+      "word": "monotone"
+    },
+    {
+      "level": "L6",
+      "word": "fluent"
+    },
+    {
+      "level": "L6",
+      "word": "acoustic"
+    },
+    {
+      "level": "L5",
+      "word": "audible"
+    },
+    {
+      "level": "L5",
+      "word": "inaudible"
+    },
+    {
+      "level": "L5",
+      "word": "fragrance"
+    },
+    {
+      "level": "L7",
+      "word": "aroma"
+    },
+    {
+      "level": "L7",
+      "word": "scent"
+    },
+    {
+      "level": "L7",
+      "word": "starlight"
+    },
+    {
+      "level": "L7",
+      "word": "twilight"
+    },
+    {
+      "level": "L7",
+      "word": "dusk"
+    },
+    {
+      "level": "L5",
+      "word": "glitter"
+    },
+    {
+      "level": "L7",
+      "word": "gleam"
+    },
+    {
+      "level": "L7",
+      "word": "glimmer"
+    },
+    {
+      "level": "L5",
+      "word": "sparkle"
+    },
+    {
+      "level": "L7",
+      "word": "shimmer"
+    },
+    {
+      "level": "L7",
+      "word": "luster"
+    },
+    {
+      "level": "L7",
+      "word": "gloss"
+    },
+    {
+      "level": "L7",
+      "word": "sheen"
+    },
+    {
+      "level": "L7",
+      "word": "hue"
+    },
+    {
+      "level": "L7",
+      "word": "tint"
+    },
+    {
+      "level": "L7",
+      "word": "pastime"
+    },
+    {
+      "level": "L7",
+      "word": "festivity"
+    },
+    {
+      "level": "L5",
+      "word": "carnival"
+    },
+    {
+      "level": "L7",
+      "word": "pageant"
+    },
+    {
+      "level": "L7",
+      "word": "recital"
+    },
+    {
+      "level": "L7",
+      "word": "quartet"
+    },
+    {
+      "level": "L7",
+      "word": "duet"
+    },
+    {
+      "level": "L7",
+      "word": "comeback"
+    },
+    {
+      "level": "L7",
+      "word": "replay"
+    },
+    {
+      "level": "L7",
+      "word": "rerun"
+    },
+    {
+      "level": "L7",
+      "word": "premiere"
+    },
+    {
+      "level": "L7",
+      "word": "matinee"
+    },
+    {
+      "level": "L7",
+      "word": "interlude"
+    },
+    {
+      "level": "L7",
+      "word": "encore"
+    },
+    {
+      "level": "L8",
+      "word": "ovation"
+    },
+    {
+      "level": "L9",
+      "word": "esteem"
+    },
+    {
+      "level": "L9",
+      "word": "belonging"
+    },
+    {
+      "level": "L9",
+      "word": "fulfillment"
+    },
+    {
+      "level": "L9",
+      "word": "contentment"
+    },
+    {
+      "level": "L9",
+      "word": "zeal"
+    },
+    {
+      "level": "L9",
+      "word": "pessimism"
+    },
+    {
+      "level": "L9",
+      "word": "hopelessness"
+    },
+    {
+      "level": "L9",
+      "word": "helplessness"
+    },
+    {
+      "level": "L9",
+      "word": "insecurity"
+    },
+    {
+      "level": "L9",
+      "word": "disquiet"
+    },
+    {
+      "level": "L9",
+      "word": "apprehension"
+    },
+    {
+      "level": "L9",
+      "word": "dread"
+    },
+    {
+      "level": "L10",
+      "word": "foreboding"
+    },
+    {
+      "level": "L9",
+      "word": "remorse"
+    },
+    {
+      "level": "L9",
+      "word": "repentance"
+    },
+    {
+      "level": "L9",
+      "word": "resentment"
+    },
+    {
+      "level": "L9",
+      "word": "bitterness"
+    },
+    {
+      "level": "L9",
+      "word": "indignation"
+    },
+    {
+      "level": "L9",
+      "word": "defiance"
+    },
+    {
+      "level": "L9",
+      "word": "alienation"
+    },
+    {
+      "level": "L9",
+      "word": "estrangement"
+    },
+    {
+      "level": "L9",
+      "word": "solitude"
+    },
+    {
+      "level": "L9",
+      "word": "serenity"
+    },
+    {
+      "level": "L9",
+      "word": "tranquility"
+    },
+    {
+      "level": "L9",
+      "word": "composure"
+    },
+    {
+      "level": "L10",
+      "word": "equanimity"
+    },
+    {
+      "level": "L9",
+      "word": "reassurance"
+    },
+    {
+      "level": "L11",
+      "word": "disburse"
+    },
+    {
+      "level": "L11",
+      "word": "reallocate"
+    },
+    {
+      "level": "L11",
+      "word": "earmark"
+    },
+    {
+      "level": "L11",
+      "word": "misappropriate"
+    },
+    {
+      "level": "L11",
+      "word": "embezzle"
+    },
+    {
+      "level": "L11",
+      "word": "replenish"
+    },
+    {
+      "level": "L11",
+      "word": "recoup"
+    },
+    {
+      "level": "L11",
+      "word": "recapture"
+    },
+    {
+      "level": "L11",
+      "word": "withhold"
+    },
+    {
+      "level": "L11",
+      "word": "remit"
+    },
+    {
+      "level": "L11",
+      "word": "reinvest"
+    },
+    {
+      "level": "L11",
+      "word": "divest"
+    },
+    {
+      "level": "L11",
+      "word": "liquidate"
+    },
+    {
+      "level": "L11",
+      "word": "devalue"
+    },
+    {
+      "level": "L11",
+      "word": "depreciate"
+    },
+    {
+      "level": "L11",
+      "word": "amortize"
+    },
+    {
+      "level": "L11",
+      "word": "capitalize"
+    },
+    {
+      "level": "L11",
+      "word": "subsidize"
+    },
+    {
+      "level": "L11",
+      "word": "underwrite"
+    },
+    {
+      "level": "L11",
+      "word": "indemnify"
+    },
+    {
+      "level": "L11",
+      "word": "deduct"
+    },
+    {
+      "level": "L11",
+      "word": "itemize"
+    },
+    {
+      "level": "L12",
+      "word": "connotation"
+    },
+    {
+      "level": "L12",
+      "word": "denotation"
+    },
+    {
+      "level": "L12",
+      "word": "polysemy"
+    },
+    {
+      "level": "L12",
+      "word": "homonym"
+    },
+    {
+      "level": "L12",
+      "word": "homophone"
+    },
+    {
+      "level": "L12",
+      "word": "alliteration"
+    },
+    {
+      "level": "L12",
+      "word": "assonance"
+    },
+    {
+      "level": "L12",
+      "word": "onomatopoeia"
+    },
+    {
+      "level": "L12",
+      "word": "hyperbole"
+    },
+    {
+      "level": "L12",
+      "word": "euphemism"
+    },
+    {
+      "level": "L12",
+      "word": "oxymoron"
+    },
+    {
+      "level": "L12",
+      "word": "allusion"
+    },
+    {
+      "level": "L12",
+      "word": "allegory"
+    },
+    {
+      "level": "L12",
+      "word": "parody"
+    },
+    {
+      "level": "L12",
+      "word": "satire"
+    },
+    {
+      "level": "L12",
+      "word": "litotes"
+    },
+    {
+      "level": "L12",
+      "word": "metonymy"
+    },
+    {
+      "level": "L12",
+      "word": "synecdoche"
+    },
+    {
+      "level": "L12",
+      "word": "personification"
+    },
+    {
+      "level": "L12",
+      "word": "anthropomorphism"
+    },
+    {
+      "level": "L12",
+      "word": "foreshadowing"
+    },
+    {
+      "level": "L12",
+      "word": "juxtaposition"
+    },
+    {
+      "level": "L12",
+      "word": "dichotomy"
+    },
+    {
+      "level": "L12",
+      "word": "antithesis"
+    },
+    {
+      "level": "L12",
+      "word": "antonymy"
+    },
+    {
+      "level": "L12",
+      "word": "synonymy"
+    },
+    {
+      "level": "L12",
+      "word": "pragmatics"
+    },
+    {
+      "level": "L12",
+      "word": "phonetics"
+    },
+    {
+      "level": "L12",
+      "word": "phonology"
+    },
+    {
+      "level": "L12",
+      "word": "morphology"
+    },
+    {
+      "level": "L12",
+      "word": "syntax"
+    },
+    {
+      "level": "L12",
+      "word": "semantics"
+    },
+    {
+      "level": "L12",
+      "word": "etymology"
+    },
+    {
+      "level": "L12",
+      "word": "lexicon"
+    },
+    {
+      "level": "L12",
+      "word": "ellipsis"
+    },
+    {
+      "level": "L12",
+      "word": "anaphora"
+    },
+    {
+      "level": "L12",
+      "word": "tautology"
+    },
+    {
+      "level": "L12",
+      "word": "verbosity"
+    },
+    {
+      "level": "L12",
+      "word": "brevity"
+    },
+    {
+      "level": "L12",
+      "word": "conciseness"
+    },
+    {
+      "level": "L12",
+      "word": "fluency"
+    },
+    {
+      "level": "L12",
+      "word": "articulation"
+    },
+    {
+      "level": "L12",
+      "word": "intonation"
+    },
+    {
+      "level": "L12",
+      "word": "inflection"
+    },
+    {
+      "level": "L12",
+      "word": "prosody"
+    },
+    {
+      "level": "L5",
+      "word": "earpiece"
+    },
+    {
+      "level": "L5",
+      "word": "coatroom"
+    },
+    {
+      "level": "L5",
+      "word": "cloakroom"
+    },
+    {
+      "level": "L5",
+      "word": "mailbag"
+    },
+    {
+      "level": "L5",
+      "word": "mailroom"
+    },
+    {
+      "level": "L5",
+      "word": "postage"
+    },
+    {
+      "level": "L5",
+      "word": "postmark"
+    },
+    {
+      "level": "L5",
+      "word": "zipline"
+    },
+    {
+      "level": "L5",
+      "word": "shoeshine"
+    },
+    {
+      "level": "L5",
+      "word": "shoestring"
+    },
+    {
+      "level": "L5",
+      "word": "shoemaker"
+    },
+    {
+      "level": "L4",
+      "word": "entryway"
+    },
+    {
+      "level": "L5",
+      "word": "bootlace"
+    },
+    {
+      "level": "L7",
+      "word": "shoetree"
+    },
+    {
+      "level": "L5",
+      "word": "watchband"
+    },
+    {
+      "level": "L5",
+      "word": "watchmaker"
+    },
+    {
+      "level": "L5",
+      "word": "guardrail"
+    },
+    {
+      "level": "L5",
+      "word": "guardhouse"
+    },
+    {
+      "level": "L5",
+      "word": "gatehouse"
+    },
+    {
+      "level": "L5",
+      "word": "glasshouse"
+    },
+    {
+      "level": "L5",
+      "word": "boathouse"
+    },
+    {
+      "level": "L5",
+      "word": "clubhouse"
+    },
+    {
+      "level": "L5",
+      "word": "farmhouse"
+    },
+    {
+      "level": "L5",
+      "word": "townhouse"
+    },
+    {
+      "level": "L7",
+      "word": "penthouse"
+    },
+    {
+      "level": "L5",
+      "word": "guesthouse"
+    },
+    {
+      "level": "L4",
+      "word": "guestroom"
+    },
+    {
+      "level": "L4",
+      "word": "playroom"
+    },
+    {
+      "level": "L5",
+      "word": "workroom"
+    },
+    {
+      "level": "L5",
+      "word": "storeroom"
+    },
+    {
+      "level": "L5",
+      "word": "showroom"
+    },
+    {
+      "level": "L5",
+      "word": "darkroom"
+    },
+    {
+      "level": "L4",
+      "word": "alleyway"
+    },
+    {
+      "level": "L5",
+      "word": "breakroom"
+    },
+    {
+      "level": "L4",
+      "word": "washroom"
+    },
+    {
+      "level": "L4",
+      "word": "restroom"
+    },
+    {
+      "level": "L5",
+      "word": "newsroom"
+    },
+    {
+      "level": "L5",
+      "word": "newsreader"
+    },
+    {
+      "level": "L5",
+      "word": "newscast"
+    },
+    {
+      "level": "L7",
+      "word": "newsprint"
+    },
+    {
+      "level": "L4",
+      "word": "pinboard"
+    },
+    {
+      "level": "L4",
+      "word": "signboard"
+    },
+    {
+      "level": "L5",
+      "word": "billboard"
+    },
+    {
+      "level": "L5",
+      "word": "floorboard"
+    },
+    {
+      "level": "L4",
+      "word": "walkway"
+    },
+    {
+      "level": "L5",
+      "word": "pegboard"
+    },
+    {
+      "level": "L5",
+      "word": "corkboard"
+    }
+  ]
+}

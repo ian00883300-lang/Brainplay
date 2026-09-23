@@ -43,10 +43,10 @@ html=html.replace("if(crossDuplicates.length)console.warn('Cross-level duplicate
 // New grammatical categories must not fall back to a meaningless generic POS label.
 html=html.replaceAll("conjunction:'連接詞'","conjunction:'連接詞',article:'冠詞',determiner:'限定詞',modal:'情態助動詞',number:'數詞',interjection:'感嘆詞'");
 html=html.replace('</style>','[hidden]{display:none!important}.toolbar-group{flex-wrap:wrap}.study-mode-note{line-height:1.7}.vocab-example small{display:block;color:var(--muted);margin-bottom:6px}.audio-choice{display:flex;flex-direction:column;gap:8px}.toolbar select{max-width:min(360px,80vw)}\n</style>');
-html=require('./phase64-page.cjs')(html);
+html=require('./phase65-page.cjs')(require('./phase64-page.cjs')(html));
 fs.writeFileSync(path.join(root,'index.html'),html);
-const swPath=path.join(root,'sw.js');let sw=fs.readFileSync(swPath,'utf8').replace(/const CACHE_NAME = '[^']+';/,"const CACHE_NAME = 'brainplay-v4.61-phase64';");
+const swPath=path.join(root,'sw.js');let sw=fs.readFileSync(swPath,'utf8').replace(/const CACHE_NAME = '[^']+';/,"const CACHE_NAME = 'brainplay-v4.62-phase65';");
 // A separately hosted application on this origin may own other cache names.
 sw=sw.replace('keys.filter(key => key !== CACHE_NAME)','keys.filter(key => key.startsWith(\'brainplay-\') && key !== CACHE_NAME)');
 fs.writeFileSync(swPath,sw);
-console.log('Built Phase 64 HTML and offline cache revision.');
+console.log('Built Phase 65 HTML and offline cache revision.');

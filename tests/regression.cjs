@@ -7,15 +7,32 @@ const rows=Object.values(bank).flat();
 const results=[];
 let enableHooks=true;
 function pass(name,detail){results.push({name,status:'passed',detail});console.log('PASS',name,detail||'');}
+const wordAudit=JSON.parse(fs.readFileSync(path.join(root,'data/phase65-word-audit.json'),'utf8'));
+const phraseAudit=JSON.parse(fs.readFileSync(path.join(root,'data/phase65-phrase-audit.json'),'utf8'));
+assert.equal(wordAudit.added,1000);assert.equal(phraseAudit.added,500);
 const hooks=`window.__brainplayTest={vocabItems,englishPool,englishChoices,englishRecord,englishProgress,makeBlankData,blankLetterOptions,buildUniqueDeck,openGame,closeGame,state,runDataChecks,ENGLISH_STAGES,englishPhraseItems,togglePause,isVocabStarred,matchingSymbols,detailPattern,newOddPattern,makeOddPuzzle,iconSVG};`;
 function assertData(){
- assert.equal(rows.length,7000);assert.equal(new Set(rows.map(r=>r[0].toLowerCase())).size,7000);
+ const cp=require('node:child_process');
+ const prior=file=>JSON.parse(cp.execFileSync('git',['-c','safe.directory='+root,'show','e251091ba5e8a4912b9b39e5ff928ed80d177add:'+file],{cwd:root,encoding:'utf8',maxBuffer:10e6}));
+ const beforeWords=new Set(Object.values(prior('data/english-vocabulary.json')).flat().map(r=>r[0].toLowerCase()));
+ const afterWords=new Set(rows.map(r=>r[0].toLowerCase()));
+ assert([...beforeWords].every(w=>afterWords.has(w)),'Existing words must remain');
+ assert.equal([...afterWords].filter(w=>!beforeWords.has(w)).length,1000);
+ assert.equal(new Set(wordAudit.additions.map(x=>x.word)).size,1000);
+ for(const x of wordAudit.additions)assert(bank[x.level].some(r=>r[0]===x.word),'Explicit level '+x.word);
+ const currentPhrases=JSON.parse(fs.readFileSync(path.join(root,'data/english-phrases.json'),'utf8'));
+ const beforePhrases=new Set(prior('data/english-phrases.json').map(p=>p.phrase));
+ assert([...beforePhrases].every(p=>currentPhrases.some(x=>x.phrase===p)),'Existing phrases must remain');
+ assert.equal(currentPhrases.filter(p=>!beforePhrases.has(p.phrase)).length,500);
+ for(const p of currentPhrases){assert(bank[p.level]);assert(p.meaning.trim()&&p.example.trim()&&p.exampleZh.trim());if(!beforePhrases.has(p.phrase))assert(p.example.toLowerCase().replace(/\bgot\b/g,'get').includes(p.phrase.toLowerCase()),p.phrase);}
+ for(const [word,level]of [['pacifier','L2'],['stairwell','L4'],['biodegradable','L8'],['reimbursement','L11'],['extrapolate','L12']])assert(bank[level].some(r=>r[0]===word),word);
+ assert.equal(rows.length,8000);assert.equal(new Set(rows.map(r=>r[0].toLowerCase())).size,8000);
  for(const r of rows){assert.equal(r.length,8,r[0]);assert(r.slice(0,7).every(x=>typeof x==='string'&&x.trim()),r[0]);assert.equal(typeof r[7],'boolean');assert(/^[a-z]+(?:-[a-z]+)*$/i.test(r[0]),r[0]);assert(r[5].toLowerCase().includes(r[0].toLowerCase()),r[0]);assert(!/^On (Monday|Tuesday|Wednesday|Thursday|Friday)/.test(r[5]),r[0]);assert(!/[\u200b-\u200d]/.test(r.join('')),r[0]);}
  for(const w of ['statute','interpolation','extrapolation','antibody','colitis','biopsy','stochastic','exeter','intel','polymer'])assert(!rows.some(r=>r[0]===w),'excluded '+w);
  assert.equal(Object.keys(bank).length,12);for(const w of ['dog','cat','milk','mom','dad'])assert(bank.L1.some(r=>r[0].toLowerCase()===w),w);for(const w of ['compliance','invoice','reimburse'])assert(bank.L11.some(r=>r[0]===w),w);
  assert.equal(rows.find(r=>r[0]==='fat')[3],'adjective');
  assert(rows.some(r=>r[0]==='January'));assert(rows.some(r=>r[0]==='I'));
- pass('Data: 7000 complete unique headwords, twelve levels, required basics and specialist exclusions');
+ pass('Data: 8000 complete unique headwords, twelve levels, required basics and specialist exclusions');
 }
 const server=http.createServer((req,res)=>{
  const pathname=decodeURIComponent(req.url.split('?')[0]);
@@ -89,10 +106,10 @@ async function run(){
     tested.push(level+'/'+mode);
    }
   }pass('72 level/mode UI combinations; spelling edit; study navigation; slow speech',tested.length);
-  const phrases=JSON.parse(fs.readFileSync(path.join(root,'data/english-phrases.json'),'utf8'));assert.equal(phrases.length,500);assert.equal(new Set(phrases.map(x=>x.phrase)).size,500);
+  const phrases=JSON.parse(fs.readFileSync(path.join(root,'data/english-phrases.json'),'utf8'));assert.equal(phrases.length,1000);assert.equal(new Set(phrases.map(x=>x.phrase)).size,1000);
   for(const lv of Object.keys(bank)){
    await open();await page.selectOption('#vocabMode','phraseFlash');await page.selectOption('#difficultySelect',lv);await page.click('#vocabStart');assert((await page.locator('#vocabMsg').innerText()).includes(String(phrases.filter(x=>x.level===lv).length)));await page.click('#flashNext');await page.click('#enUsageSpeak');await page.click('#flashFinish');
-  }pass('All 12 phrase levels retain 500 unique cards and audio');
+  }pass('All 12 phrase levels retain 1000 unique cards and audio');
   await select('L1','meaning');await page.click('#vocabStart');
   const word=await page.locator('.vocab-word').innerText();const zh=bank.L1.find(r=>r[0]===word)[1];
   await page.locator('[data-answer]').filter({hasText:zh}).click();await finish();assert((await page.locator('#vocabReport').innerText()).includes('100%'));
@@ -144,10 +161,10 @@ async function run(){
     await select('L3',mode);await page.click('#vocabStart');
     const layout=await page.evaluate(mode=>{const parent=document.querySelector('#vocabContent');const choices=[...document.querySelectorAll(mode==='flash'?'.flash-nav>button':'.vocab-three-options>*')].map(x=>x.getBoundingClientRect());const card=parent.querySelector('.vocab-card').getBoundingClientRect(),p=parent.getBoundingClientRect();return {aligned:choices.every(x=>Math.abs(x.top-choices[0].top)<2),ordered:choices.every((x,i)=>!i||x.left>choices[i-1].left),centered:Math.abs(card.left+card.width/2-p.left-p.width/2)<2,overflow:document.querySelector('.game-panel').scrollWidth>innerWidth,translation:getComputedStyle(parent.querySelector('.vocab-zh')||parent.querySelector('.vocab-example')||parent).textAlign};},mode);
     assert(layout.aligned&&layout.ordered&&layout.centered&&!layout.overflow,JSON.stringify({width,mode,layout}));
-    if(mode==='flash')assert.equal(layout.translation,'left');
+    if(mode==='flash')assert.equal(layout.translation,'center');
     if(mode==='flash')await page.click('#flashFinish');else await page.click('#endGameBtn');
    }
-  }pass('Horizontal options, centered cards and left-aligned translations at 360/390/768/1280px');
+  }pass('Horizontal options, centered cards and centered word translations at 360/390/768/1280px');
   const patterns=await page.evaluate(()=>{const t=window.__brainplayTest,counts={};for(const diff of ['easy','medium','hard','extreme']){const ids=t.matchingSymbols(diff);if(new Set(ids).size!==ids.length)throw Error('duplicate IDs');const svg=ids.map(x=>t.iconSVG(x));if(new Set(svg).size!==svg.length)throw Error('indistinguishable matching icons '+diff);counts[diff]=ids.length;for(let f=0;f<6;f++)for(let v=0;v<4;v++)if(t.newOddPattern(diff,f,v,false)===t.newOddPattern(diff,f,v,true))throw Error('No visual difference');for(let i=0;i<200;i++){const p=t.makeOddPuzzle(diff,4);const normal=p.cells[(p.target+1)%p.cells.length];if(p.cells.filter(x=>x!==normal).length!==1||p.cells[p.target]===normal)throw Error('Odd puzzle not unique');}}return counts;});
   assert(patterns.easy<patterns.medium&&patterns.medium<patterns.hard&&patterns.hard<patterns.extreme);pass('Difficulty-specific matching banks and 800 unique-answer odd puzzles',patterns);
   for(const diff of ['easy','medium','hard','extreme']){
@@ -156,11 +173,17 @@ async function run(){
    await page.evaluate(()=>window.__brainplayTest.openGame('odd'));await page.selectOption('#difficultySelect',diff);await page.click('#oddStart');assert.equal(await page.locator('.odd-cell').count(),{easy:9,medium:16,hard:36,extreme:49}[diff]);await page.click('#endGameBtn');
   }pass('Matching and odd-one-out start correctly at every difficulty');
   await page.evaluate(()=>window.__brainplayTest.closeGame());
-  await page.locator('#volumeSlider').evaluate(el=>{el.value='35';el.dispatchEvent(new Event('input'));});
-  await page.click('#volumeUp');assert.equal(await page.locator('#volumeSlider').inputValue(),'55');await page.click('#volumeDown');assert.equal(await page.locator('#volumeSlider').inputValue(),'35');
-  for(let i=0;i<6;i++)await page.click('#volumeDown');assert.equal(await page.locator('#volumeSlider').inputValue(),'0');
-  for(let i=0;i<6;i++)await page.click('#volumeUp');assert.equal(await page.locator('#volumeSlider').inputValue(),'100');await page.reload();assert.equal(await page.locator('#volumeSlider').inputValue(),'100');assert.equal(await page.locator('#volumeValue').innerText(),'100%');pass('Volume ±20 points, 0–100 clamp and saved setting');
-
+  assert.equal(await page.locator('#volumeUp,#volumeDown').count(),0);
+  await page.locator('#volumeSlider').evaluate(el=>{el.value='49';el.dispatchEvent(new Event('input'));});assert.equal(await page.locator('#volumeValue').innerText(),'49%');await page.reload();assert.equal(await page.locator('#volumeSlider').inputValue(),'49');
+  for(const width of [320,360,390,430,768,1280]){
+   await page.setViewportSize({width,height:844});await page.evaluate(()=>window.scrollTo(0,0));
+   const initial=await page.locator('.topbar').boundingBox();await page.evaluate(()=>window.scrollTo(0,500));const scrolled=await page.locator('.topbar').boundingBox();assert(Math.abs(initial.y-scrolled.y-500)<2,'Toolbar must scroll away with document');await page.evaluate(()=>window.scrollTo(0,0));
+   await open();await page.selectOption('#vocabMode','flash');
+   const setup=await page.locator('#vocabMode,#englishScope').evaluateAll(es=>es.map(e=>{const r=e.getBoundingClientRect();return {x:r.x,y:r.y,w:r.width};}));assert(Math.abs(setup[0].y-setup[1].y)<2&&setup[1].x>setup[0].x,'Mode/scope same row '+width);
+   await page.click('#vocabStart');const controls=await page.locator('#studyBank,#studyLevel,#studyScope').evaluateAll(es=>es.map(e=>{const r=e.getBoundingClientRect();return {x:r.x,y:r.y,w:r.width};}));assert(controls.every((r,i)=>Math.abs(r.y-controls[0].y)<2&&(!i||r.x>controls[i-1].x)),'Study controls same row '+width);
+   assert.equal(await page.locator('.vocab-zh').evaluate(e=>getComputedStyle(e).textAlign),'center');assert.equal(await page.locator('.vocab-example').evaluate(e=>getComputedStyle(e).textAlign),'left');assert(await page.evaluate(()=>document.querySelector('.game-panel').scrollWidth<=innerWidth+1));
+   if(width===390)await page.screenshot({path:path.join(root,'tests/phase65-mobile.png')});await page.click('#flashFinish');await page.evaluate(()=>window.__brainplayTest.closeGame());
+  }pass('Slider-only volume persists; static topbar; parallel selectors at six viewport widths');
   assert.deepEqual(errors,[]);const newWarnings=warnings.filter(x=>!x.startsWith('Japanese example does not contain headword')&&x!=='Service Worker registration blocked by Playwright');assert.deepEqual(newWarnings,[]);
   pass('No JavaScript errors or new data-check warnings',{preexistingJapaneseInflectionWarnings:[...new Set(warnings.filter(x=>x.startsWith('Japanese example does not contain headword')))].length});
   const silentContext=await browser.newContext({serviceWorkers:'block'});await silentContext.addInitScript(()=>{Object.defineProperty(window,'speechSynthesis',{value:undefined});window.SpeechSynthesisUtterance=undefined;});
@@ -169,7 +192,7 @@ async function run(){
   // Real service worker route, without test hooks, and actual offline navigation.
   enableHooks=false;const offlineContext=await browser.newContext();const offline=await offlineContext.newPage();await offline.goto(url+'/?real=1');
   await offline.evaluate(()=>navigator.serviceWorker.ready);await offline.waitForFunction(()=>!!navigator.serviceWorker.controller);
-  await offline.waitForTimeout(500);await offlineContext.setOffline(true);await offline.reload();assert((await offline.title()).includes('Phase 64'));
+  await offline.waitForTimeout(500);await offlineContext.setOffline(true);await offline.reload();assert((await offline.title()).includes('Phase 65'));
   assert.equal(await offline.evaluate(()=>typeof window.__brainplayTest),'undefined');await offline.locator('[data-open-game=vocab]').first().click();await offline.click('#vocabStart');assert(await offline.locator('.vocab-word').isVisible());pass('Actual service-worker cache supports offline English flashcards');
   await offlineContext.close();await context.close();
  }finally{await browser.close();server.close();}

@@ -2051,6 +2051,56 @@
       "I like apples.",
       "我喜歡蘋果。",
       false
+    ],
+    [
+      "pacifier",
+      "安撫奶嘴",
+      "book",
+      "noun",
+      "Home",
+      "Look at the pacifier.",
+      "看看這個安撫奶嘴。",
+      false
+    ],
+    [
+      "stroller",
+      "嬰兒推車",
+      "book",
+      "noun",
+      "Home",
+      "Look at the stroller.",
+      "看看這個嬰兒推車。",
+      false
+    ],
+    [
+      "crib",
+      "嬰兒床",
+      "book",
+      "noun",
+      "Home",
+      "Look at the crib.",
+      "看看這個嬰兒床。",
+      false
+    ],
+    [
+      "bib",
+      "圍兜",
+      "book",
+      "noun",
+      "Home",
+      "Look at the bib.",
+      "看看這個圍兜。",
+      false
+    ],
+    [
+      "tricycle",
+      "三輪車",
+      "book",
+      "noun",
+      "Home",
+      "Look at the tricycle.",
+      "看看這個三輪車。",
+      false
     ]
   ],
   "L3": [
@@ -6562,6 +6612,136 @@
       "Everyday",
       "I can see them.",
       "我看得到他們。",
+      false
+    ],
+    [
+      "unzip",
+      "拉開拉鍊",
+      "book",
+      "verb",
+      "Actions",
+      "unzip the bag",
+      "把袋子拉開拉鍊",
+      false
+    ],
+    [
+      "unfasten",
+      "解開",
+      "book",
+      "verb",
+      "Actions",
+      "unfasten your seat belt",
+      "解開你的安全帶",
+      false
+    ],
+    [
+      "untie",
+      "解開繩結",
+      "book",
+      "verb",
+      "Actions",
+      "untie your shoes",
+      "解開鞋帶",
+      false
+    ],
+    [
+      "unbutton",
+      "解開鈕扣",
+      "book",
+      "verb",
+      "Actions",
+      "unbutton your coat",
+      "解開外套的鈕扣",
+      false
+    ],
+    [
+      "seesaw",
+      "蹺蹺板",
+      "book",
+      "noun",
+      "Home",
+      "Look at the seesaw.",
+      "看看這個蹺蹺板。",
+      false
+    ],
+    [
+      "handprint",
+      "手印",
+      "book",
+      "noun",
+      "Home",
+      "Look at the handprint.",
+      "看看這個手印。",
+      false
+    ],
+    [
+      "footprint",
+      "腳印",
+      "book",
+      "noun",
+      "Home",
+      "Look at the footprint.",
+      "看看這個腳印。",
+      false
+    ],
+    [
+      "doghouse",
+      "狗屋",
+      "book",
+      "noun",
+      "Home",
+      "Look at the doghouse.",
+      "看看這個狗屋。",
+      false
+    ],
+    [
+      "fishbowl",
+      "魚缸",
+      "book",
+      "noun",
+      "Home",
+      "Look at the fishbowl.",
+      "看看這個魚缸。",
+      false
+    ],
+    [
+      "princess",
+      "公主",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the princess.",
+      "看看這個公主。",
+      false
+    ],
+    [
+      "fairy",
+      "仙女",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the fairy.",
+      "看看這個仙女。",
+      false
+    ],
+    [
+      "mermaid",
+      "美人魚",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the mermaid.",
+      "看看這個美人魚。",
+      false
+    ],
+    [
+      "unicorn",
+      "獨角獸",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the unicorn.",
+      "看看這個獨角獸。",
       false
     ]
   ],
@@ -11744,6 +11924,786 @@
       "Nature",
       "The poster outside the station lists this month's local festivals.",
       "車站外的海報列出本月的當地節慶。",
+      false
+    ],
+    [
+      "headset",
+      "耳機麥克風組",
+      "book",
+      "noun",
+      "Home",
+      "Look at the headset.",
+      "看看這個耳機麥克風組。",
+      false
+    ],
+    [
+      "keypad",
+      "小鍵盤",
+      "book",
+      "noun",
+      "Home",
+      "Look at the keypad.",
+      "看看這個小鍵盤。",
+      false
+    ],
+    [
+      "touchpad",
+      "觸控板",
+      "book",
+      "noun",
+      "Home",
+      "Look at the touchpad.",
+      "看看這個觸控板。",
+      false
+    ],
+    [
+      "touchscreen",
+      "觸控螢幕",
+      "book",
+      "noun",
+      "Home",
+      "Look at the touchscreen.",
+      "看看這個觸控螢幕。",
+      false
+    ],
+    [
+      "smartphone",
+      "智慧型手機",
+      "book",
+      "noun",
+      "Home",
+      "Look at the smartphone.",
+      "看看這個智慧型手機。",
+      false
+    ],
+    [
+      "smartwatch",
+      "智慧型手錶",
+      "book",
+      "noun",
+      "Home",
+      "Look at the smartwatch.",
+      "看看這個智慧型手錶。",
+      false
+    ],
+    [
+      "earbud",
+      "入耳式耳機",
+      "book",
+      "noun",
+      "Home",
+      "Look at the earbud.",
+      "看看這個入耳式耳機。",
+      false
+    ],
+    [
+      "sketchbook",
+      "素描本",
+      "book",
+      "noun",
+      "Home",
+      "Look at the sketchbook.",
+      "看看這個素描本。",
+      false
+    ],
+    [
+      "scrapbook",
+      "剪貼簿",
+      "book",
+      "noun",
+      "Home",
+      "Look at the scrapbook.",
+      "看看這個剪貼簿。",
+      false
+    ],
+    [
+      "stencil",
+      "鏤空模板",
+      "book",
+      "noun",
+      "Home",
+      "Look at the stencil.",
+      "看看這個鏤空模板。",
+      false
+    ],
+    [
+      "scoreboard",
+      "記分板",
+      "book",
+      "noun",
+      "Home",
+      "Look at the scoreboard.",
+      "看看這個記分板。",
+      false
+    ],
+    [
+      "stopwatch",
+      "碼表",
+      "book",
+      "noun",
+      "Home",
+      "Look at the stopwatch.",
+      "看看這個碼表。",
+      false
+    ],
+    [
+      "trampoline",
+      "彈跳床",
+      "book",
+      "noun",
+      "Home",
+      "Look at the trampoline.",
+      "看看這個彈跳床。",
+      false
+    ],
+    [
+      "surfboard",
+      "衝浪板",
+      "book",
+      "noun",
+      "Home",
+      "Look at the surfboard.",
+      "看看這個衝浪板。",
+      false
+    ],
+    [
+      "snorkel",
+      "浮潛呼吸管",
+      "book",
+      "noun",
+      "Home",
+      "Look at the snorkel.",
+      "看看這個浮潛呼吸管。",
+      false
+    ],
+    [
+      "wetsuit",
+      "防寒潛水衣",
+      "book",
+      "noun",
+      "Home",
+      "Look at the wetsuit.",
+      "看看這個防寒潛水衣。",
+      false
+    ],
+    [
+      "lifejacket",
+      "救生衣",
+      "book",
+      "noun",
+      "Home",
+      "Look at the lifejacket.",
+      "看看這個救生衣。",
+      false
+    ],
+    [
+      "shuttlecock",
+      "羽毛球",
+      "book",
+      "noun",
+      "Home",
+      "Look at the shuttlecock.",
+      "看看這個羽毛球。",
+      false
+    ],
+    [
+      "harmonica",
+      "口琴",
+      "book",
+      "noun",
+      "Home",
+      "Look at the harmonica.",
+      "看看這個口琴。",
+      false
+    ],
+    [
+      "ukulele",
+      "烏克麗麗",
+      "book",
+      "noun",
+      "Home",
+      "Look at the ukulele.",
+      "看看這個烏克麗麗。",
+      false
+    ],
+    [
+      "xylophone",
+      "木琴",
+      "book",
+      "noun",
+      "Home",
+      "Look at the xylophone.",
+      "看看這個木琴。",
+      false
+    ],
+    [
+      "trombone",
+      "長號",
+      "book",
+      "noun",
+      "Home",
+      "Look at the trombone.",
+      "看看這個長號。",
+      false
+    ],
+    [
+      "banjo",
+      "斑鳩琴",
+      "book",
+      "noun",
+      "Home",
+      "Look at the banjo.",
+      "看看這個斑鳩琴。",
+      false
+    ],
+    [
+      "backrest",
+      "椅背",
+      "book",
+      "noun",
+      "Home",
+      "Look at the backrest.",
+      "看看這個椅背。",
+      false
+    ],
+    [
+      "armrest",
+      "扶手",
+      "book",
+      "noun",
+      "Home",
+      "Look at the armrest.",
+      "看看這個扶手。",
+      false
+    ],
+    [
+      "footrest",
+      "腳踏墊",
+      "book",
+      "noun",
+      "Home",
+      "Look at the footrest.",
+      "看看這個腳踏墊。",
+      false
+    ],
+    [
+      "playpen",
+      "遊戲圍欄",
+      "book",
+      "noun",
+      "Home",
+      "Look at the playpen.",
+      "看看這個遊戲圍欄。",
+      false
+    ],
+    [
+      "teether",
+      "固齒器",
+      "book",
+      "noun",
+      "Home",
+      "Look at the teether.",
+      "看看這個固齒器。",
+      false
+    ],
+    [
+      "scarecrow",
+      "稻草人",
+      "book",
+      "noun",
+      "Home",
+      "Look at the scarecrow.",
+      "看看這個稻草人。",
+      false
+    ],
+    [
+      "birdcage",
+      "鳥籠",
+      "book",
+      "noun",
+      "Home",
+      "Look at the birdcage.",
+      "看看這個鳥籠。",
+      false
+    ],
+    [
+      "emperor",
+      "皇帝",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the emperor.",
+      "看看這個皇帝。",
+      false
+    ],
+    [
+      "knight",
+      "騎士",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the knight.",
+      "看看這個騎士。",
+      false
+    ],
+    [
+      "angel",
+      "天使",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the angel.",
+      "看看這個天使。",
+      false
+    ],
+    [
+      "witch",
+      "女巫",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the witch.",
+      "看看這個女巫。",
+      false
+    ],
+    [
+      "wizard",
+      "巫師",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the wizard.",
+      "看看這個巫師。",
+      false
+    ],
+    [
+      "heroine",
+      "女主角",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the heroine.",
+      "看看這個女主角。",
+      false
+    ],
+    [
+      "clay",
+      "黏土",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the clay.",
+      "看看這個黏土。",
+      false
+    ],
+    [
+      "dome",
+      "圓頂",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the dome.",
+      "看看這個圓頂。",
+      false
+    ],
+    [
+      "cloak",
+      "斗篷",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the cloak.",
+      "看看這個斗篷。",
+      false
+    ],
+    [
+      "cape",
+      "披肩",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the cape.",
+      "看看這個披肩。",
+      false
+    ],
+    [
+      "hut",
+      "小屋",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the hut.",
+      "看看這個小屋。",
+      false
+    ],
+    [
+      "grove",
+      "小樹林",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the grove.",
+      "看看這個小樹林。",
+      false
+    ],
+    [
+      "woodland",
+      "林地",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the woodland.",
+      "看看這個林地。",
+      false
+    ],
+    [
+      "hillside",
+      "山坡",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the hillside.",
+      "看看這個山坡。",
+      false
+    ],
+    [
+      "lever",
+      "槓桿",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the lever.",
+      "看看這個槓桿。",
+      false
+    ],
+    [
+      "magnet",
+      "磁鐵",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the magnet.",
+      "看看這個磁鐵。",
+      false
+    ],
+    [
+      "paperback",
+      "平裝書",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the paperback.",
+      "看看這個平裝書。",
+      false
+    ],
+    [
+      "stereo",
+      "立體音響",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the stereo.",
+      "看看這個立體音響。",
+      false
+    ],
+    [
+      "flap",
+      "拍動翼",
+      "book",
+      "noun",
+      "Everyday",
+      "the flap of a bird's wings",
+      "鳥兒翅膀的拍動",
+      false
+    ],
+    [
+      "claw",
+      "爪子",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the claw.",
+      "看看這個爪子。",
+      false
+    ],
+    [
+      "hound",
+      "獵犬",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the hound.",
+      "看看這個獵犬。",
+      false
+    ],
+    [
+      "mare",
+      "母馬",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the mare.",
+      "看看這個母馬。",
+      false
+    ],
+    [
+      "antler",
+      "鹿角",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the antler.",
+      "看看這個鹿角。",
+      false
+    ],
+    [
+      "hoof",
+      "蹄",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the hoof.",
+      "看看這個蹄。",
+      false
+    ],
+    [
+      "whisker",
+      "鬍鬚",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the whisker.",
+      "看看這個鬍鬚。",
+      false
+    ],
+    [
+      "snout",
+      "口鼻部",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the snout.",
+      "看看這個口鼻部。",
+      false
+    ],
+    [
+      "fin",
+      "鰭",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the fin.",
+      "看看這個鰭。",
+      false
+    ],
+    [
+      "burrow",
+      "地洞",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the burrow.",
+      "看看這個地洞。",
+      false
+    ],
+    [
+      "hive",
+      "蜂巢",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the hive.",
+      "看看這個蜂巢。",
+      false
+    ],
+    [
+      "den",
+      "獸穴",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the den.",
+      "看看這個獸穴。",
+      false
+    ],
+    [
+      "app",
+      "應用程式",
+      "book",
+      "noun",
+      "Technology",
+      "Open the app.",
+      "開啟這個應用程式。",
+      false
+    ],
+    [
+      "earphone",
+      "耳機",
+      "book",
+      "noun",
+      "Technology",
+      "Check the earphone.",
+      "檢查這個耳機。",
+      false
+    ],
+    [
+      "reusable",
+      "可重複使用的",
+      "book",
+      "adjective",
+      "Home",
+      "a reusable container",
+      "可重複使用的容器",
+      false
+    ],
+    [
+      "washable",
+      "可清洗的",
+      "book",
+      "adjective",
+      "Home",
+      "a washable container",
+      "可清洗的容器",
+      false
+    ],
+    [
+      "unplug",
+      "拔掉插頭",
+      "book",
+      "verb",
+      "Actions",
+      "Please unplug it.",
+      "請拔掉插頭它。",
+      false
+    ],
+    [
+      "reuse",
+      "重複使用",
+      "book",
+      "verb",
+      "Actions",
+      "Please reuse it.",
+      "請重複使用它。",
+      false
+    ],
+    [
+      "unroll",
+      "展開",
+      "book",
+      "verb",
+      "Actions",
+      "Please unroll it.",
+      "請展開它。",
+      false
+    ],
+    [
+      "babysit",
+      "照顧小孩",
+      "book",
+      "verb",
+      "Actions",
+      "I babysit on Saturdays.",
+      "我星期六幫忙照顧小孩。",
+      false
+    ],
+    [
+      "stairwell",
+      "樓梯間",
+      "book",
+      "noun",
+      "Health",
+      "use the stairwell",
+      "使用樓梯間",
+      false
+    ],
+    [
+      "entryway",
+      "入口",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the entryway.",
+      "檢查這個入口。",
+      false
+    ],
+    [
+      "guestroom",
+      "客房",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the guestroom.",
+      "檢查這個客房。",
+      false
+    ],
+    [
+      "playroom",
+      "遊戲室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the playroom.",
+      "檢查這個遊戲室。",
+      false
+    ],
+    [
+      "alleyway",
+      "巷道",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the alleyway.",
+      "檢查這個巷道。",
+      false
+    ],
+    [
+      "washroom",
+      "洗手間",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the washroom.",
+      "檢查這個洗手間。",
+      false
+    ],
+    [
+      "restroom",
+      "洗手間",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the restroom.",
+      "檢查這個洗手間。",
+      false
+    ],
+    [
+      "pinboard",
+      "釘板",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the pinboard.",
+      "檢查這個釘板。",
+      false
+    ],
+    [
+      "signboard",
+      "招牌",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the signboard.",
+      "檢查這個招牌。",
+      false
+    ],
+    [
+      "walkway",
+      "步道",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the walkway.",
+      "檢查這個步道。",
       false
     ]
   ],
@@ -24166,6 +25126,1406 @@
       "Food",
       "some croutons",
       "一些烤麵包丁",
+      false
+    ],
+    [
+      "homepage",
+      "首頁",
+      "book",
+      "noun",
+      "Technology",
+      "Open the homepage.",
+      "開啟這個首頁。",
+      false
+    ],
+    [
+      "webpage",
+      "網頁",
+      "book",
+      "noun",
+      "Technology",
+      "Open the webpage.",
+      "開啟這個網頁。",
+      false
+    ],
+    [
+      "inbox",
+      "收件匣",
+      "book",
+      "noun",
+      "Technology",
+      "Open the inbox.",
+      "開啟這個收件匣。",
+      false
+    ],
+    [
+      "outbox",
+      "寄件匣",
+      "book",
+      "noun",
+      "Technology",
+      "Open the outbox.",
+      "開啟這個寄件匣。",
+      false
+    ],
+    [
+      "playlist",
+      "播放清單",
+      "book",
+      "noun",
+      "Technology",
+      "Open the playlist.",
+      "開啟這個播放清單。",
+      false
+    ],
+    [
+      "screenshot",
+      "螢幕截圖",
+      "book",
+      "noun",
+      "Technology",
+      "Open the screenshot.",
+      "開啟這個螢幕截圖。",
+      false
+    ],
+    [
+      "toolbar",
+      "工具列",
+      "book",
+      "noun",
+      "Technology",
+      "Open the toolbar.",
+      "開啟這個工具列。",
+      false
+    ],
+    [
+      "slideshow",
+      "投影片播放",
+      "book",
+      "noun",
+      "Technology",
+      "Open the slideshow.",
+      "開啟這個投影片播放。",
+      false
+    ],
+    [
+      "airtight",
+      "密封的",
+      "book",
+      "adjective",
+      "Home",
+      "an airtight container",
+      "密封的容器",
+      false
+    ],
+    [
+      "foldable",
+      "可摺疊的",
+      "book",
+      "adjective",
+      "Home",
+      "a foldable container",
+      "可摺疊的容器",
+      false
+    ],
+    [
+      "recyclable",
+      "可回收的",
+      "book",
+      "adjective",
+      "Home",
+      "a recyclable container",
+      "可回收的容器",
+      false
+    ],
+    [
+      "nonstick",
+      "不沾的",
+      "book",
+      "adjective",
+      "Home",
+      "nonstick cookware",
+      "不沾鍋具",
+      false
+    ],
+    [
+      "zippered",
+      "有拉鍊的",
+      "book",
+      "adjective",
+      "Home",
+      "a zippered pouch",
+      "有拉鍊的小袋",
+      false
+    ],
+    [
+      "oversized",
+      "特大號的",
+      "book",
+      "adjective",
+      "Home",
+      "an oversized shirt",
+      "特大號襯衫",
+      false
+    ],
+    [
+      "unpaved",
+      "未鋪路面的",
+      "book",
+      "adjective",
+      "Home",
+      "an unpaved road",
+      "未鋪路面的道路",
+      false
+    ],
+    [
+      "recheck",
+      "重新檢查",
+      "book",
+      "verb",
+      "Actions",
+      "Please recheck it.",
+      "請重新檢查它。",
+      false
+    ],
+    [
+      "reheat",
+      "重新加熱",
+      "book",
+      "verb",
+      "Actions",
+      "Please reheat it.",
+      "請重新加熱它。",
+      false
+    ],
+    [
+      "defrost",
+      "解凍",
+      "book",
+      "verb",
+      "Actions",
+      "Please defrost it.",
+      "請解凍它。",
+      false
+    ],
+    [
+      "reconnect",
+      "重新連接",
+      "book",
+      "verb",
+      "Actions",
+      "Please reconnect it.",
+      "請重新連接它。",
+      false
+    ],
+    [
+      "reboot",
+      "重新啟動",
+      "book",
+      "verb",
+      "Actions",
+      "Please reboot it.",
+      "請重新啟動它。",
+      false
+    ],
+    [
+      "resend",
+      "重新傳送",
+      "book",
+      "verb",
+      "Actions",
+      "Please resend it.",
+      "請重新傳送它。",
+      false
+    ],
+    [
+      "reattach",
+      "重新接上",
+      "book",
+      "verb",
+      "Actions",
+      "Please reattach it.",
+      "請重新接上它。",
+      false
+    ],
+    [
+      "unseal",
+      "拆封",
+      "book",
+      "verb",
+      "Actions",
+      "Please unseal it.",
+      "請拆封它。",
+      false
+    ],
+    [
+      "uncoil",
+      "解開盤捲",
+      "book",
+      "verb",
+      "Actions",
+      "Please uncoil it.",
+      "請解開盤捲它。",
+      false
+    ],
+    [
+      "crinkle",
+      "弄皺",
+      "book",
+      "verb",
+      "Actions",
+      "Please crinkle it.",
+      "請弄皺它。",
+      false
+    ],
+    [
+      "jiggle",
+      "輕輕晃動",
+      "book",
+      "verb",
+      "Actions",
+      "Please jiggle it.",
+      "請輕輕晃動它。",
+      false
+    ],
+    [
+      "soothe",
+      "安撫",
+      "book",
+      "verb",
+      "Actions",
+      "soothe a crying baby",
+      "安撫哭泣的寶寶",
+      false
+    ],
+    [
+      "wander",
+      "漫步",
+      "book",
+      "verb",
+      "Actions",
+      "wander slowly",
+      "慢慢漫步",
+      false
+    ],
+    [
+      "amble",
+      "緩步走",
+      "book",
+      "verb",
+      "Actions",
+      "amble slowly",
+      "慢慢緩步走",
+      false
+    ],
+    [
+      "toddle",
+      "蹣跚學步",
+      "book",
+      "verb",
+      "Actions",
+      "toddle slowly",
+      "慢慢蹣跚學步",
+      false
+    ],
+    [
+      "shuffle",
+      "拖著腳走",
+      "book",
+      "verb",
+      "Actions",
+      "shuffle slowly",
+      "慢慢拖著腳走",
+      false
+    ],
+    [
+      "limp",
+      "跛行",
+      "book",
+      "verb",
+      "Actions",
+      "limp slowly",
+      "慢慢跛行",
+      false
+    ],
+    [
+      "hobble",
+      "一瘸一拐地走",
+      "book",
+      "verb",
+      "Actions",
+      "hobble slowly",
+      "慢慢一瘸一拐地走",
+      false
+    ],
+    [
+      "waddle",
+      "搖擺地走",
+      "book",
+      "verb",
+      "Actions",
+      "waddle slowly",
+      "慢慢搖擺地走",
+      false
+    ],
+    [
+      "glide",
+      "滑行",
+      "book",
+      "verb",
+      "Actions",
+      "glide slowly",
+      "慢慢滑行",
+      false
+    ],
+    [
+      "hover",
+      "盤旋",
+      "book",
+      "verb",
+      "Actions",
+      "hover slowly",
+      "慢慢盤旋",
+      false
+    ],
+    [
+      "drizzle",
+      "下毛毛雨",
+      "book",
+      "verb",
+      "Actions",
+      "It may drizzle tonight.",
+      "今晚可能下毛毛雨。",
+      false
+    ],
+    [
+      "munch",
+      "咀嚼",
+      "book",
+      "verb",
+      "Actions",
+      "munch slowly",
+      "慢慢咀嚼",
+      false
+    ],
+    [
+      "nibble",
+      "小口咬",
+      "book",
+      "verb",
+      "Actions",
+      "nibble slowly",
+      "慢慢小口咬",
+      false
+    ],
+    [
+      "slurp",
+      "啜飲",
+      "book",
+      "verb",
+      "Actions",
+      "slurp slowly",
+      "慢慢啜飲",
+      false
+    ],
+    [
+      "gulp",
+      "大口吞嚥",
+      "book",
+      "verb",
+      "Actions",
+      "gulp slowly",
+      "慢慢大口吞嚥",
+      false
+    ],
+    [
+      "inhale",
+      "吸氣",
+      "book",
+      "verb",
+      "Actions",
+      "inhale slowly",
+      "慢慢吸氣",
+      false
+    ],
+    [
+      "exhale",
+      "吐氣",
+      "book",
+      "verb",
+      "Actions",
+      "exhale slowly",
+      "慢慢吐氣",
+      false
+    ],
+    [
+      "sob",
+      "啜泣",
+      "book",
+      "verb",
+      "Actions",
+      "sob slowly",
+      "慢慢啜泣",
+      false
+    ],
+    [
+      "burp",
+      "打飽嗝",
+      "book",
+      "verb",
+      "Actions",
+      "burp slowly",
+      "慢慢打飽嗝",
+      false
+    ],
+    [
+      "snore",
+      "打呼",
+      "book",
+      "verb",
+      "Actions",
+      "snore slowly",
+      "慢慢打呼",
+      false
+    ],
+    [
+      "quiver",
+      "微微顫動",
+      "book",
+      "verb",
+      "Actions",
+      "quiver slowly",
+      "慢慢微微顫動",
+      false
+    ],
+    [
+      "wobble",
+      "搖晃",
+      "book",
+      "verb",
+      "Actions",
+      "wobble slowly",
+      "慢慢搖晃",
+      false
+    ],
+    [
+      "wrinkle",
+      "起皺",
+      "book",
+      "verb",
+      "Actions",
+      "wrinkle slowly",
+      "慢慢起皺",
+      false
+    ],
+    [
+      "squat",
+      "蹲",
+      "book",
+      "verb",
+      "Actions",
+      "squat slowly",
+      "慢慢蹲",
+      false
+    ],
+    [
+      "twirl",
+      "旋轉",
+      "book",
+      "verb",
+      "Actions",
+      "twirl slowly",
+      "慢慢旋轉",
+      false
+    ],
+    [
+      "unload",
+      "卸下",
+      "book",
+      "verb",
+      "Actions",
+      "unload the box",
+      "卸下這個盒子",
+      false
+    ],
+    [
+      "tilt",
+      "傾斜",
+      "book",
+      "verb",
+      "Actions",
+      "tilt the box",
+      "傾斜這個盒子",
+      false
+    ],
+    [
+      "overturn",
+      "翻倒",
+      "book",
+      "verb",
+      "Actions",
+      "overturn the box",
+      "翻倒這個盒子",
+      false
+    ],
+    [
+      "topple",
+      "推倒",
+      "book",
+      "verb",
+      "Actions",
+      "topple the box",
+      "推倒這個盒子",
+      false
+    ],
+    [
+      "shove",
+      "推",
+      "book",
+      "verb",
+      "Actions",
+      "shove the box",
+      "推這個盒子",
+      false
+    ],
+    [
+      "pave",
+      "鋪設",
+      "book",
+      "verb",
+      "Actions",
+      "pave the road",
+      "鋪設道路",
+      false
+    ],
+    [
+      "scrape",
+      "刮",
+      "book",
+      "verb",
+      "Actions",
+      "scrape the box",
+      "刮這個盒子",
+      false
+    ],
+    [
+      "scoop",
+      "舀起",
+      "book",
+      "verb",
+      "Actions",
+      "scoop the sand",
+      "舀起沙子",
+      false
+    ],
+    [
+      "fling",
+      "拋",
+      "book",
+      "verb",
+      "Actions",
+      "fling the box",
+      "拋這個盒子",
+      false
+    ],
+    [
+      "hurl",
+      "猛擲",
+      "book",
+      "verb",
+      "Actions",
+      "hurl the box",
+      "猛擲這個盒子",
+      false
+    ],
+    [
+      "seize",
+      "抓住",
+      "book",
+      "verb",
+      "Actions",
+      "seize the box",
+      "抓住這個盒子",
+      false
+    ],
+    [
+      "snatch",
+      "搶走",
+      "book",
+      "verb",
+      "Actions",
+      "snatch the box",
+      "搶走這個盒子",
+      false
+    ],
+    [
+      "tuck",
+      "塞入",
+      "book",
+      "verb",
+      "Actions",
+      "tuck the note into your pocket",
+      "把紙條塞入口袋",
+      false
+    ],
+    [
+      "unwrap",
+      "拆開包裝",
+      "book",
+      "verb",
+      "Actions",
+      "unwrap the box",
+      "拆開包裝這個盒子",
+      false
+    ],
+    [
+      "undo",
+      "解開",
+      "book",
+      "verb",
+      "Actions",
+      "undo the knot",
+      "解開繩結",
+      false
+    ],
+    [
+      "sharpen",
+      "削尖",
+      "book",
+      "verb",
+      "Actions",
+      "sharpen the pencil",
+      "削尖鉛筆",
+      false
+    ],
+    [
+      "soften",
+      "使變軟",
+      "book",
+      "verb",
+      "Actions",
+      "soften the butter",
+      "軟化奶油",
+      false
+    ],
+    [
+      "harden",
+      "使變硬",
+      "book",
+      "verb",
+      "Actions",
+      "harden the clay",
+      "使黏土變硬",
+      false
+    ],
+    [
+      "crumble",
+      "弄碎",
+      "book",
+      "verb",
+      "Actions",
+      "crumble the bread",
+      "把麵包弄碎",
+      false
+    ],
+    [
+      "hatch",
+      "孵出",
+      "book",
+      "verb",
+      "Actions",
+      "The eggs hatch in spring.",
+      "蛋在春天孵化。",
+      false
+    ],
+    [
+      "ripen",
+      "成熟",
+      "book",
+      "verb",
+      "Actions",
+      "The fruit will ripen soon.",
+      "水果很快就會成熟。",
+      false
+    ],
+    [
+      "wilt",
+      "枯萎",
+      "book",
+      "verb",
+      "Actions",
+      "The flowers wilt in the heat.",
+      "花朵在高溫下枯萎。",
+      false
+    ],
+    [
+      "merry",
+      "歡樂的",
+      "book",
+      "adjective",
+      "Description",
+      "a merry day",
+      "歡樂的一天",
+      false
+    ],
+    [
+      "jolly",
+      "快樂的",
+      "book",
+      "adjective",
+      "Description",
+      "a jolly day",
+      "快樂的一天",
+      false
+    ],
+    [
+      "gorgeous",
+      "美好的",
+      "book",
+      "adjective",
+      "Description",
+      "a gorgeous day",
+      "美好的一天",
+      false
+    ],
+    [
+      "bleak",
+      "陰冷的",
+      "book",
+      "adjective",
+      "Description",
+      "a bleak day",
+      "陰冷的一天",
+      false
+    ],
+    [
+      "dreary",
+      "沉悶的",
+      "book",
+      "adjective",
+      "Description",
+      "a dreary day",
+      "沉悶的一天",
+      false
+    ],
+    [
+      "enjoyable",
+      "愉快的",
+      "book",
+      "adjective",
+      "Description",
+      "an enjoyable day",
+      "愉快的一天",
+      false
+    ],
+    [
+      "eventful",
+      "多事的",
+      "book",
+      "adjective",
+      "Description",
+      "an eventful day",
+      "多事的一天",
+      false
+    ],
+    [
+      "uneventful",
+      "平靜無事的",
+      "book",
+      "adjective",
+      "Description",
+      "an uneventful day",
+      "平靜無事的一天",
+      false
+    ],
+    [
+      "hectic",
+      "忙亂的",
+      "book",
+      "adjective",
+      "Description",
+      "a hectic day",
+      "忙亂的一天",
+      false
+    ],
+    [
+      "frantic",
+      "忙亂的",
+      "book",
+      "adjective",
+      "Description",
+      "a frantic day",
+      "忙亂的一天",
+      false
+    ],
+    [
+      "restful",
+      "令人放鬆的",
+      "book",
+      "adjective",
+      "Description",
+      "a restful day",
+      "令人放鬆的一天",
+      false
+    ],
+    [
+      "relaxing",
+      "令人放鬆的",
+      "book",
+      "adjective",
+      "Description",
+      "a relaxing day",
+      "令人放鬆的一天",
+      false
+    ],
+    [
+      "tiresome",
+      "令人厭煩的",
+      "book",
+      "adjective",
+      "Description",
+      "a tiresome day",
+      "令人厭煩的一天",
+      false
+    ],
+    [
+      "stressful",
+      "有壓力的",
+      "book",
+      "adjective",
+      "Description",
+      "a stressful day",
+      "有壓力的一天",
+      false
+    ],
+    [
+      "unlucky",
+      "不幸的",
+      "book",
+      "adjective",
+      "Description",
+      "an unlucky day",
+      "不幸的一天",
+      false
+    ],
+    [
+      "earpiece",
+      "聽筒",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the earpiece.",
+      "檢查這個聽筒。",
+      false
+    ],
+    [
+      "coatroom",
+      "衣帽間",
+      "book",
+      "noun",
+      "Everyday",
+      "leave your coat in the coatroom",
+      "把外套放在衣帽間",
+      false
+    ],
+    [
+      "cloakroom",
+      "衣帽間",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the cloakroom.",
+      "檢查這個衣帽間。",
+      false
+    ],
+    [
+      "mailbag",
+      "郵袋",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the mailbag.",
+      "檢查這個郵袋。",
+      false
+    ],
+    [
+      "mailroom",
+      "收發室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the mailroom.",
+      "檢查這個收發室。",
+      false
+    ],
+    [
+      "postage",
+      "郵資",
+      "book",
+      "noun",
+      "Everyday",
+      "pay the postage",
+      "支付郵資",
+      false
+    ],
+    [
+      "postmark",
+      "郵戳",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the postmark.",
+      "檢查這個郵戳。",
+      false
+    ],
+    [
+      "zipline",
+      "滑索",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the zipline.",
+      "檢查這個滑索。",
+      false
+    ],
+    [
+      "shoeshine",
+      "擦鞋服務",
+      "book",
+      "noun",
+      "Everyday",
+      "get a shoeshine",
+      "接受擦鞋服務",
+      false
+    ],
+    [
+      "shoestring",
+      "鞋帶",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the shoestring.",
+      "檢查這個鞋帶。",
+      false
+    ],
+    [
+      "shoemaker",
+      "鞋匠",
+      "book",
+      "noun",
+      "Everyday",
+      "ask a shoemaker to repair the shoe",
+      "請鞋匠修鞋",
+      false
+    ],
+    [
+      "bootlace",
+      "靴帶",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the bootlace.",
+      "檢查這個靴帶。",
+      false
+    ],
+    [
+      "watchband",
+      "錶帶",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the watchband.",
+      "檢查這個錶帶。",
+      false
+    ],
+    [
+      "watchmaker",
+      "鐘錶匠",
+      "book",
+      "noun",
+      "Everyday",
+      "visit a watchmaker",
+      "拜訪鐘錶匠",
+      false
+    ],
+    [
+      "guardrail",
+      "護欄",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the guardrail.",
+      "檢查這個護欄。",
+      false
+    ],
+    [
+      "guardhouse",
+      "警衛室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the guardhouse.",
+      "檢查這個警衛室。",
+      false
+    ],
+    [
+      "gatehouse",
+      "門房",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the gatehouse.",
+      "檢查這個門房。",
+      false
+    ],
+    [
+      "glasshouse",
+      "玻璃溫室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the glasshouse.",
+      "檢查這個玻璃溫室。",
+      false
+    ],
+    [
+      "boathouse",
+      "船屋",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the boathouse.",
+      "檢查這個船屋。",
+      false
+    ],
+    [
+      "clubhouse",
+      "俱樂部會所",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the clubhouse.",
+      "檢查這個俱樂部會所。",
+      false
+    ],
+    [
+      "farmhouse",
+      "農舍",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the farmhouse.",
+      "檢查這個農舍。",
+      false
+    ],
+    [
+      "townhouse",
+      "連棟住宅",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the townhouse.",
+      "檢查這個連棟住宅。",
+      false
+    ],
+    [
+      "guesthouse",
+      "民宿",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the guesthouse.",
+      "檢查這個民宿。",
+      false
+    ],
+    [
+      "workroom",
+      "工作室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the workroom.",
+      "檢查這個工作室。",
+      false
+    ],
+    [
+      "storeroom",
+      "儲藏室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the storeroom.",
+      "檢查這個儲藏室。",
+      false
+    ],
+    [
+      "showroom",
+      "展示間",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the showroom.",
+      "檢查這個展示間。",
+      false
+    ],
+    [
+      "darkroom",
+      "暗房",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the darkroom.",
+      "檢查這個暗房。",
+      false
+    ],
+    [
+      "breakroom",
+      "休息室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the breakroom.",
+      "檢查這個休息室。",
+      false
+    ],
+    [
+      "newsroom",
+      "新聞編輯室",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the newsroom.",
+      "檢查這個新聞編輯室。",
+      false
+    ],
+    [
+      "newsreader",
+      "新聞播報員",
+      "book",
+      "noun",
+      "Everyday",
+      "listen to the newsreader",
+      "聽新聞播報員播報",
+      false
+    ],
+    [
+      "newscast",
+      "新聞播報",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the newscast.",
+      "檢查這個新聞播報。",
+      false
+    ],
+    [
+      "billboard",
+      "看板",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the billboard.",
+      "檢查這個看板。",
+      false
+    ],
+    [
+      "floorboard",
+      "地板木條",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the floorboard.",
+      "檢查這個地板木條。",
+      false
+    ],
+    [
+      "pegboard",
+      "洞洞板",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the pegboard.",
+      "檢查這個洞洞板。",
+      false
+    ],
+    [
+      "corkboard",
+      "軟木公告板",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the corkboard.",
+      "檢查這個軟木公告板。",
+      false
+    ],
+    [
+      "drummer",
+      "鼓手",
+      "book",
+      "noun",
+      "People",
+      "Ask the drummer.",
+      "詢問這位鼓手。",
+      false
+    ],
+    [
+      "violinist",
+      "小提琴家",
+      "book",
+      "noun",
+      "People",
+      "Ask the violinist.",
+      "詢問這位小提琴家。",
+      false
+    ],
+    [
+      "cellist",
+      "大提琴家",
+      "book",
+      "noun",
+      "People",
+      "Ask the cellist.",
+      "詢問這位大提琴家。",
+      false
+    ],
+    [
+      "pianist",
+      "鋼琴家",
+      "book",
+      "noun",
+      "People",
+      "Ask the pianist.",
+      "詢問這位鋼琴家。",
+      false
+    ],
+    [
+      "grocer",
+      "雜貨商",
+      "book",
+      "noun",
+      "People",
+      "Ask the grocer.",
+      "詢問這位雜貨商。",
+      false
+    ],
+    [
+      "barista",
+      "咖啡師",
+      "book",
+      "noun",
+      "People",
+      "Ask the barista.",
+      "詢問這位咖啡師。",
+      false
+    ],
+    [
+      "doorman",
+      "門房",
+      "book",
+      "noun",
+      "People",
+      "Ask the doorman.",
+      "詢問這位門房。",
+      false
+    ],
+    [
+      "sunburn",
+      "曬傷",
+      "book",
+      "noun",
+      "Health",
+      "Prevent sunburn.",
+      "預防曬傷。",
+      false
+    ],
+    [
+      "bruise",
+      "瘀青",
+      "book",
+      "noun",
+      "Health",
+      "a bruise on the arm",
+      "手臂上的瘀青",
+      false
+    ],
+    [
+      "ointment",
+      "藥膏",
+      "book",
+      "noun",
+      "Health",
+      "apply the ointment",
+      "塗上藥膏",
+      false
+    ],
+    [
+      "soundproof",
+      "隔音的",
+      "book",
+      "adjective",
+      "Description",
+      "a soundproof room",
+      "隔音的房間",
+      false
+    ],
+    [
+      "audible",
+      "聽得見的",
+      "book",
+      "adjective",
+      "Description",
+      "an audible sound",
+      "聽得見的聲音",
+      false
+    ],
+    [
+      "inaudible",
+      "聽不見的",
+      "book",
+      "adjective",
+      "Description",
+      "an inaudible whisper",
+      "聽不見的耳語",
+      false
+    ],
+    [
+      "fragrance",
+      "香氣",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the fragrance.",
+      "享受這個香氣。",
+      false
+    ],
+    [
+      "glitter",
+      "閃光",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the glitter.",
+      "享受這個閃光。",
+      false
+    ],
+    [
+      "sparkle",
+      "閃耀",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the sparkle.",
+      "享受這個閃耀。",
+      false
+    ],
+    [
+      "carnival",
+      "嘉年華",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the carnival.",
+      "享受這個嘉年華。",
       false
     ]
   ],
@@ -36799,6 +39159,1236 @@
       "The neighborhood organized a clean-up day around the park and library.",
       "鄰里在公園和圖書館周圍舉辦清潔日。",
       false
+    ],
+    [
+      "router",
+      "路由器",
+      "book",
+      "noun",
+      "Technology",
+      "Check the router.",
+      "檢查這個路由器。",
+      false
+    ],
+    [
+      "hotspot",
+      "無線網路熱點",
+      "book",
+      "noun",
+      "Technology",
+      "Check the hotspot.",
+      "檢查這個無線網路熱點。",
+      false
+    ],
+    [
+      "passcode",
+      "通行碼",
+      "book",
+      "noun",
+      "Technology",
+      "Check the passcode.",
+      "檢查這個通行碼。",
+      false
+    ],
+    [
+      "voicemail",
+      "語音留言",
+      "book",
+      "noun",
+      "Technology",
+      "Check the voicemail.",
+      "檢查這個語音留言。",
+      false
+    ],
+    [
+      "spam",
+      "垃圾訊息",
+      "book",
+      "noun",
+      "Technology",
+      "Check the spam.",
+      "檢查這個垃圾訊息。",
+      false
+    ],
+    [
+      "podcast",
+      "播客節目",
+      "book",
+      "noun",
+      "Technology",
+      "Check the podcast.",
+      "檢查這個播客節目。",
+      false
+    ],
+    [
+      "livestream",
+      "直播",
+      "book",
+      "noun",
+      "Technology",
+      "Check the livestream.",
+      "檢查這個直播。",
+      false
+    ],
+    [
+      "avatar",
+      "虛擬頭像",
+      "book",
+      "noun",
+      "Technology",
+      "Check the avatar.",
+      "檢查這個虛擬頭像。",
+      false
+    ],
+    [
+      "emoji",
+      "表情圖示",
+      "book",
+      "noun",
+      "Technology",
+      "Check the emoji.",
+      "檢查這個表情圖示。",
+      false
+    ],
+    [
+      "emoticon",
+      "文字表情符號",
+      "book",
+      "noun",
+      "Technology",
+      "Check the emoticon.",
+      "檢查這個文字表情符號。",
+      false
+    ],
+    [
+      "hashtag",
+      "主題標籤",
+      "book",
+      "noun",
+      "Technology",
+      "Check the hashtag.",
+      "檢查這個主題標籤。",
+      false
+    ],
+    [
+      "selfie",
+      "自拍照",
+      "book",
+      "noun",
+      "Technology",
+      "Check the selfie.",
+      "檢查這個自拍照。",
+      false
+    ],
+    [
+      "plugin",
+      "外掛程式",
+      "book",
+      "noun",
+      "Technology",
+      "Check the plugin.",
+      "檢查這個外掛程式。",
+      false
+    ],
+    [
+      "joystick",
+      "搖桿",
+      "book",
+      "noun",
+      "Technology",
+      "Check the joystick.",
+      "檢查這個搖桿。",
+      false
+    ],
+    [
+      "gamepad",
+      "遊戲手把",
+      "book",
+      "noun",
+      "Technology",
+      "Check the gamepad.",
+      "檢查這個遊戲手把。",
+      false
+    ],
+    [
+      "trackpad",
+      "觸控板",
+      "book",
+      "noun",
+      "Technology",
+      "Check the trackpad.",
+      "檢查這個觸控板。",
+      false
+    ],
+    [
+      "stylus",
+      "觸控筆",
+      "book",
+      "noun",
+      "Technology",
+      "Check the stylus.",
+      "檢查這個觸控筆。",
+      false
+    ],
+    [
+      "handset",
+      "電話聽筒",
+      "book",
+      "noun",
+      "Technology",
+      "Check the handset.",
+      "檢查這個電話聽筒。",
+      false
+    ],
+    [
+      "wearable",
+      "穿戴式裝置",
+      "book",
+      "noun",
+      "Technology",
+      "a fitness wearable",
+      "健身穿戴式裝置",
+      false
+    ],
+    [
+      "ebook",
+      "電子書",
+      "book",
+      "noun",
+      "Technology",
+      "Check the ebook.",
+      "檢查這個電子書。",
+      false
+    ],
+    [
+      "audiobook",
+      "有聲書",
+      "book",
+      "noun",
+      "Technology",
+      "Check the audiobook.",
+      "檢查這個有聲書。",
+      false
+    ],
+    [
+      "login",
+      "登入",
+      "book",
+      "noun",
+      "Technology",
+      "a secure login",
+      "安全的登入",
+      false
+    ],
+    [
+      "logout",
+      "登出",
+      "book",
+      "noun",
+      "Technology",
+      "automatic logout",
+      "自動登出",
+      false
+    ],
+    [
+      "filename",
+      "檔案名稱",
+      "book",
+      "noun",
+      "Technology",
+      "Check the filename.",
+      "檢查這個檔案名稱。",
+      false
+    ],
+    [
+      "cyberbullying",
+      "網路霸凌",
+      "book",
+      "noun",
+      "Technology",
+      "report cyberbullying",
+      "檢舉網路霸凌",
+      false
+    ],
+    [
+      "clickbait",
+      "誘點標題",
+      "book",
+      "noun",
+      "Technology",
+      "avoid clickbait",
+      "避開誘點標題",
+      false
+    ],
+    [
+      "caregiver",
+      "照顧者",
+      "book",
+      "noun",
+      "People",
+      "Ask the caregiver.",
+      "詢問這位照顧者。",
+      false
+    ],
+    [
+      "veterinarian",
+      "獸醫",
+      "book",
+      "noun",
+      "People",
+      "Ask the veterinarian.",
+      "詢問這位獸醫。",
+      false
+    ],
+    [
+      "illustrator",
+      "插畫家",
+      "book",
+      "noun",
+      "People",
+      "Ask the illustrator.",
+      "詢問這位插畫家。",
+      false
+    ],
+    [
+      "animator",
+      "動畫師",
+      "book",
+      "noun",
+      "People",
+      "Ask the animator.",
+      "詢問這位動畫師。",
+      false
+    ],
+    [
+      "screenwriter",
+      "編劇",
+      "book",
+      "noun",
+      "People",
+      "Ask the screenwriter.",
+      "詢問這位編劇。",
+      false
+    ],
+    [
+      "lyricist",
+      "作詞家",
+      "book",
+      "noun",
+      "People",
+      "Ask the lyricist.",
+      "詢問這位作詞家。",
+      false
+    ],
+    [
+      "songwriter",
+      "歌曲創作者",
+      "book",
+      "noun",
+      "People",
+      "Ask the songwriter.",
+      "詢問這位歌曲創作者。",
+      false
+    ],
+    [
+      "newbie",
+      "新手",
+      "book",
+      "noun",
+      "People",
+      "Ask the newbie.",
+      "詢問這位新手。",
+      false
+    ],
+    [
+      "carpool",
+      "共乘",
+      "book",
+      "noun",
+      "Travel",
+      "join a carpool",
+      "加入共乘",
+      false
+    ],
+    [
+      "rideshare",
+      "共乘服務",
+      "book",
+      "noun",
+      "Travel",
+      "book a rideshare",
+      "預約共乘服務",
+      false
+    ],
+    [
+      "stopover",
+      "中途停留",
+      "book",
+      "noun",
+      "Travel",
+      "a short stopover",
+      "短暫中途停留",
+      false
+    ],
+    [
+      "layover",
+      "轉機停留",
+      "book",
+      "noun",
+      "Travel",
+      "a two-hour layover",
+      "兩小時的轉機停留",
+      false
+    ],
+    [
+      "staycation",
+      "在地度假",
+      "book",
+      "noun",
+      "Travel",
+      "enjoy a staycation",
+      "享受在地度假",
+      false
+    ],
+    [
+      "glamping",
+      "豪華露營",
+      "book",
+      "noun",
+      "Travel",
+      "try glamping",
+      "體驗豪華露營",
+      false
+    ],
+    [
+      "motorhome",
+      "露營車",
+      "book",
+      "noun",
+      "Travel",
+      "a motorhome trip",
+      "露營車之旅",
+      false
+    ],
+    [
+      "campervan",
+      "露營廂型車",
+      "book",
+      "noun",
+      "Travel",
+      "a campervan trip",
+      "露營廂型車旅行",
+      false
+    ],
+    [
+      "boardwalk",
+      "木板步道",
+      "book",
+      "noun",
+      "Travel",
+      "walk along the boardwalk",
+      "沿著木板步道走",
+      false
+    ],
+    [
+      "turnstile",
+      "旋轉閘門",
+      "book",
+      "noun",
+      "Travel",
+      "go through the turnstile",
+      "通過旋轉閘門",
+      false
+    ],
+    [
+      "monorail",
+      "單軌列車",
+      "book",
+      "noun",
+      "Travel",
+      "ride the monorail",
+      "搭乘單軌列車",
+      false
+    ],
+    [
+      "speedboat",
+      "快艇",
+      "book",
+      "noun",
+      "Travel",
+      "ride a speedboat",
+      "乘坐快艇",
+      false
+    ],
+    [
+      "houseboat",
+      "船屋",
+      "book",
+      "noun",
+      "Travel",
+      "stay on a houseboat",
+      "住在船屋上",
+      false
+    ],
+    [
+      "sailboat",
+      "帆船",
+      "book",
+      "noun",
+      "Travel",
+      "steer a sailboat",
+      "駕駛帆船",
+      false
+    ],
+    [
+      "canoe",
+      "獨木舟",
+      "book",
+      "noun",
+      "Travel",
+      "paddle a canoe",
+      "划獨木舟",
+      false
+    ],
+    [
+      "kayak",
+      "皮艇",
+      "book",
+      "noun",
+      "Travel",
+      "paddle a kayak",
+      "划皮艇",
+      false
+    ],
+    [
+      "dinghy",
+      "小艇",
+      "book",
+      "noun",
+      "Travel",
+      "row a dinghy",
+      "划小艇",
+      false
+    ],
+    [
+      "ferryboat",
+      "渡船",
+      "book",
+      "noun",
+      "Travel",
+      "board a ferryboat",
+      "登上渡船",
+      false
+    ],
+    [
+      "origami",
+      "摺紙",
+      "book",
+      "noun",
+      "Leisure",
+      "Try origami.",
+      "試試摺紙。",
+      false
+    ],
+    [
+      "calligraphy",
+      "書法",
+      "book",
+      "noun",
+      "Leisure",
+      "Try calligraphy.",
+      "試試書法。",
+      false
+    ],
+    [
+      "crochet",
+      "鉤針編織",
+      "book",
+      "noun",
+      "Leisure",
+      "Try crochet.",
+      "試試鉤針編織。",
+      false
+    ],
+    [
+      "quilting",
+      "拼布縫製",
+      "book",
+      "noun",
+      "Leisure",
+      "Try quilting.",
+      "試試拼布縫製。",
+      false
+    ],
+    [
+      "woodworking",
+      "木工",
+      "book",
+      "noun",
+      "Leisure",
+      "Try woodworking.",
+      "試試木工。",
+      false
+    ],
+    [
+      "beadwork",
+      "串珠工藝",
+      "book",
+      "noun",
+      "Leisure",
+      "Try beadwork.",
+      "試試串珠工藝。",
+      false
+    ],
+    [
+      "nonfiction",
+      "非虛構作品",
+      "book",
+      "noun",
+      "Leisure",
+      "read nonfiction",
+      "閱讀非虛構作品",
+      false
+    ],
+    [
+      "screenplay",
+      "電影劇本",
+      "book",
+      "noun",
+      "Leisure",
+      "write a screenplay",
+      "撰寫電影劇本",
+      false
+    ],
+    [
+      "storyboard",
+      "分鏡圖",
+      "book",
+      "noun",
+      "Leisure",
+      "draw a storyboard",
+      "畫分鏡圖",
+      false
+    ],
+    [
+      "doodle",
+      "隨手塗鴉",
+      "book",
+      "noun",
+      "Leisure",
+      "make a doodle",
+      "畫個隨手塗鴉",
+      false
+    ],
+    [
+      "marionette",
+      "提線木偶",
+      "book",
+      "noun",
+      "Leisure",
+      "move a marionette",
+      "操控提線木偶",
+      false
+    ],
+    [
+      "scrub",
+      "刷洗",
+      "book",
+      "verb",
+      "Actions",
+      "scrub the cloth",
+      "刷洗這塊布",
+      false
+    ],
+    [
+      "bleach",
+      "漂白",
+      "book",
+      "verb",
+      "Actions",
+      "bleach the cloth",
+      "漂白這塊布",
+      false
+    ],
+    [
+      "stitch",
+      "縫合",
+      "book",
+      "verb",
+      "Actions",
+      "stitch the cloth",
+      "縫合這塊布",
+      false
+    ],
+    [
+      "embroider",
+      "刺繡",
+      "book",
+      "verb",
+      "Actions",
+      "embroider a flower",
+      "繡一朵花",
+      false
+    ],
+    [
+      "snip",
+      "剪",
+      "book",
+      "verb",
+      "Actions",
+      "snip the cloth",
+      "剪這塊布",
+      false
+    ],
+    [
+      "fray",
+      "磨損邊緣",
+      "book",
+      "verb",
+      "Actions",
+      "fray the cloth",
+      "磨損邊緣這塊布",
+      false
+    ],
+    [
+      "unravel",
+      "拆開",
+      "book",
+      "verb",
+      "Actions",
+      "unravel the cloth",
+      "拆開這塊布",
+      false
+    ],
+    [
+      "clamp",
+      "夾緊",
+      "book",
+      "verb",
+      "Actions",
+      "clamp the cloth",
+      "夾緊這塊布",
+      false
+    ],
+    [
+      "yank",
+      "猛拉",
+      "book",
+      "verb",
+      "Actions",
+      "yank the cloth",
+      "猛拉這塊布",
+      false
+    ],
+    [
+      "jerk",
+      "猛拉",
+      "book",
+      "verb",
+      "Actions",
+      "jerk the cloth",
+      "猛拉這塊布",
+      false
+    ],
+    [
+      "pluck",
+      "拔",
+      "book",
+      "verb",
+      "Actions",
+      "pluck a string",
+      "撥弦",
+      false
+    ],
+    [
+      "sift",
+      "篩",
+      "book",
+      "verb",
+      "Actions",
+      "sift the flour",
+      "篩麵粉",
+      false
+    ],
+    [
+      "hoarse",
+      "沙啞的",
+      "book",
+      "adjective",
+      "Description",
+      "a hoarse voice",
+      "沙啞的聲音",
+      false
+    ],
+    [
+      "husky",
+      "低沉沙啞的",
+      "book",
+      "adjective",
+      "Description",
+      "a husky voice",
+      "低沉沙啞的聲音",
+      false
+    ],
+    [
+      "shrill",
+      "尖銳的",
+      "book",
+      "adjective",
+      "Description",
+      "a shrill voice",
+      "尖銳的聲音",
+      false
+    ],
+    [
+      "raspy",
+      "粗啞的",
+      "book",
+      "adjective",
+      "Description",
+      "a raspy voice",
+      "粗啞的聲音",
+      false
+    ],
+    [
+      "mellow",
+      "柔和的",
+      "book",
+      "adjective",
+      "Description",
+      "a mellow voice",
+      "柔和的聲音",
+      false
+    ],
+    [
+      "soothing",
+      "令人舒緩的",
+      "book",
+      "adjective",
+      "Description",
+      "a soothing voice",
+      "令人舒緩的聲音",
+      false
+    ],
+    [
+      "feeble",
+      "微弱的",
+      "book",
+      "adjective",
+      "Description",
+      "a feeble voice",
+      "微弱的聲音",
+      false
+    ],
+    [
+      "stern",
+      "嚴厲的",
+      "book",
+      "adjective",
+      "Description",
+      "a stern voice",
+      "嚴厲的聲音",
+      false
+    ],
+    [
+      "earnest",
+      "認真的",
+      "book",
+      "adjective",
+      "Description",
+      "an earnest voice",
+      "認真的聲音",
+      false
+    ],
+    [
+      "solemn",
+      "莊嚴的",
+      "book",
+      "adjective",
+      "Description",
+      "a solemn voice",
+      "莊嚴的聲音",
+      false
+    ],
+    [
+      "brisk",
+      "輕快的",
+      "book",
+      "adjective",
+      "Description",
+      "a brisk voice",
+      "輕快的聲音",
+      false
+    ],
+    [
+      "muted",
+      "低沉的",
+      "book",
+      "adjective",
+      "Description",
+      "a muted voice",
+      "低沉的聲音",
+      false
+    ],
+    [
+      "subdued",
+      "輕柔克制的",
+      "book",
+      "adjective",
+      "Description",
+      "a subdued voice",
+      "輕柔克制的聲音",
+      false
+    ],
+    [
+      "breathy",
+      "帶氣音的",
+      "book",
+      "adjective",
+      "Description",
+      "a breathy voice",
+      "帶氣音的聲音",
+      false
+    ],
+    [
+      "nasal",
+      "帶鼻音的",
+      "book",
+      "adjective",
+      "Description",
+      "a nasal voice",
+      "帶鼻音的聲音",
+      false
+    ],
+    [
+      "monotone",
+      "單調的聲調",
+      "book",
+      "noun",
+      "Description",
+      "speak in a monotone",
+      "用單調的聲調說話",
+      false
+    ],
+    [
+      "fluent",
+      "流利的",
+      "book",
+      "adjective",
+      "Description",
+      "fluent speech",
+      "流利的言語",
+      false
+    ],
+    [
+      "acoustic",
+      "原聲的",
+      "book",
+      "adjective",
+      "Description",
+      "an acoustic guitar",
+      "原聲吉他",
+      false
+    ],
+    [
+      "fingerprint",
+      "指紋",
+      "book",
+      "noun",
+      "Home",
+      "Look at the fingerprint.",
+      "看看這個指紋。",
+      false
+    ],
+    [
+      "thumbprint",
+      "拇指印",
+      "book",
+      "noun",
+      "Home",
+      "Look at the thumbprint.",
+      "看看這個拇指印。",
+      false
+    ],
+    [
+      "waterlily",
+      "睡蓮",
+      "book",
+      "noun",
+      "Home",
+      "Look at the waterlily.",
+      "看看這個睡蓮。",
+      false
+    ],
+    [
+      "refillable",
+      "可補充的",
+      "book",
+      "adjective",
+      "Home",
+      "a refillable container",
+      "可補充的容器",
+      false
+    ],
+    [
+      "insulated",
+      "隔熱的",
+      "book",
+      "adjective",
+      "Home",
+      "an insulated container",
+      "隔熱的容器",
+      false
+    ],
+    [
+      "absorbent",
+      "吸水的",
+      "book",
+      "adjective",
+      "Home",
+      "an absorbent towel",
+      "吸水毛巾",
+      false
+    ],
+    [
+      "proofread",
+      "校對",
+      "book",
+      "verb",
+      "Actions",
+      "Please proofread it.",
+      "請校對它。",
+      false
+    ],
+    [
+      "refrigerate",
+      "冷藏",
+      "book",
+      "verb",
+      "Actions",
+      "Please refrigerate it.",
+      "請冷藏它。",
+      false
+    ],
+    [
+      "frostbite",
+      "凍傷",
+      "book",
+      "noun",
+      "Health",
+      "Prevent frostbite.",
+      "預防凍傷。",
+      false
+    ],
+    [
+      "heartburn",
+      "胃灼熱",
+      "book",
+      "noun",
+      "Health",
+      "Prevent heartburn.",
+      "預防胃灼熱。",
+      false
+    ],
+    [
+      "inhaler",
+      "吸入器",
+      "book",
+      "noun",
+      "Health",
+      "carry an inhaler",
+      "攜帶吸入器",
+      false
+    ],
+    [
+      "crutch",
+      "拐杖",
+      "book",
+      "noun",
+      "Health",
+      "walk with a crutch",
+      "拄拐杖行走",
+      false
+    ],
+    [
+      "trudge",
+      "步履沉重地走",
+      "book",
+      "verb",
+      "Actions",
+      "trudge slowly",
+      "慢慢步履沉重地走",
+      false
+    ],
+    [
+      "saunter",
+      "悠閒地走",
+      "book",
+      "verb",
+      "Actions",
+      "saunter slowly",
+      "慢慢悠閒地走",
+      false
+    ],
+    [
+      "clamber",
+      "攀爬",
+      "book",
+      "verb",
+      "Actions",
+      "clamber slowly",
+      "慢慢攀爬",
+      false
+    ],
+    [
+      "ascend",
+      "上升",
+      "book",
+      "verb",
+      "Actions",
+      "ascend slowly",
+      "慢慢上升",
+      false
+    ],
+    [
+      "snicker",
+      "竊笑",
+      "book",
+      "verb",
+      "Actions",
+      "snicker slowly",
+      "慢慢竊笑",
+      false
+    ],
+    [
+      "somersault",
+      "翻筋斗",
+      "book",
+      "verb",
+      "Actions",
+      "do a somersault",
+      "翻一個筋斗",
+      false
+    ],
+    [
+      "velvet",
+      "天鵝絨",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the velvet.",
+      "看看這個天鵝絨。",
+      false
+    ],
+    [
+      "nylon",
+      "尼龍布",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the nylon.",
+      "看看這個尼龍布。",
+      false
+    ],
+    [
+      "peninsula",
+      "半島",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the peninsula.",
+      "看看這個半島。",
+      false
+    ],
+    [
+      "gulf",
+      "海灣",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the gulf.",
+      "看看這個海灣。",
+      false
+    ],
+    [
+      "valve",
+      "閥門",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the valve.",
+      "看看這個閥門。",
+      false
+    ],
+    [
+      "locomotive",
+      "火車頭",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the locomotive.",
+      "看看這個火車頭。",
+      false
+    ],
+    [
+      "typewriter",
+      "打字機",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the typewriter.",
+      "看看這個打字機。",
+      false
+    ],
+    [
+      "gill",
+      "鰓",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the gill.",
+      "看看這個鰓。",
+      false
+    ],
+    [
+      "talon",
+      "猛禽利爪",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the talon.",
+      "看看這個猛禽利爪。",
+      false
+    ],
+    [
+      "cocoon",
+      "繭",
+      "book",
+      "noun",
+      "Everyday",
+      "Look at the cocoon.",
+      "看看這個繭。",
+      false
+    ],
+    [
+      "sweltering",
+      "酷熱的",
+      "book",
+      "adjective",
+      "Description",
+      "a sweltering day",
+      "酷熱的一天",
+      false
+    ],
+    [
+      "balmy",
+      "溫暖舒適的",
+      "book",
+      "adjective",
+      "Description",
+      "a balmy day",
+      "溫暖舒適的一天",
+      false
     ]
   ],
   "L7": [
@@ -44331,6 +47921,1366 @@
       "my backpacking",
       "我的背包旅行",
       false
+    ],
+    [
+      "burnout",
+      "過度疲勞",
+      "book",
+      "noun",
+      "Health",
+      "Prevent burnout.",
+      "預防過度疲勞。",
+      false
+    ],
+    [
+      "eyestrain",
+      "眼睛疲勞",
+      "book",
+      "noun",
+      "Health",
+      "Prevent eyestrain.",
+      "預防眼睛疲勞。",
+      false
+    ],
+    [
+      "overeating",
+      "暴飲暴食",
+      "book",
+      "noun",
+      "Health",
+      "Prevent overeating.",
+      "預防暴飲暴食。",
+      false
+    ],
+    [
+      "choking",
+      "噎到",
+      "book",
+      "noun",
+      "Health",
+      "Prevent choking.",
+      "預防噎到。",
+      false
+    ],
+    [
+      "drowsiness",
+      "昏昏欲睡",
+      "book",
+      "noun",
+      "Health",
+      "The medicine can cause drowsiness.",
+      "這種藥可能使人昏昏欲睡。",
+      false
+    ],
+    [
+      "sprain",
+      "扭傷",
+      "book",
+      "noun",
+      "Health",
+      "an ankle sprain",
+      "腳踝扭傷",
+      false
+    ],
+    [
+      "callus",
+      "厚繭",
+      "book",
+      "noun",
+      "Health",
+      "a callus on the foot",
+      "腳上的厚繭",
+      false
+    ],
+    [
+      "uncover",
+      "發現",
+      "book",
+      "verb",
+      "Actions",
+      "uncover a mistake",
+      "發現一個錯誤",
+      false
+    ],
+    [
+      "downplay",
+      "淡化",
+      "book",
+      "verb",
+      "Actions",
+      "downplay a mistake",
+      "淡化一個錯誤",
+      false
+    ],
+    [
+      "understate",
+      "輕描淡寫",
+      "book",
+      "verb",
+      "Actions",
+      "understate a mistake",
+      "輕描淡寫一個錯誤",
+      false
+    ],
+    [
+      "overstate",
+      "誇大",
+      "book",
+      "verb",
+      "Actions",
+      "overstate a mistake",
+      "誇大一個錯誤",
+      false
+    ],
+    [
+      "misjudge",
+      "誤判",
+      "book",
+      "verb",
+      "Actions",
+      "misjudge the distance",
+      "誤判距離",
+      false
+    ],
+    [
+      "misplace",
+      "放錯地方",
+      "book",
+      "verb",
+      "Actions",
+      "misplace a key",
+      "把鑰匙放錯地方",
+      false
+    ],
+    [
+      "mishear",
+      "聽錯",
+      "book",
+      "verb",
+      "Actions",
+      "mishear a name",
+      "聽錯名字",
+      false
+    ],
+    [
+      "mislead",
+      "誤導",
+      "book",
+      "verb",
+      "Actions",
+      "mislead the audience",
+      "誤導觀眾",
+      false
+    ],
+    [
+      "misinform",
+      "提供錯誤資訊",
+      "book",
+      "verb",
+      "Actions",
+      "misinform the public",
+      "向大眾提供錯誤資訊",
+      false
+    ],
+    [
+      "misuse",
+      "誤用",
+      "book",
+      "verb",
+      "Actions",
+      "misuse a word",
+      "誤用單字",
+      false
+    ],
+    [
+      "misspell",
+      "拼錯",
+      "book",
+      "verb",
+      "Actions",
+      "misspell a name",
+      "拼錯名字",
+      false
+    ],
+    [
+      "mispronounce",
+      "發錯音",
+      "book",
+      "verb",
+      "Actions",
+      "mispronounce a word",
+      "把單字發錯音",
+      false
+    ],
+    [
+      "misbehave",
+      "行為不當",
+      "book",
+      "verb",
+      "Actions",
+      "Do not misbehave in class.",
+      "不要在課堂上行為不當。",
+      false
+    ],
+    [
+      "miscalculate",
+      "算錯",
+      "book",
+      "verb",
+      "Actions",
+      "miscalculate the total",
+      "算錯總數",
+      false
+    ],
+    [
+      "miscount",
+      "數錯",
+      "book",
+      "verb",
+      "Actions",
+      "miscount the tickets",
+      "數錯票券",
+      false
+    ],
+    [
+      "mismanage",
+      "管理不善",
+      "book",
+      "verb",
+      "Actions",
+      "mismanage a budget",
+      "預算管理不善",
+      false
+    ],
+    [
+      "uncluttered",
+      "整齊清爽的",
+      "book",
+      "adjective",
+      "Description",
+      "an uncluttered room",
+      "整齊清爽的房間",
+      false
+    ],
+    [
+      "dingy",
+      "昏暗髒亂的",
+      "book",
+      "adjective",
+      "Description",
+      "a dingy room",
+      "昏暗髒亂的房間",
+      false
+    ],
+    [
+      "furnished",
+      "附家具的",
+      "book",
+      "adjective",
+      "Description",
+      "a furnished room",
+      "附家具的房間",
+      false
+    ],
+    [
+      "homely",
+      "樸實溫馨的",
+      "book",
+      "adjective",
+      "Description",
+      "a homely room",
+      "樸實溫馨的房間",
+      false
+    ],
+    [
+      "lavish",
+      "奢華的",
+      "book",
+      "adjective",
+      "Description",
+      "a lavish room",
+      "奢華的房間",
+      false
+    ],
+    [
+      "ornate",
+      "裝飾華麗的",
+      "book",
+      "adjective",
+      "Description",
+      "an ornate room",
+      "裝飾華麗的房間",
+      false
+    ],
+    [
+      "minimalist",
+      "極簡風格的",
+      "book",
+      "adjective",
+      "Description",
+      "a minimalist room",
+      "極簡風格的房間",
+      false
+    ],
+    [
+      "rustic",
+      "鄉村風格的",
+      "book",
+      "adjective",
+      "Description",
+      "a rustic room",
+      "鄉村風格的房間",
+      false
+    ],
+    [
+      "shabby",
+      "破舊的",
+      "book",
+      "adjective",
+      "Description",
+      "a shabby room",
+      "破舊的房間",
+      false
+    ],
+    [
+      "immaculate",
+      "極乾淨的",
+      "book",
+      "adjective",
+      "Description",
+      "an immaculate room",
+      "極乾淨的房間",
+      false
+    ],
+    [
+      "pristine",
+      "原始潔淨的",
+      "book",
+      "adjective",
+      "Description",
+      "a pristine room",
+      "原始潔淨的房間",
+      false
+    ],
+    [
+      "musty",
+      "有霉味的",
+      "book",
+      "adjective",
+      "Description",
+      "a musty room",
+      "有霉味的房間",
+      false
+    ],
+    [
+      "meandering",
+      "曲折的",
+      "book",
+      "adjective",
+      "Description",
+      "a meandering path",
+      "曲折的小路",
+      false
+    ],
+    [
+      "stony",
+      "多石的",
+      "book",
+      "adjective",
+      "Description",
+      "a stony path",
+      "多石的小路",
+      false
+    ],
+    [
+      "gravelly",
+      "鋪碎石的",
+      "book",
+      "adjective",
+      "Description",
+      "a gravelly path",
+      "鋪碎石的小路",
+      false
+    ],
+    [
+      "rugged",
+      "崎嶇的",
+      "book",
+      "adjective",
+      "Description",
+      "a rugged path",
+      "崎嶇的小路",
+      false
+    ],
+    [
+      "scenic",
+      "風景優美的",
+      "book",
+      "adjective",
+      "Description",
+      "a scenic path",
+      "風景優美的小路",
+      false
+    ],
+    [
+      "shaded",
+      "有樹蔭的",
+      "book",
+      "adjective",
+      "Description",
+      "a shaded path",
+      "有樹蔭的小路",
+      false
+    ],
+    [
+      "leafy",
+      "樹木茂盛的",
+      "book",
+      "adjective",
+      "Description",
+      "a leafy path",
+      "樹木茂盛的小路",
+      false
+    ],
+    [
+      "secluded",
+      "僻靜的",
+      "book",
+      "adjective",
+      "Description",
+      "a secluded path",
+      "僻靜的小路",
+      false
+    ],
+    [
+      "impassable",
+      "無法通行的",
+      "book",
+      "adjective",
+      "Description",
+      "an impassable path",
+      "無法通行的小路",
+      false
+    ],
+    [
+      "mountainous",
+      "多山的",
+      "book",
+      "adjective",
+      "Description",
+      "a mountainous region",
+      "多山地區",
+      false
+    ],
+    [
+      "coastal",
+      "沿海的",
+      "book",
+      "adjective",
+      "Description",
+      "a coastal town",
+      "沿海城鎮",
+      false
+    ],
+    [
+      "inland",
+      "內陸的",
+      "book",
+      "adjective",
+      "Description",
+      "an inland city",
+      "內陸城市",
+      false
+    ],
+    [
+      "polar",
+      "極地的",
+      "book",
+      "adjective",
+      "Description",
+      "polar regions",
+      "極地地區",
+      false
+    ],
+    [
+      "excite",
+      "使興奮",
+      "book",
+      "verb",
+      "Actions",
+      "excite the children",
+      "使興奮孩子們",
+      false
+    ],
+    [
+      "astonish",
+      "使驚訝",
+      "book",
+      "verb",
+      "Actions",
+      "astonish the children",
+      "使驚訝孩子們",
+      false
+    ],
+    [
+      "astound",
+      "使震驚",
+      "book",
+      "verb",
+      "Actions",
+      "astound the children",
+      "使震驚孩子們",
+      false
+    ],
+    [
+      "amaze",
+      "使驚奇",
+      "book",
+      "verb",
+      "Actions",
+      "amaze the children",
+      "使驚奇孩子們",
+      false
+    ],
+    [
+      "bewilder",
+      "使困惑",
+      "book",
+      "verb",
+      "Actions",
+      "bewilder the children",
+      "使困惑孩子們",
+      false
+    ],
+    [
+      "confuse",
+      "使困惑",
+      "book",
+      "verb",
+      "Actions",
+      "confuse the children",
+      "使困惑孩子們",
+      false
+    ],
+    [
+      "perplex",
+      "使困惑",
+      "book",
+      "verb",
+      "Actions",
+      "perplex the children",
+      "使困惑孩子們",
+      false
+    ],
+    [
+      "irritate",
+      "惹惱",
+      "book",
+      "verb",
+      "Actions",
+      "irritate the children",
+      "惹惱孩子們",
+      false
+    ],
+    [
+      "annoy",
+      "惹惱",
+      "book",
+      "verb",
+      "Actions",
+      "annoy the children",
+      "惹惱孩子們",
+      false
+    ],
+    [
+      "disturb",
+      "打擾",
+      "book",
+      "verb",
+      "Actions",
+      "disturb the children",
+      "打擾孩子們",
+      false
+    ],
+    [
+      "frustrate",
+      "使挫折",
+      "book",
+      "verb",
+      "Actions",
+      "frustrate the children",
+      "使挫折孩子們",
+      false
+    ],
+    [
+      "disappoint",
+      "使失望",
+      "book",
+      "verb",
+      "Actions",
+      "disappoint the children",
+      "使失望孩子們",
+      false
+    ],
+    [
+      "disgust",
+      "使厭惡",
+      "book",
+      "verb",
+      "Actions",
+      "disgust the children",
+      "使厭惡孩子們",
+      false
+    ],
+    [
+      "dismay",
+      "使沮喪",
+      "book",
+      "verb",
+      "Actions",
+      "dismay the children",
+      "使沮喪孩子們",
+      false
+    ],
+    [
+      "terrify",
+      "使害怕",
+      "book",
+      "verb",
+      "Actions",
+      "terrify the children",
+      "使害怕孩子們",
+      false
+    ],
+    [
+      "console",
+      "安慰",
+      "book",
+      "verb",
+      "Actions",
+      "console the children",
+      "安慰孩子們",
+      false
+    ],
+    [
+      "nurture",
+      "培育",
+      "book",
+      "verb",
+      "Actions",
+      "nurture the children",
+      "培育孩子們",
+      false
+    ],
+    [
+      "nourish",
+      "滋養",
+      "book",
+      "verb",
+      "Actions",
+      "nourish the children",
+      "滋養孩子們",
+      false
+    ],
+    [
+      "cherish",
+      "珍惜",
+      "book",
+      "verb",
+      "Actions",
+      "cherish the children",
+      "珍惜孩子們",
+      false
+    ],
+    [
+      "adore",
+      "疼愛",
+      "book",
+      "verb",
+      "Actions",
+      "adore the children",
+      "疼愛孩子們",
+      false
+    ],
+    [
+      "restrain",
+      "制止",
+      "book",
+      "verb",
+      "Actions",
+      "restrain the children",
+      "制止孩子們",
+      false
+    ],
+    [
+      "captivate",
+      "吸引住",
+      "book",
+      "verb",
+      "Actions",
+      "captivate the audience",
+      "吸引住觀眾",
+      false
+    ],
+    [
+      "fascinate",
+      "使著迷",
+      "book",
+      "verb",
+      "Actions",
+      "fascinate the audience",
+      "使著迷觀眾",
+      false
+    ],
+    [
+      "intrigue",
+      "引起好奇",
+      "book",
+      "verb",
+      "Actions",
+      "intrigue the audience",
+      "引起好奇觀眾",
+      false
+    ],
+    [
+      "mesmerize",
+      "使著迷",
+      "book",
+      "verb",
+      "Actions",
+      "mesmerize the audience",
+      "使著迷觀眾",
+      false
+    ],
+    [
+      "enchant",
+      "使陶醉",
+      "book",
+      "verb",
+      "Actions",
+      "enchant the audience",
+      "使陶醉觀眾",
+      false
+    ],
+    [
+      "overwhelm",
+      "使不知所措",
+      "book",
+      "verb",
+      "Actions",
+      "overwhelm the audience",
+      "使不知所措觀眾",
+      false
+    ],
+    [
+      "embarrass",
+      "使尷尬",
+      "book",
+      "verb",
+      "Actions",
+      "embarrass the audience",
+      "使尷尬觀眾",
+      false
+    ],
+    [
+      "intimidate",
+      "威嚇",
+      "book",
+      "verb",
+      "Actions",
+      "intimidate the audience",
+      "威嚇觀眾",
+      false
+    ],
+    [
+      "alienate",
+      "疏遠",
+      "book",
+      "verb",
+      "Actions",
+      "alienate the audience",
+      "疏遠觀眾",
+      false
+    ],
+    [
+      "unite",
+      "團結",
+      "book",
+      "verb",
+      "Actions",
+      "unite the audience",
+      "團結觀眾",
+      false
+    ],
+    [
+      "applaud",
+      "鼓掌稱讚",
+      "book",
+      "verb",
+      "Actions",
+      "applaud the performance",
+      "為表演鼓掌",
+      false
+    ],
+    [
+      "boo",
+      "喝倒采",
+      "book",
+      "verb",
+      "Actions",
+      "boo a bad performance",
+      "對糟糕的表演喝倒采",
+      false
+    ],
+    [
+      "taunt",
+      "嘲弄",
+      "book",
+      "verb",
+      "Actions",
+      "Do not taunt other players.",
+      "不要嘲弄其他球員。",
+      false
+    ],
+    [
+      "aroma",
+      "香味",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the aroma.",
+      "享受這個香味。",
+      false
+    ],
+    [
+      "scent",
+      "氣味",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the scent.",
+      "享受這個氣味。",
+      false
+    ],
+    [
+      "starlight",
+      "星光",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the starlight.",
+      "享受這個星光。",
+      false
+    ],
+    [
+      "twilight",
+      "暮光",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the twilight.",
+      "享受這個暮光。",
+      false
+    ],
+    [
+      "dusk",
+      "黃昏",
+      "book",
+      "noun",
+      "Everyday",
+      "return home before dusk",
+      "在黃昏前回家",
+      false
+    ],
+    [
+      "gleam",
+      "微光",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the gleam.",
+      "享受這個微光。",
+      false
+    ],
+    [
+      "glimmer",
+      "微光",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the glimmer.",
+      "享受這個微光。",
+      false
+    ],
+    [
+      "shimmer",
+      "閃爍光澤",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the shimmer.",
+      "享受這個閃爍光澤。",
+      false
+    ],
+    [
+      "luster",
+      "光澤",
+      "book",
+      "noun",
+      "Everyday",
+      "the luster of silver",
+      "銀的光澤",
+      false
+    ],
+    [
+      "gloss",
+      "光澤",
+      "book",
+      "noun",
+      "Everyday",
+      "a surface with a high gloss",
+      "光澤度高的表面",
+      false
+    ],
+    [
+      "sheen",
+      "光澤",
+      "book",
+      "noun",
+      "Everyday",
+      "the soft sheen of silk",
+      "絲綢柔和的光澤",
+      false
+    ],
+    [
+      "hue",
+      "色調",
+      "book",
+      "noun",
+      "Everyday",
+      "a pale blue hue",
+      "淡藍色色調",
+      false
+    ],
+    [
+      "tint",
+      "淡色調",
+      "book",
+      "noun",
+      "Everyday",
+      "a green tint",
+      "淡綠色調",
+      false
+    ],
+    [
+      "pastime",
+      "消遣",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the pastime.",
+      "享受這個消遣。",
+      false
+    ],
+    [
+      "festivity",
+      "節慶活動",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the festivity.",
+      "享受這個節慶活動。",
+      false
+    ],
+    [
+      "pageant",
+      "慶典表演",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the pageant.",
+      "享受這個慶典表演。",
+      false
+    ],
+    [
+      "recital",
+      "獨奏會",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the recital.",
+      "享受這個獨奏會。",
+      false
+    ],
+    [
+      "quartet",
+      "四重奏",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the quartet.",
+      "享受這個四重奏。",
+      false
+    ],
+    [
+      "duet",
+      "二重奏",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the duet.",
+      "享受這個二重奏。",
+      false
+    ],
+    [
+      "comeback",
+      "復出",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the comeback.",
+      "享受這個復出。",
+      false
+    ],
+    [
+      "replay",
+      "重播",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the replay.",
+      "享受這個重播。",
+      false
+    ],
+    [
+      "rerun",
+      "重播節目",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the rerun.",
+      "享受這個重播節目。",
+      false
+    ],
+    [
+      "premiere",
+      "首映",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the premiere.",
+      "享受這個首映。",
+      false
+    ],
+    [
+      "matinee",
+      "午場演出",
+      "book",
+      "noun",
+      "Everyday",
+      "attend a matinee",
+      "看午場演出",
+      false
+    ],
+    [
+      "interlude",
+      "幕間節目",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the interlude.",
+      "享受這個幕間節目。",
+      false
+    ],
+    [
+      "encore",
+      "安可演出",
+      "book",
+      "noun",
+      "Everyday",
+      "Enjoy the encore.",
+      "享受這個安可演出。",
+      false
+    ],
+    [
+      "hyperlink",
+      "超連結",
+      "book",
+      "noun",
+      "Technology",
+      "Open the hyperlink.",
+      "開啟這個超連結。",
+      false
+    ],
+    [
+      "widget",
+      "小工具",
+      "book",
+      "noun",
+      "Technology",
+      "Open the widget.",
+      "開啟這個小工具。",
+      false
+    ],
+    [
+      "submenu",
+      "子選單",
+      "book",
+      "noun",
+      "Technology",
+      "Open the submenu.",
+      "開啟這個子選單。",
+      false
+    ],
+    [
+      "sidebar",
+      "側邊欄",
+      "book",
+      "noun",
+      "Technology",
+      "Open the sidebar.",
+      "開啟這個側邊欄。",
+      false
+    ],
+    [
+      "firewall",
+      "防火牆",
+      "book",
+      "noun",
+      "Technology",
+      "Check the firewall.",
+      "檢查這個防火牆。",
+      false
+    ],
+    [
+      "antivirus",
+      "防毒軟體",
+      "book",
+      "noun",
+      "Technology",
+      "Check the antivirus.",
+      "檢查這個防毒軟體。",
+      false
+    ],
+    [
+      "concierge",
+      "禮賓服務員",
+      "book",
+      "noun",
+      "People",
+      "Ask the concierge.",
+      "詢問這位禮賓服務員。",
+      false
+    ],
+    [
+      "welder",
+      "焊接工",
+      "book",
+      "noun",
+      "People",
+      "Ask the welder.",
+      "詢問這位焊接工。",
+      false
+    ],
+    [
+      "roofer",
+      "屋頂工",
+      "book",
+      "noun",
+      "People",
+      "Ask the roofer.",
+      "詢問這位屋頂工。",
+      false
+    ],
+    [
+      "tiler",
+      "貼磚工",
+      "book",
+      "noun",
+      "People",
+      "Ask the tiler.",
+      "詢問這位貼磚工。",
+      false
+    ],
+    [
+      "landscaper",
+      "庭園造景師",
+      "book",
+      "noun",
+      "People",
+      "Ask the landscaper.",
+      "詢問這位庭園造景師。",
+      false
+    ],
+    [
+      "beekeeper",
+      "養蜂人",
+      "book",
+      "noun",
+      "People",
+      "Ask the beekeeper.",
+      "詢問這位養蜂人。",
+      false
+    ],
+    [
+      "optometrist",
+      "驗光師",
+      "book",
+      "noun",
+      "People",
+      "Ask the optometrist.",
+      "詢問這位驗光師。",
+      false
+    ],
+    [
+      "dietitian",
+      "營養師",
+      "book",
+      "noun",
+      "People",
+      "Ask the dietitian.",
+      "詢問這位營養師。",
+      false
+    ],
+    [
+      "stoop",
+      "彎腰",
+      "book",
+      "verb",
+      "Actions",
+      "stoop slowly",
+      "慢慢彎腰",
+      false
+    ],
+    [
+      "starch",
+      "上漿",
+      "book",
+      "verb",
+      "Actions",
+      "starch the cloth",
+      "上漿這塊布",
+      false
+    ],
+    [
+      "shear",
+      "剪切",
+      "book",
+      "verb",
+      "Actions",
+      "shear the cloth",
+      "剪切這塊布",
+      false
+    ],
+    [
+      "knead",
+      "揉",
+      "book",
+      "verb",
+      "Actions",
+      "knead the dough",
+      "揉麵糰",
+      false
+    ],
+    [
+      "saute",
+      "快炒",
+      "book",
+      "verb",
+      "Actions",
+      "saute the onions",
+      "快炒洋蔥",
+      false
+    ],
+    [
+      "broil",
+      "炙烤",
+      "book",
+      "verb",
+      "Actions",
+      "broil the fish",
+      "炙烤魚肉",
+      false
+    ],
+    [
+      "braise",
+      "燉",
+      "book",
+      "verb",
+      "Actions",
+      "braise the beef",
+      "燉牛肉",
+      false
+    ],
+    [
+      "poach",
+      "水煮",
+      "book",
+      "verb",
+      "Actions",
+      "poach an egg",
+      "水煮一顆去殼蛋",
+      false
+    ],
+    [
+      "muggy",
+      "悶熱潮濕的",
+      "book",
+      "adjective",
+      "Description",
+      "a muggy day",
+      "悶熱潮濕的一天",
+      false
+    ],
+    [
+      "melodious",
+      "悅耳的",
+      "book",
+      "adjective",
+      "Description",
+      "a melodious voice",
+      "悅耳的聲音",
+      false
+    ],
+    [
+      "resonant",
+      "洪亮的",
+      "book",
+      "adjective",
+      "Description",
+      "a resonant voice",
+      "洪亮的聲音",
+      false
+    ],
+    [
+      "shoetree",
+      "鞋楦",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the shoetree.",
+      "檢查這個鞋楦。",
+      false
+    ],
+    [
+      "penthouse",
+      "頂樓公寓",
+      "book",
+      "noun",
+      "Everyday",
+      "Check the penthouse.",
+      "檢查這個頂樓公寓。",
+      false
+    ],
+    [
+      "newsprint",
+      "新聞紙",
+      "book",
+      "noun",
+      "Everyday",
+      "print on newsprint",
+      "在新聞紙上印刷",
+      false
     ]
   ],
   "L8": [
@@ -50533,6 +55483,2176 @@
       "We asked at the information desk about our lost umbrella.",
       "我們到服務台詢問遺失的雨傘。",
       false
+    ],
+    [
+      "tactless",
+      "不得體的",
+      "book",
+      "adjective",
+      "Description",
+      "a tactless response",
+      "不得體的回應",
+      false
+    ],
+    [
+      "compassionate",
+      "有同情心的",
+      "book",
+      "adjective",
+      "Description",
+      "a compassionate response",
+      "有同情心的回應",
+      false
+    ],
+    [
+      "inconsiderate",
+      "不體貼的",
+      "book",
+      "adjective",
+      "Description",
+      "an inconsiderate response",
+      "不體貼的回應",
+      false
+    ],
+    [
+      "evasive",
+      "迴避的",
+      "book",
+      "adjective",
+      "Description",
+      "an evasive response",
+      "迴避的回應",
+      false
+    ],
+    [
+      "apathetic",
+      "冷漠的",
+      "book",
+      "adjective",
+      "Description",
+      "an apathetic response",
+      "冷漠的回應",
+      false
+    ],
+    [
+      "empathetic",
+      "有同理心的",
+      "book",
+      "adjective",
+      "Description",
+      "an empathetic response",
+      "有同理心的回應",
+      false
+    ],
+    [
+      "heartfelt",
+      "真摯的",
+      "book",
+      "adjective",
+      "Description",
+      "a heartfelt response",
+      "真摯的回應",
+      false
+    ],
+    [
+      "gracious",
+      "親切有禮的",
+      "book",
+      "adjective",
+      "Description",
+      "a gracious response",
+      "親切有禮的回應",
+      false
+    ],
+    [
+      "courteous",
+      "有禮貌的",
+      "book",
+      "adjective",
+      "Description",
+      "a courteous response",
+      "有禮貌的回應",
+      false
+    ],
+    [
+      "impolite",
+      "不禮貌的",
+      "book",
+      "adjective",
+      "Description",
+      "an impolite response",
+      "不禮貌的回應",
+      false
+    ],
+    [
+      "blunt",
+      "直率的",
+      "book",
+      "adjective",
+      "Description",
+      "a blunt response",
+      "直率的回應",
+      false
+    ],
+    [
+      "candid",
+      "坦率的",
+      "book",
+      "adjective",
+      "Description",
+      "a candid response",
+      "坦率的回應",
+      false
+    ],
+    [
+      "forthright",
+      "直言不諱的",
+      "book",
+      "adjective",
+      "Description",
+      "a forthright response",
+      "直言不諱的回應",
+      false
+    ],
+    [
+      "reassuring",
+      "令人安心的",
+      "book",
+      "adjective",
+      "Description",
+      "a reassuring response",
+      "令人安心的回應",
+      false
+    ],
+    [
+      "unjustified",
+      "無正當理由的",
+      "book",
+      "adjective",
+      "Description",
+      "an unjustified response",
+      "無正當理由的回應",
+      false
+    ],
+    [
+      "indignant",
+      "憤慨的",
+      "book",
+      "adjective",
+      "Description",
+      "an indignant response",
+      "憤慨的回應",
+      false
+    ],
+    [
+      "resentful",
+      "不滿的",
+      "book",
+      "adjective",
+      "Description",
+      "a resentful response",
+      "不滿的回應",
+      false
+    ],
+    [
+      "scornful",
+      "輕蔑的",
+      "book",
+      "adjective",
+      "Description",
+      "a scornful response",
+      "輕蔑的回應",
+      false
+    ],
+    [
+      "sarcastic",
+      "諷刺的",
+      "book",
+      "adjective",
+      "Description",
+      "a sarcastic response",
+      "諷刺的回應",
+      false
+    ],
+    [
+      "apologetic",
+      "歉意的",
+      "book",
+      "adjective",
+      "Description",
+      "an apologetic response",
+      "歉意的回應",
+      false
+    ],
+    [
+      "incoherent",
+      "語無倫次的",
+      "book",
+      "adjective",
+      "Description",
+      "an incoherent response",
+      "語無倫次的回應",
+      false
+    ],
+    [
+      "intelligible",
+      "能理解的",
+      "book",
+      "adjective",
+      "Description",
+      "an intelligible response",
+      "能理解的回應",
+      false
+    ],
+    [
+      "unintelligible",
+      "難以理解的",
+      "book",
+      "adjective",
+      "Description",
+      "a unintelligible response",
+      "難以理解的回應",
+      false
+    ],
+    [
+      "succinct",
+      "簡潔的",
+      "book",
+      "adjective",
+      "Description",
+      "a succinct response",
+      "簡潔的回應",
+      false
+    ],
+    [
+      "wordy",
+      "冗長的",
+      "book",
+      "adjective",
+      "Description",
+      "a wordy response",
+      "冗長的回應",
+      false
+    ],
+    [
+      "verbose",
+      "囉嗦的",
+      "book",
+      "adjective",
+      "Description",
+      "a verbose response",
+      "囉嗦的回應",
+      false
+    ],
+    [
+      "eloquent",
+      "有說服力的",
+      "book",
+      "adjective",
+      "Description",
+      "an eloquent response",
+      "有說服力的回應",
+      false
+    ],
+    [
+      "implausible",
+      "難以置信的",
+      "book",
+      "adjective",
+      "Description",
+      "an implausible explanation",
+      "難以置信的說明",
+      false
+    ],
+    [
+      "unfounded",
+      "無根據的",
+      "book",
+      "adjective",
+      "Description",
+      "an unfounded explanation",
+      "無根據的說明",
+      false
+    ],
+    [
+      "deceptive",
+      "騙人的",
+      "book",
+      "adjective",
+      "Description",
+      "a deceptive explanation",
+      "騙人的說明",
+      false
+    ],
+    [
+      "erroneous",
+      "錯誤的",
+      "book",
+      "adjective",
+      "Description",
+      "an erroneous explanation",
+      "錯誤的說明",
+      false
+    ],
+    [
+      "oversimplified",
+      "過度簡化的",
+      "book",
+      "adjective",
+      "Description",
+      "an oversimplified explanation",
+      "過度簡化的說明",
+      false
+    ],
+    [
+      "needless",
+      "多餘的",
+      "book",
+      "adjective",
+      "Description",
+      "a needless explanation",
+      "多餘的說明",
+      false
+    ],
+    [
+      "pertinent",
+      "切題的",
+      "book",
+      "adjective",
+      "Description",
+      "a pertinent explanation",
+      "切題的說明",
+      false
+    ],
+    [
+      "conclusive",
+      "確定的",
+      "book",
+      "adjective",
+      "Description",
+      "a conclusive explanation",
+      "確定的說明",
+      false
+    ],
+    [
+      "inconclusive",
+      "無定論的",
+      "book",
+      "adjective",
+      "Description",
+      "an inconclusive explanation",
+      "無定論的說明",
+      false
+    ],
+    [
+      "unambiguous",
+      "不含糊的",
+      "book",
+      "adjective",
+      "Description",
+      "an unambiguous explanation",
+      "不含糊的說明",
+      false
+    ],
+    [
+      "figurative",
+      "比喻的",
+      "book",
+      "adjective",
+      "Description",
+      "figurative language",
+      "比喻語言",
+      false
+    ],
+    [
+      "literal",
+      "字面的",
+      "book",
+      "adjective",
+      "Description",
+      "a literal translation",
+      "直譯",
+      false
+    ],
+    [
+      "idiomatic",
+      "道地的",
+      "book",
+      "adjective",
+      "Description",
+      "an idiomatic expression",
+      "道地的表達方式",
+      false
+    ],
+    [
+      "envisage",
+      "設想",
+      "book",
+      "verb",
+      "Actions",
+      "envisage the plan",
+      "設想這個計畫",
+      false
+    ],
+    [
+      "enact",
+      "制定",
+      "book",
+      "verb",
+      "Actions",
+      "enact the plan",
+      "制定這個計畫",
+      false
+    ],
+    [
+      "commence",
+      "開始",
+      "book",
+      "verb",
+      "Actions",
+      "commence the plan",
+      "開始這個計畫",
+      false
+    ],
+    [
+      "abort",
+      "中止",
+      "book",
+      "verb",
+      "Actions",
+      "abort the plan",
+      "中止這個計畫",
+      false
+    ],
+    [
+      "reshape",
+      "重塑",
+      "book",
+      "verb",
+      "Actions",
+      "reshape the plan",
+      "重塑這個計畫",
+      false
+    ],
+    [
+      "reorient",
+      "調整方向",
+      "book",
+      "verb",
+      "Actions",
+      "reorient the plan",
+      "調整方向這個計畫",
+      false
+    ],
+    [
+      "redirect",
+      "改變方向",
+      "book",
+      "verb",
+      "Actions",
+      "redirect the plan",
+      "改變方向這個計畫",
+      false
+    ],
+    [
+      "realign",
+      "重新調整",
+      "book",
+      "verb",
+      "Actions",
+      "realign the plan",
+      "重新調整這個計畫",
+      false
+    ],
+    [
+      "reconfigure",
+      "重新配置",
+      "book",
+      "verb",
+      "Actions",
+      "reconfigure the plan",
+      "重新配置這個計畫",
+      false
+    ],
+    [
+      "reinvent",
+      "重新創造",
+      "book",
+      "verb",
+      "Actions",
+      "reinvent the plan",
+      "重新創造這個計畫",
+      false
+    ],
+    [
+      "reconstruct",
+      "重建",
+      "book",
+      "verb",
+      "Actions",
+      "reconstruct the plan",
+      "重建這個計畫",
+      false
+    ],
+    [
+      "bolster",
+      "支持",
+      "book",
+      "verb",
+      "Actions",
+      "bolster the plan",
+      "支持這個計畫",
+      false
+    ],
+    [
+      "underpin",
+      "支撐",
+      "book",
+      "verb",
+      "Actions",
+      "underpin the plan",
+      "支撐這個計畫",
+      false
+    ],
+    [
+      "jeopardize",
+      "危及",
+      "book",
+      "verb",
+      "Actions",
+      "jeopardize the plan",
+      "危及這個計畫",
+      false
+    ],
+    [
+      "sabotage",
+      "破壞",
+      "book",
+      "verb",
+      "Actions",
+      "sabotage the plan",
+      "破壞這個計畫",
+      false
+    ],
+    [
+      "obstruct",
+      "阻礙",
+      "book",
+      "verb",
+      "Actions",
+      "obstruct the plan",
+      "阻礙這個計畫",
+      false
+    ],
+    [
+      "hamper",
+      "阻礙",
+      "book",
+      "verb",
+      "Actions",
+      "hamper the plan",
+      "阻礙這個計畫",
+      false
+    ],
+    [
+      "hinder",
+      "妨礙",
+      "book",
+      "verb",
+      "Actions",
+      "hinder the plan",
+      "妨礙這個計畫",
+      false
+    ],
+    [
+      "impede",
+      "阻礙",
+      "book",
+      "verb",
+      "Actions",
+      "impede the plan",
+      "阻礙這個計畫",
+      false
+    ],
+    [
+      "thwart",
+      "阻撓",
+      "book",
+      "verb",
+      "Actions",
+      "thwart the plan",
+      "阻撓這個計畫",
+      false
+    ],
+    [
+      "derail",
+      "使偏離正軌",
+      "book",
+      "verb",
+      "Actions",
+      "derail the plan",
+      "使偏離正軌這個計畫",
+      false
+    ],
+    [
+      "circumvent",
+      "設法繞過",
+      "book",
+      "verb",
+      "Actions",
+      "circumvent an obstacle",
+      "設法繞過障礙",
+      false
+    ],
+    [
+      "surmount",
+      "克服",
+      "book",
+      "verb",
+      "Actions",
+      "surmount a challenge",
+      "克服挑戰",
+      false
+    ],
+    [
+      "adaptable",
+      "能適應的",
+      "book",
+      "adjective",
+      "Description",
+      "an adaptable person",
+      "能適應的人",
+      false
+    ],
+    [
+      "agile",
+      "敏捷的",
+      "book",
+      "adjective",
+      "Description",
+      "an agile person",
+      "敏捷的人",
+      false
+    ],
+    [
+      "amiable",
+      "和藹可親的",
+      "book",
+      "adjective",
+      "Description",
+      "an amiable person",
+      "和藹可親的人",
+      false
+    ],
+    [
+      "amicable",
+      "友善的",
+      "book",
+      "adjective",
+      "Description",
+      "an amicable agreement",
+      "友善達成的協議",
+      false
+    ],
+    [
+      "affable",
+      "和藹的",
+      "book",
+      "adjective",
+      "Description",
+      "an affable person",
+      "和藹的人",
+      false
+    ],
+    [
+      "approachable",
+      "平易近人的",
+      "book",
+      "adjective",
+      "Description",
+      "an approachable person",
+      "平易近人的人",
+      false
+    ],
+    [
+      "assertive",
+      "果斷自信的",
+      "book",
+      "adjective",
+      "Description",
+      "an assertive person",
+      "果斷自信的人",
+      false
+    ],
+    [
+      "audacious",
+      "大膽的",
+      "book",
+      "adjective",
+      "Description",
+      "an audacious person",
+      "大膽的人",
+      false
+    ],
+    [
+      "bashful",
+      "害羞的",
+      "book",
+      "adjective",
+      "Description",
+      "a bashful person",
+      "害羞的人",
+      false
+    ],
+    [
+      "boastful",
+      "愛吹噓的",
+      "book",
+      "adjective",
+      "Description",
+      "a boastful person",
+      "愛吹噓的人",
+      false
+    ],
+    [
+      "brash",
+      "莽撞的",
+      "book",
+      "adjective",
+      "Description",
+      "a brash person",
+      "莽撞的人",
+      false
+    ],
+    [
+      "cheery",
+      "開朗的",
+      "book",
+      "adjective",
+      "Description",
+      "a cheery person",
+      "開朗的人",
+      false
+    ],
+    [
+      "childish",
+      "幼稚的",
+      "book",
+      "adjective",
+      "Description",
+      "a childish person",
+      "幼稚的人",
+      false
+    ],
+    [
+      "childlike",
+      "天真如孩童的",
+      "book",
+      "adjective",
+      "Description",
+      "a childlike person",
+      "天真如孩童的人",
+      false
+    ],
+    [
+      "clumsy",
+      "笨拙的",
+      "book",
+      "adjective",
+      "Description",
+      "a clumsy person",
+      "笨拙的人",
+      false
+    ],
+    [
+      "conscientious",
+      "認真負責的",
+      "book",
+      "adjective",
+      "Description",
+      "a conscientious person",
+      "認真負責的人",
+      false
+    ],
+    [
+      "contented",
+      "知足的",
+      "book",
+      "adjective",
+      "Description",
+      "a contented person",
+      "知足的人",
+      false
+    ],
+    [
+      "crafty",
+      "狡猾的",
+      "book",
+      "adjective",
+      "Description",
+      "a crafty person",
+      "狡猾的人",
+      false
+    ],
+    [
+      "daring",
+      "大膽的",
+      "book",
+      "adjective",
+      "Description",
+      "a daring person",
+      "大膽的人",
+      false
+    ],
+    [
+      "deceitful",
+      "不誠實的",
+      "book",
+      "adjective",
+      "Description",
+      "a deceitful person",
+      "不誠實的人",
+      false
+    ],
+    [
+      "diligent",
+      "勤奮的",
+      "book",
+      "adjective",
+      "Description",
+      "a diligent person",
+      "勤奮的人",
+      false
+    ],
+    [
+      "discreet",
+      "謹慎的",
+      "book",
+      "adjective",
+      "Description",
+      "a discreet person",
+      "謹慎的人",
+      false
+    ],
+    [
+      "distrustful",
+      "多疑的",
+      "book",
+      "adjective",
+      "Description",
+      "a distrustful person",
+      "多疑的人",
+      false
+    ],
+    [
+      "docile",
+      "溫順的",
+      "book",
+      "adjective",
+      "Description",
+      "a docile person",
+      "溫順的人",
+      false
+    ],
+    [
+      "eccentric",
+      "古怪的",
+      "book",
+      "adjective",
+      "Description",
+      "an eccentric person",
+      "古怪的人",
+      false
+    ],
+    [
+      "envious",
+      "羨慕嫉妒的",
+      "book",
+      "adjective",
+      "Description",
+      "an envious person",
+      "羨慕嫉妒的人",
+      false
+    ],
+    [
+      "fickle",
+      "善變的",
+      "book",
+      "adjective",
+      "Description",
+      "a fickle person",
+      "善變的人",
+      false
+    ],
+    [
+      "forgiving",
+      "寬容的",
+      "book",
+      "adjective",
+      "Description",
+      "a forgiving person",
+      "寬容的人",
+      false
+    ],
+    [
+      "frugal",
+      "節儉的",
+      "book",
+      "adjective",
+      "Description",
+      "a frugal person",
+      "節儉的人",
+      false
+    ],
+    [
+      "fussy",
+      "挑剔的",
+      "book",
+      "adjective",
+      "Description",
+      "a fussy person",
+      "挑剔的人",
+      false
+    ],
+    [
+      "gullible",
+      "容易受騙的",
+      "book",
+      "adjective",
+      "Description",
+      "a gullible person",
+      "容易受騙的人",
+      false
+    ],
+    [
+      "headstrong",
+      "固執的",
+      "book",
+      "adjective",
+      "Description",
+      "a headstrong person",
+      "固執的人",
+      false
+    ],
+    [
+      "heedless",
+      "不留心的",
+      "book",
+      "adjective",
+      "Description",
+      "a heedless person",
+      "不留心的人",
+      false
+    ],
+    [
+      "impulsive",
+      "衝動的",
+      "book",
+      "adjective",
+      "Description",
+      "an impulsive person",
+      "衝動的人",
+      false
+    ],
+    [
+      "indecisive",
+      "優柔寡斷的",
+      "book",
+      "adjective",
+      "Description",
+      "an indecisive person",
+      "優柔寡斷的人",
+      false
+    ],
+    [
+      "inquisitive",
+      "好奇好問的",
+      "book",
+      "adjective",
+      "Description",
+      "an inquisitive person",
+      "好奇好問的人",
+      false
+    ],
+    [
+      "insincere",
+      "不真誠的",
+      "book",
+      "adjective",
+      "Description",
+      "an insincere person",
+      "不真誠的人",
+      false
+    ],
+    [
+      "irritable",
+      "易怒的",
+      "book",
+      "adjective",
+      "Description",
+      "an irritable person",
+      "易怒的人",
+      false
+    ],
+    [
+      "jovial",
+      "快活的",
+      "book",
+      "adjective",
+      "Description",
+      "a jovial person",
+      "快活的人",
+      false
+    ],
+    [
+      "kindhearted",
+      "心地善良的",
+      "book",
+      "adjective",
+      "Description",
+      "a kindhearted person",
+      "心地善良的人",
+      false
+    ],
+    [
+      "likable",
+      "討人喜歡的",
+      "book",
+      "adjective",
+      "Description",
+      "a likable character",
+      "討人喜歡的角色",
+      false
+    ],
+    [
+      "malicious",
+      "惡意的",
+      "book",
+      "adjective",
+      "Description",
+      "a malicious person",
+      "惡意的人",
+      false
+    ],
+    [
+      "manipulative",
+      "善於操控人的",
+      "book",
+      "adjective",
+      "Description",
+      "a manipulative person",
+      "善於操控人的人",
+      false
+    ],
+    [
+      "merciful",
+      "仁慈的",
+      "book",
+      "adjective",
+      "Description",
+      "a merciful person",
+      "仁慈的人",
+      false
+    ],
+    [
+      "miserly",
+      "吝嗇的",
+      "book",
+      "adjective",
+      "Description",
+      "a miserly person",
+      "吝嗇的人",
+      false
+    ],
+    [
+      "obedient",
+      "順從的",
+      "book",
+      "adjective",
+      "Description",
+      "an obedient person",
+      "順從的人",
+      false
+    ],
+    [
+      "observant",
+      "善於觀察的",
+      "book",
+      "adjective",
+      "Description",
+      "an observant person",
+      "善於觀察的人",
+      false
+    ],
+    [
+      "open-minded",
+      "思想開明的",
+      "book",
+      "adjective",
+      "Description",
+      "an open-minded person",
+      "思想開明的人",
+      false
+    ],
+    [
+      "opinionated",
+      "固執己見的",
+      "book",
+      "adjective",
+      "Description",
+      "an opinionated person",
+      "固執己見的人",
+      false
+    ],
+    [
+      "outspoken",
+      "直言的",
+      "book",
+      "adjective",
+      "Description",
+      "an outspoken person",
+      "直言的人",
+      false
+    ],
+    [
+      "perceptive",
+      "有洞察力的",
+      "book",
+      "adjective",
+      "Description",
+      "a perceptive person",
+      "有洞察力的人",
+      false
+    ],
+    [
+      "persevering",
+      "堅持不懈的",
+      "book",
+      "adjective",
+      "Description",
+      "a persevering person",
+      "堅持不懈的人",
+      false
+    ],
+    [
+      "petty",
+      "心胸狹窄的",
+      "book",
+      "adjective",
+      "Description",
+      "a petty person",
+      "心胸狹窄的人",
+      false
+    ],
+    [
+      "possessive",
+      "佔有慾強的",
+      "book",
+      "adjective",
+      "Description",
+      "a possessive person",
+      "佔有慾強的人",
+      false
+    ],
+    [
+      "pretentious",
+      "自命不凡的",
+      "book",
+      "adjective",
+      "Description",
+      "a pretentious person",
+      "自命不凡的人",
+      false
+    ],
+    [
+      "prudent",
+      "審慎的",
+      "book",
+      "adjective",
+      "Description",
+      "a prudent person",
+      "審慎的人",
+      false
+    ],
+    [
+      "punctual",
+      "守時的",
+      "book",
+      "adjective",
+      "Description",
+      "a punctual person",
+      "守時的人",
+      false
+    ],
+    [
+      "quarrelsome",
+      "愛爭吵的",
+      "book",
+      "adjective",
+      "Description",
+      "a quarrelsome person",
+      "愛爭吵的人",
+      false
+    ],
+    [
+      "rebellious",
+      "叛逆的",
+      "book",
+      "adjective",
+      "Description",
+      "a rebellious person",
+      "叛逆的人",
+      false
+    ],
+    [
+      "reckless",
+      "魯莽的",
+      "book",
+      "adjective",
+      "Description",
+      "a reckless person",
+      "魯莽的人",
+      false
+    ],
+    [
+      "reserved",
+      "內斂的",
+      "book",
+      "adjective",
+      "Description",
+      "a reserved person",
+      "內斂的人",
+      false
+    ],
+    [
+      "ruthless",
+      "無情的",
+      "book",
+      "adjective",
+      "Description",
+      "a ruthless person",
+      "無情的人",
+      false
+    ],
+    [
+      "sentimental",
+      "多愁善感的",
+      "book",
+      "adjective",
+      "Description",
+      "a sentimental person",
+      "多愁善感的人",
+      false
+    ],
+    [
+      "shrewd",
+      "精明的",
+      "book",
+      "adjective",
+      "Description",
+      "a shrewd person",
+      "精明的人",
+      false
+    ],
+    [
+      "sincere",
+      "真誠的",
+      "book",
+      "adjective",
+      "Description",
+      "a sincere person",
+      "真誠的人",
+      false
+    ],
+    [
+      "spiteful",
+      "惡意的",
+      "book",
+      "adjective",
+      "Description",
+      "a spiteful person",
+      "惡意的人",
+      false
+    ],
+    [
+      "steadfast",
+      "堅定的",
+      "book",
+      "adjective",
+      "Description",
+      "a steadfast person",
+      "堅定的人",
+      false
+    ],
+    [
+      "superstitious",
+      "迷信的",
+      "book",
+      "adjective",
+      "Description",
+      "a superstitious person",
+      "迷信的人",
+      false
+    ],
+    [
+      "tenacious",
+      "堅韌的",
+      "book",
+      "adjective",
+      "Description",
+      "a tenacious person",
+      "堅韌的人",
+      false
+    ],
+    [
+      "trustworthy",
+      "值得信賴的",
+      "book",
+      "adjective",
+      "Description",
+      "a trustworthy person",
+      "值得信賴的人",
+      false
+    ],
+    [
+      "unassuming",
+      "謙遜的",
+      "book",
+      "adjective",
+      "Description",
+      "an unassuming person",
+      "謙遜的人",
+      false
+    ],
+    [
+      "undecided",
+      "猶豫未決的",
+      "book",
+      "adjective",
+      "Description",
+      "an undecided person",
+      "猶豫未決的人",
+      false
+    ],
+    [
+      "unruly",
+      "難以管教的",
+      "book",
+      "adjective",
+      "Description",
+      "an unruly person",
+      "難以管教的人",
+      false
+    ],
+    [
+      "unselfish",
+      "無私的",
+      "book",
+      "adjective",
+      "Description",
+      "an unselfish person",
+      "無私的人",
+      false
+    ],
+    [
+      "vain",
+      "自負的",
+      "book",
+      "adjective",
+      "Description",
+      "a vain person",
+      "自負的人",
+      false
+    ],
+    [
+      "warmhearted",
+      "熱心的",
+      "book",
+      "adjective",
+      "Description",
+      "a warmhearted person",
+      "熱心的人",
+      false
+    ],
+    [
+      "witty",
+      "機智風趣的",
+      "book",
+      "adjective",
+      "Description",
+      "a witty person",
+      "機智風趣的人",
+      false
+    ],
+    [
+      "worldly",
+      "世故的",
+      "book",
+      "adjective",
+      "Description",
+      "a worldly person",
+      "世故的人",
+      false
+    ],
+    [
+      "zealous",
+      "熱忱的",
+      "book",
+      "adjective",
+      "Description",
+      "a zealous person",
+      "熱忱的人",
+      false
+    ],
+    [
+      "favorable",
+      "有利的",
+      "book",
+      "adjective",
+      "Description",
+      "a favorable result",
+      "有利的結果",
+      false
+    ],
+    [
+      "unfavorable",
+      "不利的",
+      "book",
+      "adjective",
+      "Description",
+      "an unfavorable result",
+      "不利的結果",
+      false
+    ],
+    [
+      "discouraging",
+      "令人洩氣的",
+      "book",
+      "adjective",
+      "Description",
+      "a discouraging result",
+      "令人洩氣的結果",
+      false
+    ],
+    [
+      "unanticipated",
+      "未預料的",
+      "book",
+      "adjective",
+      "Description",
+      "an unanticipated result",
+      "未預料的結果",
+      false
+    ],
+    [
+      "foreseeable",
+      "可預見的",
+      "book",
+      "adjective",
+      "Description",
+      "a foreseeable result",
+      "可預見的結果",
+      false
+    ],
+    [
+      "unforeseeable",
+      "無法預見的",
+      "book",
+      "adjective",
+      "Description",
+      "an unforeseeable result",
+      "無法預見的結果",
+      false
+    ],
+    [
+      "definitive",
+      "明確的",
+      "book",
+      "adjective",
+      "Description",
+      "a definitive result",
+      "明確的結果",
+      false
+    ],
+    [
+      "tentative",
+      "暫定的",
+      "book",
+      "adjective",
+      "Description",
+      "a tentative result",
+      "暫定的結果",
+      false
+    ],
+    [
+      "eventual",
+      "最終的",
+      "book",
+      "adjective",
+      "Description",
+      "an eventual result",
+      "最終的結果",
+      false
+    ],
+    [
+      "optimal",
+      "最佳的",
+      "book",
+      "adjective",
+      "Description",
+      "an optimal result",
+      "最佳的結果",
+      false
+    ],
+    [
+      "suboptimal",
+      "非最佳的",
+      "book",
+      "adjective",
+      "Description",
+      "a suboptimal result",
+      "非最佳的結果",
+      false
+    ],
+    [
+      "inferior",
+      "較差的",
+      "book",
+      "adjective",
+      "Description",
+      "an inferior result",
+      "較差的結果",
+      false
+    ],
+    [
+      "comparable",
+      "可比較的",
+      "book",
+      "adjective",
+      "Description",
+      "a comparable result",
+      "可比較的結果",
+      false
+    ],
+    [
+      "unequal",
+      "不相等的",
+      "book",
+      "adjective",
+      "Description",
+      "an unequal result",
+      "不相等的結果",
+      false
+    ],
+    [
+      "dissimilar",
+      "不同的",
+      "book",
+      "adjective",
+      "Description",
+      "a dissimilar result",
+      "不同的結果",
+      false
+    ],
+    [
+      "contrasting",
+      "形成對比的",
+      "book",
+      "adjective",
+      "Description",
+      "a contrasting result",
+      "形成對比的結果",
+      false
+    ],
+    [
+      "divergent",
+      "分歧的",
+      "book",
+      "adjective",
+      "Description",
+      "a divergent result",
+      "分歧的結果",
+      false
+    ],
+    [
+      "convergent",
+      "趨同的",
+      "book",
+      "adjective",
+      "Description",
+      "a convergent result",
+      "趨同的結果",
+      false
+    ],
+    [
+      "simultaneous",
+      "同時的",
+      "book",
+      "adjective",
+      "Description",
+      "a simultaneous result",
+      "同時的結果",
+      false
+    ],
+    [
+      "imminent",
+      "即將發生的",
+      "book",
+      "adjective",
+      "Description",
+      "an imminent result",
+      "即將發生的結果",
+      false
+    ],
+    [
+      "pending",
+      "待定的",
+      "book",
+      "adjective",
+      "Description",
+      "a pending result",
+      "待定的結果",
+      false
+    ],
+    [
+      "intrinsic",
+      "內在的",
+      "book",
+      "adjective",
+      "Description",
+      "intrinsic value",
+      "內在價值",
+      false
+    ],
+    [
+      "extrinsic",
+      "外在的",
+      "book",
+      "adjective",
+      "Description",
+      "extrinsic motivation",
+      "外在動機",
+      false
+    ],
+    [
+      "markedly",
+      "明顯地",
+      "book",
+      "adverb",
+      "Everyday",
+      "markedly different",
+      "明顯地不同",
+      false
+    ],
+    [
+      "wholly",
+      "完全地",
+      "book",
+      "adverb",
+      "Everyday",
+      "wholly different",
+      "完全地不同",
+      false
+    ],
+    [
+      "profoundly",
+      "深刻地",
+      "book",
+      "adverb",
+      "Everyday",
+      "profoundly different",
+      "深刻地不同",
+      false
+    ],
+    [
+      "uniquely",
+      "獨特地",
+      "book",
+      "adverb",
+      "Everyday",
+      "uniquely different",
+      "獨特地不同",
+      false
+    ],
+    [
+      "inherently",
+      "本質上",
+      "book",
+      "adverb",
+      "Everyday",
+      "inherently different",
+      "本質上不同",
+      false
+    ],
+    [
+      "apparently",
+      "看來",
+      "book",
+      "adverb",
+      "Everyday",
+      "apparently, we can try again.",
+      "看來，我們可以再試一次。",
+      false
+    ],
+    [
+      "evidently",
+      "顯然",
+      "book",
+      "adverb",
+      "Everyday",
+      "evidently, we can try again.",
+      "顯然，我們可以再試一次。",
+      false
+    ],
+    [
+      "hopefully",
+      "但願",
+      "book",
+      "adverb",
+      "Everyday",
+      "hopefully, we can try again.",
+      "但願，我們可以再試一次。",
+      false
+    ],
+    [
+      "alternatively",
+      "或者",
+      "book",
+      "adverb",
+      "Everyday",
+      "alternatively, we can try again.",
+      "或者，我們可以再試一次。",
+      false
+    ],
+    [
+      "conversely",
+      "反過來說",
+      "book",
+      "adverb",
+      "Everyday",
+      "conversely, we can try again.",
+      "反過來說，我們可以再試一次。",
+      false
+    ],
+    [
+      "similarly",
+      "同樣地",
+      "book",
+      "adverb",
+      "Everyday",
+      "similarly, we can try again.",
+      "同樣地，我們可以再試一次。",
+      false
+    ],
+    [
+      "consequently",
+      "因此",
+      "book",
+      "adverb",
+      "Everyday",
+      "consequently, we can try again.",
+      "因此，我們可以再試一次。",
+      false
+    ],
+    [
+      "moreover",
+      "此外",
+      "book",
+      "adverb",
+      "Everyday",
+      "moreover, we can try again.",
+      "此外，我們可以再試一次。",
+      false
+    ],
+    [
+      "henceforth",
+      "從今以後",
+      "book",
+      "adverb",
+      "Everyday",
+      "henceforth, we can try again.",
+      "從今以後，我們可以再試一次。",
+      false
+    ],
+    [
+      "incidentally",
+      "順帶一提",
+      "book",
+      "adverb",
+      "Everyday",
+      "incidentally, we can try again.",
+      "順帶一提，我們可以再試一次。",
+      false
+    ],
+    [
+      "notably",
+      "值得注意的是",
+      "book",
+      "adverb",
+      "Everyday",
+      "notably, we can try again.",
+      "值得注意的是，我們可以再試一次。",
+      false
+    ],
+    [
+      "admittedly",
+      "誠然",
+      "book",
+      "adverb",
+      "Everyday",
+      "admittedly, we can try again.",
+      "誠然，我們可以再試一次。",
+      false
+    ],
+    [
+      "conceivably",
+      "有可能",
+      "book",
+      "adverb",
+      "Everyday",
+      "conceivably, we can try again.",
+      "有可能，我們可以再試一次。",
+      false
+    ],
+    [
+      "theoretically",
+      "理論上",
+      "book",
+      "adverb",
+      "Everyday",
+      "theoretically, we can try again.",
+      "理論上，我們可以再試一次。",
+      false
+    ],
+    [
+      "ideally",
+      "理想上",
+      "book",
+      "adverb",
+      "Everyday",
+      "ideally, we can try again.",
+      "理想上，我們可以再試一次。",
+      false
+    ],
+    [
+      "unquestionably",
+      "無疑地",
+      "book",
+      "adverb",
+      "Everyday",
+      "unquestionably, we can try again.",
+      "無疑地，我們可以再試一次。",
+      false
+    ],
+    [
+      "practicable",
+      "可行的",
+      "book",
+      "adjective",
+      "Study",
+      "a practicable solution",
+      "可行的解決方法",
+      false
+    ],
+    [
+      "workable",
+      "可行的",
+      "book",
+      "adjective",
+      "Study",
+      "a workable solution",
+      "可行的解決方法",
+      false
+    ],
+    [
+      "unworkable",
+      "不可行的",
+      "book",
+      "adjective",
+      "Study",
+      "an unworkable solution",
+      "不可行的解決方法",
+      false
+    ],
+    [
+      "unfeasible",
+      "不可行的",
+      "book",
+      "adjective",
+      "Study",
+      "an unfeasible solution",
+      "不可行的解決方法",
+      false
+    ],
+    [
+      "economical",
+      "經濟實惠的",
+      "book",
+      "adjective",
+      "Study",
+      "an economical solution",
+      "經濟實惠的解決方法",
+      false
+    ],
+    [
+      "cost-effective",
+      "符合成本效益的",
+      "book",
+      "adjective",
+      "Study",
+      "a cost-effective solution",
+      "符合成本效益的解決方法",
+      false
+    ],
+    [
+      "ingenious",
+      "巧妙的",
+      "book",
+      "adjective",
+      "Study",
+      "an ingenious solution",
+      "巧妙的解決方法",
+      false
+    ],
+    [
+      "customary",
+      "慣常的",
+      "book",
+      "adjective",
+      "Study",
+      "a customary solution",
+      "慣常的解決方法",
+      false
+    ],
+    [
+      "troublesome",
+      "棘手的",
+      "book",
+      "adjective",
+      "Study",
+      "a troublesome solution",
+      "棘手的解決方法",
+      false
+    ],
+    [
+      "inadvisable",
+      "不明智的",
+      "book",
+      "adjective",
+      "Study",
+      "an inadvisable solution",
+      "不明智的解決方法",
+      false
+    ],
+    [
+      "advisable",
+      "可取的",
+      "book",
+      "adjective",
+      "Study",
+      "an advisable solution",
+      "可取的解決方法",
+      false
+    ],
+    [
+      "indispensable",
+      "不可或缺的",
+      "book",
+      "adjective",
+      "Study",
+      "an indispensable tool",
+      "不可或缺的工具",
+      false
+    ],
+    [
+      "exquisite",
+      "精緻的",
+      "book",
+      "adjective",
+      "Study",
+      "an exquisite design",
+      "精緻的設計",
+      false
+    ],
+    [
+      "graceful",
+      "優雅的",
+      "book",
+      "adjective",
+      "Study",
+      "a graceful movement",
+      "優雅的動作",
+      false
+    ],
+    [
+      "fruitful",
+      "富有成果的",
+      "book",
+      "adjective",
+      "Study",
+      "a fruitful discussion",
+      "富有成果的討論",
+      false
+    ],
+    [
+      "firmware",
+      "韌體",
+      "book",
+      "noun",
+      "Technology",
+      "Check the firmware.",
+      "檢查這個韌體。",
+      false
+    ],
+    [
+      "subwoofer",
+      "重低音喇叭",
+      "book",
+      "noun",
+      "Technology",
+      "Check the subwoofer.",
+      "檢查這個重低音喇叭。",
+      false
+    ],
+    [
+      "biodegradable",
+      "可生物分解的",
+      "book",
+      "adjective",
+      "Home",
+      "a biodegradable container",
+      "可生物分解的容器",
+      false
+    ],
+    [
+      "laminate",
+      "護貝",
+      "book",
+      "verb",
+      "Actions",
+      "Please laminate it.",
+      "請護貝它。",
+      false
+    ],
+    [
+      "choreographer",
+      "編舞家",
+      "book",
+      "noun",
+      "People",
+      "Ask the choreographer.",
+      "詢問這位編舞家。",
+      false
+    ],
+    [
+      "gondola",
+      "貢多拉船",
+      "book",
+      "noun",
+      "Travel",
+      "ride a gondola",
+      "搭乘貢多拉船",
+      false
+    ],
+    [
+      "rickshaw",
+      "人力車",
+      "book",
+      "noun",
+      "Travel",
+      "ride a rickshaw",
+      "搭人力車",
+      false
+    ],
+    [
+      "trolleybus",
+      "無軌電車",
+      "book",
+      "noun",
+      "Travel",
+      "take a trolleybus",
+      "搭無軌電車",
+      false
+    ],
+    [
+      "watercolor",
+      "水彩畫",
+      "book",
+      "noun",
+      "Leisure",
+      "Try watercolor.",
+      "試試水彩畫。",
+      false
+    ],
+    [
+      "typography",
+      "字體排印",
+      "book",
+      "noun",
+      "Leisure",
+      "study typography",
+      "學習字體排印",
+      false
+    ],
+    [
+      "subtropical",
+      "亞熱帶的",
+      "book",
+      "adjective",
+      "Description",
+      "a subtropical climate",
+      "亞熱帶氣候",
+      false
+    ],
+    [
+      "temperate",
+      "溫帶的",
+      "book",
+      "adjective",
+      "Description",
+      "a temperate climate",
+      "溫帶氣候",
+      false
+    ],
+    [
+      "heckle",
+      "大聲打斷",
+      "book",
+      "verb",
+      "Actions",
+      "heckle a speaker",
+      "大聲打斷講者",
+      false
+    ],
+    [
+      "jeer",
+      "嘲笑",
+      "book",
+      "verb",
+      "Actions",
+      "jeer at a player",
+      "嘲笑球員",
+      false
+    ],
+    [
+      "sneer",
+      "譏笑",
+      "book",
+      "verb",
+      "Actions",
+      "Do not sneer at others.",
+      "不要譏笑別人。",
+      false
+    ],
+    [
+      "ovation",
+      "熱烈鼓掌",
+      "book",
+      "noun",
+      "Everyday",
+      "receive a standing ovation",
+      "獲得全場起立鼓掌",
+      false
     ]
   ],
   "L9": [
@@ -55724,6 +62844,1156 @@
       "Study",
       "linguistically speaking",
       "從語言角度說",
+      false
+    ],
+    [
+      "reevaluate",
+      "重新評估",
+      "book",
+      "verb",
+      "Actions",
+      "reevaluate the proposal",
+      "重新評估這項提案",
+      false
+    ],
+    [
+      "resubmit",
+      "重新提交",
+      "book",
+      "verb",
+      "Actions",
+      "resubmit the proposal",
+      "重新提交這項提案",
+      false
+    ],
+    [
+      "finalize",
+      "定案",
+      "book",
+      "verb",
+      "Actions",
+      "finalize the proposal",
+      "定案這項提案",
+      false
+    ],
+    [
+      "formalize",
+      "正式確立",
+      "book",
+      "verb",
+      "Actions",
+      "formalize the proposal",
+      "正式確立這項提案",
+      false
+    ],
+    [
+      "redesign",
+      "重新設計",
+      "book",
+      "verb",
+      "Actions",
+      "redesign the proposal",
+      "重新設計這項提案",
+      false
+    ],
+    [
+      "restructure",
+      "重組",
+      "book",
+      "verb",
+      "Actions",
+      "restructure the proposal",
+      "重組這項提案",
+      false
+    ],
+    [
+      "reorganize",
+      "重新組織",
+      "book",
+      "verb",
+      "Actions",
+      "reorganize the proposal",
+      "重新組織這項提案",
+      false
+    ],
+    [
+      "ratify",
+      "批准",
+      "book",
+      "verb",
+      "Actions",
+      "ratify the proposal",
+      "批准這項提案",
+      false
+    ],
+    [
+      "veto",
+      "否決",
+      "book",
+      "verb",
+      "Actions",
+      "veto the proposal",
+      "否決這項提案",
+      false
+    ],
+    [
+      "retract",
+      "收回",
+      "book",
+      "verb",
+      "Actions",
+      "retract the proposal",
+      "收回這項提案",
+      false
+    ],
+    [
+      "defer",
+      "延後",
+      "book",
+      "verb",
+      "Actions",
+      "defer the proposal",
+      "延後這項提案",
+      false
+    ],
+    [
+      "shelve",
+      "擱置",
+      "book",
+      "verb",
+      "Actions",
+      "shelve the proposal",
+      "擱置這項提案",
+      false
+    ],
+    [
+      "scrutinize",
+      "仔細審查",
+      "book",
+      "verb",
+      "Actions",
+      "scrutinize the proposal",
+      "仔細審查這項提案",
+      false
+    ],
+    [
+      "appraise",
+      "評估",
+      "book",
+      "verb",
+      "Actions",
+      "appraise the proposal",
+      "評估這項提案",
+      false
+    ],
+    [
+      "disseminate",
+      "散布",
+      "book",
+      "verb",
+      "Actions",
+      "disseminate the proposal",
+      "散布這項提案",
+      false
+    ],
+    [
+      "expedite",
+      "加速處理",
+      "book",
+      "verb",
+      "Actions",
+      "expedite the proposal",
+      "加速處理這項提案",
+      false
+    ],
+    [
+      "streamline",
+      "精簡",
+      "book",
+      "verb",
+      "Actions",
+      "streamline the proposal",
+      "精簡這項提案",
+      false
+    ],
+    [
+      "customize",
+      "客製化",
+      "book",
+      "verb",
+      "Actions",
+      "customize the proposal",
+      "客製化這項提案",
+      false
+    ],
+    [
+      "personalize",
+      "個人化",
+      "book",
+      "verb",
+      "Actions",
+      "personalize the proposal",
+      "個人化這項提案",
+      false
+    ],
+    [
+      "decentralize",
+      "分散管理",
+      "book",
+      "verb",
+      "Actions",
+      "decentralize the proposal",
+      "分散管理這項提案",
+      false
+    ],
+    [
+      "cogent",
+      "有說服力的",
+      "book",
+      "adjective",
+      "Study",
+      "a cogent argument",
+      "有說服力的論點",
+      false
+    ],
+    [
+      "persuasive",
+      "有說服力的",
+      "book",
+      "adjective",
+      "Study",
+      "a persuasive argument",
+      "有說服力的論點",
+      false
+    ],
+    [
+      "fallacious",
+      "謬誤的",
+      "book",
+      "adjective",
+      "Study",
+      "a fallacious argument",
+      "謬誤的論點",
+      false
+    ],
+    [
+      "flimsy",
+      "薄弱的",
+      "book",
+      "adjective",
+      "Study",
+      "a flimsy argument",
+      "薄弱的論點",
+      false
+    ],
+    [
+      "unsound",
+      "不合理的",
+      "book",
+      "adjective",
+      "Study",
+      "an unsound argument",
+      "不合理的論點",
+      false
+    ],
+    [
+      "defensible",
+      "可辯護的",
+      "book",
+      "adjective",
+      "Study",
+      "a defensible argument",
+      "可辯護的論點",
+      false
+    ],
+    [
+      "indefensible",
+      "站不住腳的",
+      "book",
+      "adjective",
+      "Study",
+      "an indefensible argument",
+      "站不住腳的論點",
+      false
+    ],
+    [
+      "debatable",
+      "可爭辯的",
+      "book",
+      "adjective",
+      "Study",
+      "a debatable argument",
+      "可爭辯的論點",
+      false
+    ],
+    [
+      "contentious",
+      "有爭議的",
+      "book",
+      "adjective",
+      "Study",
+      "a contentious argument",
+      "有爭議的論點",
+      false
+    ],
+    [
+      "uncontroversial",
+      "無爭議的",
+      "book",
+      "adjective",
+      "Study",
+      "an uncontroversial argument",
+      "無爭議的論點",
+      false
+    ],
+    [
+      "irrefutable",
+      "無可反駁的",
+      "book",
+      "adjective",
+      "Study",
+      "an irrefutable argument",
+      "無可反駁的論點",
+      false
+    ],
+    [
+      "refutable",
+      "可反駁的",
+      "book",
+      "adjective",
+      "Study",
+      "a refutable argument",
+      "可反駁的論點",
+      false
+    ],
+    [
+      "deductive",
+      "演繹的",
+      "book",
+      "adjective",
+      "Study",
+      "a deductive argument",
+      "演繹的論點",
+      false
+    ],
+    [
+      "inductive",
+      "歸納的",
+      "book",
+      "adjective",
+      "Study",
+      "an inductive argument",
+      "歸納的論點",
+      false
+    ],
+    [
+      "analogical",
+      "類比的",
+      "book",
+      "adjective",
+      "Study",
+      "an analogical argument",
+      "類比的論點",
+      false
+    ],
+    [
+      "circular",
+      "循環論證的",
+      "book",
+      "adjective",
+      "Study",
+      "a circular argument",
+      "循環論證的論點",
+      false
+    ],
+    [
+      "unsubstantiated",
+      "未經證實的",
+      "book",
+      "adjective",
+      "Study",
+      "an unsubstantiated argument",
+      "未經證實的論點",
+      false
+    ],
+    [
+      "unfalsifiable",
+      "無法證偽的",
+      "book",
+      "adjective",
+      "Study",
+      "an unfalsifiable argument",
+      "無法證偽的論點",
+      false
+    ],
+    [
+      "irrational",
+      "不理性的",
+      "book",
+      "adjective",
+      "Study",
+      "an irrational argument",
+      "不理性的論點",
+      false
+    ],
+    [
+      "one-sided",
+      "片面的",
+      "book",
+      "adjective",
+      "Study",
+      "an one-sided argument",
+      "片面的論點",
+      false
+    ],
+    [
+      "partial",
+      "偏袒的",
+      "book",
+      "adjective",
+      "Study",
+      "a partial argument",
+      "偏袒的論點",
+      false
+    ],
+    [
+      "tabulate",
+      "製成表格",
+      "book",
+      "verb",
+      "Study",
+      "tabulate the evidence",
+      "製成表格證據",
+      false
+    ],
+    [
+      "collate",
+      "彙整",
+      "book",
+      "verb",
+      "Study",
+      "collate the evidence",
+      "彙整證據",
+      false
+    ],
+    [
+      "elicit",
+      "引出",
+      "book",
+      "verb",
+      "Study",
+      "elicit a response",
+      "引出回應",
+      false
+    ],
+    [
+      "deduce",
+      "推論",
+      "book",
+      "verb",
+      "Study",
+      "deduce the answer",
+      "推論答案",
+      false
+    ],
+    [
+      "presume",
+      "假定",
+      "book",
+      "verb",
+      "Study",
+      "presume that the report is accurate",
+      "假定報告準確",
+      false
+    ],
+    [
+      "postulate",
+      "假定",
+      "book",
+      "verb",
+      "Study",
+      "postulate a relationship",
+      "假定一種關係",
+      false
+    ],
+    [
+      "hypothesize",
+      "提出假說",
+      "book",
+      "verb",
+      "Study",
+      "hypothesize a possible cause",
+      "提出可能原因的假說",
+      false
+    ],
+    [
+      "conjecture",
+      "推測",
+      "book",
+      "verb",
+      "Study",
+      "conjecture about the cause",
+      "推測原因",
+      false
+    ],
+    [
+      "theorize",
+      "建立理論",
+      "book",
+      "verb",
+      "Study",
+      "theorize about learning",
+      "建立學習理論",
+      false
+    ],
+    [
+      "generalize",
+      "概括",
+      "book",
+      "verb",
+      "Study",
+      "generalize from the findings",
+      "從研究結果概括",
+      false
+    ],
+    [
+      "ascribe",
+      "歸因於",
+      "book",
+      "verb",
+      "Study",
+      "ascribe the change to practice",
+      "把改變歸因於練習",
+      false
+    ],
+    [
+      "correlate",
+      "找出關聯",
+      "book",
+      "verb",
+      "Study",
+      "correlate the two measures",
+      "找出兩項測量值的關聯",
+      false
+    ],
+    [
+      "discriminate",
+      "辨別",
+      "book",
+      "verb",
+      "Study",
+      "discriminate between similar sounds",
+      "辨別相似的聲音",
+      false
+    ],
+    [
+      "categorize",
+      "分類",
+      "book",
+      "verb",
+      "Study",
+      "categorize the responses",
+      "把回應分類",
+      false
+    ],
+    [
+      "reproduce",
+      "重現",
+      "book",
+      "verb",
+      "Study",
+      "reproduce the result",
+      "重現結果",
+      false
+    ],
+    [
+      "liability",
+      "責任",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the liability.",
+      "討論這項責任。",
+      false
+    ],
+    [
+      "directive",
+      "指令",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the directive.",
+      "討論這項指令。",
+      false
+    ],
+    [
+      "amnesty",
+      "特赦",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the amnesty.",
+      "討論這項特赦。",
+      false
+    ],
+    [
+      "justification",
+      "正當理由",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the justification.",
+      "討論這項正當理由。",
+      false
+    ],
+    [
+      "reliance",
+      "依賴",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the reliance.",
+      "討論這項依賴。",
+      false
+    ],
+    [
+      "consortium",
+      "聯盟",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the consortium.",
+      "討論這項聯盟。",
+      false
+    ],
+    [
+      "confederation",
+      "邦聯",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the confederation.",
+      "討論這項邦聯。",
+      false
+    ],
+    [
+      "unification",
+      "統一",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the unification.",
+      "討論這項統一。",
+      false
+    ],
+    [
+      "elimination",
+      "消除",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the elimination.",
+      "討論這項消除。",
+      false
+    ],
+    [
+      "prohibition",
+      "禁止",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the prohibition.",
+      "討論這項禁止。",
+      false
+    ],
+    [
+      "exemption",
+      "豁免",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the exemption.",
+      "討論這項豁免。",
+      false
+    ],
+    [
+      "displacement",
+      "取代",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the displacement.",
+      "討論這項取代。",
+      false
+    ],
+    [
+      "relocation",
+      "遷移",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the relocation.",
+      "討論這項遷移。",
+      false
+    ],
+    [
+      "emigration",
+      "移出",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the emigration.",
+      "討論這項移出。",
+      false
+    ],
+    [
+      "dependence",
+      "依賴",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the dependence.",
+      "討論這項依賴。",
+      false
+    ],
+    [
+      "supremacy",
+      "至高地位",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the supremacy.",
+      "討論這項至高地位。",
+      false
+    ],
+    [
+      "bureaucracy",
+      "官僚制度",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the bureaucracy.",
+      "討論這項官僚制度。",
+      false
+    ],
+    [
+      "deliberation",
+      "審議",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the deliberation.",
+      "討論這項審議。",
+      false
+    ],
+    [
+      "ratification",
+      "批准",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the ratification.",
+      "討論這項批准。",
+      false
+    ],
+    [
+      "noncompliance",
+      "不遵循",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the noncompliance.",
+      "討論這項不遵循。",
+      false
+    ],
+    [
+      "infringement",
+      "侵犯",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the infringement.",
+      "討論這項侵犯。",
+      false
+    ],
+    [
+      "violation",
+      "違反",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the violation.",
+      "討論這項違反。",
+      false
+    ],
+    [
+      "restitution",
+      "返還補償",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the restitution.",
+      "討論這項返還補償。",
+      false
+    ],
+    [
+      "reparation",
+      "賠償",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the reparation.",
+      "討論這項賠償。",
+      false
+    ],
+    [
+      "redress",
+      "補救",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the redress.",
+      "討論這項補救。",
+      false
+    ],
+    [
+      "grievance",
+      "申訴",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the grievance.",
+      "討論這項申訴。",
+      false
+    ],
+    [
+      "petition",
+      "請願",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the petition.",
+      "討論這項請願。",
+      false
+    ],
+    [
+      "esteem",
+      "尊重",
+      "book",
+      "noun",
+      "Study",
+      "a sense of esteem",
+      "一種尊重感",
+      false
+    ],
+    [
+      "belonging",
+      "歸屬",
+      "book",
+      "noun",
+      "Study",
+      "a sense of belonging",
+      "一種歸屬感",
+      false
+    ],
+    [
+      "fulfillment",
+      "成就",
+      "book",
+      "noun",
+      "Study",
+      "a sense of fulfillment",
+      "一種成就感",
+      false
+    ],
+    [
+      "contentment",
+      "知足",
+      "book",
+      "noun",
+      "Study",
+      "a sense of contentment",
+      "一種知足感",
+      false
+    ],
+    [
+      "zeal",
+      "熱情",
+      "book",
+      "noun",
+      "Study",
+      "a sense of zeal",
+      "一種熱情感",
+      false
+    ],
+    [
+      "pessimism",
+      "悲觀",
+      "book",
+      "noun",
+      "Study",
+      "a sense of pessimism",
+      "一種悲觀感",
+      false
+    ],
+    [
+      "hopelessness",
+      "無望",
+      "book",
+      "noun",
+      "Study",
+      "a sense of hopelessness",
+      "一種無望感",
+      false
+    ],
+    [
+      "helplessness",
+      "無助",
+      "book",
+      "noun",
+      "Study",
+      "a sense of helplessness",
+      "一種無助感",
+      false
+    ],
+    [
+      "insecurity",
+      "不安全",
+      "book",
+      "noun",
+      "Study",
+      "a sense of insecurity",
+      "一種不安全感",
+      false
+    ],
+    [
+      "disquiet",
+      "不安",
+      "book",
+      "noun",
+      "Study",
+      "a sense of disquiet",
+      "一種不安感",
+      false
+    ],
+    [
+      "apprehension",
+      "擔憂",
+      "book",
+      "noun",
+      "Study",
+      "a sense of apprehension",
+      "一種擔憂感",
+      false
+    ],
+    [
+      "dread",
+      "恐懼",
+      "book",
+      "noun",
+      "Study",
+      "a sense of dread",
+      "一種恐懼感",
+      false
+    ],
+    [
+      "remorse",
+      "懊悔",
+      "book",
+      "noun",
+      "Study",
+      "a sense of remorse",
+      "一種懊悔感",
+      false
+    ],
+    [
+      "repentance",
+      "悔悟",
+      "book",
+      "noun",
+      "Study",
+      "a sense of repentance",
+      "一種悔悟感",
+      false
+    ],
+    [
+      "resentment",
+      "怨恨",
+      "book",
+      "noun",
+      "Study",
+      "a sense of resentment",
+      "一種怨恨感",
+      false
+    ],
+    [
+      "bitterness",
+      "怨恨",
+      "book",
+      "noun",
+      "Study",
+      "a sense of bitterness",
+      "一種怨恨感",
+      false
+    ],
+    [
+      "indignation",
+      "憤慨",
+      "book",
+      "noun",
+      "Study",
+      "a sense of indignation",
+      "一種憤慨感",
+      false
+    ],
+    [
+      "defiance",
+      "反抗",
+      "book",
+      "noun",
+      "Study",
+      "a sense of defiance",
+      "一種反抗感",
+      false
+    ],
+    [
+      "alienation",
+      "疏離",
+      "book",
+      "noun",
+      "Study",
+      "a sense of alienation",
+      "一種疏離感",
+      false
+    ],
+    [
+      "estrangement",
+      "疏遠",
+      "book",
+      "noun",
+      "Study",
+      "a sense of estrangement",
+      "一種疏遠感",
+      false
+    ],
+    [
+      "solitude",
+      "獨處",
+      "book",
+      "noun",
+      "Study",
+      "a sense of solitude",
+      "一種獨處感",
+      false
+    ],
+    [
+      "serenity",
+      "平靜",
+      "book",
+      "noun",
+      "Study",
+      "a sense of serenity",
+      "一種平靜感",
+      false
+    ],
+    [
+      "tranquility",
+      "寧靜",
+      "book",
+      "noun",
+      "Study",
+      "a sense of tranquility",
+      "一種寧靜感",
+      false
+    ],
+    [
+      "composure",
+      "鎮定",
+      "book",
+      "noun",
+      "Study",
+      "a sense of composure",
+      "一種鎮定感",
+      false
+    ],
+    [
+      "reassurance",
+      "安心",
+      "book",
+      "noun",
+      "Study",
+      "a sense of reassurance",
+      "一種安心感",
+      false
+    ],
+    [
+      "equivocal",
+      "含糊的",
+      "book",
+      "adjective",
+      "Description",
+      "an equivocal response",
+      "含糊的回應",
+      false
+    ],
+    [
+      "unequivocal",
+      "明確的",
+      "book",
+      "adjective",
+      "Description",
+      "an unequivocal response",
+      "明確的回應",
+      false
+    ],
+    [
+      "contradictory",
+      "自相矛盾的",
+      "book",
+      "adjective",
+      "Description",
+      "a contradictory explanation",
+      "自相矛盾的說明",
+      false
+    ],
+    [
+      "redistributive",
+      "重分配的",
+      "book",
+      "adjective",
+      "Work",
+      "a redistributive policy",
+      "重分配的政策",
+      false
+    ],
+    [
+      "provisional",
+      "暫時的",
+      "book",
+      "adjective",
+      "Work",
+      "a provisional policy",
+      "暫時的政策",
+      false
+    ],
+    [
+      "tremulous",
+      "顫抖的",
+      "book",
+      "adjective",
+      "Description",
+      "a tremulous voice",
+      "顫抖的聲音",
+      false
+    ],
+    [
+      "quavering",
+      "顫抖的",
+      "book",
+      "adjective",
+      "Description",
+      "a quavering voice",
+      "顫抖的聲音",
       false
     ]
   ],
@@ -67657,6 +75927,576 @@
       "The team won its final playoff game by two points.",
       "球隊在最後一場季後賽以兩分之差獲勝。",
       false
+    ],
+    [
+      "constitutional",
+      "憲法的",
+      "book",
+      "adjective",
+      "Work",
+      "a constitutional policy",
+      "憲法的政策",
+      false
+    ],
+    [
+      "institutional",
+      "制度性的",
+      "book",
+      "adjective",
+      "Work",
+      "an institutional policy",
+      "制度性的政策",
+      false
+    ],
+    [
+      "occupational",
+      "職業的",
+      "book",
+      "adjective",
+      "Work",
+      "an occupational policy",
+      "職業的政策",
+      false
+    ],
+    [
+      "municipal",
+      "市政的",
+      "book",
+      "adjective",
+      "Work",
+      "a municipal policy",
+      "市政的政策",
+      false
+    ],
+    [
+      "provincial",
+      "省級的",
+      "book",
+      "adjective",
+      "Work",
+      "a provincial policy",
+      "省級的政策",
+      false
+    ],
+    [
+      "territorial",
+      "領土的",
+      "book",
+      "adjective",
+      "Work",
+      "a territorial policy",
+      "領土的政策",
+      false
+    ],
+    [
+      "geographical",
+      "地理的",
+      "book",
+      "adjective",
+      "Work",
+      "a geographical policy",
+      "地理的政策",
+      false
+    ],
+    [
+      "ecological",
+      "生態的",
+      "book",
+      "adjective",
+      "Work",
+      "an ecological policy",
+      "生態的政策",
+      false
+    ],
+    [
+      "preventive",
+      "預防性的",
+      "book",
+      "adjective",
+      "Work",
+      "a preventive policy",
+      "預防性的政策",
+      false
+    ],
+    [
+      "transitional",
+      "過渡性的",
+      "book",
+      "adjective",
+      "Work",
+      "a transitional policy",
+      "過渡性的政策",
+      false
+    ],
+    [
+      "restrictive",
+      "限制性的",
+      "book",
+      "adjective",
+      "Work",
+      "a restrictive policy",
+      "限制性的政策",
+      false
+    ],
+    [
+      "discriminatory",
+      "歧視性的",
+      "book",
+      "adjective",
+      "Work",
+      "a discriminatory policy",
+      "歧視性的政策",
+      false
+    ],
+    [
+      "equitable",
+      "公平的",
+      "book",
+      "adjective",
+      "Work",
+      "an equitable policy",
+      "公平的政策",
+      false
+    ],
+    [
+      "accountable",
+      "可問責的",
+      "book",
+      "adjective",
+      "Work",
+      "an accountable government",
+      "可問責的政府",
+      false
+    ],
+    [
+      "advisory",
+      "諮詢的",
+      "book",
+      "adjective",
+      "Work",
+      "an advisory committee",
+      "諮詢委員會",
+      false
+    ],
+    [
+      "consultative",
+      "協商的",
+      "book",
+      "adjective",
+      "Work",
+      "a consultative process",
+      "協商程序",
+      false
+    ],
+    [
+      "impartiality",
+      "公正",
+      "book",
+      "noun",
+      "Study",
+      "Discuss impartiality.",
+      "討論公正。",
+      false
+    ],
+    [
+      "neutrality",
+      "中立",
+      "book",
+      "noun",
+      "Study",
+      "Discuss neutrality.",
+      "討論中立。",
+      false
+    ],
+    [
+      "objectivity",
+      "客觀性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss objectivity.",
+      "討論客觀性。",
+      false
+    ],
+    [
+      "subjectivity",
+      "主觀性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss subjectivity.",
+      "討論主觀性。",
+      false
+    ],
+    [
+      "authenticity",
+      "真實性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss authenticity.",
+      "討論真實性。",
+      false
+    ],
+    [
+      "cohesion",
+      "凝聚力",
+      "book",
+      "noun",
+      "Study",
+      "Discuss cohesion.",
+      "討論凝聚力。",
+      false
+    ],
+    [
+      "inconsistency",
+      "不一致",
+      "book",
+      "noun",
+      "Study",
+      "Discuss inconsistency.",
+      "討論不一致。",
+      false
+    ],
+    [
+      "vagueness",
+      "模糊",
+      "book",
+      "noun",
+      "Study",
+      "Discuss vagueness.",
+      "討論模糊。",
+      false
+    ],
+    [
+      "inaccuracy",
+      "不準確",
+      "book",
+      "noun",
+      "Study",
+      "Discuss inaccuracy.",
+      "討論不準確。",
+      false
+    ],
+    [
+      "viability",
+      "可行性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss viability.",
+      "討論可行性。",
+      false
+    ],
+    [
+      "practicality",
+      "實用性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss practicality.",
+      "討論實用性。",
+      false
+    ],
+    [
+      "inevitability",
+      "不可避免性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss inevitability.",
+      "討論不可避免性。",
+      false
+    ],
+    [
+      "longevity",
+      "長壽",
+      "book",
+      "noun",
+      "Study",
+      "Discuss longevity.",
+      "討論長壽。",
+      false
+    ],
+    [
+      "portability",
+      "可攜性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss portability.",
+      "討論可攜性。",
+      false
+    ],
+    [
+      "affordability",
+      "可負擔性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss affordability.",
+      "討論可負擔性。",
+      false
+    ],
+    [
+      "visibility",
+      "可見度",
+      "book",
+      "noun",
+      "Study",
+      "Discuss visibility.",
+      "討論可見度。",
+      false
+    ],
+    [
+      "readability",
+      "易讀性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss readability.",
+      "討論易讀性。",
+      false
+    ],
+    [
+      "legibility",
+      "清晰可辨性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss legibility.",
+      "討論清晰可辨性。",
+      false
+    ],
+    [
+      "comprehensibility",
+      "可理解性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss comprehensibility.",
+      "討論可理解性。",
+      false
+    ],
+    [
+      "adaptability",
+      "適應性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss adaptability.",
+      "討論適應性。",
+      false
+    ],
+    [
+      "versatility",
+      "多用途性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss versatility.",
+      "討論多用途性。",
+      false
+    ],
+    [
+      "inefficiency",
+      "低效率",
+      "book",
+      "noun",
+      "Study",
+      "Discuss inefficiency.",
+      "討論低效率。",
+      false
+    ],
+    [
+      "ineffectiveness",
+      "無效",
+      "book",
+      "noun",
+      "Study",
+      "Discuss ineffectiveness.",
+      "討論無效。",
+      false
+    ],
+    [
+      "profitability",
+      "獲利能力",
+      "book",
+      "noun",
+      "Study",
+      "Discuss profitability.",
+      "討論獲利能力。",
+      false
+    ],
+    [
+      "noncommittal",
+      "不表態的",
+      "book",
+      "adjective",
+      "Description",
+      "a noncommittal response",
+      "不表態的回應",
+      false
+    ],
+    [
+      "ambivalent",
+      "態度矛盾的",
+      "book",
+      "adjective",
+      "Description",
+      "an ambivalent response",
+      "態度矛盾的回應",
+      false
+    ],
+    [
+      "conciliatory",
+      "安撫性的",
+      "book",
+      "adjective",
+      "Description",
+      "a conciliatory response",
+      "安撫性的回應",
+      false
+    ],
+    [
+      "compulsive",
+      "強迫性的",
+      "book",
+      "adjective",
+      "Description",
+      "a compulsive habit",
+      "強迫性習慣",
+      false
+    ],
+    [
+      "judgmental",
+      "愛批評人的",
+      "book",
+      "adjective",
+      "Description",
+      "a judgmental person",
+      "愛批評人的人",
+      false
+    ],
+    [
+      "meticulous",
+      "一絲不苟的",
+      "book",
+      "adjective",
+      "Description",
+      "a meticulous person",
+      "一絲不苟的人",
+      false
+    ],
+    [
+      "vindictive",
+      "報復心強的",
+      "book",
+      "adjective",
+      "Description",
+      "a vindictive person",
+      "報復心強的人",
+      false
+    ],
+    [
+      "virtuous",
+      "品德高尚的",
+      "book",
+      "adjective",
+      "Description",
+      "a virtuous person",
+      "品德高尚的人",
+      false
+    ],
+    [
+      "specious",
+      "似是而非的",
+      "book",
+      "adjective",
+      "Study",
+      "a specious argument",
+      "似是而非的論點",
+      false
+    ],
+    [
+      "tenuous",
+      "牽強的",
+      "book",
+      "adjective",
+      "Study",
+      "a tenuous argument",
+      "牽強的論點",
+      false
+    ],
+    [
+      "reductive",
+      "過度簡化的",
+      "book",
+      "adjective",
+      "Study",
+      "a reductive argument",
+      "過度簡化的論點",
+      false
+    ],
+    [
+      "emancipation",
+      "解放",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the emancipation.",
+      "討論這項解放。",
+      false
+    ],
+    [
+      "subordination",
+      "從屬",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the subordination.",
+      "討論這項從屬。",
+      false
+    ],
+    [
+      "bilateralism",
+      "雙邊主義",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the bilateralism.",
+      "討論這項雙邊主義。",
+      false
+    ],
+    [
+      "multilateralism",
+      "多邊主義",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the multilateralism.",
+      "討論這項多邊主義。",
+      false
+    ],
+    [
+      "foreboding",
+      "不祥預感",
+      "book",
+      "noun",
+      "Study",
+      "a sense of foreboding",
+      "一種不祥預感感",
+      false
+    ],
+    [
+      "equanimity",
+      "平穩",
+      "book",
+      "noun",
+      "Study",
+      "a sense of equanimity",
+      "一種平穩感",
+      false
     ]
   ],
   "L11": [
@@ -69089,6 +77929,706 @@
       "We simplified the workflow so orders no longer need three separate approvals.",
       "我們簡化工作流程，讓訂單不再需要三次不同核准。",
       false
+    ],
+    [
+      "procurement",
+      "採購",
+      "book",
+      "noun",
+      "Work",
+      "procurement procedures",
+      "採購程序",
+      false
+    ],
+    [
+      "reimbursement",
+      "費用報銷",
+      "book",
+      "noun",
+      "Work",
+      "a reimbursement request",
+      "費用報銷申請",
+      false
+    ],
+    [
+      "remuneration",
+      "薪酬",
+      "book",
+      "noun",
+      "Work",
+      "a remuneration package",
+      "薪酬方案",
+      false
+    ],
+    [
+      "accreditation",
+      "認證",
+      "book",
+      "noun",
+      "Work",
+      "apply for accreditation",
+      "申請認證",
+      false
+    ],
+    [
+      "arbitration",
+      "仲裁",
+      "book",
+      "noun",
+      "Work",
+      "resolve a dispute through arbitration",
+      "透過仲裁解決爭議",
+      false
+    ],
+    [
+      "mediation",
+      "調解",
+      "book",
+      "noun",
+      "Work",
+      "request mediation",
+      "請求調解",
+      false
+    ],
+    [
+      "conciliation",
+      "和解",
+      "book",
+      "noun",
+      "Work",
+      "settlement through conciliation",
+      "透過和解解決爭議",
+      false
+    ],
+    [
+      "indemnity",
+      "賠償保障",
+      "book",
+      "noun",
+      "Work",
+      "an indemnity clause",
+      "賠償保障條款",
+      false
+    ],
+    [
+      "insolvency",
+      "無力償債",
+      "book",
+      "noun",
+      "Work",
+      "avoid insolvency",
+      "避免無力償債",
+      false
+    ],
+    [
+      "liquidity",
+      "流動性",
+      "book",
+      "noun",
+      "Work",
+      "maintain liquidity",
+      "維持流動性",
+      false
+    ],
+    [
+      "depreciation",
+      "折舊",
+      "book",
+      "noun",
+      "Work",
+      "annual depreciation",
+      "年度折舊",
+      false
+    ],
+    [
+      "amortization",
+      "攤銷",
+      "book",
+      "noun",
+      "Work",
+      "loan amortization",
+      "貸款攤銷",
+      false
+    ],
+    [
+      "receivable",
+      "應收款項",
+      "book",
+      "noun",
+      "Work",
+      "an outstanding receivable",
+      "尚未收回的應收款項",
+      false
+    ],
+    [
+      "payable",
+      "應付的",
+      "book",
+      "adjective",
+      "Work",
+      "the amount payable",
+      "應付金額",
+      false
+    ],
+    [
+      "debtor",
+      "債務人",
+      "book",
+      "noun",
+      "Work",
+      "contact the debtor",
+      "聯絡債務人",
+      false
+    ],
+    [
+      "creditor",
+      "債權人",
+      "book",
+      "noun",
+      "Work",
+      "repay the creditor",
+      "償還債權人",
+      false
+    ],
+    [
+      "auditor",
+      "稽核員",
+      "book",
+      "noun",
+      "Work",
+      "an independent auditor",
+      "獨立稽核員",
+      false
+    ],
+    [
+      "underwriter",
+      "核保人員",
+      "book",
+      "noun",
+      "Work",
+      "consult an underwriter",
+      "諮詢核保人員",
+      false
+    ],
+    [
+      "actuary",
+      "精算師",
+      "book",
+      "noun",
+      "Work",
+      "consult an actuary",
+      "諮詢精算師",
+      false
+    ],
+    [
+      "arbitrator",
+      "仲裁人",
+      "book",
+      "noun",
+      "Work",
+      "appoint an arbitrator",
+      "指派仲裁人",
+      false
+    ],
+    [
+      "mediator",
+      "調解人",
+      "book",
+      "noun",
+      "Work",
+      "appoint a mediator",
+      "指派調解人",
+      false
+    ],
+    [
+      "franchisee",
+      "加盟商",
+      "book",
+      "noun",
+      "Work",
+      "meet the franchisee",
+      "與加盟商會面",
+      false
+    ],
+    [
+      "franchisor",
+      "特許經營授權方",
+      "book",
+      "noun",
+      "Work",
+      "contact the franchisor",
+      "聯絡特許經營授權方",
+      false
+    ],
+    [
+      "consignee",
+      "收貨人",
+      "book",
+      "noun",
+      "Work",
+      "notify the consignee",
+      "通知收貨人",
+      false
+    ],
+    [
+      "consignor",
+      "發貨人",
+      "book",
+      "noun",
+      "Work",
+      "contact the consignor",
+      "聯絡發貨人",
+      false
+    ],
+    [
+      "subcontractor",
+      "分包商",
+      "book",
+      "noun",
+      "Work",
+      "hire a subcontractor",
+      "聘用分包商",
+      false
+    ],
+    [
+      "liaison",
+      "聯絡協調",
+      "book",
+      "noun",
+      "Work",
+      "maintain liaison with suppliers",
+      "與供應商保持聯絡協調",
+      false
+    ],
+    [
+      "deliverable",
+      "交付成果",
+      "book",
+      "noun",
+      "Work",
+      "a project deliverable",
+      "專案交付成果",
+      false
+    ],
+    [
+      "backlog",
+      "積壓工作",
+      "book",
+      "noun",
+      "Work",
+      "clear the backlog",
+      "清理積壓工作",
+      false
+    ],
+    [
+      "markup",
+      "加價幅度",
+      "book",
+      "noun",
+      "Work",
+      "a retail markup",
+      "零售加價幅度",
+      false
+    ],
+    [
+      "markdown",
+      "降價",
+      "book",
+      "noun",
+      "Work",
+      "a seasonal markdown",
+      "季節性降價",
+      false
+    ],
+    [
+      "buyout",
+      "收購",
+      "book",
+      "noun",
+      "Work",
+      "a management buyout",
+      "管理層收購",
+      false
+    ],
+    [
+      "buyback",
+      "回購",
+      "book",
+      "noun",
+      "Work",
+      "a share buyback",
+      "股份回購",
+      false
+    ],
+    [
+      "divestment",
+      "撤資",
+      "book",
+      "noun",
+      "Work",
+      "an asset divestment",
+      "資產撤資",
+      false
+    ],
+    [
+      "outsourcing",
+      "外包",
+      "book",
+      "noun",
+      "Work",
+      "outsourcing services",
+      "外包服務",
+      false
+    ],
+    [
+      "onboarding",
+      "到職引導",
+      "book",
+      "noun",
+      "Work",
+      "employee onboarding",
+      "員工到職引導",
+      false
+    ],
+    [
+      "offboarding",
+      "離職流程",
+      "book",
+      "noun",
+      "Work",
+      "employee offboarding",
+      "員工離職流程",
+      false
+    ],
+    [
+      "downsizing",
+      "裁員縮編",
+      "book",
+      "noun",
+      "Work",
+      "corporate downsizing",
+      "企業裁員縮編",
+      false
+    ],
+    [
+      "disburse",
+      "撥付",
+      "book",
+      "verb",
+      "Work",
+      "disburse the funds",
+      "撥付資金",
+      false
+    ],
+    [
+      "reallocate",
+      "重新分配",
+      "book",
+      "verb",
+      "Work",
+      "reallocate the funds",
+      "重新分配資金",
+      false
+    ],
+    [
+      "earmark",
+      "指定用途",
+      "book",
+      "verb",
+      "Work",
+      "earmark the funds",
+      "指定用途資金",
+      false
+    ],
+    [
+      "misappropriate",
+      "挪用",
+      "book",
+      "verb",
+      "Work",
+      "misappropriate the funds",
+      "挪用資金",
+      false
+    ],
+    [
+      "embezzle",
+      "侵占",
+      "book",
+      "verb",
+      "Work",
+      "embezzle the funds",
+      "侵占資金",
+      false
+    ],
+    [
+      "replenish",
+      "補充",
+      "book",
+      "verb",
+      "Work",
+      "replenish the funds",
+      "補充資金",
+      false
+    ],
+    [
+      "recoup",
+      "收回",
+      "book",
+      "verb",
+      "Work",
+      "recoup the funds",
+      "收回資金",
+      false
+    ],
+    [
+      "recapture",
+      "收回",
+      "book",
+      "verb",
+      "Work",
+      "recapture the funds",
+      "收回資金",
+      false
+    ],
+    [
+      "withhold",
+      "暫扣",
+      "book",
+      "verb",
+      "Work",
+      "withhold the funds",
+      "暫扣資金",
+      false
+    ],
+    [
+      "remit",
+      "匯送",
+      "book",
+      "verb",
+      "Work",
+      "remit the funds",
+      "匯送資金",
+      false
+    ],
+    [
+      "reinvest",
+      "再投資",
+      "book",
+      "verb",
+      "Work",
+      "reinvest the funds",
+      "再投資資金",
+      false
+    ],
+    [
+      "divest",
+      "撤出投資",
+      "book",
+      "verb",
+      "Work",
+      "divest noncore assets",
+      "出售非核心資產",
+      false
+    ],
+    [
+      "liquidate",
+      "清算",
+      "book",
+      "verb",
+      "Work",
+      "liquidate the assets",
+      "清算資產",
+      false
+    ],
+    [
+      "devalue",
+      "貶值",
+      "book",
+      "verb",
+      "Work",
+      "devalue the currency",
+      "使貨幣貶值",
+      false
+    ],
+    [
+      "depreciate",
+      "貶值",
+      "book",
+      "verb",
+      "Work",
+      "The asset may depreciate.",
+      "資產可能貶值。",
+      false
+    ],
+    [
+      "amortize",
+      "攤銷",
+      "book",
+      "verb",
+      "Work",
+      "amortize the cost",
+      "攤銷成本",
+      false
+    ],
+    [
+      "capitalize",
+      "將…資本化",
+      "book",
+      "verb",
+      "Work",
+      "capitalize the expense",
+      "將費用資本化",
+      false
+    ],
+    [
+      "subsidize",
+      "補貼",
+      "book",
+      "verb",
+      "Work",
+      "subsidize transportation",
+      "補貼交通",
+      false
+    ],
+    [
+      "underwrite",
+      "承保",
+      "book",
+      "verb",
+      "Work",
+      "underwrite the policy",
+      "承保保單",
+      false
+    ],
+    [
+      "indemnify",
+      "賠償",
+      "book",
+      "verb",
+      "Work",
+      "indemnify the insured party",
+      "賠償被保險方",
+      false
+    ],
+    [
+      "deduct",
+      "扣除",
+      "book",
+      "verb",
+      "Work",
+      "deduct the fee",
+      "扣除費用",
+      false
+    ],
+    [
+      "itemize",
+      "逐項列出",
+      "book",
+      "verb",
+      "Work",
+      "itemize the expenses",
+      "逐項列出費用",
+      false
+    ],
+    [
+      "regulatory",
+      "監管的",
+      "book",
+      "adjective",
+      "Work",
+      "a regulatory policy",
+      "監管的政策",
+      false
+    ],
+    [
+      "legislative",
+      "立法的",
+      "book",
+      "adjective",
+      "Work",
+      "a legislative policy",
+      "立法的政策",
+      false
+    ],
+    [
+      "organizational",
+      "組織的",
+      "book",
+      "adjective",
+      "Work",
+      "an organizational policy",
+      "組織的政策",
+      false
+    ],
+    [
+      "operational",
+      "營運的",
+      "book",
+      "adjective",
+      "Work",
+      "an operational policy",
+      "營運的政策",
+      false
+    ],
+    [
+      "managerial",
+      "管理的",
+      "book",
+      "adjective",
+      "Work",
+      "a managerial policy",
+      "管理的政策",
+      false
+    ],
+    [
+      "departmental",
+      "部門的",
+      "book",
+      "adjective",
+      "Work",
+      "a departmental policy",
+      "部門的政策",
+      false
+    ],
+    [
+      "scalability",
+      "可擴展性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss scalability.",
+      "討論可擴展性。",
+      false
+    ],
+    [
+      "reproducibility",
+      "可重現性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss reproducibility.",
+      "討論可重現性。",
+      false
+    ],
+    [
+      "traceability",
+      "可追溯性",
+      "book",
+      "noun",
+      "Study",
+      "Discuss traceability.",
+      "討論可追溯性。",
+      false
+    ],
+    [
+      "reconciliation",
+      "和解",
+      "book",
+      "noun",
+      "Work",
+      "Discuss the reconciliation.",
+      "討論這項和解。",
+      false
     ]
   ],
   "L12": [
@@ -70020,6 +79560,466 @@
       "Actions",
       "The documentary offers a nuanced view of the conflict instead of blaming only one side.",
       "這部紀錄片對衝突提出細膩而有層次的觀點，而不是只責怪其中一方。",
+      false
+    ],
+    [
+      "connotation",
+      "言外之意",
+      "book",
+      "noun",
+      "Study",
+      "a positive connotation",
+      "正面的言外之意",
+      false
+    ],
+    [
+      "denotation",
+      "字面意義",
+      "book",
+      "noun",
+      "Study",
+      "the denotation of a word",
+      "單字的字面意義",
+      false
+    ],
+    [
+      "polysemy",
+      "一詞多義",
+      "book",
+      "noun",
+      "Study",
+      "Explain polysemy.",
+      "解釋一詞多義。",
+      false
+    ],
+    [
+      "homonym",
+      "同形同音異義詞",
+      "book",
+      "noun",
+      "Study",
+      "identify a homonym",
+      "辨認同形同音異義詞",
+      false
+    ],
+    [
+      "homophone",
+      "同音異義詞",
+      "book",
+      "noun",
+      "Study",
+      "identify a homophone",
+      "辨認同音異義詞",
+      false
+    ],
+    [
+      "alliteration",
+      "頭韻",
+      "book",
+      "noun",
+      "Study",
+      "Explain alliteration.",
+      "解釋頭韻。",
+      false
+    ],
+    [
+      "assonance",
+      "母音押韻",
+      "book",
+      "noun",
+      "Study",
+      "Explain assonance.",
+      "解釋母音押韻。",
+      false
+    ],
+    [
+      "onomatopoeia",
+      "擬聲詞",
+      "book",
+      "noun",
+      "Study",
+      "Explain onomatopoeia.",
+      "解釋擬聲詞。",
+      false
+    ],
+    [
+      "hyperbole",
+      "誇飾法",
+      "book",
+      "noun",
+      "Study",
+      "Explain hyperbole.",
+      "解釋誇飾法。",
+      false
+    ],
+    [
+      "euphemism",
+      "委婉語",
+      "book",
+      "noun",
+      "Study",
+      "Explain euphemism.",
+      "解釋委婉語。",
+      false
+    ],
+    [
+      "oxymoron",
+      "矛盾修辭",
+      "book",
+      "noun",
+      "Study",
+      "use an oxymoron",
+      "使用矛盾修辭",
+      false
+    ],
+    [
+      "allusion",
+      "典故暗指",
+      "book",
+      "noun",
+      "Study",
+      "recognize a literary allusion",
+      "辨認文學典故暗指",
+      false
+    ],
+    [
+      "allegory",
+      "寓言",
+      "book",
+      "noun",
+      "Study",
+      "read a political allegory",
+      "閱讀政治寓言",
+      false
+    ],
+    [
+      "parody",
+      "戲仿作品",
+      "book",
+      "noun",
+      "Study",
+      "write a parody",
+      "寫一篇戲仿作品",
+      false
+    ],
+    [
+      "satire",
+      "諷刺作品",
+      "book",
+      "noun",
+      "Study",
+      "read a social satire",
+      "閱讀社會諷刺作品",
+      false
+    ],
+    [
+      "litotes",
+      "反語弱化表達",
+      "book",
+      "noun",
+      "Study",
+      "Explain litotes.",
+      "解釋反語弱化表達。",
+      false
+    ],
+    [
+      "metonymy",
+      "轉喻",
+      "book",
+      "noun",
+      "Study",
+      "Explain metonymy.",
+      "解釋轉喻。",
+      false
+    ],
+    [
+      "synecdoche",
+      "提喻",
+      "book",
+      "noun",
+      "Study",
+      "Explain synecdoche.",
+      "解釋提喻。",
+      false
+    ],
+    [
+      "personification",
+      "擬人法",
+      "book",
+      "noun",
+      "Study",
+      "Explain personification.",
+      "解釋擬人法。",
+      false
+    ],
+    [
+      "anthropomorphism",
+      "擬人化",
+      "book",
+      "noun",
+      "Study",
+      "Explain anthropomorphism.",
+      "解釋擬人化。",
+      false
+    ],
+    [
+      "foreshadowing",
+      "伏筆",
+      "book",
+      "noun",
+      "Study",
+      "Explain foreshadowing.",
+      "解釋伏筆。",
+      false
+    ],
+    [
+      "juxtaposition",
+      "並置對照",
+      "book",
+      "noun",
+      "Study",
+      "Explain juxtaposition.",
+      "解釋並置對照。",
+      false
+    ],
+    [
+      "dichotomy",
+      "二分法",
+      "book",
+      "noun",
+      "Study",
+      "question a false dichotomy",
+      "質疑錯誤二分法",
+      false
+    ],
+    [
+      "antithesis",
+      "對立面",
+      "book",
+      "noun",
+      "Study",
+      "the antithesis of freedom",
+      "自由的對立面",
+      false
+    ],
+    [
+      "antonymy",
+      "反義關係",
+      "book",
+      "noun",
+      "Study",
+      "Explain antonymy.",
+      "解釋反義關係。",
+      false
+    ],
+    [
+      "synonymy",
+      "同義關係",
+      "book",
+      "noun",
+      "Study",
+      "Explain synonymy.",
+      "解釋同義關係。",
+      false
+    ],
+    [
+      "pragmatics",
+      "語用學",
+      "book",
+      "noun",
+      "Study",
+      "Explain pragmatics.",
+      "解釋語用學。",
+      false
+    ],
+    [
+      "phonetics",
+      "語音學",
+      "book",
+      "noun",
+      "Study",
+      "Explain phonetics.",
+      "解釋語音學。",
+      false
+    ],
+    [
+      "phonology",
+      "音韻學",
+      "book",
+      "noun",
+      "Study",
+      "Explain phonology.",
+      "解釋音韻學。",
+      false
+    ],
+    [
+      "morphology",
+      "形態學",
+      "book",
+      "noun",
+      "Study",
+      "Explain morphology.",
+      "解釋形態學。",
+      false
+    ],
+    [
+      "syntax",
+      "句法",
+      "book",
+      "noun",
+      "Study",
+      "Explain syntax.",
+      "解釋句法。",
+      false
+    ],
+    [
+      "semantics",
+      "語義學",
+      "book",
+      "noun",
+      "Study",
+      "Explain semantics.",
+      "解釋語義學。",
+      false
+    ],
+    [
+      "etymology",
+      "詞源學",
+      "book",
+      "noun",
+      "Study",
+      "Explain etymology.",
+      "解釋詞源學。",
+      false
+    ],
+    [
+      "lexicon",
+      "詞彙庫",
+      "book",
+      "noun",
+      "Study",
+      "expand your lexicon",
+      "擴充你的詞彙庫",
+      false
+    ],
+    [
+      "ellipsis",
+      "省略",
+      "book",
+      "noun",
+      "Study",
+      "use ellipsis in a sentence",
+      "在句子中使用省略",
+      false
+    ],
+    [
+      "anaphora",
+      "首語重複",
+      "book",
+      "noun",
+      "Study",
+      "use anaphora for emphasis",
+      "使用首語重複來強調",
+      false
+    ],
+    [
+      "tautology",
+      "同義反覆",
+      "book",
+      "noun",
+      "Study",
+      "avoid unnecessary tautology",
+      "避免不必要的同義反覆",
+      false
+    ],
+    [
+      "verbosity",
+      "冗長",
+      "book",
+      "noun",
+      "Study",
+      "Explain verbosity.",
+      "解釋冗長。",
+      false
+    ],
+    [
+      "brevity",
+      "簡潔",
+      "book",
+      "noun",
+      "Study",
+      "Explain brevity.",
+      "解釋簡潔。",
+      false
+    ],
+    [
+      "conciseness",
+      "簡明",
+      "book",
+      "noun",
+      "Study",
+      "Explain conciseness.",
+      "解釋簡明。",
+      false
+    ],
+    [
+      "fluency",
+      "流利程度",
+      "book",
+      "noun",
+      "Study",
+      "improve speaking fluency",
+      "提升口說流利程度",
+      false
+    ],
+    [
+      "articulation",
+      "清晰表達",
+      "book",
+      "noun",
+      "Study",
+      "Explain articulation.",
+      "解釋清晰表達。",
+      false
+    ],
+    [
+      "intonation",
+      "語調",
+      "book",
+      "noun",
+      "Study",
+      "practice rising intonation",
+      "練習上揚語調",
+      false
+    ],
+    [
+      "inflection",
+      "詞形變化",
+      "book",
+      "noun",
+      "Study",
+      "study verb inflection",
+      "學習動詞詞形變化",
+      false
+    ],
+    [
+      "prosody",
+      "韻律",
+      "book",
+      "noun",
+      "Study",
+      "Explain prosody.",
+      "解釋韻律。",
+      false
+    ],
+    [
+      "extrapolate",
+      "推估",
+      "book",
+      "verb",
+      "Study",
+      "extrapolate a trend",
+      "推估趨勢",
       false
     ]
   ]

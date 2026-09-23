@@ -1,0 +1,14 @@
+.topbar{position:static;top:auto}
+.vocab-zh{text-align:center}
+.vocab-example,.vocab-example span{text-align:left}
+.study-switcher{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr) minmax(0,1fr);gap:8px;width:min(700px,100%)}
+.study-switcher:has(#studyBank):not(:has(#studyScope)){grid-template-columns:repeat(2,minmax(0,1fr));max-width:480px}
+.study-switcher label{display:flex;flex-direction:column;gap:5px;min-width:0;font-size:14px}
+.study-switcher select{width:100%;min-width:0;max-width:100%;font-size:16px;padding:7px 3px;box-sizing:border-box}
+.toolbar:has(#vocabMode){display:flex;flex-direction:column;align-items:stretch}
+.toolbar:has(#vocabMode)>.toolbar-group:first-child{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;width:100%;max-width:700px;margin-inline:auto}
+.toolbar:has(#vocabMode) label{min-width:0;display:flex;flex-direction:column;align-items:stretch;text-align:center;gap:5px}
+.toolbar:has(#vocabMode) select{min-width:0;width:100%;max-width:100%;font-size:16px;box-sizing:border-box}
+.toolbar #englishStageWrap,.toolbar #vocabCountWrap{grid-column:1/-1}
+.toolbar:has(#vocabMode) #gameStats{width:100%;justify-content:center}
+@media(max-width:400px){.study-switcher{gap:5px}.study-switcher label{font-size:13px}.study-switcher select{font-size:16px;padding-inline:1px}}

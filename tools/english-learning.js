@@ -37,7 +37,7 @@ function englishPool(level,{scope='all'}={}){
   return pool;
 }
 function renderVocab(body){
-  body.innerHTML=`${toolbar(`<label>${t('mode')}<select id="vocabMode">
+  body.innerHTML=`${toolbar(`<label id="englishModeWrap">${t('mode')}<select id="vocabMode">
     <option value="flash">${t('flashcard')}</option><option value="mixed">${t('mixedVocab')}</option>
     <option value="blank">${t('missingLetter')}</option><option value="meaning">${t('meaningChoice')}</option>
     <option value="audioMeaning">${t('audioMeaning')}</option><option value="meaningAudio">${t('meaningAudio')}</option>
@@ -89,7 +89,7 @@ function renderVocab(body){
   function starButton(){return `<button class="flash-vocab-star ${isVocabStarred(current.word)?'active':''}" id="flashVocabStar">${vocabStarButtonText(current.word)}</button>`;}
   function bindStar(){const b=$('#flashVocabStar');if(b)b.onclick=()=>{const on=toggleVocabStar(current.word);b.classList.toggle('active',on);b.textContent=vocabStarButtonText(current.word);};}
   function usage(){return `<div class="vocab-example"><small>${usageLabel()}</small><strong>${escapeHTML(current.example)}</strong><span>${escapeHTML(current.exampleZh)}</span></div>`;}
-  function studyControls(){return `<div class="study-switcher"><label>${localText('題庫','Bank')}<select id="studyBank"><option value="flash">${localText('單字卡','Words')}</option><option value="phraseFlash">${localText('片語卡','Phrases')}</option></select></label><label>${localText('等級','Level')}<select id="studyLevel">${ENGLISH_STAGES.map(([key,zh,en])=>`<option value="${key}">${localText(zh,en)}</option>`).join('')}</select></label>${phrase()?'':`<label>${localText('範圍','Set')}<select id="studyScope">${scopeEl.innerHTML}</select></label>`}</div>`;}
+  function studyControls(){return `<div class="study-switcher"><label>${localText('題庫','Bank')}<select id="studyBank"><option value="flash">${localText('單字卡','Words')}</option><option value="phraseFlash">${localText('片語卡','Phrases')}</option></select></label><label>${localText('等級','Level')}<select id="studyLevel">${ENGLISH_STAGES.map(([key,zh,en])=>`<option value="${key}">${key} ${Number(key.slice(1))<=10?'（'+(Number(key.slice(1))*2-1)+'–'+Number(key.slice(1))*2+'）':''}</option>`).join('')}</select></label>${phrase()?'':`<label>${localText('範圍','Set')}<select id="studyScope">${scopeEl.innerHTML}</select></label>`}</div>`;}
   function bindStudyControls(){
     $('#studyBank').value=mode;$('#studyLevel').value=level;if($('#studyScope'))$('#studyScope').value=scopeEl.value;
     const change=()=>{const nextMode=$('#studyBank').value,nextLevel=$('#studyLevel').value,nextScope=$('#studyScope')?.value||'all';stopAudio();active=false;setConfigDisabled(false);modeEl.value=nextMode;levelEl.value=nextLevel;scopeEl.value=nextScope;$('#vocabContent').innerHTML='';$('#vocabStart').hidden=false;updateSetup();start();};

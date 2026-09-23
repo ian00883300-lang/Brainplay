@@ -1,0 +1,2019 @@
+{
+  "added": 500,
+  "levels": {
+    "L1": 19,
+    "L2": 36,
+    "L3": 31,
+    "L4": 45,
+    "L5": 45,
+    "L6": 74,
+    "L7": 63,
+    "L8": 49,
+    "L9": 30,
+    "L10": 28,
+    "L11": 50,
+    "L12": 30
+  },
+  "phrases": [
+    {
+      "level": "L1",
+      "phrase": "hold my hand"
+    },
+    {
+      "level": "L1",
+      "phrase": "give me a hug"
+    },
+    {
+      "level": "L1",
+      "phrase": "open your mouth"
+    },
+    {
+      "level": "L1",
+      "phrase": "close your eyes"
+    },
+    {
+      "level": "L1",
+      "phrase": "clap your hands"
+    },
+    {
+      "level": "L1",
+      "phrase": "wave goodbye"
+    },
+    {
+      "level": "L1",
+      "phrase": "come to me"
+    },
+    {
+      "level": "L1",
+      "phrase": "look at me"
+    },
+    {
+      "level": "L1",
+      "phrase": "drink your milk"
+    },
+    {
+      "level": "L1",
+      "phrase": "eat your food"
+    },
+    {
+      "level": "L1",
+      "phrase": "take a bite"
+    },
+    {
+      "level": "L1",
+      "phrase": "have a sip"
+    },
+    {
+      "level": "L1",
+      "phrase": "put it here"
+    },
+    {
+      "level": "L1",
+      "phrase": "give it to me"
+    },
+    {
+      "level": "L1",
+      "phrase": "let go"
+    },
+    {
+      "level": "L1",
+      "phrase": "lie down"
+    },
+    {
+      "level": "L1",
+      "phrase": "roll over"
+    },
+    {
+      "level": "L1",
+      "phrase": "be gentle"
+    },
+    {
+      "level": "L1",
+      "phrase": "give me five"
+    },
+    {
+      "level": "L2",
+      "phrase": "wash your hands"
+    },
+    {
+      "level": "L2",
+      "phrase": "brush your hair"
+    },
+    {
+      "level": "L2",
+      "phrase": "wipe your mouth"
+    },
+    {
+      "level": "L2",
+      "phrase": "blow your nose"
+    },
+    {
+      "level": "L2",
+      "phrase": "cover your mouth"
+    },
+    {
+      "level": "L2",
+      "phrase": "put on your shoes"
+    },
+    {
+      "level": "L2",
+      "phrase": "take off your shoes"
+    },
+    {
+      "level": "L2",
+      "phrase": "zip up your coat"
+    },
+    {
+      "level": "L2",
+      "phrase": "button your shirt"
+    },
+    {
+      "level": "L2",
+      "phrase": "pull up your pants"
+    },
+    {
+      "level": "L2",
+      "phrase": "pick up your toys"
+    },
+    {
+      "level": "L2",
+      "phrase": "put the toys away"
+    },
+    {
+      "level": "L2",
+      "phrase": "tidy your room"
+    },
+    {
+      "level": "L2",
+      "phrase": "make your bed"
+    },
+    {
+      "level": "L2",
+      "phrase": "flush the toilet"
+    },
+    {
+      "level": "L2",
+      "phrase": "turn off the tap"
+    },
+    {
+      "level": "L2",
+      "phrase": "dry your hands"
+    },
+    {
+      "level": "L2",
+      "phrase": "use a tissue"
+    },
+    {
+      "level": "L2",
+      "phrase": "take turns"
+    },
+    {
+      "level": "L2",
+      "phrase": "wait your turn"
+    },
+    {
+      "level": "L2",
+      "phrase": "share your toys"
+    },
+    {
+      "level": "L2",
+      "phrase": "ask nicely"
+    },
+    {
+      "level": "L2",
+      "phrase": "use your words"
+    },
+    {
+      "level": "L2",
+      "phrase": "stay close"
+    },
+    {
+      "level": "L2",
+      "phrase": "walk slowly"
+    },
+    {
+      "level": "L2",
+      "phrase": "watch your step"
+    },
+    {
+      "level": "L2",
+      "phrase": "hold on tight"
+    },
+    {
+      "level": "L2",
+      "phrase": "look both ways"
+    },
+    {
+      "level": "L2",
+      "phrase": "cross the street"
+    },
+    {
+      "level": "L2",
+      "phrase": "stay on the sidewalk"
+    },
+    {
+      "level": "L2",
+      "phrase": "keep your hands to yourself"
+    },
+    {
+      "level": "L2",
+      "phrase": "count to ten"
+    },
+    {
+      "level": "L2",
+      "phrase": "point to the picture"
+    },
+    {
+      "level": "L2",
+      "phrase": "turn the page"
+    },
+    {
+      "level": "L2",
+      "phrase": "draw a circle"
+    },
+    {
+      "level": "L2",
+      "phrase": "sing along"
+    },
+    {
+      "level": "L3",
+      "phrase": "raise your hand"
+    },
+    {
+      "level": "L3",
+      "phrase": "stand in line"
+    },
+    {
+      "level": "L3",
+      "phrase": "line up"
+    },
+    {
+      "level": "L3",
+      "phrase": "listen carefully"
+    },
+    {
+      "level": "L3",
+      "phrase": "look at the board"
+    },
+    {
+      "level": "L3",
+      "phrase": "open your book"
+    },
+    {
+      "level": "L3",
+      "phrase": "write your name"
+    },
+    {
+      "level": "L3",
+      "phrase": "spell your name"
+    },
+    {
+      "level": "L3",
+      "phrase": "sound it out"
+    },
+    {
+      "level": "L3",
+      "phrase": "repeat after me"
+    },
+    {
+      "level": "L3",
+      "phrase": "speak slowly"
+    },
+    {
+      "level": "L3",
+      "phrase": "speak clearly"
+    },
+    {
+      "level": "L3",
+      "phrase": "work together"
+    },
+    {
+      "level": "L3",
+      "phrase": "work in pairs"
+    },
+    {
+      "level": "L3",
+      "phrase": "join the group"
+    },
+    {
+      "level": "L3",
+      "phrase": "take a deep breath"
+    },
+    {
+      "level": "L3",
+      "phrase": "try again"
+    },
+    {
+      "level": "L3",
+      "phrase": "do your best"
+    },
+    {
+      "level": "L3",
+      "phrase": "keep trying"
+    },
+    {
+      "level": "L3",
+      "phrase": "keep going"
+    },
+    {
+      "level": "L3",
+      "phrase": "check your answer"
+    },
+    {
+      "level": "L3",
+      "phrase": "correct your mistake"
+    },
+    {
+      "level": "L3",
+      "phrase": "erase the word"
+    },
+    {
+      "level": "L3",
+      "phrase": "circle the answer"
+    },
+    {
+      "level": "L3",
+      "phrase": "underline the word"
+    },
+    {
+      "level": "L3",
+      "phrase": "match the pictures"
+    },
+    {
+      "level": "L3",
+      "phrase": "follow the instructions"
+    },
+    {
+      "level": "L3",
+      "phrase": "ask a question"
+    },
+    {
+      "level": "L3",
+      "phrase": "answer the question"
+    },
+    {
+      "level": "L3",
+      "phrase": "help each other"
+    },
+    {
+      "level": "L3",
+      "phrase": "be a good sport"
+    },
+    {
+      "level": "L4",
+      "phrase": "set the table"
+    },
+    {
+      "level": "L4",
+      "phrase": "clear the table"
+    },
+    {
+      "level": "L4",
+      "phrase": "do the dishes"
+    },
+    {
+      "level": "L4",
+      "phrase": "load the dishwasher"
+    },
+    {
+      "level": "L4",
+      "phrase": "empty the dishwasher"
+    },
+    {
+      "level": "L4",
+      "phrase": "take out the trash"
+    },
+    {
+      "level": "L4",
+      "phrase": "sort the recycling"
+    },
+    {
+      "level": "L4",
+      "phrase": "sweep the floor"
+    },
+    {
+      "level": "L4",
+      "phrase": "mop the floor"
+    },
+    {
+      "level": "L4",
+      "phrase": "vacuum the carpet"
+    },
+    {
+      "level": "L4",
+      "phrase": "dust the shelves"
+    },
+    {
+      "level": "L4",
+      "phrase": "water the plants"
+    },
+    {
+      "level": "L4",
+      "phrase": "feed the cat"
+    },
+    {
+      "level": "L4",
+      "phrase": "walk the dog"
+    },
+    {
+      "level": "L4",
+      "phrase": "do the laundry"
+    },
+    {
+      "level": "L4",
+      "phrase": "hang up the clothes"
+    },
+    {
+      "level": "L4",
+      "phrase": "fold the laundry"
+    },
+    {
+      "level": "L4",
+      "phrase": "put away the clothes"
+    },
+    {
+      "level": "L4",
+      "phrase": "change the sheets"
+    },
+    {
+      "level": "L4",
+      "phrase": "pack a lunch"
+    },
+    {
+      "level": "L4",
+      "phrase": "pack a schoolbag"
+    },
+    {
+      "level": "L4",
+      "phrase": "tie your shoelaces"
+    },
+    {
+      "level": "L4",
+      "phrase": "wear a helmet"
+    },
+    {
+      "level": "L4",
+      "phrase": "fasten your seat belt"
+    },
+    {
+      "level": "L4",
+      "phrase": "ride a bike"
+    },
+    {
+      "level": "L4",
+      "phrase": "catch a bus"
+    },
+    {
+      "level": "L4",
+      "phrase": "take a train"
+    },
+    {
+      "level": "L4",
+      "phrase": "get on the bus"
+    },
+    {
+      "level": "L4",
+      "phrase": "get off the bus"
+    },
+    {
+      "level": "L4",
+      "phrase": "wait at the stop"
+    },
+    {
+      "level": "L4",
+      "phrase": "buy a ticket"
+    },
+    {
+      "level": "L4",
+      "phrase": "check the timetable"
+    },
+    {
+      "level": "L4",
+      "phrase": "follow the map"
+    },
+    {
+      "level": "L4",
+      "phrase": "ask for directions"
+    },
+    {
+      "level": "L4",
+      "phrase": "turn left"
+    },
+    {
+      "level": "L4",
+      "phrase": "turn right"
+    },
+    {
+      "level": "L4",
+      "phrase": "go straight"
+    },
+    {
+      "level": "L4",
+      "phrase": "cross the bridge"
+    },
+    {
+      "level": "L4",
+      "phrase": "go upstairs"
+    },
+    {
+      "level": "L4",
+      "phrase": "go downstairs"
+    },
+    {
+      "level": "L4",
+      "phrase": "take the stairs"
+    },
+    {
+      "level": "L4",
+      "phrase": "take the elevator"
+    },
+    {
+      "level": "L4",
+      "phrase": "meet at the entrance"
+    },
+    {
+      "level": "L4",
+      "phrase": "stay indoors"
+    },
+    {
+      "level": "L4",
+      "phrase": "head home"
+    },
+    {
+      "level": "L5",
+      "phrase": "make a shopping list"
+    },
+    {
+      "level": "L5",
+      "phrase": "compare prices"
+    },
+    {
+      "level": "L5",
+      "phrase": "look for a bargain"
+    },
+    {
+      "level": "L5",
+      "phrase": "try on a jacket"
+    },
+    {
+      "level": "L5",
+      "phrase": "ask for a receipt"
+    },
+    {
+      "level": "L5",
+      "phrase": "pay in cash"
+    },
+    {
+      "level": "L5",
+      "phrase": "pay by card"
+    },
+    {
+      "level": "L5",
+      "phrase": "count the change"
+    },
+    {
+      "level": "L5",
+      "phrase": "save money"
+    },
+    {
+      "level": "L5",
+      "phrase": "spend wisely"
+    },
+    {
+      "level": "L5",
+      "phrase": "stick to a budget"
+    },
+    {
+      "level": "L5",
+      "phrase": "borrow a book"
+    },
+    {
+      "level": "L5",
+      "phrase": "return a book"
+    },
+    {
+      "level": "L5",
+      "phrase": "renew a library book"
+    },
+    {
+      "level": "L5",
+      "phrase": "look up a word"
+    },
+    {
+      "level": "L5",
+      "phrase": "keep a diary"
+    },
+    {
+      "level": "L5",
+      "phrase": "write a letter"
+    },
+    {
+      "level": "L5",
+      "phrase": "send a postcard"
+    },
+    {
+      "level": "L5",
+      "phrase": "leave a message"
+    },
+    {
+      "level": "L5",
+      "phrase": "take a message"
+    },
+    {
+      "level": "L5",
+      "phrase": "answer the phone"
+    },
+    {
+      "level": "L5",
+      "phrase": "hang up the phone"
+    },
+    {
+      "level": "L5",
+      "phrase": "charge your phone"
+    },
+    {
+      "level": "L5",
+      "phrase": "turn down the volume"
+    },
+    {
+      "level": "L5",
+      "phrase": "turn up the volume"
+    },
+    {
+      "level": "L5",
+      "phrase": "record a video"
+    },
+    {
+      "level": "L5",
+      "phrase": "send an email"
+    },
+    {
+      "level": "L5",
+      "phrase": "attach a file"
+    },
+    {
+      "level": "L5",
+      "phrase": "click the link"
+    },
+    {
+      "level": "L5",
+      "phrase": "save a file"
+    },
+    {
+      "level": "L5",
+      "phrase": "print a document"
+    },
+    {
+      "level": "L5",
+      "phrase": "join a video call"
+    },
+    {
+      "level": "L5",
+      "phrase": "mute the microphone"
+    },
+    {
+      "level": "L5",
+      "phrase": "change your password"
+    },
+    {
+      "level": "L5",
+      "phrase": "log out of your account"
+    },
+    {
+      "level": "L5",
+      "phrase": "back up your files"
+    },
+    {
+      "level": "L5",
+      "phrase": "update the app"
+    },
+    {
+      "level": "L5",
+      "phrase": "connect to the internet"
+    },
+    {
+      "level": "L5",
+      "phrase": "switch off the lights"
+    },
+    {
+      "level": "L5",
+      "phrase": "unplug the charger"
+    },
+    {
+      "level": "L5",
+      "phrase": "recycle a bottle"
+    },
+    {
+      "level": "L5",
+      "phrase": "reuse a bag"
+    },
+    {
+      "level": "L5",
+      "phrase": "reduce waste"
+    },
+    {
+      "level": "L5",
+      "phrase": "save water"
+    },
+    {
+      "level": "L5",
+      "phrase": "save electricity"
+    },
+    {
+      "level": "L6",
+      "phrase": "book a flight"
+    },
+    {
+      "level": "L6",
+      "phrase": "reserve a room"
+    },
+    {
+      "level": "L6",
+      "phrase": "confirm a booking"
+    },
+    {
+      "level": "L6",
+      "phrase": "cancel a reservation"
+    },
+    {
+      "level": "L6",
+      "phrase": "check the weather"
+    },
+    {
+      "level": "L6",
+      "phrase": "plan a route"
+    },
+    {
+      "level": "L6",
+      "phrase": "pack lightly"
+    },
+    {
+      "level": "L6",
+      "phrase": "travel abroad"
+    },
+    {
+      "level": "L6",
+      "phrase": "go sightseeing"
+    },
+    {
+      "level": "L6",
+      "phrase": "visit a museum"
+    },
+    {
+      "level": "L6",
+      "phrase": "take a guided tour"
+    },
+    {
+      "level": "L6",
+      "phrase": "rent a car"
+    },
+    {
+      "level": "L6",
+      "phrase": "hire a guide"
+    },
+    {
+      "level": "L6",
+      "phrase": "exchange currency"
+    },
+    {
+      "level": "L6",
+      "phrase": "withdraw cash"
+    },
+    {
+      "level": "L6",
+      "phrase": "check the exchange rate"
+    },
+    {
+      "level": "L6",
+      "phrase": "fill in a form"
+    },
+    {
+      "level": "L6",
+      "phrase": "show your passport"
+    },
+    {
+      "level": "L6",
+      "phrase": "go through security"
+    },
+    {
+      "level": "L6",
+      "phrase": "go through customs"
+    },
+    {
+      "level": "L6",
+      "phrase": "collect your baggage"
+    },
+    {
+      "level": "L6",
+      "phrase": "check in online"
+    },
+    {
+      "level": "L6",
+      "phrase": "board the plane"
+    },
+    {
+      "level": "L6",
+      "phrase": "find your seat"
+    },
+    {
+      "level": "L6",
+      "phrase": "put your seat upright"
+    },
+    {
+      "level": "L6",
+      "phrase": "stow your bag"
+    },
+    {
+      "level": "L6",
+      "phrase": "catch a connecting flight"
+    },
+    {
+      "level": "L6",
+      "phrase": "make a connection"
+    },
+    {
+      "level": "L6",
+      "phrase": "split the fare"
+    },
+    {
+      "level": "L6",
+      "phrase": "give someone a ride"
+    },
+    {
+      "level": "L6",
+      "phrase": "pick someone up"
+    },
+    {
+      "level": "L6",
+      "phrase": "drop someone off"
+    },
+    {
+      "level": "L6",
+      "phrase": "pull over"
+    },
+    {
+      "level": "L6",
+      "phrase": "fill up the tank"
+    },
+    {
+      "level": "L6",
+      "phrase": "check the tire pressure"
+    },
+    {
+      "level": "L6",
+      "phrase": "follow the speed limit"
+    },
+    {
+      "level": "L6",
+      "phrase": "take a detour"
+    },
+    {
+      "level": "L6",
+      "phrase": "avoid rush hour"
+    },
+    {
+      "level": "L6",
+      "phrase": "beat the traffic"
+    },
+    {
+      "level": "L6",
+      "phrase": "get stuck in traffic"
+    },
+    {
+      "level": "L6",
+      "phrase": "lose your way"
+    },
+    {
+      "level": "L6",
+      "phrase": "find your way back"
+    },
+    {
+      "level": "L6",
+      "phrase": "keep an eye on your bag"
+    },
+    {
+      "level": "L6",
+      "phrase": "stay in touch"
+    },
+    {
+      "level": "L6",
+      "phrase": "send your location"
+    },
+    {
+      "level": "L6",
+      "phrase": "make an appointment"
+    },
+    {
+      "level": "L6",
+      "phrase": "see a doctor"
+    },
+    {
+      "level": "L6",
+      "phrase": "have a checkup"
+    },
+    {
+      "level": "L6",
+      "phrase": "take your temperature"
+    },
+    {
+      "level": "L6",
+      "phrase": "describe your symptoms"
+    },
+    {
+      "level": "L6",
+      "phrase": "get a prescription"
+    },
+    {
+      "level": "L6",
+      "phrase": "take the medicine"
+    },
+    {
+      "level": "L6",
+      "phrase": "follow the dosage instructions"
+    },
+    {
+      "level": "L6",
+      "phrase": "read the label"
+    },
+    {
+      "level": "L6",
+      "phrase": "ask a pharmacist"
+    },
+    {
+      "level": "L6",
+      "phrase": "get enough sleep"
+    },
+    {
+      "level": "L6",
+      "phrase": "stay hydrated"
+    },
+    {
+      "level": "L6",
+      "phrase": "eat a balanced diet"
+    },
+    {
+      "level": "L6",
+      "phrase": "cut down on sugar"
+    },
+    {
+      "level": "L6",
+      "phrase": "cut down on salt"
+    },
+    {
+      "level": "L6",
+      "phrase": "exercise regularly"
+    },
+    {
+      "level": "L6",
+      "phrase": "warm up first"
+    },
+    {
+      "level": "L6",
+      "phrase": "cool down afterward"
+    },
+    {
+      "level": "L6",
+      "phrase": "stretch your muscles"
+    },
+    {
+      "level": "L6",
+      "phrase": "improve your posture"
+    },
+    {
+      "level": "L6",
+      "phrase": "protect your skin"
+    },
+    {
+      "level": "L6",
+      "phrase": "apply sunscreen"
+    },
+    {
+      "level": "L6",
+      "phrase": "rest your eyes"
+    },
+    {
+      "level": "L6",
+      "phrase": "take regular breaks"
+    },
+    {
+      "level": "L6",
+      "phrase": "keep a healthy routine"
+    },
+    {
+      "level": "L6",
+      "phrase": "manage stress"
+    },
+    {
+      "level": "L6",
+      "phrase": "talk to someone"
+    },
+    {
+      "level": "L6",
+      "phrase": "call for help"
+    },
+    {
+      "level": "L6",
+      "phrase": "call an ambulance"
+    },
+    {
+      "level": "L7",
+      "phrase": "review your notes"
+    },
+    {
+      "level": "L7",
+      "phrase": "summarize a passage"
+    },
+    {
+      "level": "L7",
+      "phrase": "identify the main idea"
+    },
+    {
+      "level": "L7",
+      "phrase": "find supporting details"
+    },
+    {
+      "level": "L7",
+      "phrase": "make an outline"
+    },
+    {
+      "level": "L7",
+      "phrase": "write a draft"
+    },
+    {
+      "level": "L7",
+      "phrase": "revise an essay"
+    },
+    {
+      "level": "L7",
+      "phrase": "proofread your work"
+    },
+    {
+      "level": "L7",
+      "phrase": "check the spelling"
+    },
+    {
+      "level": "L7",
+      "phrase": "correct the grammar"
+    },
+    {
+      "level": "L7",
+      "phrase": "cite a source"
+    },
+    {
+      "level": "L7",
+      "phrase": "look for evidence"
+    },
+    {
+      "level": "L7",
+      "phrase": "draw an inference"
+    },
+    {
+      "level": "L7",
+      "phrase": "make a prediction"
+    },
+    {
+      "level": "L7",
+      "phrase": "test an idea"
+    },
+    {
+      "level": "L7",
+      "phrase": "compare and contrast"
+    },
+    {
+      "level": "L7",
+      "phrase": "sort into groups"
+    },
+    {
+      "level": "L7",
+      "phrase": "break into parts"
+    },
+    {
+      "level": "L7",
+      "phrase": "solve a problem"
+    },
+    {
+      "level": "L7",
+      "phrase": "show your work"
+    },
+    {
+      "level": "L7",
+      "phrase": "explain your reasoning"
+    },
+    {
+      "level": "L7",
+      "phrase": "learn from mistakes"
+    },
+    {
+      "level": "L7",
+      "phrase": "learn by doing"
+    },
+    {
+      "level": "L7",
+      "phrase": "learn by heart"
+    },
+    {
+      "level": "L7",
+      "phrase": "memorize a poem"
+    },
+    {
+      "level": "L7",
+      "phrase": "read between the lines"
+    },
+    {
+      "level": "L7",
+      "phrase": "read for pleasure"
+    },
+    {
+      "level": "L7",
+      "phrase": "build your vocabulary"
+    },
+    {
+      "level": "L7",
+      "phrase": "set a study schedule"
+    },
+    {
+      "level": "L7",
+      "phrase": "join a study group"
+    },
+    {
+      "level": "L7",
+      "phrase": "stay focused"
+    },
+    {
+      "level": "L7",
+      "phrase": "avoid distractions"
+    },
+    {
+      "level": "L7",
+      "phrase": "manage your time"
+    },
+    {
+      "level": "L7",
+      "phrase": "put in the effort"
+    },
+    {
+      "level": "L7",
+      "phrase": "make steady progress"
+    },
+    {
+      "level": "L7",
+      "phrase": "keep track of progress"
+    },
+    {
+      "level": "L7",
+      "phrase": "get along with others"
+    },
+    {
+      "level": "L7",
+      "phrase": "make new friends"
+    },
+    {
+      "level": "L7",
+      "phrase": "break the ice"
+    },
+    {
+      "level": "L7",
+      "phrase": "start a conversation"
+    },
+    {
+      "level": "L7",
+      "phrase": "keep a conversation going"
+    },
+    {
+      "level": "L7",
+      "phrase": "listen with care"
+    },
+    {
+      "level": "L7",
+      "phrase": "show respect"
+    },
+    {
+      "level": "L7",
+      "phrase": "respect a boundary"
+    },
+    {
+      "level": "L7",
+      "phrase": "keep a promise"
+    },
+    {
+      "level": "L7",
+      "phrase": "tell the truth"
+    },
+    {
+      "level": "L7",
+      "phrase": "admit a mistake"
+    },
+    {
+      "level": "L7",
+      "phrase": "offer an apology"
+    },
+    {
+      "level": "L7",
+      "phrase": "accept an apology"
+    },
+    {
+      "level": "L7",
+      "phrase": "make up for a mistake"
+    },
+    {
+      "level": "L7",
+      "phrase": "give someone a hand"
+    },
+    {
+      "level": "L7",
+      "phrase": "lend a hand"
+    },
+    {
+      "level": "L7",
+      "phrase": "cheer someone on"
+    },
+    {
+      "level": "L7",
+      "phrase": "stand by a friend"
+    },
+    {
+      "level": "L7",
+      "phrase": "put yourself in someone's shoes"
+    },
+    {
+      "level": "L7",
+      "phrase": "see another point of view"
+    },
+    {
+      "level": "L7",
+      "phrase": "agree to disagree"
+    },
+    {
+      "level": "L7",
+      "phrase": "clear up a misunderstanding"
+    },
+    {
+      "level": "L7",
+      "phrase": "talk things over"
+    },
+    {
+      "level": "L7",
+      "phrase": "work things out"
+    },
+    {
+      "level": "L7",
+      "phrase": "meet halfway"
+    },
+    {
+      "level": "L7",
+      "phrase": "give someone space"
+    },
+    {
+      "level": "L7",
+      "phrase": "keep your cool"
+    },
+    {
+      "level": "L8",
+      "phrase": "bring about change"
+    },
+    {
+      "level": "L8",
+      "phrase": "carry out a plan"
+    },
+    {
+      "level": "L8",
+      "phrase": "carry on with work"
+    },
+    {
+      "level": "L8",
+      "phrase": "catch up on work"
+    },
+    {
+      "level": "L8",
+      "phrase": "catch up with a friend"
+    },
+    {
+      "level": "L8",
+      "phrase": "cut back on spending"
+    },
+    {
+      "level": "L8",
+      "phrase": "deal with a problem"
+    },
+    {
+      "level": "L8",
+      "phrase": "do away with a rule"
+    },
+    {
+      "level": "L8",
+      "phrase": "draw up a plan"
+    },
+    {
+      "level": "L8",
+      "phrase": "drop by a friend's house"
+    },
+    {
+      "level": "L8",
+      "phrase": "end up agreeing"
+    },
+    {
+      "level": "L8",
+      "phrase": "fall behind schedule"
+    },
+    {
+      "level": "L8",
+      "phrase": "fall back on savings"
+    },
+    {
+      "level": "L8",
+      "phrase": "get around a problem"
+    },
+    {
+      "level": "L8",
+      "phrase": "get away from work"
+    },
+    {
+      "level": "L8",
+      "phrase": "get down to work"
+    },
+    {
+      "level": "L8",
+      "phrase": "get over a setback"
+    },
+    {
+      "level": "L8",
+      "phrase": "give up a bad habit"
+    },
+    {
+      "level": "L8",
+      "phrase": "go over the details"
+    },
+    {
+      "level": "L8",
+      "phrase": "go through the records"
+    },
+    {
+      "level": "L8",
+      "phrase": "hold back tears"
+    },
+    {
+      "level": "L8",
+      "phrase": "hold off on a decision"
+    },
+    {
+      "level": "L8",
+      "phrase": "keep up with changes"
+    },
+    {
+      "level": "L8",
+      "phrase": "leave out a detail"
+    },
+    {
+      "level": "L8",
+      "phrase": "look ahead to the future"
+    },
+    {
+      "level": "L8",
+      "phrase": "look back on the past"
+    },
+    {
+      "level": "L8",
+      "phrase": "look into a complaint"
+    },
+    {
+      "level": "L8",
+      "phrase": "look up to a teacher"
+    },
+    {
+      "level": "L8",
+      "phrase": "make out the words"
+    },
+    {
+      "level": "L8",
+      "phrase": "make up your mind"
+    },
+    {
+      "level": "L8",
+      "phrase": "move on from a mistake"
+    },
+    {
+      "level": "L8",
+      "phrase": "pass on a message"
+    },
+    {
+      "level": "L8",
+      "phrase": "pick out a gift"
+    },
+    {
+      "level": "L8",
+      "phrase": "put off a meeting"
+    },
+    {
+      "level": "L8",
+      "phrase": "put up with noise"
+    },
+    {
+      "level": "L8",
+      "phrase": "run into an old friend"
+    },
+    {
+      "level": "L8",
+      "phrase": "run out of time"
+    },
+    {
+      "level": "L8",
+      "phrase": "set aside some money"
+    },
+    {
+      "level": "L8",
+      "phrase": "set out on a journey"
+    },
+    {
+      "level": "L8",
+      "phrase": "show up on time"
+    },
+    {
+      "level": "L8",
+      "phrase": "sort out the details"
+    },
+    {
+      "level": "L8",
+      "phrase": "speak out against unfairness"
+    },
+    {
+      "level": "L8",
+      "phrase": "speak up for someone"
+    },
+    {
+      "level": "L8",
+      "phrase": "stand out from the crowd"
+    },
+    {
+      "level": "L8",
+      "phrase": "take apart a device"
+    },
+    {
+      "level": "L8",
+      "phrase": "take on a challenge"
+    },
+    {
+      "level": "L8",
+      "phrase": "take over a task"
+    },
+    {
+      "level": "L8",
+      "phrase": "turn down an offer"
+    },
+    {
+      "level": "L8",
+      "phrase": "work toward a goal"
+    },
+    {
+      "level": "L9",
+      "phrase": "question an assumption"
+    },
+    {
+      "level": "L9",
+      "phrase": "challenge a claim"
+    },
+    {
+      "level": "L9",
+      "phrase": "support a claim with evidence"
+    },
+    {
+      "level": "L9",
+      "phrase": "distinguish fact from opinion"
+    },
+    {
+      "level": "L9",
+      "phrase": "consider alternative explanations"
+    },
+    {
+      "level": "L9",
+      "phrase": "recognize a pattern"
+    },
+    {
+      "level": "L9",
+      "phrase": "identify a trend"
+    },
+    {
+      "level": "L9",
+      "phrase": "establish a connection"
+    },
+    {
+      "level": "L9",
+      "phrase": "examine the context"
+    },
+    {
+      "level": "L9",
+      "phrase": "define the terms"
+    },
+    {
+      "level": "L9",
+      "phrase": "clarify the scope"
+    },
+    {
+      "level": "L9",
+      "phrase": "acknowledge a limitation"
+    },
+    {
+      "level": "L9",
+      "phrase": "avoid a generalization"
+    },
+    {
+      "level": "L9",
+      "phrase": "avoid jumping to conclusions"
+    },
+    {
+      "level": "L9",
+      "phrase": "check for bias"
+    },
+    {
+      "level": "L9",
+      "phrase": "weigh the evidence"
+    },
+    {
+      "level": "L9",
+      "phrase": "evaluate a source"
+    },
+    {
+      "level": "L9",
+      "phrase": "verify the facts"
+    },
+    {
+      "level": "L9",
+      "phrase": "cross-check the information"
+    },
+    {
+      "level": "L9",
+      "phrase": "assess the reliability"
+    },
+    {
+      "level": "L9",
+      "phrase": "take context into account"
+    },
+    {
+      "level": "L9",
+      "phrase": "put findings into perspective"
+    },
+    {
+      "level": "L9",
+      "phrase": "consider the implications"
+    },
+    {
+      "level": "L9",
+      "phrase": "explain a discrepancy"
+    },
+    {
+      "level": "L9",
+      "phrase": "address a counterargument"
+    },
+    {
+      "level": "L9",
+      "phrase": "make a valid point"
+    },
+    {
+      "level": "L9",
+      "phrase": "build a coherent argument"
+    },
+    {
+      "level": "L9",
+      "phrase": "state a position clearly"
+    },
+    {
+      "level": "L9",
+      "phrase": "qualify a statement"
+    },
+    {
+      "level": "L9",
+      "phrase": "reach an informed judgment"
+    },
+    {
+      "level": "L10",
+      "phrase": "set clear expectations"
+    },
+    {
+      "level": "L10",
+      "phrase": "define the objectives"
+    },
+    {
+      "level": "L10",
+      "phrase": "establish priorities"
+    },
+    {
+      "level": "L10",
+      "phrase": "allocate resources"
+    },
+    {
+      "level": "L10",
+      "phrase": "assign responsibilities"
+    },
+    {
+      "level": "L10",
+      "phrase": "delegate a task"
+    },
+    {
+      "level": "L10",
+      "phrase": "coordinate the schedule"
+    },
+    {
+      "level": "L10",
+      "phrase": "monitor performance"
+    },
+    {
+      "level": "L10",
+      "phrase": "measure the outcome"
+    },
+    {
+      "level": "L10",
+      "phrase": "review the process"
+    },
+    {
+      "level": "L10",
+      "phrase": "identify a bottleneck"
+    },
+    {
+      "level": "L10",
+      "phrase": "streamline the workflow"
+    },
+    {
+      "level": "L10",
+      "phrase": "improve efficiency"
+    },
+    {
+      "level": "L10",
+      "phrase": "maintain quality"
+    },
+    {
+      "level": "L10",
+      "phrase": "ensure consistency"
+    },
+    {
+      "level": "L10",
+      "phrase": "provide constructive feedback"
+    },
+    {
+      "level": "L10",
+      "phrase": "respond to feedback"
+    },
+    {
+      "level": "L10",
+      "phrase": "resolve a conflict"
+    },
+    {
+      "level": "L10",
+      "phrase": "handle a complaint"
+    },
+    {
+      "level": "L10",
+      "phrase": "build trust"
+    },
+    {
+      "level": "L10",
+      "phrase": "maintain confidentiality"
+    },
+    {
+      "level": "L10",
+      "phrase": "protect personal data"
+    },
+    {
+      "level": "L10",
+      "phrase": "comply with regulations"
+    },
+    {
+      "level": "L10",
+      "phrase": "follow the procedure"
+    },
+    {
+      "level": "L10",
+      "phrase": "meet the requirements"
+    },
+    {
+      "level": "L10",
+      "phrase": "keep accurate records"
+    },
+    {
+      "level": "L10",
+      "phrase": "document the decision"
+    },
+    {
+      "level": "L10",
+      "phrase": "keep stakeholders informed"
+    },
+    {
+      "level": "L11",
+      "phrase": "submit a reimbursement claim"
+    },
+    {
+      "level": "L11",
+      "phrase": "itemize the expenses"
+    },
+    {
+      "level": "L11",
+      "phrase": "reconcile the accounts"
+    },
+    {
+      "level": "L11",
+      "phrase": "settle an outstanding balance"
+    },
+    {
+      "level": "L11",
+      "phrase": "issue an invoice"
+    },
+    {
+      "level": "L11",
+      "phrase": "process a refund"
+    },
+    {
+      "level": "L11",
+      "phrase": "approve a purchase order"
+    },
+    {
+      "level": "L11",
+      "phrase": "request a quotation"
+    },
+    {
+      "level": "L11",
+      "phrase": "negotiate the terms"
+    },
+    {
+      "level": "L11",
+      "phrase": "renew a contract"
+    },
+    {
+      "level": "L11",
+      "phrase": "terminate an agreement"
+    },
+    {
+      "level": "L11",
+      "phrase": "fulfill a contractual obligation"
+    },
+    {
+      "level": "L11",
+      "phrase": "honor a commitment"
+    },
+    {
+      "level": "L11",
+      "phrase": "waive a fee"
+    },
+    {
+      "level": "L11",
+      "phrase": "grant an extension"
+    },
+    {
+      "level": "L11",
+      "phrase": "adhere to a deadline"
+    },
+    {
+      "level": "L11",
+      "phrase": "expedite a shipment"
+    },
+    {
+      "level": "L11",
+      "phrase": "track a consignment"
+    },
+    {
+      "level": "L11",
+      "phrase": "confirm delivery"
+    },
+    {
+      "level": "L11",
+      "phrase": "inspect the merchandise"
+    },
+    {
+      "level": "L11",
+      "phrase": "maintain inventory levels"
+    },
+    {
+      "level": "L11",
+      "phrase": "source a supplier"
+    },
+    {
+      "level": "L11",
+      "phrase": "conduct an audit"
+    },
+    {
+      "level": "L11",
+      "phrase": "conduct due diligence"
+    },
+    {
+      "level": "L11",
+      "phrase": "assess financial viability"
+    },
+    {
+      "level": "L11",
+      "phrase": "mitigate potential risks"
+    },
+    {
+      "level": "L11",
+      "phrase": "develop a contingency plan"
+    },
+    {
+      "level": "L11",
+      "phrase": "ensure regulatory compliance"
+    },
+    {
+      "level": "L11",
+      "phrase": "disclose a conflict of interest"
+    },
+    {
+      "level": "L11",
+      "phrase": "obtain prior authorization"
+    },
+    {
+      "level": "L11",
+      "phrase": "seek board approval"
+    },
+    {
+      "level": "L11",
+      "phrase": "convene a meeting"
+    },
+    {
+      "level": "L11",
+      "phrase": "circulate the agenda"
+    },
+    {
+      "level": "L11",
+      "phrase": "record the minutes"
+    },
+    {
+      "level": "L11",
+      "phrase": "reach a consensus"
+    },
+    {
+      "level": "L11",
+      "phrase": "endorse a proposal"
+    },
+    {
+      "level": "L11",
+      "phrase": "ratify an agreement"
+    },
+    {
+      "level": "L11",
+      "phrase": "facilitate collaboration"
+    },
+    {
+      "level": "L11",
+      "phrase": "consolidate operations"
+    },
+    {
+      "level": "L11",
+      "phrase": "outsource a service"
+    },
+    {
+      "level": "L11",
+      "phrase": "retain key personnel"
+    },
+    {
+      "level": "L11",
+      "phrase": "recruit qualified candidates"
+    },
+    {
+      "level": "L11",
+      "phrase": "evaluate employee performance"
+    },
+    {
+      "level": "L11",
+      "phrase": "offer a compensation package"
+    },
+    {
+      "level": "L11",
+      "phrase": "implement a policy"
+    },
+    {
+      "level": "L11",
+      "phrase": "amend a provision"
+    },
+    {
+      "level": "L11",
+      "phrase": "comply with a mandate"
+    },
+    {
+      "level": "L11",
+      "phrase": "resolve a discrepancy"
+    },
+    {
+      "level": "L11",
+      "phrase": "rectify an error"
+    },
+    {
+      "level": "L11",
+      "phrase": "uphold professional standards"
+    },
+    {
+      "level": "L12",
+      "phrase": "draw a nuanced distinction"
+    },
+    {
+      "level": "L12",
+      "phrase": "discern an underlying pattern"
+    },
+    {
+      "level": "L12",
+      "phrase": "articulate a coherent position"
+    },
+    {
+      "level": "L12",
+      "phrase": "challenge conventional wisdom"
+    },
+    {
+      "level": "L12",
+      "phrase": "reconcile conflicting accounts"
+    },
+    {
+      "level": "L12",
+      "phrase": "substantiate an assertion"
+    },
+    {
+      "level": "L12",
+      "phrase": "refute an allegation"
+    },
+    {
+      "level": "L12",
+      "phrase": "qualify a sweeping claim"
+    },
+    {
+      "level": "L12",
+      "phrase": "expose a logical fallacy"
+    },
+    {
+      "level": "L12",
+      "phrase": "identify a false dichotomy"
+    },
+    {
+      "level": "L12",
+      "phrase": "distinguish correlation from causation"
+    },
+    {
+      "level": "L12",
+      "phrase": "formulate a testable hypothesis"
+    },
+    {
+      "level": "L12",
+      "phrase": "operationalize a concept"
+    },
+    {
+      "level": "L12",
+      "phrase": "account for confounding factors"
+    },
+    {
+      "level": "L12",
+      "phrase": "replicate a finding"
+    },
+    {
+      "level": "L12",
+      "phrase": "interpret an ambiguous passage"
+    },
+    {
+      "level": "L12",
+      "phrase": "unpack an implicit assumption"
+    },
+    {
+      "level": "L12",
+      "phrase": "trace the etymology"
+    },
+    {
+      "level": "L12",
+      "phrase": "analyze a rhetorical device"
+    },
+    {
+      "level": "L12",
+      "phrase": "recognize an ironic undertone"
+    },
+    {
+      "level": "L12",
+      "phrase": "convey a subtle connotation"
+    },
+    {
+      "level": "L12",
+      "phrase": "preserve semantic precision"
+    },
+    {
+      "level": "L12",
+      "phrase": "avoid a category error"
+    },
+    {
+      "level": "L12",
+      "phrase": "adopt a provisional interpretation"
+    },
+    {
+      "level": "L12",
+      "phrase": "reframe the debate"
+    },
+    {
+      "level": "L12",
+      "phrase": "elucidate a complex idea"
+    },
+    {
+      "level": "L12",
+      "phrase": "contextualize a quotation"
+    },
+    {
+      "level": "L12",
+      "phrase": "interrogate an established narrative"
+    },
+    {
+      "level": "L12",
+      "phrase": "triangulate the evidence"
+    },
+    {
+      "level": "L12",
+      "phrase": "acknowledge epistemic uncertainty"
+    }
+  ]
+}

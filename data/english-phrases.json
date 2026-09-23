@@ -3998,5 +3998,4005 @@
     "category": "問題解決",
     "example": "We took a practical approach and fixed the most urgent issue first.",
     "exampleZh": "我們採取務實方法，先處理最急迫的問題。"
+  },
+  {
+    "level": "L1",
+    "phrase": "hold my hand",
+    "meaning": "牽我的手",
+    "category": "Everyday",
+    "example": "Please hold my hand.",
+    "exampleZh": "請牽我的手。"
+  },
+  {
+    "level": "L1",
+    "phrase": "give me a hug",
+    "meaning": "抱抱我",
+    "category": "Everyday",
+    "example": "Please give me a hug.",
+    "exampleZh": "請抱抱我。"
+  },
+  {
+    "level": "L1",
+    "phrase": "open your mouth",
+    "meaning": "張開嘴巴",
+    "category": "Everyday",
+    "example": "Please open your mouth.",
+    "exampleZh": "請張開嘴巴。"
+  },
+  {
+    "level": "L1",
+    "phrase": "close your eyes",
+    "meaning": "閉上眼睛",
+    "category": "Everyday",
+    "example": "Please close your eyes.",
+    "exampleZh": "請閉上眼睛。"
+  },
+  {
+    "level": "L1",
+    "phrase": "clap your hands",
+    "meaning": "拍拍手",
+    "category": "Everyday",
+    "example": "Please clap your hands.",
+    "exampleZh": "請拍拍手。"
+  },
+  {
+    "level": "L1",
+    "phrase": "wave goodbye",
+    "meaning": "揮手道別",
+    "category": "Everyday",
+    "example": "Please wave goodbye.",
+    "exampleZh": "請揮手道別。"
+  },
+  {
+    "level": "L1",
+    "phrase": "come to me",
+    "meaning": "到我這裡來",
+    "category": "Everyday",
+    "example": "Please come to me.",
+    "exampleZh": "請到我這裡來。"
+  },
+  {
+    "level": "L1",
+    "phrase": "look at me",
+    "meaning": "看著我",
+    "category": "Everyday",
+    "example": "Please look at me.",
+    "exampleZh": "請看著我。"
+  },
+  {
+    "level": "L1",
+    "phrase": "drink your milk",
+    "meaning": "喝你的牛奶",
+    "category": "Everyday",
+    "example": "Please drink your milk.",
+    "exampleZh": "請喝你的牛奶。"
+  },
+  {
+    "level": "L1",
+    "phrase": "eat your food",
+    "meaning": "吃你的食物",
+    "category": "Everyday",
+    "example": "Please eat your food.",
+    "exampleZh": "請吃你的食物。"
+  },
+  {
+    "level": "L1",
+    "phrase": "take a bite",
+    "meaning": "咬一口",
+    "category": "Everyday",
+    "example": "Please take a bite.",
+    "exampleZh": "請咬一口。"
+  },
+  {
+    "level": "L1",
+    "phrase": "have a sip",
+    "meaning": "喝一小口",
+    "category": "Everyday",
+    "example": "Please have a sip.",
+    "exampleZh": "請喝一小口。"
+  },
+  {
+    "level": "L1",
+    "phrase": "put it here",
+    "meaning": "放在這裡",
+    "category": "Everyday",
+    "example": "Please put it here.",
+    "exampleZh": "請放在這裡。"
+  },
+  {
+    "level": "L1",
+    "phrase": "give it to me",
+    "meaning": "把它給我",
+    "category": "Everyday",
+    "example": "Please give it to me.",
+    "exampleZh": "請把它給我。"
+  },
+  {
+    "level": "L1",
+    "phrase": "let go",
+    "meaning": "放手",
+    "category": "Everyday",
+    "example": "Please let go.",
+    "exampleZh": "請放手。"
+  },
+  {
+    "level": "L1",
+    "phrase": "lie down",
+    "meaning": "躺下",
+    "category": "Everyday",
+    "example": "Please lie down.",
+    "exampleZh": "請躺下。"
+  },
+  {
+    "level": "L1",
+    "phrase": "roll over",
+    "meaning": "翻身",
+    "category": "Everyday",
+    "example": "Please roll over.",
+    "exampleZh": "請翻身。"
+  },
+  {
+    "level": "L1",
+    "phrase": "be gentle",
+    "meaning": "動作輕一點",
+    "category": "Everyday",
+    "example": "Please be gentle.",
+    "exampleZh": "請動作輕一點。"
+  },
+  {
+    "level": "L1",
+    "phrase": "give me five",
+    "meaning": "跟我擊掌",
+    "category": "Everyday",
+    "example": "Please give me five.",
+    "exampleZh": "請跟我擊掌。"
+  },
+  {
+    "level": "L2",
+    "phrase": "wash your hands",
+    "meaning": "洗手",
+    "category": "Everyday",
+    "example": "Please wash your hands.",
+    "exampleZh": "請洗手。"
+  },
+  {
+    "level": "L2",
+    "phrase": "brush your hair",
+    "meaning": "梳頭髮",
+    "category": "Everyday",
+    "example": "Please brush your hair.",
+    "exampleZh": "請梳頭髮。"
+  },
+  {
+    "level": "L2",
+    "phrase": "wipe your mouth",
+    "meaning": "擦嘴巴",
+    "category": "Everyday",
+    "example": "Please wipe your mouth.",
+    "exampleZh": "請擦嘴巴。"
+  },
+  {
+    "level": "L2",
+    "phrase": "blow your nose",
+    "meaning": "擤鼻涕",
+    "category": "Everyday",
+    "example": "Please blow your nose.",
+    "exampleZh": "請擤鼻涕。"
+  },
+  {
+    "level": "L2",
+    "phrase": "cover your mouth",
+    "meaning": "遮住嘴巴",
+    "category": "Everyday",
+    "example": "Please cover your mouth.",
+    "exampleZh": "請遮住嘴巴。"
+  },
+  {
+    "level": "L2",
+    "phrase": "put on your shoes",
+    "meaning": "穿鞋子",
+    "category": "Everyday",
+    "example": "Please put on your shoes.",
+    "exampleZh": "請穿鞋子。"
+  },
+  {
+    "level": "L2",
+    "phrase": "take off your shoes",
+    "meaning": "脫鞋子",
+    "category": "Everyday",
+    "example": "Please take off your shoes.",
+    "exampleZh": "請脫鞋子。"
+  },
+  {
+    "level": "L2",
+    "phrase": "zip up your coat",
+    "meaning": "拉上外套拉鍊",
+    "category": "Everyday",
+    "example": "Please zip up your coat.",
+    "exampleZh": "請拉上外套拉鍊。"
+  },
+  {
+    "level": "L2",
+    "phrase": "button your shirt",
+    "meaning": "扣上襯衫鈕扣",
+    "category": "Everyday",
+    "example": "Please button your shirt.",
+    "exampleZh": "請扣上襯衫鈕扣。"
+  },
+  {
+    "level": "L2",
+    "phrase": "pull up your pants",
+    "meaning": "拉好褲子",
+    "category": "Everyday",
+    "example": "Please pull up your pants.",
+    "exampleZh": "請拉好褲子。"
+  },
+  {
+    "level": "L2",
+    "phrase": "pick up your toys",
+    "meaning": "撿起玩具",
+    "category": "Everyday",
+    "example": "Please pick up your toys.",
+    "exampleZh": "請撿起玩具。"
+  },
+  {
+    "level": "L2",
+    "phrase": "put the toys away",
+    "meaning": "收好玩具",
+    "category": "Everyday",
+    "example": "Please put the toys away.",
+    "exampleZh": "請收好玩具。"
+  },
+  {
+    "level": "L2",
+    "phrase": "tidy your room",
+    "meaning": "整理房間",
+    "category": "Everyday",
+    "example": "Please tidy your room.",
+    "exampleZh": "請整理房間。"
+  },
+  {
+    "level": "L2",
+    "phrase": "make your bed",
+    "meaning": "整理床鋪",
+    "category": "Everyday",
+    "example": "Please make your bed.",
+    "exampleZh": "請整理床鋪。"
+  },
+  {
+    "level": "L2",
+    "phrase": "flush the toilet",
+    "meaning": "沖馬桶",
+    "category": "Everyday",
+    "example": "Please flush the toilet.",
+    "exampleZh": "請沖馬桶。"
+  },
+  {
+    "level": "L2",
+    "phrase": "turn off the tap",
+    "meaning": "關水龍頭",
+    "category": "Everyday",
+    "example": "Please turn off the tap.",
+    "exampleZh": "請關水龍頭。"
+  },
+  {
+    "level": "L2",
+    "phrase": "dry your hands",
+    "meaning": "擦乾雙手",
+    "category": "Everyday",
+    "example": "Please dry your hands.",
+    "exampleZh": "請擦乾雙手。"
+  },
+  {
+    "level": "L2",
+    "phrase": "use a tissue",
+    "meaning": "用衛生紙",
+    "category": "Everyday",
+    "example": "Please use a tissue.",
+    "exampleZh": "請用衛生紙。"
+  },
+  {
+    "level": "L2",
+    "phrase": "take turns",
+    "meaning": "輪流",
+    "category": "Everyday",
+    "example": "Please take turns.",
+    "exampleZh": "請輪流。"
+  },
+  {
+    "level": "L2",
+    "phrase": "wait your turn",
+    "meaning": "等輪到你",
+    "category": "Everyday",
+    "example": "Please wait your turn.",
+    "exampleZh": "請等輪到你。"
+  },
+  {
+    "level": "L2",
+    "phrase": "share your toys",
+    "meaning": "分享玩具",
+    "category": "Everyday",
+    "example": "Please share your toys.",
+    "exampleZh": "請分享玩具。"
+  },
+  {
+    "level": "L2",
+    "phrase": "ask nicely",
+    "meaning": "有禮貌地問",
+    "category": "Everyday",
+    "example": "Please ask nicely.",
+    "exampleZh": "請有禮貌地問。"
+  },
+  {
+    "level": "L2",
+    "phrase": "use your words",
+    "meaning": "用言語表達",
+    "category": "Everyday",
+    "example": "Please use your words.",
+    "exampleZh": "請用言語表達。"
+  },
+  {
+    "level": "L2",
+    "phrase": "stay close",
+    "meaning": "待在附近",
+    "category": "Everyday",
+    "example": "Please stay close.",
+    "exampleZh": "請待在附近。"
+  },
+  {
+    "level": "L2",
+    "phrase": "walk slowly",
+    "meaning": "慢慢走",
+    "category": "Everyday",
+    "example": "Please walk slowly.",
+    "exampleZh": "請慢慢走。"
+  },
+  {
+    "level": "L2",
+    "phrase": "watch your step",
+    "meaning": "小心腳步",
+    "category": "Everyday",
+    "example": "Please watch your step.",
+    "exampleZh": "請小心腳步。"
+  },
+  {
+    "level": "L2",
+    "phrase": "hold on tight",
+    "meaning": "抓緊",
+    "category": "Everyday",
+    "example": "Please hold on tight.",
+    "exampleZh": "請抓緊。"
+  },
+  {
+    "level": "L2",
+    "phrase": "look both ways",
+    "meaning": "看左右兩邊",
+    "category": "Everyday",
+    "example": "Please look both ways.",
+    "exampleZh": "請看左右兩邊。"
+  },
+  {
+    "level": "L2",
+    "phrase": "cross the street",
+    "meaning": "過馬路",
+    "category": "Everyday",
+    "example": "Please cross the street.",
+    "exampleZh": "請過馬路。"
+  },
+  {
+    "level": "L2",
+    "phrase": "stay on the sidewalk",
+    "meaning": "走在人行道上",
+    "category": "Everyday",
+    "example": "Please stay on the sidewalk.",
+    "exampleZh": "請走在人行道上。"
+  },
+  {
+    "level": "L2",
+    "phrase": "keep your hands to yourself",
+    "meaning": "不要碰別人",
+    "category": "Everyday",
+    "example": "Please keep your hands to yourself.",
+    "exampleZh": "請不要碰別人。"
+  },
+  {
+    "level": "L2",
+    "phrase": "count to ten",
+    "meaning": "數到十",
+    "category": "Everyday",
+    "example": "Please count to ten.",
+    "exampleZh": "請數到十。"
+  },
+  {
+    "level": "L2",
+    "phrase": "point to the picture",
+    "meaning": "指著圖片",
+    "category": "Everyday",
+    "example": "Please point to the picture.",
+    "exampleZh": "請指著圖片。"
+  },
+  {
+    "level": "L2",
+    "phrase": "turn the page",
+    "meaning": "翻頁",
+    "category": "Everyday",
+    "example": "Please turn the page.",
+    "exampleZh": "請翻頁。"
+  },
+  {
+    "level": "L2",
+    "phrase": "draw a circle",
+    "meaning": "畫一個圓",
+    "category": "Everyday",
+    "example": "Please draw a circle.",
+    "exampleZh": "請畫一個圓。"
+  },
+  {
+    "level": "L2",
+    "phrase": "sing along",
+    "meaning": "跟著唱",
+    "category": "Everyday",
+    "example": "Please sing along.",
+    "exampleZh": "請跟著唱。"
+  },
+  {
+    "level": "L3",
+    "phrase": "raise your hand",
+    "meaning": "舉手",
+    "category": "Study",
+    "example": "Please raise your hand.",
+    "exampleZh": "請舉手。"
+  },
+  {
+    "level": "L3",
+    "phrase": "stand in line",
+    "meaning": "排隊",
+    "category": "Study",
+    "example": "Please stand in line.",
+    "exampleZh": "請排隊。"
+  },
+  {
+    "level": "L3",
+    "phrase": "line up",
+    "meaning": "排隊",
+    "category": "Study",
+    "example": "Please line up.",
+    "exampleZh": "請排隊。"
+  },
+  {
+    "level": "L3",
+    "phrase": "listen carefully",
+    "meaning": "仔細聽",
+    "category": "Study",
+    "example": "Please listen carefully.",
+    "exampleZh": "請仔細聽。"
+  },
+  {
+    "level": "L3",
+    "phrase": "look at the board",
+    "meaning": "看黑板",
+    "category": "Study",
+    "example": "Please look at the board.",
+    "exampleZh": "請看黑板。"
+  },
+  {
+    "level": "L3",
+    "phrase": "open your book",
+    "meaning": "打開書本",
+    "category": "Study",
+    "example": "Please open your book.",
+    "exampleZh": "請打開書本。"
+  },
+  {
+    "level": "L3",
+    "phrase": "write your name",
+    "meaning": "寫下姓名",
+    "category": "Study",
+    "example": "Please write your name.",
+    "exampleZh": "請寫下姓名。"
+  },
+  {
+    "level": "L3",
+    "phrase": "spell your name",
+    "meaning": "拼出姓名",
+    "category": "Study",
+    "example": "Please spell your name.",
+    "exampleZh": "請拼出姓名。"
+  },
+  {
+    "level": "L3",
+    "phrase": "sound it out",
+    "meaning": "試著拼讀出來",
+    "category": "Study",
+    "example": "Please sound it out.",
+    "exampleZh": "請試著拼讀出來。"
+  },
+  {
+    "level": "L3",
+    "phrase": "repeat after me",
+    "meaning": "跟著我說",
+    "category": "Study",
+    "example": "Please repeat after me.",
+    "exampleZh": "請跟著我說。"
+  },
+  {
+    "level": "L3",
+    "phrase": "speak slowly",
+    "meaning": "慢慢說",
+    "category": "Study",
+    "example": "Please speak slowly.",
+    "exampleZh": "請慢慢說。"
+  },
+  {
+    "level": "L3",
+    "phrase": "speak clearly",
+    "meaning": "說清楚",
+    "category": "Study",
+    "example": "Please speak clearly.",
+    "exampleZh": "請說清楚。"
+  },
+  {
+    "level": "L3",
+    "phrase": "work together",
+    "meaning": "一起合作",
+    "category": "Study",
+    "example": "Please work together.",
+    "exampleZh": "請一起合作。"
+  },
+  {
+    "level": "L3",
+    "phrase": "work in pairs",
+    "meaning": "兩人一組",
+    "category": "Study",
+    "example": "Please work in pairs.",
+    "exampleZh": "請兩人一組。"
+  },
+  {
+    "level": "L3",
+    "phrase": "join the group",
+    "meaning": "加入小組",
+    "category": "Study",
+    "example": "Please join the group.",
+    "exampleZh": "請加入小組。"
+  },
+  {
+    "level": "L3",
+    "phrase": "take a deep breath",
+    "meaning": "深呼吸",
+    "category": "Study",
+    "example": "Please take a deep breath.",
+    "exampleZh": "請深呼吸。"
+  },
+  {
+    "level": "L3",
+    "phrase": "try again",
+    "meaning": "再試一次",
+    "category": "Study",
+    "example": "Please try again.",
+    "exampleZh": "請再試一次。"
+  },
+  {
+    "level": "L3",
+    "phrase": "do your best",
+    "meaning": "盡力",
+    "category": "Study",
+    "example": "Please do your best.",
+    "exampleZh": "請盡力。"
+  },
+  {
+    "level": "L3",
+    "phrase": "keep trying",
+    "meaning": "繼續嘗試",
+    "category": "Study",
+    "example": "Please keep trying.",
+    "exampleZh": "請繼續嘗試。"
+  },
+  {
+    "level": "L3",
+    "phrase": "keep going",
+    "meaning": "繼續",
+    "category": "Study",
+    "example": "Please keep going.",
+    "exampleZh": "請繼續。"
+  },
+  {
+    "level": "L3",
+    "phrase": "check your answer",
+    "meaning": "檢查答案",
+    "category": "Study",
+    "example": "Please check your answer.",
+    "exampleZh": "請檢查答案。"
+  },
+  {
+    "level": "L3",
+    "phrase": "correct your mistake",
+    "meaning": "改正錯誤",
+    "category": "Study",
+    "example": "Please correct your mistake.",
+    "exampleZh": "請改正錯誤。"
+  },
+  {
+    "level": "L3",
+    "phrase": "erase the word",
+    "meaning": "擦掉這個字",
+    "category": "Study",
+    "example": "Please erase the word.",
+    "exampleZh": "請擦掉這個字。"
+  },
+  {
+    "level": "L3",
+    "phrase": "circle the answer",
+    "meaning": "圈出答案",
+    "category": "Study",
+    "example": "Please circle the answer.",
+    "exampleZh": "請圈出答案。"
+  },
+  {
+    "level": "L3",
+    "phrase": "underline the word",
+    "meaning": "在這個字下畫線",
+    "category": "Study",
+    "example": "Please underline the word.",
+    "exampleZh": "請在這個字下畫線。"
+  },
+  {
+    "level": "L3",
+    "phrase": "match the pictures",
+    "meaning": "配對圖片",
+    "category": "Study",
+    "example": "Please match the pictures.",
+    "exampleZh": "請配對圖片。"
+  },
+  {
+    "level": "L3",
+    "phrase": "follow the instructions",
+    "meaning": "按照指示",
+    "category": "Study",
+    "example": "Please follow the instructions.",
+    "exampleZh": "請按照指示。"
+  },
+  {
+    "level": "L3",
+    "phrase": "ask a question",
+    "meaning": "問一個問題",
+    "category": "Study",
+    "example": "Please ask a question.",
+    "exampleZh": "請問一個問題。"
+  },
+  {
+    "level": "L3",
+    "phrase": "answer the question",
+    "meaning": "回答問題",
+    "category": "Study",
+    "example": "Please answer the question.",
+    "exampleZh": "請回答問題。"
+  },
+  {
+    "level": "L3",
+    "phrase": "help each other",
+    "meaning": "互相幫忙",
+    "category": "Study",
+    "example": "Please help each other.",
+    "exampleZh": "請互相幫忙。"
+  },
+  {
+    "level": "L3",
+    "phrase": "be a good sport",
+    "meaning": "展現運動家精神",
+    "category": "Study",
+    "example": "Please be a good sport.",
+    "exampleZh": "請展現運動家精神。"
+  },
+  {
+    "level": "L4",
+    "phrase": "set the table",
+    "meaning": "擺好餐具",
+    "category": "Everyday",
+    "example": "We can set the table.",
+    "exampleZh": "我們可以擺好餐具。"
+  },
+  {
+    "level": "L4",
+    "phrase": "clear the table",
+    "meaning": "收拾餐桌",
+    "category": "Everyday",
+    "example": "We can clear the table.",
+    "exampleZh": "我們可以收拾餐桌。"
+  },
+  {
+    "level": "L4",
+    "phrase": "do the dishes",
+    "meaning": "洗碗",
+    "category": "Everyday",
+    "example": "We can do the dishes.",
+    "exampleZh": "我們可以洗碗。"
+  },
+  {
+    "level": "L4",
+    "phrase": "load the dishwasher",
+    "meaning": "把餐具放進洗碗機",
+    "category": "Everyday",
+    "example": "We can load the dishwasher.",
+    "exampleZh": "我們可以把餐具放進洗碗機。"
+  },
+  {
+    "level": "L4",
+    "phrase": "empty the dishwasher",
+    "meaning": "取出洗碗機內的餐具",
+    "category": "Everyday",
+    "example": "We can empty the dishwasher.",
+    "exampleZh": "我們可以取出洗碗機內的餐具。"
+  },
+  {
+    "level": "L4",
+    "phrase": "take out the trash",
+    "meaning": "倒垃圾",
+    "category": "Everyday",
+    "example": "We can take out the trash.",
+    "exampleZh": "我們可以倒垃圾。"
+  },
+  {
+    "level": "L4",
+    "phrase": "sort the recycling",
+    "meaning": "分類回收物",
+    "category": "Everyday",
+    "example": "We can sort the recycling.",
+    "exampleZh": "我們可以分類回收物。"
+  },
+  {
+    "level": "L4",
+    "phrase": "sweep the floor",
+    "meaning": "掃地",
+    "category": "Everyday",
+    "example": "We can sweep the floor.",
+    "exampleZh": "我們可以掃地。"
+  },
+  {
+    "level": "L4",
+    "phrase": "mop the floor",
+    "meaning": "拖地",
+    "category": "Everyday",
+    "example": "We can mop the floor.",
+    "exampleZh": "我們可以拖地。"
+  },
+  {
+    "level": "L4",
+    "phrase": "vacuum the carpet",
+    "meaning": "吸地毯",
+    "category": "Everyday",
+    "example": "We can vacuum the carpet.",
+    "exampleZh": "我們可以吸地毯。"
+  },
+  {
+    "level": "L4",
+    "phrase": "dust the shelves",
+    "meaning": "擦拭架子上的灰塵",
+    "category": "Everyday",
+    "example": "We can dust the shelves.",
+    "exampleZh": "我們可以擦拭架子上的灰塵。"
+  },
+  {
+    "level": "L4",
+    "phrase": "water the plants",
+    "meaning": "澆花",
+    "category": "Everyday",
+    "example": "We can water the plants.",
+    "exampleZh": "我們可以澆花。"
+  },
+  {
+    "level": "L4",
+    "phrase": "feed the cat",
+    "meaning": "餵貓",
+    "category": "Everyday",
+    "example": "We can feed the cat.",
+    "exampleZh": "我們可以餵貓。"
+  },
+  {
+    "level": "L4",
+    "phrase": "walk the dog",
+    "meaning": "遛狗",
+    "category": "Everyday",
+    "example": "We can walk the dog.",
+    "exampleZh": "我們可以遛狗。"
+  },
+  {
+    "level": "L4",
+    "phrase": "do the laundry",
+    "meaning": "洗衣服",
+    "category": "Everyday",
+    "example": "We can do the laundry.",
+    "exampleZh": "我們可以洗衣服。"
+  },
+  {
+    "level": "L4",
+    "phrase": "hang up the clothes",
+    "meaning": "晾衣服",
+    "category": "Everyday",
+    "example": "We can hang up the clothes.",
+    "exampleZh": "我們可以晾衣服。"
+  },
+  {
+    "level": "L4",
+    "phrase": "fold the laundry",
+    "meaning": "摺洗好的衣服",
+    "category": "Everyday",
+    "example": "We can fold the laundry.",
+    "exampleZh": "我們可以摺洗好的衣服。"
+  },
+  {
+    "level": "L4",
+    "phrase": "put away the clothes",
+    "meaning": "收好衣服",
+    "category": "Everyday",
+    "example": "We can put away the clothes.",
+    "exampleZh": "我們可以收好衣服。"
+  },
+  {
+    "level": "L4",
+    "phrase": "change the sheets",
+    "meaning": "換床單",
+    "category": "Everyday",
+    "example": "We can change the sheets.",
+    "exampleZh": "我們可以換床單。"
+  },
+  {
+    "level": "L4",
+    "phrase": "pack a lunch",
+    "meaning": "準備餐盒",
+    "category": "Everyday",
+    "example": "We can pack a lunch.",
+    "exampleZh": "我們可以準備餐盒。"
+  },
+  {
+    "level": "L4",
+    "phrase": "pack a schoolbag",
+    "meaning": "整理書包",
+    "category": "Everyday",
+    "example": "We can pack a schoolbag.",
+    "exampleZh": "我們可以整理書包。"
+  },
+  {
+    "level": "L4",
+    "phrase": "tie your shoelaces",
+    "meaning": "綁鞋帶",
+    "category": "Everyday",
+    "example": "We can tie your shoelaces.",
+    "exampleZh": "我們可以綁鞋帶。"
+  },
+  {
+    "level": "L4",
+    "phrase": "wear a helmet",
+    "meaning": "戴安全帽",
+    "category": "Everyday",
+    "example": "We can wear a helmet.",
+    "exampleZh": "我們可以戴安全帽。"
+  },
+  {
+    "level": "L4",
+    "phrase": "fasten your seat belt",
+    "meaning": "繫安全帶",
+    "category": "Everyday",
+    "example": "We can fasten your seat belt.",
+    "exampleZh": "我們可以繫安全帶。"
+  },
+  {
+    "level": "L4",
+    "phrase": "ride a bike",
+    "meaning": "騎腳踏車",
+    "category": "Everyday",
+    "example": "We can ride a bike.",
+    "exampleZh": "我們可以騎腳踏車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "catch a bus",
+    "meaning": "趕上公車",
+    "category": "Everyday",
+    "example": "We can catch a bus.",
+    "exampleZh": "我們可以趕上公車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "take a train",
+    "meaning": "搭火車",
+    "category": "Everyday",
+    "example": "We can take a train.",
+    "exampleZh": "我們可以搭火車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "get on the bus",
+    "meaning": "上公車",
+    "category": "Everyday",
+    "example": "We can get on the bus.",
+    "exampleZh": "我們可以上公車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "get off the bus",
+    "meaning": "下公車",
+    "category": "Everyday",
+    "example": "We can get off the bus.",
+    "exampleZh": "我們可以下公車。"
+  },
+  {
+    "level": "L4",
+    "phrase": "wait at the stop",
+    "meaning": "在站牌等候",
+    "category": "Everyday",
+    "example": "We can wait at the stop.",
+    "exampleZh": "我們可以在站牌等候。"
+  },
+  {
+    "level": "L4",
+    "phrase": "buy a ticket",
+    "meaning": "買票",
+    "category": "Everyday",
+    "example": "We can buy a ticket.",
+    "exampleZh": "我們可以買票。"
+  },
+  {
+    "level": "L4",
+    "phrase": "check the timetable",
+    "meaning": "查看時刻表",
+    "category": "Everyday",
+    "example": "We can check the timetable.",
+    "exampleZh": "我們可以查看時刻表。"
+  },
+  {
+    "level": "L4",
+    "phrase": "follow the map",
+    "meaning": "照地圖走",
+    "category": "Everyday",
+    "example": "We can follow the map.",
+    "exampleZh": "我們可以照地圖走。"
+  },
+  {
+    "level": "L4",
+    "phrase": "ask for directions",
+    "meaning": "問路",
+    "category": "Everyday",
+    "example": "We can ask for directions.",
+    "exampleZh": "我們可以問路。"
+  },
+  {
+    "level": "L4",
+    "phrase": "turn left",
+    "meaning": "左轉",
+    "category": "Everyday",
+    "example": "We can turn left.",
+    "exampleZh": "我們可以左轉。"
+  },
+  {
+    "level": "L4",
+    "phrase": "turn right",
+    "meaning": "右轉",
+    "category": "Everyday",
+    "example": "We can turn right.",
+    "exampleZh": "我們可以右轉。"
+  },
+  {
+    "level": "L4",
+    "phrase": "go straight",
+    "meaning": "直走",
+    "category": "Everyday",
+    "example": "We can go straight.",
+    "exampleZh": "我們可以直走。"
+  },
+  {
+    "level": "L4",
+    "phrase": "cross the bridge",
+    "meaning": "過橋",
+    "category": "Everyday",
+    "example": "We can cross the bridge.",
+    "exampleZh": "我們可以過橋。"
+  },
+  {
+    "level": "L4",
+    "phrase": "go upstairs",
+    "meaning": "上樓",
+    "category": "Everyday",
+    "example": "We can go upstairs.",
+    "exampleZh": "我們可以上樓。"
+  },
+  {
+    "level": "L4",
+    "phrase": "go downstairs",
+    "meaning": "下樓",
+    "category": "Everyday",
+    "example": "We can go downstairs.",
+    "exampleZh": "我們可以下樓。"
+  },
+  {
+    "level": "L4",
+    "phrase": "take the stairs",
+    "meaning": "走樓梯",
+    "category": "Everyday",
+    "example": "We can take the stairs.",
+    "exampleZh": "我們可以走樓梯。"
+  },
+  {
+    "level": "L4",
+    "phrase": "take the elevator",
+    "meaning": "搭電梯",
+    "category": "Everyday",
+    "example": "We can take the elevator.",
+    "exampleZh": "我們可以搭電梯。"
+  },
+  {
+    "level": "L4",
+    "phrase": "meet at the entrance",
+    "meaning": "在入口碰面",
+    "category": "Everyday",
+    "example": "We can meet at the entrance.",
+    "exampleZh": "我們可以在入口碰面。"
+  },
+  {
+    "level": "L4",
+    "phrase": "stay indoors",
+    "meaning": "待在室內",
+    "category": "Everyday",
+    "example": "We can stay indoors.",
+    "exampleZh": "我們可以待在室內。"
+  },
+  {
+    "level": "L4",
+    "phrase": "head home",
+    "meaning": "回家",
+    "category": "Everyday",
+    "example": "We can head home.",
+    "exampleZh": "我們可以回家。"
+  },
+  {
+    "level": "L5",
+    "phrase": "make a shopping list",
+    "meaning": "列購物清單",
+    "category": "Everyday",
+    "example": "We can make a shopping list.",
+    "exampleZh": "我們可以列購物清單。"
+  },
+  {
+    "level": "L5",
+    "phrase": "compare prices",
+    "meaning": "比價",
+    "category": "Everyday",
+    "example": "We can compare prices.",
+    "exampleZh": "我們可以比價。"
+  },
+  {
+    "level": "L5",
+    "phrase": "look for a bargain",
+    "meaning": "找便宜商品",
+    "category": "Everyday",
+    "example": "We can look for a bargain.",
+    "exampleZh": "我們可以找便宜商品。"
+  },
+  {
+    "level": "L5",
+    "phrase": "try on a jacket",
+    "meaning": "試穿外套",
+    "category": "Everyday",
+    "example": "We can try on a jacket.",
+    "exampleZh": "我們可以試穿外套。"
+  },
+  {
+    "level": "L5",
+    "phrase": "ask for a receipt",
+    "meaning": "索取收據",
+    "category": "Everyday",
+    "example": "We can ask for a receipt.",
+    "exampleZh": "我們可以索取收據。"
+  },
+  {
+    "level": "L5",
+    "phrase": "pay in cash",
+    "meaning": "用現金付款",
+    "category": "Everyday",
+    "example": "We can pay in cash.",
+    "exampleZh": "我們可以用現金付款。"
+  },
+  {
+    "level": "L5",
+    "phrase": "pay by card",
+    "meaning": "刷卡付款",
+    "category": "Everyday",
+    "example": "We can pay by card.",
+    "exampleZh": "我們可以刷卡付款。"
+  },
+  {
+    "level": "L5",
+    "phrase": "count the change",
+    "meaning": "數找回的零錢",
+    "category": "Everyday",
+    "example": "We can count the change.",
+    "exampleZh": "我們可以數找回的零錢。"
+  },
+  {
+    "level": "L5",
+    "phrase": "save money",
+    "meaning": "存錢",
+    "category": "Everyday",
+    "example": "We can save money.",
+    "exampleZh": "我們可以存錢。"
+  },
+  {
+    "level": "L5",
+    "phrase": "spend wisely",
+    "meaning": "明智地花錢",
+    "category": "Everyday",
+    "example": "We can spend wisely.",
+    "exampleZh": "我們可以明智地花錢。"
+  },
+  {
+    "level": "L5",
+    "phrase": "stick to a budget",
+    "meaning": "遵守預算",
+    "category": "Everyday",
+    "example": "We can stick to a budget.",
+    "exampleZh": "我們可以遵守預算。"
+  },
+  {
+    "level": "L5",
+    "phrase": "borrow a book",
+    "meaning": "借書",
+    "category": "Everyday",
+    "example": "We can borrow a book.",
+    "exampleZh": "我們可以借書。"
+  },
+  {
+    "level": "L5",
+    "phrase": "return a book",
+    "meaning": "還書",
+    "category": "Everyday",
+    "example": "We can return a book.",
+    "exampleZh": "我們可以還書。"
+  },
+  {
+    "level": "L5",
+    "phrase": "renew a library book",
+    "meaning": "續借圖書",
+    "category": "Everyday",
+    "example": "We can renew a library book.",
+    "exampleZh": "我們可以續借圖書。"
+  },
+  {
+    "level": "L5",
+    "phrase": "look up a word",
+    "meaning": "查單字",
+    "category": "Everyday",
+    "example": "We can look up a word.",
+    "exampleZh": "我們可以查單字。"
+  },
+  {
+    "level": "L5",
+    "phrase": "keep a diary",
+    "meaning": "寫日記",
+    "category": "Everyday",
+    "example": "We can keep a diary.",
+    "exampleZh": "我們可以寫日記。"
+  },
+  {
+    "level": "L5",
+    "phrase": "write a letter",
+    "meaning": "寫信",
+    "category": "Everyday",
+    "example": "We can write a letter.",
+    "exampleZh": "我們可以寫信。"
+  },
+  {
+    "level": "L5",
+    "phrase": "send a postcard",
+    "meaning": "寄明信片",
+    "category": "Everyday",
+    "example": "We can send a postcard.",
+    "exampleZh": "我們可以寄明信片。"
+  },
+  {
+    "level": "L5",
+    "phrase": "leave a message",
+    "meaning": "留言",
+    "category": "Everyday",
+    "example": "We can leave a message.",
+    "exampleZh": "我們可以留言。"
+  },
+  {
+    "level": "L5",
+    "phrase": "take a message",
+    "meaning": "代留口信",
+    "category": "Everyday",
+    "example": "We can take a message.",
+    "exampleZh": "我們可以代留口信。"
+  },
+  {
+    "level": "L5",
+    "phrase": "answer the phone",
+    "meaning": "接電話",
+    "category": "Everyday",
+    "example": "We can answer the phone.",
+    "exampleZh": "我們可以接電話。"
+  },
+  {
+    "level": "L5",
+    "phrase": "hang up the phone",
+    "meaning": "掛電話",
+    "category": "Everyday",
+    "example": "We can hang up the phone.",
+    "exampleZh": "我們可以掛電話。"
+  },
+  {
+    "level": "L5",
+    "phrase": "charge your phone",
+    "meaning": "替手機充電",
+    "category": "Everyday",
+    "example": "We can charge your phone.",
+    "exampleZh": "我們可以替手機充電。"
+  },
+  {
+    "level": "L5",
+    "phrase": "turn down the volume",
+    "meaning": "調低音量",
+    "category": "Everyday",
+    "example": "We can turn down the volume.",
+    "exampleZh": "我們可以調低音量。"
+  },
+  {
+    "level": "L5",
+    "phrase": "turn up the volume",
+    "meaning": "調高音量",
+    "category": "Everyday",
+    "example": "We can turn up the volume.",
+    "exampleZh": "我們可以調高音量。"
+  },
+  {
+    "level": "L5",
+    "phrase": "record a video",
+    "meaning": "錄影",
+    "category": "Everyday",
+    "example": "We can record a video.",
+    "exampleZh": "我們可以錄影。"
+  },
+  {
+    "level": "L5",
+    "phrase": "send an email",
+    "meaning": "寄電子郵件",
+    "category": "Everyday",
+    "example": "We can send an email.",
+    "exampleZh": "我們可以寄電子郵件。"
+  },
+  {
+    "level": "L5",
+    "phrase": "attach a file",
+    "meaning": "附加檔案",
+    "category": "Everyday",
+    "example": "We can attach a file.",
+    "exampleZh": "我們可以附加檔案。"
+  },
+  {
+    "level": "L5",
+    "phrase": "click the link",
+    "meaning": "點擊連結",
+    "category": "Everyday",
+    "example": "We can click the link.",
+    "exampleZh": "我們可以點擊連結。"
+  },
+  {
+    "level": "L5",
+    "phrase": "save a file",
+    "meaning": "儲存檔案",
+    "category": "Everyday",
+    "example": "We can save a file.",
+    "exampleZh": "我們可以儲存檔案。"
+  },
+  {
+    "level": "L5",
+    "phrase": "print a document",
+    "meaning": "列印文件",
+    "category": "Everyday",
+    "example": "We can print a document.",
+    "exampleZh": "我們可以列印文件。"
+  },
+  {
+    "level": "L5",
+    "phrase": "join a video call",
+    "meaning": "加入視訊通話",
+    "category": "Everyday",
+    "example": "We can join a video call.",
+    "exampleZh": "我們可以加入視訊通話。"
+  },
+  {
+    "level": "L5",
+    "phrase": "mute the microphone",
+    "meaning": "把麥克風靜音",
+    "category": "Everyday",
+    "example": "We can mute the microphone.",
+    "exampleZh": "我們可以把麥克風靜音。"
+  },
+  {
+    "level": "L5",
+    "phrase": "change your password",
+    "meaning": "更換密碼",
+    "category": "Everyday",
+    "example": "We can change your password.",
+    "exampleZh": "我們可以更換密碼。"
+  },
+  {
+    "level": "L5",
+    "phrase": "log out of your account",
+    "meaning": "登出帳號",
+    "category": "Everyday",
+    "example": "We can log out of your account.",
+    "exampleZh": "我們可以登出帳號。"
+  },
+  {
+    "level": "L5",
+    "phrase": "back up your files",
+    "meaning": "備份檔案",
+    "category": "Everyday",
+    "example": "We can back up your files.",
+    "exampleZh": "我們可以備份檔案。"
+  },
+  {
+    "level": "L5",
+    "phrase": "update the app",
+    "meaning": "更新應用程式",
+    "category": "Everyday",
+    "example": "We can update the app.",
+    "exampleZh": "我們可以更新應用程式。"
+  },
+  {
+    "level": "L5",
+    "phrase": "connect to the internet",
+    "meaning": "連上網路",
+    "category": "Everyday",
+    "example": "We can connect to the internet.",
+    "exampleZh": "我們可以連上網路。"
+  },
+  {
+    "level": "L5",
+    "phrase": "switch off the lights",
+    "meaning": "關燈",
+    "category": "Everyday",
+    "example": "We can switch off the lights.",
+    "exampleZh": "我們可以關燈。"
+  },
+  {
+    "level": "L5",
+    "phrase": "unplug the charger",
+    "meaning": "拔掉充電器",
+    "category": "Everyday",
+    "example": "We can unplug the charger.",
+    "exampleZh": "我們可以拔掉充電器。"
+  },
+  {
+    "level": "L5",
+    "phrase": "recycle a bottle",
+    "meaning": "回收瓶子",
+    "category": "Everyday",
+    "example": "We can recycle a bottle.",
+    "exampleZh": "我們可以回收瓶子。"
+  },
+  {
+    "level": "L5",
+    "phrase": "reuse a bag",
+    "meaning": "重複使用袋子",
+    "category": "Everyday",
+    "example": "We can reuse a bag.",
+    "exampleZh": "我們可以重複使用袋子。"
+  },
+  {
+    "level": "L5",
+    "phrase": "reduce waste",
+    "meaning": "減少浪費",
+    "category": "Everyday",
+    "example": "We can reduce waste.",
+    "exampleZh": "我們可以減少浪費。"
+  },
+  {
+    "level": "L5",
+    "phrase": "save water",
+    "meaning": "節約用水",
+    "category": "Everyday",
+    "example": "We can save water.",
+    "exampleZh": "我們可以節約用水。"
+  },
+  {
+    "level": "L5",
+    "phrase": "save electricity",
+    "meaning": "節約用電",
+    "category": "Everyday",
+    "example": "We can save electricity.",
+    "exampleZh": "我們可以節約用電。"
+  },
+  {
+    "level": "L6",
+    "phrase": "book a flight",
+    "meaning": "訂機票",
+    "category": "Travel",
+    "example": "We can book a flight.",
+    "exampleZh": "我們可以訂機票。"
+  },
+  {
+    "level": "L6",
+    "phrase": "reserve a room",
+    "meaning": "訂房",
+    "category": "Travel",
+    "example": "We can reserve a room.",
+    "exampleZh": "我們可以訂房。"
+  },
+  {
+    "level": "L6",
+    "phrase": "confirm a booking",
+    "meaning": "確認預訂",
+    "category": "Travel",
+    "example": "We can confirm a booking.",
+    "exampleZh": "我們可以確認預訂。"
+  },
+  {
+    "level": "L6",
+    "phrase": "cancel a reservation",
+    "meaning": "取消預約",
+    "category": "Travel",
+    "example": "We can cancel a reservation.",
+    "exampleZh": "我們可以取消預約。"
+  },
+  {
+    "level": "L6",
+    "phrase": "check the weather",
+    "meaning": "查看天氣",
+    "category": "Travel",
+    "example": "We can check the weather.",
+    "exampleZh": "我們可以查看天氣。"
+  },
+  {
+    "level": "L6",
+    "phrase": "plan a route",
+    "meaning": "規劃路線",
+    "category": "Travel",
+    "example": "We can plan a route.",
+    "exampleZh": "我們可以規劃路線。"
+  },
+  {
+    "level": "L6",
+    "phrase": "pack lightly",
+    "meaning": "輕裝打包",
+    "category": "Travel",
+    "example": "We can pack lightly.",
+    "exampleZh": "我們可以輕裝打包。"
+  },
+  {
+    "level": "L6",
+    "phrase": "travel abroad",
+    "meaning": "出國旅行",
+    "category": "Travel",
+    "example": "We can travel abroad.",
+    "exampleZh": "我們可以出國旅行。"
+  },
+  {
+    "level": "L6",
+    "phrase": "go sightseeing",
+    "meaning": "觀光",
+    "category": "Travel",
+    "example": "We can go sightseeing.",
+    "exampleZh": "我們可以觀光。"
+  },
+  {
+    "level": "L6",
+    "phrase": "visit a museum",
+    "meaning": "參觀博物館",
+    "category": "Travel",
+    "example": "We can visit a museum.",
+    "exampleZh": "我們可以參觀博物館。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take a guided tour",
+    "meaning": "參加導覽",
+    "category": "Travel",
+    "example": "We can take a guided tour.",
+    "exampleZh": "我們可以參加導覽。"
+  },
+  {
+    "level": "L6",
+    "phrase": "rent a car",
+    "meaning": "租車",
+    "category": "Travel",
+    "example": "We can rent a car.",
+    "exampleZh": "我們可以租車。"
+  },
+  {
+    "level": "L6",
+    "phrase": "hire a guide",
+    "meaning": "聘請導遊",
+    "category": "Travel",
+    "example": "We can hire a guide.",
+    "exampleZh": "我們可以聘請導遊。"
+  },
+  {
+    "level": "L6",
+    "phrase": "exchange currency",
+    "meaning": "換外幣",
+    "category": "Travel",
+    "example": "We can exchange currency.",
+    "exampleZh": "我們可以換外幣。"
+  },
+  {
+    "level": "L6",
+    "phrase": "withdraw cash",
+    "meaning": "提款",
+    "category": "Travel",
+    "example": "We can withdraw cash.",
+    "exampleZh": "我們可以提款。"
+  },
+  {
+    "level": "L6",
+    "phrase": "check the exchange rate",
+    "meaning": "查看匯率",
+    "category": "Travel",
+    "example": "We can check the exchange rate.",
+    "exampleZh": "我們可以查看匯率。"
+  },
+  {
+    "level": "L6",
+    "phrase": "fill in a form",
+    "meaning": "填表",
+    "category": "Travel",
+    "example": "We can fill in a form.",
+    "exampleZh": "我們可以填表。"
+  },
+  {
+    "level": "L6",
+    "phrase": "show your passport",
+    "meaning": "出示護照",
+    "category": "Travel",
+    "example": "We can show your passport.",
+    "exampleZh": "我們可以出示護照。"
+  },
+  {
+    "level": "L6",
+    "phrase": "go through security",
+    "meaning": "通過安檢",
+    "category": "Travel",
+    "example": "We can go through security.",
+    "exampleZh": "我們可以通過安檢。"
+  },
+  {
+    "level": "L6",
+    "phrase": "go through customs",
+    "meaning": "通過海關",
+    "category": "Travel",
+    "example": "We can go through customs.",
+    "exampleZh": "我們可以通過海關。"
+  },
+  {
+    "level": "L6",
+    "phrase": "collect your baggage",
+    "meaning": "領取行李",
+    "category": "Travel",
+    "example": "We can collect your baggage.",
+    "exampleZh": "我們可以領取行李。"
+  },
+  {
+    "level": "L6",
+    "phrase": "check in online",
+    "meaning": "線上報到",
+    "category": "Travel",
+    "example": "We can check in online.",
+    "exampleZh": "我們可以線上報到。"
+  },
+  {
+    "level": "L6",
+    "phrase": "board the plane",
+    "meaning": "登機",
+    "category": "Travel",
+    "example": "We can board the plane.",
+    "exampleZh": "我們可以登機。"
+  },
+  {
+    "level": "L6",
+    "phrase": "find your seat",
+    "meaning": "找座位",
+    "category": "Travel",
+    "example": "We can find your seat.",
+    "exampleZh": "我們可以找座位。"
+  },
+  {
+    "level": "L6",
+    "phrase": "put your seat upright",
+    "meaning": "把椅背調直",
+    "category": "Travel",
+    "example": "We can put your seat upright.",
+    "exampleZh": "我們可以把椅背調直。"
+  },
+  {
+    "level": "L6",
+    "phrase": "stow your bag",
+    "meaning": "收好提袋",
+    "category": "Travel",
+    "example": "We can stow your bag.",
+    "exampleZh": "我們可以收好提袋。"
+  },
+  {
+    "level": "L6",
+    "phrase": "catch a connecting flight",
+    "meaning": "搭轉接航班",
+    "category": "Travel",
+    "example": "We can catch a connecting flight.",
+    "exampleZh": "我們可以搭轉接航班。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make a connection",
+    "meaning": "趕上轉接班次",
+    "category": "Travel",
+    "example": "We can make a connection.",
+    "exampleZh": "我們可以趕上轉接班次。"
+  },
+  {
+    "level": "L6",
+    "phrase": "split the fare",
+    "meaning": "分攤車資",
+    "category": "Travel",
+    "example": "We can split the fare.",
+    "exampleZh": "我們可以分攤車資。"
+  },
+  {
+    "level": "L6",
+    "phrase": "give someone a ride",
+    "meaning": "載某人一程",
+    "category": "Travel",
+    "example": "We can give someone a ride.",
+    "exampleZh": "我們可以載某人一程。"
+  },
+  {
+    "level": "L6",
+    "phrase": "pick someone up",
+    "meaning": "接某人",
+    "category": "Travel",
+    "example": "We can pick someone up.",
+    "exampleZh": "我們可以接某人。"
+  },
+  {
+    "level": "L6",
+    "phrase": "drop someone off",
+    "meaning": "送某人到目的地",
+    "category": "Travel",
+    "example": "We can drop someone off.",
+    "exampleZh": "我們可以送某人到目的地。"
+  },
+  {
+    "level": "L6",
+    "phrase": "pull over",
+    "meaning": "靠邊停車",
+    "category": "Travel",
+    "example": "We can pull over.",
+    "exampleZh": "我們可以靠邊停車。"
+  },
+  {
+    "level": "L6",
+    "phrase": "fill up the tank",
+    "meaning": "加滿油",
+    "category": "Travel",
+    "example": "We can fill up the tank.",
+    "exampleZh": "我們可以加滿油。"
+  },
+  {
+    "level": "L6",
+    "phrase": "check the tire pressure",
+    "meaning": "檢查胎壓",
+    "category": "Travel",
+    "example": "We can check the tire pressure.",
+    "exampleZh": "我們可以檢查胎壓。"
+  },
+  {
+    "level": "L6",
+    "phrase": "follow the speed limit",
+    "meaning": "遵守速限",
+    "category": "Travel",
+    "example": "We can follow the speed limit.",
+    "exampleZh": "我們可以遵守速限。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take a detour",
+    "meaning": "繞路",
+    "category": "Travel",
+    "example": "We can take a detour.",
+    "exampleZh": "我們可以繞路。"
+  },
+  {
+    "level": "L6",
+    "phrase": "avoid rush hour",
+    "meaning": "避開尖峰時間",
+    "category": "Travel",
+    "example": "We can avoid rush hour.",
+    "exampleZh": "我們可以避開尖峰時間。"
+  },
+  {
+    "level": "L6",
+    "phrase": "beat the traffic",
+    "meaning": "避開車潮",
+    "category": "Travel",
+    "example": "We can beat the traffic.",
+    "exampleZh": "我們可以避開車潮。"
+  },
+  {
+    "level": "L6",
+    "phrase": "get stuck in traffic",
+    "meaning": "塞在車陣中",
+    "category": "Travel",
+    "example": "We got stuck in traffic.",
+    "exampleZh": "我們塞在車陣中。"
+  },
+  {
+    "level": "L6",
+    "phrase": "lose your way",
+    "meaning": "迷路",
+    "category": "Travel",
+    "example": "You may lose your way without a map.",
+    "exampleZh": "沒有地圖可能會迷路。"
+  },
+  {
+    "level": "L6",
+    "phrase": "find your way back",
+    "meaning": "找到回去的路",
+    "category": "Travel",
+    "example": "We can find your way back.",
+    "exampleZh": "我們可以找到回去的路。"
+  },
+  {
+    "level": "L6",
+    "phrase": "keep an eye on your bag",
+    "meaning": "留意自己的提袋",
+    "category": "Travel",
+    "example": "We can keep an eye on your bag.",
+    "exampleZh": "我們可以留意自己的提袋。"
+  },
+  {
+    "level": "L6",
+    "phrase": "stay in touch",
+    "meaning": "保持聯絡",
+    "category": "Travel",
+    "example": "We can stay in touch.",
+    "exampleZh": "我們可以保持聯絡。"
+  },
+  {
+    "level": "L6",
+    "phrase": "send your location",
+    "meaning": "傳送你的位置",
+    "category": "Travel",
+    "example": "We can send your location.",
+    "exampleZh": "我們可以傳送你的位置。"
+  },
+  {
+    "level": "L6",
+    "phrase": "make an appointment",
+    "meaning": "預約",
+    "category": "Health",
+    "example": "We can make an appointment.",
+    "exampleZh": "我們可以預約。"
+  },
+  {
+    "level": "L6",
+    "phrase": "see a doctor",
+    "meaning": "看醫生",
+    "category": "Health",
+    "example": "We can see a doctor.",
+    "exampleZh": "我們可以看醫生。"
+  },
+  {
+    "level": "L6",
+    "phrase": "have a checkup",
+    "meaning": "接受健康檢查",
+    "category": "Health",
+    "example": "We can have a checkup.",
+    "exampleZh": "我們可以接受健康檢查。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take your temperature",
+    "meaning": "量體溫",
+    "category": "Health",
+    "example": "We can take your temperature.",
+    "exampleZh": "我們可以量體溫。"
+  },
+  {
+    "level": "L6",
+    "phrase": "describe your symptoms",
+    "meaning": "描述症狀",
+    "category": "Health",
+    "example": "We can describe your symptoms.",
+    "exampleZh": "我們可以描述症狀。"
+  },
+  {
+    "level": "L6",
+    "phrase": "get a prescription",
+    "meaning": "取得處方",
+    "category": "Health",
+    "example": "We can get a prescription.",
+    "exampleZh": "我們可以取得處方。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take the medicine",
+    "meaning": "服藥",
+    "category": "Health",
+    "example": "We can take the medicine.",
+    "exampleZh": "我們可以服藥。"
+  },
+  {
+    "level": "L6",
+    "phrase": "follow the dosage instructions",
+    "meaning": "依照劑量說明服用",
+    "category": "Health",
+    "example": "We can follow the dosage instructions.",
+    "exampleZh": "我們可以依照劑量說明服用。"
+  },
+  {
+    "level": "L6",
+    "phrase": "read the label",
+    "meaning": "閱讀標示",
+    "category": "Health",
+    "example": "We can read the label.",
+    "exampleZh": "我們可以閱讀標示。"
+  },
+  {
+    "level": "L6",
+    "phrase": "ask a pharmacist",
+    "meaning": "詢問藥師",
+    "category": "Health",
+    "example": "We can ask a pharmacist.",
+    "exampleZh": "我們可以詢問藥師。"
+  },
+  {
+    "level": "L6",
+    "phrase": "get enough sleep",
+    "meaning": "睡眠充足",
+    "category": "Health",
+    "example": "We can get enough sleep.",
+    "exampleZh": "我們可以睡眠充足。"
+  },
+  {
+    "level": "L6",
+    "phrase": "stay hydrated",
+    "meaning": "保持水分充足",
+    "category": "Health",
+    "example": "We can stay hydrated.",
+    "exampleZh": "我們可以保持水分充足。"
+  },
+  {
+    "level": "L6",
+    "phrase": "eat a balanced diet",
+    "meaning": "均衡飲食",
+    "category": "Health",
+    "example": "We can eat a balanced diet.",
+    "exampleZh": "我們可以均衡飲食。"
+  },
+  {
+    "level": "L6",
+    "phrase": "cut down on sugar",
+    "meaning": "少吃糖",
+    "category": "Health",
+    "example": "We can cut down on sugar.",
+    "exampleZh": "我們可以少吃糖。"
+  },
+  {
+    "level": "L6",
+    "phrase": "cut down on salt",
+    "meaning": "少吃鹽",
+    "category": "Health",
+    "example": "We can cut down on salt.",
+    "exampleZh": "我們可以少吃鹽。"
+  },
+  {
+    "level": "L6",
+    "phrase": "exercise regularly",
+    "meaning": "規律運動",
+    "category": "Health",
+    "example": "We can exercise regularly.",
+    "exampleZh": "我們可以規律運動。"
+  },
+  {
+    "level": "L6",
+    "phrase": "warm up first",
+    "meaning": "先暖身",
+    "category": "Health",
+    "example": "We can warm up first.",
+    "exampleZh": "我們可以先暖身。"
+  },
+  {
+    "level": "L6",
+    "phrase": "cool down afterward",
+    "meaning": "之後做緩和運動",
+    "category": "Health",
+    "example": "We can cool down afterward.",
+    "exampleZh": "我們可以之後做緩和運動。"
+  },
+  {
+    "level": "L6",
+    "phrase": "stretch your muscles",
+    "meaning": "伸展肌肉",
+    "category": "Health",
+    "example": "We can stretch your muscles.",
+    "exampleZh": "我們可以伸展肌肉。"
+  },
+  {
+    "level": "L6",
+    "phrase": "improve your posture",
+    "meaning": "改善姿勢",
+    "category": "Health",
+    "example": "We can improve your posture.",
+    "exampleZh": "我們可以改善姿勢。"
+  },
+  {
+    "level": "L6",
+    "phrase": "protect your skin",
+    "meaning": "保護皮膚",
+    "category": "Health",
+    "example": "We can protect your skin.",
+    "exampleZh": "我們可以保護皮膚。"
+  },
+  {
+    "level": "L6",
+    "phrase": "apply sunscreen",
+    "meaning": "擦防曬乳",
+    "category": "Health",
+    "example": "We can apply sunscreen.",
+    "exampleZh": "我們可以擦防曬乳。"
+  },
+  {
+    "level": "L6",
+    "phrase": "rest your eyes",
+    "meaning": "讓眼睛休息",
+    "category": "Health",
+    "example": "We can rest your eyes.",
+    "exampleZh": "我們可以讓眼睛休息。"
+  },
+  {
+    "level": "L6",
+    "phrase": "take regular breaks",
+    "meaning": "定時休息",
+    "category": "Health",
+    "example": "We can take regular breaks.",
+    "exampleZh": "我們可以定時休息。"
+  },
+  {
+    "level": "L6",
+    "phrase": "keep a healthy routine",
+    "meaning": "維持健康作息",
+    "category": "Health",
+    "example": "We can keep a healthy routine.",
+    "exampleZh": "我們可以維持健康作息。"
+  },
+  {
+    "level": "L6",
+    "phrase": "manage stress",
+    "meaning": "管理壓力",
+    "category": "Health",
+    "example": "We can manage stress.",
+    "exampleZh": "我們可以管理壓力。"
+  },
+  {
+    "level": "L6",
+    "phrase": "talk to someone",
+    "meaning": "找人談談",
+    "category": "Health",
+    "example": "We can talk to someone.",
+    "exampleZh": "我們可以找人談談。"
+  },
+  {
+    "level": "L6",
+    "phrase": "call for help",
+    "meaning": "呼救",
+    "category": "Health",
+    "example": "We can call for help.",
+    "exampleZh": "我們可以呼救。"
+  },
+  {
+    "level": "L6",
+    "phrase": "call an ambulance",
+    "meaning": "叫救護車",
+    "category": "Health",
+    "example": "We can call an ambulance.",
+    "exampleZh": "我們可以叫救護車。"
+  },
+  {
+    "level": "L7",
+    "phrase": "review your notes",
+    "meaning": "複習筆記",
+    "category": "Study",
+    "example": "We can review your notes.",
+    "exampleZh": "我們可以複習筆記。"
+  },
+  {
+    "level": "L7",
+    "phrase": "summarize a passage",
+    "meaning": "摘要一段文章",
+    "category": "Study",
+    "example": "We can summarize a passage.",
+    "exampleZh": "我們可以摘要一段文章。"
+  },
+  {
+    "level": "L7",
+    "phrase": "identify the main idea",
+    "meaning": "找出主旨",
+    "category": "Study",
+    "example": "We can identify the main idea.",
+    "exampleZh": "我們可以找出主旨。"
+  },
+  {
+    "level": "L7",
+    "phrase": "find supporting details",
+    "meaning": "找出支持細節",
+    "category": "Study",
+    "example": "We can find supporting details.",
+    "exampleZh": "我們可以找出支持細節。"
+  },
+  {
+    "level": "L7",
+    "phrase": "make an outline",
+    "meaning": "擬大綱",
+    "category": "Study",
+    "example": "We can make an outline.",
+    "exampleZh": "我們可以擬大綱。"
+  },
+  {
+    "level": "L7",
+    "phrase": "write a draft",
+    "meaning": "寫草稿",
+    "category": "Study",
+    "example": "We can write a draft.",
+    "exampleZh": "我們可以寫草稿。"
+  },
+  {
+    "level": "L7",
+    "phrase": "revise an essay",
+    "meaning": "修改文章",
+    "category": "Study",
+    "example": "We can revise an essay.",
+    "exampleZh": "我們可以修改文章。"
+  },
+  {
+    "level": "L7",
+    "phrase": "proofread your work",
+    "meaning": "校對作業",
+    "category": "Study",
+    "example": "We can proofread your work.",
+    "exampleZh": "我們可以校對作業。"
+  },
+  {
+    "level": "L7",
+    "phrase": "check the spelling",
+    "meaning": "檢查拼字",
+    "category": "Study",
+    "example": "We can check the spelling.",
+    "exampleZh": "我們可以檢查拼字。"
+  },
+  {
+    "level": "L7",
+    "phrase": "correct the grammar",
+    "meaning": "修正文法",
+    "category": "Study",
+    "example": "We can correct the grammar.",
+    "exampleZh": "我們可以修正文法。"
+  },
+  {
+    "level": "L7",
+    "phrase": "cite a source",
+    "meaning": "引用來源",
+    "category": "Study",
+    "example": "We can cite a source.",
+    "exampleZh": "我們可以引用來源。"
+  },
+  {
+    "level": "L7",
+    "phrase": "look for evidence",
+    "meaning": "尋找證據",
+    "category": "Study",
+    "example": "We can look for evidence.",
+    "exampleZh": "我們可以尋找證據。"
+  },
+  {
+    "level": "L7",
+    "phrase": "draw an inference",
+    "meaning": "作出推論",
+    "category": "Study",
+    "example": "We can draw an inference.",
+    "exampleZh": "我們可以作出推論。"
+  },
+  {
+    "level": "L7",
+    "phrase": "make a prediction",
+    "meaning": "作出預測",
+    "category": "Study",
+    "example": "We can make a prediction.",
+    "exampleZh": "我們可以作出預測。"
+  },
+  {
+    "level": "L7",
+    "phrase": "test an idea",
+    "meaning": "測試想法",
+    "category": "Study",
+    "example": "We can test an idea.",
+    "exampleZh": "我們可以測試想法。"
+  },
+  {
+    "level": "L7",
+    "phrase": "compare and contrast",
+    "meaning": "比較異同",
+    "category": "Study",
+    "example": "We can compare and contrast.",
+    "exampleZh": "我們可以比較異同。"
+  },
+  {
+    "level": "L7",
+    "phrase": "sort into groups",
+    "meaning": "分類成組",
+    "category": "Study",
+    "example": "We can sort into groups.",
+    "exampleZh": "我們可以分類成組。"
+  },
+  {
+    "level": "L7",
+    "phrase": "break into parts",
+    "meaning": "拆成幾個部分",
+    "category": "Study",
+    "example": "We can break into parts.",
+    "exampleZh": "我們可以拆成幾個部分。"
+  },
+  {
+    "level": "L7",
+    "phrase": "solve a problem",
+    "meaning": "解決問題",
+    "category": "Study",
+    "example": "We can solve a problem.",
+    "exampleZh": "我們可以解決問題。"
+  },
+  {
+    "level": "L7",
+    "phrase": "show your work",
+    "meaning": "寫出解題過程",
+    "category": "Study",
+    "example": "We can show your work.",
+    "exampleZh": "我們可以寫出解題過程。"
+  },
+  {
+    "level": "L7",
+    "phrase": "explain your reasoning",
+    "meaning": "解釋推理過程",
+    "category": "Study",
+    "example": "We can explain your reasoning.",
+    "exampleZh": "我們可以解釋推理過程。"
+  },
+  {
+    "level": "L7",
+    "phrase": "learn from mistakes",
+    "meaning": "從錯誤中學習",
+    "category": "Study",
+    "example": "We can learn from mistakes.",
+    "exampleZh": "我們可以從錯誤中學習。"
+  },
+  {
+    "level": "L7",
+    "phrase": "learn by doing",
+    "meaning": "從實作中學習",
+    "category": "Study",
+    "example": "We can learn by doing.",
+    "exampleZh": "我們可以從實作中學習。"
+  },
+  {
+    "level": "L7",
+    "phrase": "learn by heart",
+    "meaning": "熟記",
+    "category": "Study",
+    "example": "We can learn by heart.",
+    "exampleZh": "我們可以熟記。"
+  },
+  {
+    "level": "L7",
+    "phrase": "memorize a poem",
+    "meaning": "背誦詩",
+    "category": "Study",
+    "example": "We can memorize a poem.",
+    "exampleZh": "我們可以背誦詩。"
+  },
+  {
+    "level": "L7",
+    "phrase": "read between the lines",
+    "meaning": "讀懂言外之意",
+    "category": "Study",
+    "example": "We can read between the lines.",
+    "exampleZh": "我們可以讀懂言外之意。"
+  },
+  {
+    "level": "L7",
+    "phrase": "read for pleasure",
+    "meaning": "為樂趣閱讀",
+    "category": "Study",
+    "example": "We can read for pleasure.",
+    "exampleZh": "我們可以為樂趣閱讀。"
+  },
+  {
+    "level": "L7",
+    "phrase": "build your vocabulary",
+    "meaning": "擴充詞彙",
+    "category": "Study",
+    "example": "We can build your vocabulary.",
+    "exampleZh": "我們可以擴充詞彙。"
+  },
+  {
+    "level": "L7",
+    "phrase": "set a study schedule",
+    "meaning": "安排讀書時間",
+    "category": "Study",
+    "example": "We can set a study schedule.",
+    "exampleZh": "我們可以安排讀書時間。"
+  },
+  {
+    "level": "L7",
+    "phrase": "join a study group",
+    "meaning": "加入讀書小組",
+    "category": "Study",
+    "example": "We can join a study group.",
+    "exampleZh": "我們可以加入讀書小組。"
+  },
+  {
+    "level": "L7",
+    "phrase": "stay focused",
+    "meaning": "保持專注",
+    "category": "Study",
+    "example": "We can stay focused.",
+    "exampleZh": "我們可以保持專注。"
+  },
+  {
+    "level": "L7",
+    "phrase": "avoid distractions",
+    "meaning": "避免分心",
+    "category": "Study",
+    "example": "We can avoid distractions.",
+    "exampleZh": "我們可以避免分心。"
+  },
+  {
+    "level": "L7",
+    "phrase": "manage your time",
+    "meaning": "管理時間",
+    "category": "Study",
+    "example": "We can manage your time.",
+    "exampleZh": "我們可以管理時間。"
+  },
+  {
+    "level": "L7",
+    "phrase": "put in the effort",
+    "meaning": "付出努力",
+    "category": "Study",
+    "example": "We can put in the effort.",
+    "exampleZh": "我們可以付出努力。"
+  },
+  {
+    "level": "L7",
+    "phrase": "make steady progress",
+    "meaning": "穩定進步",
+    "category": "Study",
+    "example": "We can make steady progress.",
+    "exampleZh": "我們可以穩定進步。"
+  },
+  {
+    "level": "L7",
+    "phrase": "keep track of progress",
+    "meaning": "追蹤進度",
+    "category": "Study",
+    "example": "We can keep track of progress.",
+    "exampleZh": "我們可以追蹤進度。"
+  },
+  {
+    "level": "L7",
+    "phrase": "get along with others",
+    "meaning": "與他人和睦相處",
+    "category": "Everyday",
+    "example": "We can get along with others.",
+    "exampleZh": "我們可以與他人和睦相處。"
+  },
+  {
+    "level": "L7",
+    "phrase": "make new friends",
+    "meaning": "交新朋友",
+    "category": "Everyday",
+    "example": "We can make new friends.",
+    "exampleZh": "我們可以交新朋友。"
+  },
+  {
+    "level": "L7",
+    "phrase": "break the ice",
+    "meaning": "打破冷場",
+    "category": "Everyday",
+    "example": "We can break the ice.",
+    "exampleZh": "我們可以打破冷場。"
+  },
+  {
+    "level": "L7",
+    "phrase": "start a conversation",
+    "meaning": "開始交談",
+    "category": "Everyday",
+    "example": "We can start a conversation.",
+    "exampleZh": "我們可以開始交談。"
+  },
+  {
+    "level": "L7",
+    "phrase": "keep a conversation going",
+    "meaning": "延續對話",
+    "category": "Everyday",
+    "example": "We can keep a conversation going.",
+    "exampleZh": "我們可以延續對話。"
+  },
+  {
+    "level": "L7",
+    "phrase": "listen with care",
+    "meaning": "用心傾聽",
+    "category": "Everyday",
+    "example": "We can listen with care.",
+    "exampleZh": "我們可以用心傾聽。"
+  },
+  {
+    "level": "L7",
+    "phrase": "show respect",
+    "meaning": "表達尊重",
+    "category": "Everyday",
+    "example": "We can show respect.",
+    "exampleZh": "我們可以表達尊重。"
+  },
+  {
+    "level": "L7",
+    "phrase": "respect a boundary",
+    "meaning": "尊重界線",
+    "category": "Everyday",
+    "example": "We can respect a boundary.",
+    "exampleZh": "我們可以尊重界線。"
+  },
+  {
+    "level": "L7",
+    "phrase": "keep a promise",
+    "meaning": "遵守承諾",
+    "category": "Everyday",
+    "example": "We can keep a promise.",
+    "exampleZh": "我們可以遵守承諾。"
+  },
+  {
+    "level": "L7",
+    "phrase": "tell the truth",
+    "meaning": "說實話",
+    "category": "Everyday",
+    "example": "We can tell the truth.",
+    "exampleZh": "我們可以說實話。"
+  },
+  {
+    "level": "L7",
+    "phrase": "admit a mistake",
+    "meaning": "承認錯誤",
+    "category": "Everyday",
+    "example": "We can admit a mistake.",
+    "exampleZh": "我們可以承認錯誤。"
+  },
+  {
+    "level": "L7",
+    "phrase": "offer an apology",
+    "meaning": "道歉",
+    "category": "Everyday",
+    "example": "We can offer an apology.",
+    "exampleZh": "我們可以道歉。"
+  },
+  {
+    "level": "L7",
+    "phrase": "accept an apology",
+    "meaning": "接受道歉",
+    "category": "Everyday",
+    "example": "We can accept an apology.",
+    "exampleZh": "我們可以接受道歉。"
+  },
+  {
+    "level": "L7",
+    "phrase": "make up for a mistake",
+    "meaning": "彌補錯誤",
+    "category": "Everyday",
+    "example": "We can make up for a mistake.",
+    "exampleZh": "我們可以彌補錯誤。"
+  },
+  {
+    "level": "L7",
+    "phrase": "give someone a hand",
+    "meaning": "幫某人一把",
+    "category": "Everyday",
+    "example": "We can give someone a hand.",
+    "exampleZh": "我們可以幫某人一把。"
+  },
+  {
+    "level": "L7",
+    "phrase": "lend a hand",
+    "meaning": "幫忙",
+    "category": "Everyday",
+    "example": "We can lend a hand.",
+    "exampleZh": "我們可以幫忙。"
+  },
+  {
+    "level": "L7",
+    "phrase": "cheer someone on",
+    "meaning": "為某人加油",
+    "category": "Everyday",
+    "example": "We can cheer someone on.",
+    "exampleZh": "我們可以為某人加油。"
+  },
+  {
+    "level": "L7",
+    "phrase": "stand by a friend",
+    "meaning": "支持朋友",
+    "category": "Everyday",
+    "example": "We can stand by a friend.",
+    "exampleZh": "我們可以支持朋友。"
+  },
+  {
+    "level": "L7",
+    "phrase": "put yourself in someone's shoes",
+    "meaning": "設身處地為他人著想",
+    "category": "Everyday",
+    "example": "Try to put yourself in someone's shoes.",
+    "exampleZh": "試著設身處地為他人著想。"
+  },
+  {
+    "level": "L7",
+    "phrase": "see another point of view",
+    "meaning": "了解另一種觀點",
+    "category": "Everyday",
+    "example": "We can see another point of view.",
+    "exampleZh": "我們可以了解另一種觀點。"
+  },
+  {
+    "level": "L7",
+    "phrase": "agree to disagree",
+    "meaning": "同意保留不同意見",
+    "category": "Everyday",
+    "example": "We can agree to disagree.",
+    "exampleZh": "我們可以同意保留不同意見。"
+  },
+  {
+    "level": "L7",
+    "phrase": "clear up a misunderstanding",
+    "meaning": "澄清誤會",
+    "category": "Everyday",
+    "example": "We can clear up a misunderstanding.",
+    "exampleZh": "我們可以澄清誤會。"
+  },
+  {
+    "level": "L7",
+    "phrase": "talk things over",
+    "meaning": "把事情談清楚",
+    "category": "Everyday",
+    "example": "We can talk things over.",
+    "exampleZh": "我們可以把事情談清楚。"
+  },
+  {
+    "level": "L7",
+    "phrase": "work things out",
+    "meaning": "設法解決問題",
+    "category": "Everyday",
+    "example": "We can work things out.",
+    "exampleZh": "我們可以設法解決問題。"
+  },
+  {
+    "level": "L7",
+    "phrase": "meet halfway",
+    "meaning": "各退一步",
+    "category": "Everyday",
+    "example": "We can meet halfway.",
+    "exampleZh": "我們可以各退一步。"
+  },
+  {
+    "level": "L7",
+    "phrase": "give someone space",
+    "meaning": "給某人空間",
+    "category": "Everyday",
+    "example": "We can give someone space.",
+    "exampleZh": "我們可以給某人空間。"
+  },
+  {
+    "level": "L7",
+    "phrase": "keep your cool",
+    "meaning": "保持冷靜",
+    "category": "Everyday",
+    "example": "We can keep your cool.",
+    "exampleZh": "我們可以保持冷靜。"
+  },
+  {
+    "level": "L8",
+    "phrase": "bring about change",
+    "meaning": "促成改變",
+    "category": "Everyday",
+    "example": "We can bring about change.",
+    "exampleZh": "我們可以促成改變。"
+  },
+  {
+    "level": "L8",
+    "phrase": "carry out a plan",
+    "meaning": "執行計畫",
+    "category": "Everyday",
+    "example": "We can carry out a plan.",
+    "exampleZh": "我們可以執行計畫。"
+  },
+  {
+    "level": "L8",
+    "phrase": "carry on with work",
+    "meaning": "繼續工作",
+    "category": "Everyday",
+    "example": "We can carry on with work.",
+    "exampleZh": "我們可以繼續工作。"
+  },
+  {
+    "level": "L8",
+    "phrase": "catch up on work",
+    "meaning": "補上落後的工作",
+    "category": "Everyday",
+    "example": "We can catch up on work.",
+    "exampleZh": "我們可以補上落後的工作。"
+  },
+  {
+    "level": "L8",
+    "phrase": "catch up with a friend",
+    "meaning": "與朋友敘舊",
+    "category": "Everyday",
+    "example": "We can catch up with a friend.",
+    "exampleZh": "我們可以與朋友敘舊。"
+  },
+  {
+    "level": "L8",
+    "phrase": "cut back on spending",
+    "meaning": "削減支出",
+    "category": "Everyday",
+    "example": "We can cut back on spending.",
+    "exampleZh": "我們可以削減支出。"
+  },
+  {
+    "level": "L8",
+    "phrase": "deal with a problem",
+    "meaning": "處理問題",
+    "category": "Everyday",
+    "example": "We can deal with a problem.",
+    "exampleZh": "我們可以處理問題。"
+  },
+  {
+    "level": "L8",
+    "phrase": "do away with a rule",
+    "meaning": "廢除規則",
+    "category": "Everyday",
+    "example": "We can do away with a rule.",
+    "exampleZh": "我們可以廢除規則。"
+  },
+  {
+    "level": "L8",
+    "phrase": "draw up a plan",
+    "meaning": "擬定計畫",
+    "category": "Everyday",
+    "example": "We can draw up a plan.",
+    "exampleZh": "我們可以擬定計畫。"
+  },
+  {
+    "level": "L8",
+    "phrase": "drop by a friend's house",
+    "meaning": "順道拜訪朋友家",
+    "category": "Everyday",
+    "example": "We can drop by a friend's house.",
+    "exampleZh": "我們可以順道拜訪朋友家。"
+  },
+  {
+    "level": "L8",
+    "phrase": "end up agreeing",
+    "meaning": "最後同意",
+    "category": "Everyday",
+    "example": "We can end up agreeing.",
+    "exampleZh": "我們可以最後同意。"
+  },
+  {
+    "level": "L8",
+    "phrase": "fall behind schedule",
+    "meaning": "落後進度",
+    "category": "Everyday",
+    "example": "We may fall behind schedule.",
+    "exampleZh": "我們可能落後進度。"
+  },
+  {
+    "level": "L8",
+    "phrase": "fall back on savings",
+    "meaning": "動用存款",
+    "category": "Everyday",
+    "example": "We can fall back on savings.",
+    "exampleZh": "我們可以動用存款。"
+  },
+  {
+    "level": "L8",
+    "phrase": "get around a problem",
+    "meaning": "設法避開問題",
+    "category": "Everyday",
+    "example": "We can get around a problem.",
+    "exampleZh": "我們可以設法避開問題。"
+  },
+  {
+    "level": "L8",
+    "phrase": "get away from work",
+    "meaning": "暫時離開工作",
+    "category": "Everyday",
+    "example": "We can get away from work.",
+    "exampleZh": "我們可以暫時離開工作。"
+  },
+  {
+    "level": "L8",
+    "phrase": "get down to work",
+    "meaning": "開始認真工作",
+    "category": "Everyday",
+    "example": "We can get down to work.",
+    "exampleZh": "我們可以開始認真工作。"
+  },
+  {
+    "level": "L8",
+    "phrase": "get over a setback",
+    "meaning": "克服挫折",
+    "category": "Everyday",
+    "example": "We can get over a setback.",
+    "exampleZh": "我們可以克服挫折。"
+  },
+  {
+    "level": "L8",
+    "phrase": "give up a bad habit",
+    "meaning": "戒掉壞習慣",
+    "category": "Everyday",
+    "example": "We can give up a bad habit.",
+    "exampleZh": "我們可以戒掉壞習慣。"
+  },
+  {
+    "level": "L8",
+    "phrase": "go over the details",
+    "meaning": "仔細查看細節",
+    "category": "Everyday",
+    "example": "We can go over the details.",
+    "exampleZh": "我們可以仔細查看細節。"
+  },
+  {
+    "level": "L8",
+    "phrase": "go through the records",
+    "meaning": "查閱紀錄",
+    "category": "Everyday",
+    "example": "We can go through the records.",
+    "exampleZh": "我們可以查閱紀錄。"
+  },
+  {
+    "level": "L8",
+    "phrase": "hold back tears",
+    "meaning": "忍住眼淚",
+    "category": "Everyday",
+    "example": "We can hold back tears.",
+    "exampleZh": "我們可以忍住眼淚。"
+  },
+  {
+    "level": "L8",
+    "phrase": "hold off on a decision",
+    "meaning": "暫緩決定",
+    "category": "Everyday",
+    "example": "We can hold off on a decision.",
+    "exampleZh": "我們可以暫緩決定。"
+  },
+  {
+    "level": "L8",
+    "phrase": "keep up with changes",
+    "meaning": "跟上變化",
+    "category": "Everyday",
+    "example": "We can keep up with changes.",
+    "exampleZh": "我們可以跟上變化。"
+  },
+  {
+    "level": "L8",
+    "phrase": "leave out a detail",
+    "meaning": "省略一項細節",
+    "category": "Everyday",
+    "example": "We can leave out a detail.",
+    "exampleZh": "我們可以省略一項細節。"
+  },
+  {
+    "level": "L8",
+    "phrase": "look ahead to the future",
+    "meaning": "展望未來",
+    "category": "Everyday",
+    "example": "We can look ahead to the future.",
+    "exampleZh": "我們可以展望未來。"
+  },
+  {
+    "level": "L8",
+    "phrase": "look back on the past",
+    "meaning": "回顧過去",
+    "category": "Everyday",
+    "example": "We can look back on the past.",
+    "exampleZh": "我們可以回顧過去。"
+  },
+  {
+    "level": "L8",
+    "phrase": "look into a complaint",
+    "meaning": "調查申訴",
+    "category": "Everyday",
+    "example": "We can look into a complaint.",
+    "exampleZh": "我們可以調查申訴。"
+  },
+  {
+    "level": "L8",
+    "phrase": "look up to a teacher",
+    "meaning": "敬重老師",
+    "category": "Everyday",
+    "example": "We can look up to a teacher.",
+    "exampleZh": "我們可以敬重老師。"
+  },
+  {
+    "level": "L8",
+    "phrase": "make out the words",
+    "meaning": "辨認字句",
+    "category": "Everyday",
+    "example": "We can make out the words.",
+    "exampleZh": "我們可以辨認字句。"
+  },
+  {
+    "level": "L8",
+    "phrase": "make up your mind",
+    "meaning": "下定決心",
+    "category": "Everyday",
+    "example": "Take your time to make up your mind.",
+    "exampleZh": "慢慢想清楚再下定決心。"
+  },
+  {
+    "level": "L8",
+    "phrase": "move on from a mistake",
+    "meaning": "走出錯誤",
+    "category": "Everyday",
+    "example": "We can move on from a mistake.",
+    "exampleZh": "我們可以走出錯誤。"
+  },
+  {
+    "level": "L8",
+    "phrase": "pass on a message",
+    "meaning": "轉達訊息",
+    "category": "Everyday",
+    "example": "We can pass on a message.",
+    "exampleZh": "我們可以轉達訊息。"
+  },
+  {
+    "level": "L8",
+    "phrase": "pick out a gift",
+    "meaning": "挑選禮物",
+    "category": "Everyday",
+    "example": "We can pick out a gift.",
+    "exampleZh": "我們可以挑選禮物。"
+  },
+  {
+    "level": "L8",
+    "phrase": "put off a meeting",
+    "meaning": "延後會議",
+    "category": "Everyday",
+    "example": "We can put off a meeting.",
+    "exampleZh": "我們可以延後會議。"
+  },
+  {
+    "level": "L8",
+    "phrase": "put up with noise",
+    "meaning": "忍受噪音",
+    "category": "Everyday",
+    "example": "We can put up with noise.",
+    "exampleZh": "我們可以忍受噪音。"
+  },
+  {
+    "level": "L8",
+    "phrase": "run into an old friend",
+    "meaning": "偶遇老朋友",
+    "category": "Everyday",
+    "example": "We can run into an old friend.",
+    "exampleZh": "我們可以偶遇老朋友。"
+  },
+  {
+    "level": "L8",
+    "phrase": "run out of time",
+    "meaning": "用完時間",
+    "category": "Everyday",
+    "example": "We may run out of time.",
+    "exampleZh": "我們可能沒時間了。"
+  },
+  {
+    "level": "L8",
+    "phrase": "set aside some money",
+    "meaning": "留一些錢備用",
+    "category": "Everyday",
+    "example": "We can set aside some money.",
+    "exampleZh": "我們可以留一些錢備用。"
+  },
+  {
+    "level": "L8",
+    "phrase": "set out on a journey",
+    "meaning": "踏上旅程",
+    "category": "Everyday",
+    "example": "We can set out on a journey.",
+    "exampleZh": "我們可以踏上旅程。"
+  },
+  {
+    "level": "L8",
+    "phrase": "show up on time",
+    "meaning": "準時出現",
+    "category": "Everyday",
+    "example": "We can show up on time.",
+    "exampleZh": "我們可以準時出現。"
+  },
+  {
+    "level": "L8",
+    "phrase": "sort out the details",
+    "meaning": "理清細節",
+    "category": "Everyday",
+    "example": "We can sort out the details.",
+    "exampleZh": "我們可以理清細節。"
+  },
+  {
+    "level": "L8",
+    "phrase": "speak out against unfairness",
+    "meaning": "出聲反對不公",
+    "category": "Everyday",
+    "example": "We can speak out against unfairness.",
+    "exampleZh": "我們可以出聲反對不公。"
+  },
+  {
+    "level": "L8",
+    "phrase": "speak up for someone",
+    "meaning": "為某人發聲",
+    "category": "Everyday",
+    "example": "We can speak up for someone.",
+    "exampleZh": "我們可以為某人發聲。"
+  },
+  {
+    "level": "L8",
+    "phrase": "stand out from the crowd",
+    "meaning": "脫穎而出",
+    "category": "Everyday",
+    "example": "We can stand out from the crowd.",
+    "exampleZh": "我們可以脫穎而出。"
+  },
+  {
+    "level": "L8",
+    "phrase": "take apart a device",
+    "meaning": "拆開裝置",
+    "category": "Everyday",
+    "example": "We can take apart a device.",
+    "exampleZh": "我們可以拆開裝置。"
+  },
+  {
+    "level": "L8",
+    "phrase": "take on a challenge",
+    "meaning": "接受挑戰",
+    "category": "Everyday",
+    "example": "We can take on a challenge.",
+    "exampleZh": "我們可以接受挑戰。"
+  },
+  {
+    "level": "L8",
+    "phrase": "take over a task",
+    "meaning": "接手任務",
+    "category": "Everyday",
+    "example": "We can take over a task.",
+    "exampleZh": "我們可以接手任務。"
+  },
+  {
+    "level": "L8",
+    "phrase": "turn down an offer",
+    "meaning": "拒絕提議",
+    "category": "Everyday",
+    "example": "We can turn down an offer.",
+    "exampleZh": "我們可以拒絕提議。"
+  },
+  {
+    "level": "L8",
+    "phrase": "work toward a goal",
+    "meaning": "朝目標努力",
+    "category": "Everyday",
+    "example": "We can work toward a goal.",
+    "exampleZh": "我們可以朝目標努力。"
+  },
+  {
+    "level": "L9",
+    "phrase": "question an assumption",
+    "meaning": "質疑假設",
+    "category": "Study",
+    "example": "We should question an assumption.",
+    "exampleZh": "我們應該質疑假設。"
+  },
+  {
+    "level": "L9",
+    "phrase": "challenge a claim",
+    "meaning": "質疑主張",
+    "category": "Study",
+    "example": "We should challenge a claim.",
+    "exampleZh": "我們應該質疑主張。"
+  },
+  {
+    "level": "L9",
+    "phrase": "support a claim with evidence",
+    "meaning": "以證據支持主張",
+    "category": "Study",
+    "example": "We should support a claim with evidence.",
+    "exampleZh": "我們應該以證據支持主張。"
+  },
+  {
+    "level": "L9",
+    "phrase": "distinguish fact from opinion",
+    "meaning": "分辨事實與意見",
+    "category": "Study",
+    "example": "We should distinguish fact from opinion.",
+    "exampleZh": "我們應該分辨事實與意見。"
+  },
+  {
+    "level": "L9",
+    "phrase": "consider alternative explanations",
+    "meaning": "考慮其他解釋",
+    "category": "Study",
+    "example": "We should consider alternative explanations.",
+    "exampleZh": "我們應該考慮其他解釋。"
+  },
+  {
+    "level": "L9",
+    "phrase": "recognize a pattern",
+    "meaning": "辨識模式",
+    "category": "Study",
+    "example": "We should recognize a pattern.",
+    "exampleZh": "我們應該辨識模式。"
+  },
+  {
+    "level": "L9",
+    "phrase": "identify a trend",
+    "meaning": "找出趨勢",
+    "category": "Study",
+    "example": "We should identify a trend.",
+    "exampleZh": "我們應該找出趨勢。"
+  },
+  {
+    "level": "L9",
+    "phrase": "establish a connection",
+    "meaning": "建立關聯",
+    "category": "Study",
+    "example": "We should establish a connection.",
+    "exampleZh": "我們應該建立關聯。"
+  },
+  {
+    "level": "L9",
+    "phrase": "examine the context",
+    "meaning": "檢視背景",
+    "category": "Study",
+    "example": "We should examine the context.",
+    "exampleZh": "我們應該檢視背景。"
+  },
+  {
+    "level": "L9",
+    "phrase": "define the terms",
+    "meaning": "定義用語",
+    "category": "Study",
+    "example": "We should define the terms.",
+    "exampleZh": "我們應該定義用語。"
+  },
+  {
+    "level": "L9",
+    "phrase": "clarify the scope",
+    "meaning": "釐清範圍",
+    "category": "Study",
+    "example": "We should clarify the scope.",
+    "exampleZh": "我們應該釐清範圍。"
+  },
+  {
+    "level": "L9",
+    "phrase": "acknowledge a limitation",
+    "meaning": "承認限制",
+    "category": "Study",
+    "example": "We should acknowledge a limitation.",
+    "exampleZh": "我們應該承認限制。"
+  },
+  {
+    "level": "L9",
+    "phrase": "avoid a generalization",
+    "meaning": "避免以偏概全",
+    "category": "Study",
+    "example": "We should avoid a generalization.",
+    "exampleZh": "我們應該避免以偏概全。"
+  },
+  {
+    "level": "L9",
+    "phrase": "avoid jumping to conclusions",
+    "meaning": "避免妄下結論",
+    "category": "Study",
+    "example": "We should avoid jumping to conclusions.",
+    "exampleZh": "我們應該避免妄下結論。"
+  },
+  {
+    "level": "L9",
+    "phrase": "check for bias",
+    "meaning": "檢查偏見",
+    "category": "Study",
+    "example": "We should check for bias.",
+    "exampleZh": "我們應該檢查偏見。"
+  },
+  {
+    "level": "L9",
+    "phrase": "weigh the evidence",
+    "meaning": "權衡證據",
+    "category": "Study",
+    "example": "We should weigh the evidence.",
+    "exampleZh": "我們應該權衡證據。"
+  },
+  {
+    "level": "L9",
+    "phrase": "evaluate a source",
+    "meaning": "評估來源",
+    "category": "Study",
+    "example": "We should evaluate a source.",
+    "exampleZh": "我們應該評估來源。"
+  },
+  {
+    "level": "L9",
+    "phrase": "verify the facts",
+    "meaning": "核實事實",
+    "category": "Study",
+    "example": "We should verify the facts.",
+    "exampleZh": "我們應該核實事實。"
+  },
+  {
+    "level": "L9",
+    "phrase": "cross-check the information",
+    "meaning": "交叉核對資訊",
+    "category": "Study",
+    "example": "We should cross-check the information.",
+    "exampleZh": "我們應該交叉核對資訊。"
+  },
+  {
+    "level": "L9",
+    "phrase": "assess the reliability",
+    "meaning": "評估可靠性",
+    "category": "Study",
+    "example": "We should assess the reliability.",
+    "exampleZh": "我們應該評估可靠性。"
+  },
+  {
+    "level": "L9",
+    "phrase": "take context into account",
+    "meaning": "考量背景",
+    "category": "Study",
+    "example": "We should take context into account.",
+    "exampleZh": "我們應該考量背景。"
+  },
+  {
+    "level": "L9",
+    "phrase": "put findings into perspective",
+    "meaning": "從整體角度理解結果",
+    "category": "Study",
+    "example": "We should put findings into perspective.",
+    "exampleZh": "我們應該從整體角度理解結果。"
+  },
+  {
+    "level": "L9",
+    "phrase": "consider the implications",
+    "meaning": "考慮影響",
+    "category": "Study",
+    "example": "We should consider the implications.",
+    "exampleZh": "我們應該考慮影響。"
+  },
+  {
+    "level": "L9",
+    "phrase": "explain a discrepancy",
+    "meaning": "解釋差異",
+    "category": "Study",
+    "example": "We should explain a discrepancy.",
+    "exampleZh": "我們應該解釋差異。"
+  },
+  {
+    "level": "L9",
+    "phrase": "address a counterargument",
+    "meaning": "回應反方論點",
+    "category": "Study",
+    "example": "We should address a counterargument.",
+    "exampleZh": "我們應該回應反方論點。"
+  },
+  {
+    "level": "L9",
+    "phrase": "make a valid point",
+    "meaning": "提出有根據的觀點",
+    "category": "Study",
+    "example": "We should make a valid point.",
+    "exampleZh": "我們應該提出有根據的觀點。"
+  },
+  {
+    "level": "L9",
+    "phrase": "build a coherent argument",
+    "meaning": "建立連貫論證",
+    "category": "Study",
+    "example": "We should build a coherent argument.",
+    "exampleZh": "我們應該建立連貫論證。"
+  },
+  {
+    "level": "L9",
+    "phrase": "state a position clearly",
+    "meaning": "清楚表明立場",
+    "category": "Study",
+    "example": "We should state a position clearly.",
+    "exampleZh": "我們應該清楚表明立場。"
+  },
+  {
+    "level": "L9",
+    "phrase": "qualify a statement",
+    "meaning": "限定陳述的適用範圍",
+    "category": "Study",
+    "example": "We should qualify a statement.",
+    "exampleZh": "我們應該限定陳述的適用範圍。"
+  },
+  {
+    "level": "L9",
+    "phrase": "reach an informed judgment",
+    "meaning": "作出有依據的判斷",
+    "category": "Study",
+    "example": "We should reach an informed judgment.",
+    "exampleZh": "我們應該作出有依據的判斷。"
+  },
+  {
+    "level": "L10",
+    "phrase": "set clear expectations",
+    "meaning": "訂定明確期望",
+    "category": "Work",
+    "example": "We should set clear expectations.",
+    "exampleZh": "我們應該訂定明確期望。"
+  },
+  {
+    "level": "L10",
+    "phrase": "define the objectives",
+    "meaning": "定義目標",
+    "category": "Work",
+    "example": "We should define the objectives.",
+    "exampleZh": "我們應該定義目標。"
+  },
+  {
+    "level": "L10",
+    "phrase": "establish priorities",
+    "meaning": "確立優先順序",
+    "category": "Work",
+    "example": "We should establish priorities.",
+    "exampleZh": "我們應該確立優先順序。"
+  },
+  {
+    "level": "L10",
+    "phrase": "allocate resources",
+    "meaning": "分配資源",
+    "category": "Work",
+    "example": "We should allocate resources.",
+    "exampleZh": "我們應該分配資源。"
+  },
+  {
+    "level": "L10",
+    "phrase": "assign responsibilities",
+    "meaning": "指派責任",
+    "category": "Work",
+    "example": "We should assign responsibilities.",
+    "exampleZh": "我們應該指派責任。"
+  },
+  {
+    "level": "L10",
+    "phrase": "delegate a task",
+    "meaning": "委派任務",
+    "category": "Work",
+    "example": "We should delegate a task.",
+    "exampleZh": "我們應該委派任務。"
+  },
+  {
+    "level": "L10",
+    "phrase": "coordinate the schedule",
+    "meaning": "協調時程",
+    "category": "Work",
+    "example": "We should coordinate the schedule.",
+    "exampleZh": "我們應該協調時程。"
+  },
+  {
+    "level": "L10",
+    "phrase": "monitor performance",
+    "meaning": "監控表現",
+    "category": "Work",
+    "example": "We should monitor performance.",
+    "exampleZh": "我們應該監控表現。"
+  },
+  {
+    "level": "L10",
+    "phrase": "measure the outcome",
+    "meaning": "衡量成果",
+    "category": "Work",
+    "example": "We should measure the outcome.",
+    "exampleZh": "我們應該衡量成果。"
+  },
+  {
+    "level": "L10",
+    "phrase": "review the process",
+    "meaning": "檢視流程",
+    "category": "Work",
+    "example": "We should review the process.",
+    "exampleZh": "我們應該檢視流程。"
+  },
+  {
+    "level": "L10",
+    "phrase": "identify a bottleneck",
+    "meaning": "找出瓶頸",
+    "category": "Work",
+    "example": "We should identify a bottleneck.",
+    "exampleZh": "我們應該找出瓶頸。"
+  },
+  {
+    "level": "L10",
+    "phrase": "streamline the workflow",
+    "meaning": "精簡工作流程",
+    "category": "Work",
+    "example": "We should streamline the workflow.",
+    "exampleZh": "我們應該精簡工作流程。"
+  },
+  {
+    "level": "L10",
+    "phrase": "improve efficiency",
+    "meaning": "提升效率",
+    "category": "Work",
+    "example": "We should improve efficiency.",
+    "exampleZh": "我們應該提升效率。"
+  },
+  {
+    "level": "L10",
+    "phrase": "maintain quality",
+    "meaning": "維持品質",
+    "category": "Work",
+    "example": "We should maintain quality.",
+    "exampleZh": "我們應該維持品質。"
+  },
+  {
+    "level": "L10",
+    "phrase": "ensure consistency",
+    "meaning": "確保一致性",
+    "category": "Work",
+    "example": "We should ensure consistency.",
+    "exampleZh": "我們應該確保一致性。"
+  },
+  {
+    "level": "L10",
+    "phrase": "provide constructive feedback",
+    "meaning": "提供建設性回饋",
+    "category": "Work",
+    "example": "We should provide constructive feedback.",
+    "exampleZh": "我們應該提供建設性回饋。"
+  },
+  {
+    "level": "L10",
+    "phrase": "respond to feedback",
+    "meaning": "回應意見",
+    "category": "Work",
+    "example": "We should respond to feedback.",
+    "exampleZh": "我們應該回應意見。"
+  },
+  {
+    "level": "L10",
+    "phrase": "resolve a conflict",
+    "meaning": "解決衝突",
+    "category": "Work",
+    "example": "We should resolve a conflict.",
+    "exampleZh": "我們應該解決衝突。"
+  },
+  {
+    "level": "L10",
+    "phrase": "handle a complaint",
+    "meaning": "處理申訴",
+    "category": "Work",
+    "example": "We should handle a complaint.",
+    "exampleZh": "我們應該處理申訴。"
+  },
+  {
+    "level": "L10",
+    "phrase": "build trust",
+    "meaning": "建立信任",
+    "category": "Work",
+    "example": "We should build trust.",
+    "exampleZh": "我們應該建立信任。"
+  },
+  {
+    "level": "L10",
+    "phrase": "maintain confidentiality",
+    "meaning": "維持保密",
+    "category": "Work",
+    "example": "We should maintain confidentiality.",
+    "exampleZh": "我們應該維持保密。"
+  },
+  {
+    "level": "L10",
+    "phrase": "protect personal data",
+    "meaning": "保護個人資料",
+    "category": "Work",
+    "example": "We should protect personal data.",
+    "exampleZh": "我們應該保護個人資料。"
+  },
+  {
+    "level": "L10",
+    "phrase": "comply with regulations",
+    "meaning": "遵守規定",
+    "category": "Work",
+    "example": "We should comply with regulations.",
+    "exampleZh": "我們應該遵守規定。"
+  },
+  {
+    "level": "L10",
+    "phrase": "follow the procedure",
+    "meaning": "依照程序",
+    "category": "Work",
+    "example": "We should follow the procedure.",
+    "exampleZh": "我們應該依照程序。"
+  },
+  {
+    "level": "L10",
+    "phrase": "meet the requirements",
+    "meaning": "符合要求",
+    "category": "Work",
+    "example": "We should meet the requirements.",
+    "exampleZh": "我們應該符合要求。"
+  },
+  {
+    "level": "L10",
+    "phrase": "keep accurate records",
+    "meaning": "保存準確紀錄",
+    "category": "Work",
+    "example": "We should keep accurate records.",
+    "exampleZh": "我們應該保存準確紀錄。"
+  },
+  {
+    "level": "L10",
+    "phrase": "document the decision",
+    "meaning": "記錄決定",
+    "category": "Work",
+    "example": "We should document the decision.",
+    "exampleZh": "我們應該記錄決定。"
+  },
+  {
+    "level": "L10",
+    "phrase": "keep stakeholders informed",
+    "meaning": "讓利害關係人了解情況",
+    "category": "Work",
+    "example": "We should keep stakeholders informed.",
+    "exampleZh": "我們應該讓利害關係人了解情況。"
+  },
+  {
+    "level": "L11",
+    "phrase": "submit a reimbursement claim",
+    "meaning": "提交費用報銷申請",
+    "category": "Work",
+    "example": "We need to submit a reimbursement claim.",
+    "exampleZh": "我們需要提交費用報銷申請。"
+  },
+  {
+    "level": "L11",
+    "phrase": "itemize the expenses",
+    "meaning": "逐項列出費用",
+    "category": "Work",
+    "example": "We need to itemize the expenses.",
+    "exampleZh": "我們需要逐項列出費用。"
+  },
+  {
+    "level": "L11",
+    "phrase": "reconcile the accounts",
+    "meaning": "核對帳目",
+    "category": "Work",
+    "example": "We need to reconcile the accounts.",
+    "exampleZh": "我們需要核對帳目。"
+  },
+  {
+    "level": "L11",
+    "phrase": "settle an outstanding balance",
+    "meaning": "清償未付餘額",
+    "category": "Work",
+    "example": "We need to settle an outstanding balance.",
+    "exampleZh": "我們需要清償未付餘額。"
+  },
+  {
+    "level": "L11",
+    "phrase": "issue an invoice",
+    "meaning": "開立發票",
+    "category": "Work",
+    "example": "We need to issue an invoice.",
+    "exampleZh": "我們需要開立發票。"
+  },
+  {
+    "level": "L11",
+    "phrase": "process a refund",
+    "meaning": "處理退款",
+    "category": "Work",
+    "example": "We need to process a refund.",
+    "exampleZh": "我們需要處理退款。"
+  },
+  {
+    "level": "L11",
+    "phrase": "approve a purchase order",
+    "meaning": "核准採購單",
+    "category": "Work",
+    "example": "We need to approve a purchase order.",
+    "exampleZh": "我們需要核准採購單。"
+  },
+  {
+    "level": "L11",
+    "phrase": "request a quotation",
+    "meaning": "索取報價",
+    "category": "Work",
+    "example": "We need to request a quotation.",
+    "exampleZh": "我們需要索取報價。"
+  },
+  {
+    "level": "L11",
+    "phrase": "negotiate the terms",
+    "meaning": "協商條款",
+    "category": "Work",
+    "example": "We need to negotiate the terms.",
+    "exampleZh": "我們需要協商條款。"
+  },
+  {
+    "level": "L11",
+    "phrase": "renew a contract",
+    "meaning": "續約",
+    "category": "Work",
+    "example": "We need to renew a contract.",
+    "exampleZh": "我們需要續約。"
+  },
+  {
+    "level": "L11",
+    "phrase": "terminate an agreement",
+    "meaning": "終止協議",
+    "category": "Work",
+    "example": "We need to terminate an agreement.",
+    "exampleZh": "我們需要終止協議。"
+  },
+  {
+    "level": "L11",
+    "phrase": "fulfill a contractual obligation",
+    "meaning": "履行合約義務",
+    "category": "Work",
+    "example": "We need to fulfill a contractual obligation.",
+    "exampleZh": "我們需要履行合約義務。"
+  },
+  {
+    "level": "L11",
+    "phrase": "honor a commitment",
+    "meaning": "履行承諾",
+    "category": "Work",
+    "example": "We need to honor a commitment.",
+    "exampleZh": "我們需要履行承諾。"
+  },
+  {
+    "level": "L11",
+    "phrase": "waive a fee",
+    "meaning": "免除費用",
+    "category": "Work",
+    "example": "We need to waive a fee.",
+    "exampleZh": "我們需要免除費用。"
+  },
+  {
+    "level": "L11",
+    "phrase": "grant an extension",
+    "meaning": "批准延期",
+    "category": "Work",
+    "example": "We need to grant an extension.",
+    "exampleZh": "我們需要批准延期。"
+  },
+  {
+    "level": "L11",
+    "phrase": "adhere to a deadline",
+    "meaning": "遵守截止期限",
+    "category": "Work",
+    "example": "We need to adhere to a deadline.",
+    "exampleZh": "我們需要遵守截止期限。"
+  },
+  {
+    "level": "L11",
+    "phrase": "expedite a shipment",
+    "meaning": "加速出貨",
+    "category": "Work",
+    "example": "We need to expedite a shipment.",
+    "exampleZh": "我們需要加速出貨。"
+  },
+  {
+    "level": "L11",
+    "phrase": "track a consignment",
+    "meaning": "追蹤貨物",
+    "category": "Work",
+    "example": "We need to track a consignment.",
+    "exampleZh": "我們需要追蹤貨物。"
+  },
+  {
+    "level": "L11",
+    "phrase": "confirm delivery",
+    "meaning": "確認交貨",
+    "category": "Work",
+    "example": "We need to confirm delivery.",
+    "exampleZh": "我們需要確認交貨。"
+  },
+  {
+    "level": "L11",
+    "phrase": "inspect the merchandise",
+    "meaning": "檢查商品",
+    "category": "Work",
+    "example": "We need to inspect the merchandise.",
+    "exampleZh": "我們需要檢查商品。"
+  },
+  {
+    "level": "L11",
+    "phrase": "maintain inventory levels",
+    "meaning": "維持庫存水準",
+    "category": "Work",
+    "example": "We need to maintain inventory levels.",
+    "exampleZh": "我們需要維持庫存水準。"
+  },
+  {
+    "level": "L11",
+    "phrase": "source a supplier",
+    "meaning": "尋找供應商",
+    "category": "Work",
+    "example": "We need to source a supplier.",
+    "exampleZh": "我們需要尋找供應商。"
+  },
+  {
+    "level": "L11",
+    "phrase": "conduct an audit",
+    "meaning": "進行稽核",
+    "category": "Work",
+    "example": "We need to conduct an audit.",
+    "exampleZh": "我們需要進行稽核。"
+  },
+  {
+    "level": "L11",
+    "phrase": "conduct due diligence",
+    "meaning": "進行盡職調查",
+    "category": "Work",
+    "example": "We need to conduct due diligence.",
+    "exampleZh": "我們需要進行盡職調查。"
+  },
+  {
+    "level": "L11",
+    "phrase": "assess financial viability",
+    "meaning": "評估財務可行性",
+    "category": "Work",
+    "example": "We need to assess financial viability.",
+    "exampleZh": "我們需要評估財務可行性。"
+  },
+  {
+    "level": "L11",
+    "phrase": "mitigate potential risks",
+    "meaning": "降低潛在風險",
+    "category": "Work",
+    "example": "We need to mitigate potential risks.",
+    "exampleZh": "我們需要降低潛在風險。"
+  },
+  {
+    "level": "L11",
+    "phrase": "develop a contingency plan",
+    "meaning": "擬定應變計畫",
+    "category": "Work",
+    "example": "We need to develop a contingency plan.",
+    "exampleZh": "我們需要擬定應變計畫。"
+  },
+  {
+    "level": "L11",
+    "phrase": "ensure regulatory compliance",
+    "meaning": "確保遵循法規",
+    "category": "Work",
+    "example": "We need to ensure regulatory compliance.",
+    "exampleZh": "我們需要確保遵循法規。"
+  },
+  {
+    "level": "L11",
+    "phrase": "disclose a conflict of interest",
+    "meaning": "揭露利益衝突",
+    "category": "Work",
+    "example": "We need to disclose a conflict of interest.",
+    "exampleZh": "我們需要揭露利益衝突。"
+  },
+  {
+    "level": "L11",
+    "phrase": "obtain prior authorization",
+    "meaning": "取得事前授權",
+    "category": "Work",
+    "example": "We need to obtain prior authorization.",
+    "exampleZh": "我們需要取得事前授權。"
+  },
+  {
+    "level": "L11",
+    "phrase": "seek board approval",
+    "meaning": "尋求董事會核准",
+    "category": "Work",
+    "example": "We need to seek board approval.",
+    "exampleZh": "我們需要尋求董事會核准。"
+  },
+  {
+    "level": "L11",
+    "phrase": "convene a meeting",
+    "meaning": "召開會議",
+    "category": "Work",
+    "example": "We need to convene a meeting.",
+    "exampleZh": "我們需要召開會議。"
+  },
+  {
+    "level": "L11",
+    "phrase": "circulate the agenda",
+    "meaning": "傳閱議程",
+    "category": "Work",
+    "example": "We need to circulate the agenda.",
+    "exampleZh": "我們需要傳閱議程。"
+  },
+  {
+    "level": "L11",
+    "phrase": "record the minutes",
+    "meaning": "記錄會議紀錄",
+    "category": "Work",
+    "example": "We need to record the minutes.",
+    "exampleZh": "我們需要記錄會議紀錄。"
+  },
+  {
+    "level": "L11",
+    "phrase": "reach a consensus",
+    "meaning": "達成共識",
+    "category": "Work",
+    "example": "We need to reach a consensus.",
+    "exampleZh": "我們需要達成共識。"
+  },
+  {
+    "level": "L11",
+    "phrase": "endorse a proposal",
+    "meaning": "支持提案",
+    "category": "Work",
+    "example": "We need to endorse a proposal.",
+    "exampleZh": "我們需要支持提案。"
+  },
+  {
+    "level": "L11",
+    "phrase": "ratify an agreement",
+    "meaning": "批准協議",
+    "category": "Work",
+    "example": "We need to ratify an agreement.",
+    "exampleZh": "我們需要批准協議。"
+  },
+  {
+    "level": "L11",
+    "phrase": "facilitate collaboration",
+    "meaning": "促進合作",
+    "category": "Work",
+    "example": "We need to facilitate collaboration.",
+    "exampleZh": "我們需要促進合作。"
+  },
+  {
+    "level": "L11",
+    "phrase": "consolidate operations",
+    "meaning": "整合營運",
+    "category": "Work",
+    "example": "We need to consolidate operations.",
+    "exampleZh": "我們需要整合營運。"
+  },
+  {
+    "level": "L11",
+    "phrase": "outsource a service",
+    "meaning": "將服務外包",
+    "category": "Work",
+    "example": "We need to outsource a service.",
+    "exampleZh": "我們需要將服務外包。"
+  },
+  {
+    "level": "L11",
+    "phrase": "retain key personnel",
+    "meaning": "留住重要人才",
+    "category": "Work",
+    "example": "We need to retain key personnel.",
+    "exampleZh": "我們需要留住重要人才。"
+  },
+  {
+    "level": "L11",
+    "phrase": "recruit qualified candidates",
+    "meaning": "招募合格人才",
+    "category": "Work",
+    "example": "We need to recruit qualified candidates.",
+    "exampleZh": "我們需要招募合格人才。"
+  },
+  {
+    "level": "L11",
+    "phrase": "evaluate employee performance",
+    "meaning": "評估員工表現",
+    "category": "Work",
+    "example": "We need to evaluate employee performance.",
+    "exampleZh": "我們需要評估員工表現。"
+  },
+  {
+    "level": "L11",
+    "phrase": "offer a compensation package",
+    "meaning": "提供薪酬方案",
+    "category": "Work",
+    "example": "We need to offer a compensation package.",
+    "exampleZh": "我們需要提供薪酬方案。"
+  },
+  {
+    "level": "L11",
+    "phrase": "implement a policy",
+    "meaning": "實施政策",
+    "category": "Work",
+    "example": "We need to implement a policy.",
+    "exampleZh": "我們需要實施政策。"
+  },
+  {
+    "level": "L11",
+    "phrase": "amend a provision",
+    "meaning": "修訂條款",
+    "category": "Work",
+    "example": "We need to amend a provision.",
+    "exampleZh": "我們需要修訂條款。"
+  },
+  {
+    "level": "L11",
+    "phrase": "comply with a mandate",
+    "meaning": "遵循指令",
+    "category": "Work",
+    "example": "We need to comply with a mandate.",
+    "exampleZh": "我們需要遵循指令。"
+  },
+  {
+    "level": "L11",
+    "phrase": "resolve a discrepancy",
+    "meaning": "解決不一致之處",
+    "category": "Work",
+    "example": "We need to resolve a discrepancy.",
+    "exampleZh": "我們需要解決不一致之處。"
+  },
+  {
+    "level": "L11",
+    "phrase": "rectify an error",
+    "meaning": "修正錯誤",
+    "category": "Work",
+    "example": "We need to rectify an error.",
+    "exampleZh": "我們需要修正錯誤。"
+  },
+  {
+    "level": "L11",
+    "phrase": "uphold professional standards",
+    "meaning": "維持專業標準",
+    "category": "Work",
+    "example": "We need to uphold professional standards.",
+    "exampleZh": "我們需要維持專業標準。"
+  },
+  {
+    "level": "L12",
+    "phrase": "draw a nuanced distinction",
+    "meaning": "作出細膩區分",
+    "category": "Study",
+    "example": "We can draw a nuanced distinction.",
+    "exampleZh": "我們可以作出細膩區分。"
+  },
+  {
+    "level": "L12",
+    "phrase": "discern an underlying pattern",
+    "meaning": "辨識潛在模式",
+    "category": "Study",
+    "example": "We can discern an underlying pattern.",
+    "exampleZh": "我們可以辨識潛在模式。"
+  },
+  {
+    "level": "L12",
+    "phrase": "articulate a coherent position",
+    "meaning": "清楚表達連貫立場",
+    "category": "Study",
+    "example": "We can articulate a coherent position.",
+    "exampleZh": "我們可以清楚表達連貫立場。"
+  },
+  {
+    "level": "L12",
+    "phrase": "challenge conventional wisdom",
+    "meaning": "挑戰慣常看法",
+    "category": "Study",
+    "example": "We can challenge conventional wisdom.",
+    "exampleZh": "我們可以挑戰慣常看法。"
+  },
+  {
+    "level": "L12",
+    "phrase": "reconcile conflicting accounts",
+    "meaning": "調和互相矛盾的說法",
+    "category": "Study",
+    "example": "We can reconcile conflicting accounts.",
+    "exampleZh": "我們可以調和互相矛盾的說法。"
+  },
+  {
+    "level": "L12",
+    "phrase": "substantiate an assertion",
+    "meaning": "證實一項斷言",
+    "category": "Study",
+    "example": "We can substantiate an assertion.",
+    "exampleZh": "我們可以證實一項斷言。"
+  },
+  {
+    "level": "L12",
+    "phrase": "refute an allegation",
+    "meaning": "駁斥指控",
+    "category": "Study",
+    "example": "We can refute an allegation.",
+    "exampleZh": "我們可以駁斥指控。"
+  },
+  {
+    "level": "L12",
+    "phrase": "qualify a sweeping claim",
+    "meaning": "限定過度概括的主張",
+    "category": "Study",
+    "example": "We can qualify a sweeping claim.",
+    "exampleZh": "我們可以限定過度概括的主張。"
+  },
+  {
+    "level": "L12",
+    "phrase": "expose a logical fallacy",
+    "meaning": "揭示邏輯謬誤",
+    "category": "Study",
+    "example": "We can expose a logical fallacy.",
+    "exampleZh": "我們可以揭示邏輯謬誤。"
+  },
+  {
+    "level": "L12",
+    "phrase": "identify a false dichotomy",
+    "meaning": "辨認錯誤二分法",
+    "category": "Study",
+    "example": "We can identify a false dichotomy.",
+    "exampleZh": "我們可以辨認錯誤二分法。"
+  },
+  {
+    "level": "L12",
+    "phrase": "distinguish correlation from causation",
+    "meaning": "區分相關與因果",
+    "category": "Study",
+    "example": "We can distinguish correlation from causation.",
+    "exampleZh": "我們可以區分相關與因果。"
+  },
+  {
+    "level": "L12",
+    "phrase": "formulate a testable hypothesis",
+    "meaning": "提出可檢驗的假說",
+    "category": "Study",
+    "example": "We can formulate a testable hypothesis.",
+    "exampleZh": "我們可以提出可檢驗的假說。"
+  },
+  {
+    "level": "L12",
+    "phrase": "operationalize a concept",
+    "meaning": "將概念轉為可測量指標",
+    "category": "Study",
+    "example": "We can operationalize a concept.",
+    "exampleZh": "我們可以將概念轉為可測量指標。"
+  },
+  {
+    "level": "L12",
+    "phrase": "account for confounding factors",
+    "meaning": "考量混淆因素",
+    "category": "Study",
+    "example": "We can account for confounding factors.",
+    "exampleZh": "我們可以考量混淆因素。"
+  },
+  {
+    "level": "L12",
+    "phrase": "replicate a finding",
+    "meaning": "重現研究發現",
+    "category": "Study",
+    "example": "We can replicate a finding.",
+    "exampleZh": "我們可以重現研究發現。"
+  },
+  {
+    "level": "L12",
+    "phrase": "interpret an ambiguous passage",
+    "meaning": "解讀含義不明的段落",
+    "category": "Study",
+    "example": "We can interpret an ambiguous passage.",
+    "exampleZh": "我們可以解讀含義不明的段落。"
+  },
+  {
+    "level": "L12",
+    "phrase": "unpack an implicit assumption",
+    "meaning": "拆解隱含假設",
+    "category": "Study",
+    "example": "We can unpack an implicit assumption.",
+    "exampleZh": "我們可以拆解隱含假設。"
+  },
+  {
+    "level": "L12",
+    "phrase": "trace the etymology",
+    "meaning": "追溯詞源",
+    "category": "Study",
+    "example": "We can trace the etymology.",
+    "exampleZh": "我們可以追溯詞源。"
+  },
+  {
+    "level": "L12",
+    "phrase": "analyze a rhetorical device",
+    "meaning": "分析修辭手法",
+    "category": "Study",
+    "example": "We can analyze a rhetorical device.",
+    "exampleZh": "我們可以分析修辭手法。"
+  },
+  {
+    "level": "L12",
+    "phrase": "recognize an ironic undertone",
+    "meaning": "辨認反諷意味",
+    "category": "Study",
+    "example": "We can recognize an ironic undertone.",
+    "exampleZh": "我們可以辨認反諷意味。"
+  },
+  {
+    "level": "L12",
+    "phrase": "convey a subtle connotation",
+    "meaning": "傳達微妙的言外之意",
+    "category": "Study",
+    "example": "We can convey a subtle connotation.",
+    "exampleZh": "我們可以傳達微妙的言外之意。"
+  },
+  {
+    "level": "L12",
+    "phrase": "preserve semantic precision",
+    "meaning": "保持語義精確",
+    "category": "Study",
+    "example": "We can preserve semantic precision.",
+    "exampleZh": "我們可以保持語義精確。"
+  },
+  {
+    "level": "L12",
+    "phrase": "avoid a category error",
+    "meaning": "避免範疇錯誤",
+    "category": "Study",
+    "example": "We can avoid a category error.",
+    "exampleZh": "我們可以避免範疇錯誤。"
+  },
+  {
+    "level": "L12",
+    "phrase": "adopt a provisional interpretation",
+    "meaning": "採取暫定解讀",
+    "category": "Study",
+    "example": "We can adopt a provisional interpretation.",
+    "exampleZh": "我們可以採取暫定解讀。"
+  },
+  {
+    "level": "L12",
+    "phrase": "reframe the debate",
+    "meaning": "重新界定辯論角度",
+    "category": "Study",
+    "example": "We can reframe the debate.",
+    "exampleZh": "我們可以重新界定辯論角度。"
+  },
+  {
+    "level": "L12",
+    "phrase": "elucidate a complex idea",
+    "meaning": "闡明複雜概念",
+    "category": "Study",
+    "example": "We can elucidate a complex idea.",
+    "exampleZh": "我們可以闡明複雜概念。"
+  },
+  {
+    "level": "L12",
+    "phrase": "contextualize a quotation",
+    "meaning": "將引文放回語境",
+    "category": "Study",
+    "example": "We can contextualize a quotation.",
+    "exampleZh": "我們可以將引文放回語境。"
+  },
+  {
+    "level": "L12",
+    "phrase": "interrogate an established narrative",
+    "meaning": "質疑既定敘事",
+    "category": "Study",
+    "example": "We can interrogate an established narrative.",
+    "exampleZh": "我們可以質疑既定敘事。"
+  },
+  {
+    "level": "L12",
+    "phrase": "triangulate the evidence",
+    "meaning": "交叉驗證證據",
+    "category": "Study",
+    "example": "We can triangulate the evidence.",
+    "exampleZh": "我們可以交叉驗證證據。"
+  },
+  {
+    "level": "L12",
+    "phrase": "acknowledge epistemic uncertainty",
+    "meaning": "承認知識上的不確定性",
+    "category": "Study",
+    "example": "We can acknowledge epistemic uncertainty.",
+    "exampleZh": "我們可以承認知識上的不確定性。"
   }
 ]
